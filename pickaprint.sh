@@ -9,19 +9,20 @@ if [ ! -d "/data/adb" ]; then
     exit 1
 fi
 
-if [ ! -d "./PIFS" ]; then
+if [ ! -d "./JSON" ]; then
     if [ ! -f "./PIFS.zip" ]; then
         echo "Downloading profile/fingerprint repo from GitHub..."
         curl -o PIFS.zip "https://codeload.github.com/TheFreeman193/PIFS/zip/refs/heads/main"
     fi
     echo "Extracting profiles/fingerprints from PIFS.zip..."
-    mkdir ./PIFS
-    unzip -od ./PIFS PIFS.zip -x .git
+    unzip -o PIFS.zip -x .git* -x README.md -x LICENSE
+    mv ./PIFS-main/JSON .
+    rm -r ./PIFS-main
 fi
 
 if [ -v FORCEABI ]; then
     echo "\$FORCEABI is set, will only pick profile from '${FORCEABI}'"
-    FList=$(find "./PIFS/JSON/${FORCEABI}" -type f)
+    FList=$(find "./JSON/${FORCEABI}" -type f)
     if [ -z "$FList" ]; then
         echo "No profiles/fingerprints found for ABI list: '${FORCEABI}'."
         exit 2
@@ -34,16 +35,16 @@ else
     fi
     if [ -n "$ABIList" ]; then
         echo "Will use profile/fingerprint with ABI list '${ABIList}'"
-        FList=$(find "./PIFS/JSON/${ABIList}" -type f)
+        FList=$(find "./JSON/${ABIList}" -type f)
     else
         echo "Couldn't detect ABI list. Will use profile/fingerprint from anywhere."
-        FList=$(find ./PIFS/JSON -type f)
+        FList=$(find ./JSON -type f)
     fi
     if [ -z "$FList" ]; then
         echo "No profiles/fingerprints found for ABI list: '${ABIList}'. Will use profile/fingerprint from anywhere."
-        FList=$(find ./PIFS/JSON -type f)
+        FList=$(find ./JSON -type f)
         if [ -z "$FList" ]; then
-            echo "Couldn't find any profiles/fingerprints. Is the ./PIFS/JSON directory empty?"
+            echo "Couldn't find any profiles/fingerprints. Is the $PWD/JSON directory empty?"
             exit 3
         fi
     fi

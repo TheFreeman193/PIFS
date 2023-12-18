@@ -8,8 +8,8 @@ If you don't use a custom ROM and haven't rooted your Android device, you're in 
 
 ## Why is this needed?
 
-By default, the PIF module and its forks use a single set of build properties (hereafter called a _profile_) for Play Integrity attestation.
-With tens of thousands of users using the same profile, the Play Integrity servers inevitably block its use for software attestation.
+By default, the PIF module and its forks use a single set of build properties (hereafter called a _profile_) including a build fingerprint for Play Integrity attestation.
+With tens of thousands of users using the same profile, the Play Integrity servers inevitably block the associated fingerprint for software attestation.
 
 The best solution in the meantime is for every user to choose a working profile of their own.
 Both the original PIF modules and its major fork support this using a JSON file containing real properties from a working device.
@@ -24,6 +24,27 @@ I don't intend to release the source code for the collection tools at the moment
 I may publish raw build property files at a later date for sources from which I can obtain relevant permissions.
 
 ## How do I choose a JSON file?
+
+### Using `pickaprint.sh`
+
+This repository includes `pickaprint.sh` which automates the random selection of a profile with the same ABI compatibility as your device.
+If piped directly from `curl`, it will download the PIFS repository, extract the JSON files, and pick one from the relevant folder at random.
+
+In your favourite terminal emulator:
+
+```sh
+su # The script needs to be run as root in order to copy a profile to /data/adb
+curl "https://raw.githubusercontent.com/TheFreeman193/PIFS/main/pickaprint.sh" | sh
+```
+
+**NOTE**: Please don't just run random scripts from the internet, especially as root.
+I strongly urge you to look at the script first and get a basic idea of what it does.
+
+Once a subdirectory called `JSON` exists, the script will search for JSON profiles there instead of downloading the repository all over again.
+
+Alternatively, you could download/clone the repository and run the `pickaprint.sh` script from there.
+
+### Manually Selecting a File
 
 **Please choose a random file from the relevant directory. Everyone picking the first or last file will inevitably result in that profile being blocked for software attestation.**
 
