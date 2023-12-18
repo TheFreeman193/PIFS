@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Teleepoch",
+  "MODEL": "U671C",
+  "BRAND": "Unimax",
+  "PRODUCT": "MaxGuava",
+  "DEVICE": "msm8625",
+  "FINGERPRINT": "Unimax/U675/U675:4.1.2/JZO54K/13660679:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JZO54K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "14280318",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

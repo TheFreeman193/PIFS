@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "MBX",
+  "MODEL": "MBX reference board (g18ref)",
+  "BRAND": "MBX",
+  "PRODUCT": "g18ref",
+  "DEVICE": "g18ref",
+  "FINGERPRINT": "MBX/g18ref/g18ref:4.2.2/JDQ39/20140605:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20140605",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

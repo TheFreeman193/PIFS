@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "digiin",
+  "MODEL": "PRO10D",
+  "BRAND": "Prestige",
+  "PRODUCT": "PRO10D",
+  "DEVICE": "PRO10D",
+  "FINGERPRINT": "Prestige/PRO10D/PRO10D:4.2.2/JDQ39/eng.root.20131025.204548:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.root.20131025.204548",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Spreadtrum",
+  "MODEL": "X8",
+  "BRAND": "X8",
+  "PRODUCT": "sp6825c1_plus_A10_gt_gt022_s22_susan_x8_rda5991_fl",
+  "DEVICE": "sp6825c1_a10_gt_gt022_s22_susan_x8_rda5991_fl",
+  "FINGERPRINT": "X8/sp6825c1_plus_A10_gt_gt022_s22_susan_x8_rda5991_fl/sp6825c1_a10_gt_gt022_s22_susan_x8_rda5991_fl:4.4.2/IML74K/eng.longtao.20170224.093345:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "IML74K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.longtao.20170224.093345",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

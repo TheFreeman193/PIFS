@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "QUALCOMM",
+  "MODEL": "missi_foldable_cn system image for arm64",
+  "BRAND": "qti",
+  "PRODUCT": "missi_foldable_cn",
+  "DEVICE": "missi",
+  "FINGERPRINT": "qti/missi_foldable_cn/missi:13/TKQ1.220829.002/V14.0.22.12.12.DEV:user/release-keys",
+  "SECURITY_PATCH": "2022-12-01",
+  "FIRST_API_LEVEL": "31",
+  "BUILD_ID": "TKQ1.220829.002",
+  "VNDK_VERSION": "31",
+  "INCREMENTAL": "V14.0.22.12.12.DEV",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LENOVO",
+  "MODEL": "Lenovo K50-t5",
+  "BRAND": "Lenovo",
+  "PRODUCT": "aio_otfp_m",
+  "DEVICE": "aio_otfp_m",
+  "FINGERPRINT": "Lenovo/aio_otfp_m/aio_otfp_m:6.0/MRA58K/R1467020928.06271749:user/release-keys",
+  "SECURITY_PATCH": "2016-05-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "VIBEUI_V3.5_1627_7.133.1_DEV_K50-T5",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

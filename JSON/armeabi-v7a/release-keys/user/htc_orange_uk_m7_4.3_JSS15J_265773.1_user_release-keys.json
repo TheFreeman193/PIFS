@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HTC",
+  "MODEL": "HTC One",
+  "BRAND": "htc",
+  "PRODUCT": "orange_uk",
+  "DEVICE": "m7",
+  "FINGERPRINT": "htc/orange_uk/m7:4.3/JSS15J/265773.1:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JSS15J",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "265773.1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

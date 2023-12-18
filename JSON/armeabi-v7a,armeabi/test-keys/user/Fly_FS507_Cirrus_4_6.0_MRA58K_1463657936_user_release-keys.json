@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Fly",
+  "MODEL": "FS507",
+  "BRAND": "Fly",
+  "PRODUCT": "FS507",
+  "DEVICE": "Cirrus_4",
+  "FINGERPRINT": "Fly/FS507/Cirrus_4:6.0/MRA58K/1463657936:user/release-keys",
+  "SECURITY_PATCH": "2016-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1478311594",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "nubia",
+  "MODEL": "NX619J",
+  "BRAND": "nubia",
+  "PRODUCT": "NX619J-EEA",
+  "DEVICE": "NX619J-EEA",
+  "FINGERPRINT": "nubia/NX619J-EEA/NX619J-EEA:9/PKQ1.180929.001/eng.nubia.20190929.101618:user/release-keys",
+  "SECURITY_PATCH": "2019-08-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "PKQ1.180929.001",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.nubia.20190929.101618",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

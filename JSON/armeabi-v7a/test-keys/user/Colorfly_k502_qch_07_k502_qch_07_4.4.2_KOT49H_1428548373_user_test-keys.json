@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "G708 Oc",
+  "BRAND": "Colorfly",
+  "PRODUCT": "G708 Oc",
+  "DEVICE": "G708_Oc",
+  "FINGERPRINT": "Colorfly/k502_qch_07/k502_qch_07:4.4.2/KOT49H/1428548373:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.luhy2.1428548373",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

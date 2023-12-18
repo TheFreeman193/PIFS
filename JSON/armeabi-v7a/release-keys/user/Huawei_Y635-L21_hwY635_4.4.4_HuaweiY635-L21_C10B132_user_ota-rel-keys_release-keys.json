@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HUAWEI",
+  "MODEL": "Y635-L21",
+  "BRAND": "Huawei",
+  "PRODUCT": "Y635-L21",
+  "DEVICE": "hwY635",
+  "FINGERPRINT": "Huawei/Y635-L21/hwY635:4.4.4/HuaweiY635-L21/C10B132:user/ota-rel-keys,release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "HuaweiY635-L21",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "C10B132",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

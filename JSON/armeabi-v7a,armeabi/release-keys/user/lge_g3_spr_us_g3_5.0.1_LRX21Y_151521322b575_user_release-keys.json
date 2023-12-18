@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LGLS990",
+  "BRAND": "lge",
+  "PRODUCT": "g3_spr_us",
+  "DEVICE": "g3",
+  "FINGERPRINT": "lge/g3_spr_us/g3:5.0.1/LRX21Y/151521322b575:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LRX21Y",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "151521322b575",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

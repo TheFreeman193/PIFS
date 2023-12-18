@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "X3",
+  "BRAND": "DOOGEE",
+  "PRODUCT": "dg_a42_gmo",
+  "DEVICE": "dg_a42_gmo",
+  "FINGERPRINT": "DOOGEE/dg_a42_gmo/dg_a42_gmo:5.1/LMY47I/1449660786:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47I",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1449660786",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

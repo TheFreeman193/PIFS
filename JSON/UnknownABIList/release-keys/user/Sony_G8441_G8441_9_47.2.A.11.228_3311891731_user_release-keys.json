@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Sony",
+  "MODEL": "G8441",
+  "BRAND": "Sony",
+  "PRODUCT": "G8441",
+  "DEVICE": "G8441",
+  "FINGERPRINT": "Sony/G8441/G8441:9/47.2.A.11.228/3311891731:user/release-keys",
+  "SECURITY_PATCH": "2019-09-01",
+  "FIRST_API_LEVEL": "26",
+  "BUILD_ID": "47.2.A.11.228",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "3311891731",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

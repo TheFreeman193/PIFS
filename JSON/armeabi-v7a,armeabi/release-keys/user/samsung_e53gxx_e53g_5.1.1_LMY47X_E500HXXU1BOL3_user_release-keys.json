@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-E500H",
+  "BRAND": "samsung",
+  "PRODUCT": "e53gxx",
+  "DEVICE": "e53g",
+  "FINGERPRINT": "samsung/e53gxx/e53g:5.1.1/LMY47X/E500HXXU1BOL3:user/release-keys",
+  "SECURITY_PATCH": "2015-12-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47X",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "E500HXXU1BOL3",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

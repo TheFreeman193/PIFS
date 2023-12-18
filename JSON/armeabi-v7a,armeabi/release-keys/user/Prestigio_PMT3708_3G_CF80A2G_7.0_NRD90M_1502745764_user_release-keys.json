@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Prestigio",
+  "MODEL": "PMT3708_3G",
+  "BRAND": "Prestigio",
+  "PRODUCT": "PMT3708_3G",
+  "DEVICE": "CF80A2G",
+  "FINGERPRINT": "Prestigio/PMT3708_3G/CF80A2G:7.0/NRD90M/1502745764:user/release-keys",
+  "SECURITY_PATCH": "2017-08-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "NRD90M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1502745764",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

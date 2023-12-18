@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "Galaxy Nexus",
+  "BRAND": "samsung",
+  "PRODUCT": "yakjuxw",
+  "DEVICE": "maguro",
+  "FINGERPRINT": "samsung/yakjuxw/maguro:4.2.1/JOP40D/I9250XWMA2:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JOP40D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "I9250XWMA2",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

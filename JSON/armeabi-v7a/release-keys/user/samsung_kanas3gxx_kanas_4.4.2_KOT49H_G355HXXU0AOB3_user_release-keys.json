@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-G355H",
+  "BRAND": "samsung",
+  "PRODUCT": "kanas3gxx",
+  "DEVICE": "kanas",
+  "FINGERPRINT": "samsung/kanas3gxx/kanas:4.4.2/KOT49H/G355HXXU0AOB3:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "G355HXXU0AOB3",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

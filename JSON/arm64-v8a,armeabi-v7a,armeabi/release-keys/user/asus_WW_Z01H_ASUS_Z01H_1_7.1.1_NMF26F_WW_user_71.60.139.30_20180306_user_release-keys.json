@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "asus",
+  "MODEL": "ASUS_Z01HD",
+  "BRAND": "asus",
+  "PRODUCT": "WW_Z01H",
+  "DEVICE": "ASUS_Z01H_1",
+  "FINGERPRINT": "asus/WW_Z01H/ASUS_Z01H_1:7.1.1/NMF26F/WW_user_71.60.139.30_20180306:user/release-keys",
+  "SECURITY_PATCH": "2018-02-05",
+  "FIRST_API_LEVEL": "23",
+  "BUILD_ID": "NMF26F",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "WW_Z01H-WW_user_71.60.139.30_20180306-user-20180306",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

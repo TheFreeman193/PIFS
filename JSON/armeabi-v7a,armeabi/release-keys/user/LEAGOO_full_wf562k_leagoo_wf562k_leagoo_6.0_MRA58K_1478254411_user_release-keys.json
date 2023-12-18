@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LEAGOO",
+  "MODEL": "M5",
+  "BRAND": "LEAGOO",
+  "PRODUCT": "M5",
+  "DEVICE": "M5",
+  "FINGERPRINT": "LEAGOO/full_wf562k_leagoo/wf562k_leagoo:6.0/MRA58K/1478254411:user/release-keys",
+  "SECURITY_PATCH": "2016-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1478254411",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "leimin",
+  "MODEL": "Z4",
+  "BRAND": "lmkj",
+  "PRODUCT": "Z4",
+  "DEVICE": "Z4",
+  "FINGERPRINT": "lmkj/lokyee72_cwet_kk_m11/lokyee72_cwet_kk_m11:4.4.2/KOT49H/1441707268:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.huangqw.1441707268",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

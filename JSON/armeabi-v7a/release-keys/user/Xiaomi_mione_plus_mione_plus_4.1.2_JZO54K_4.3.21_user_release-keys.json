@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "MI-ONE Plus",
+  "BRAND": "Xiaomi",
+  "PRODUCT": "mione_plus",
+  "DEVICE": "mione_plus",
+  "FINGERPRINT": "Xiaomi/mione_plus/mione_plus:4.1.2/JZO54K/4.3.21:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JZO54K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "4.3.21",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

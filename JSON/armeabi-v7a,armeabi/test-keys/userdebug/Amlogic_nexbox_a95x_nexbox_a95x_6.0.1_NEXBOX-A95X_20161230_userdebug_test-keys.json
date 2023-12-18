@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Amlogic",
+  "MODEL": "NEXBOX-A95X",
+  "BRAND": "Amlogic",
+  "PRODUCT": "nexbox_a95x",
+  "DEVICE": "nexbox_a95x",
+  "FINGERPRINT": "Amlogic/nexbox_a95x/nexbox_a95x:6.0.1/NEXBOX-A95X/20161230:userdebug/test-keys",
+  "SECURITY_PATCH": "2016-08-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "NEXBOX-A95X",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20161230",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "JIEKX",
+  "MODEL": "V8",
+  "BRAND": "alps",
+  "PRODUCT": "Z35C",
+  "DEVICE": "Z35C",
+  "FINGERPRINT": "alps/Z35C/Z35C:4.4.2/KOT49H/1431086291:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.scm.1431086291",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

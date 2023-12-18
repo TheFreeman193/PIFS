@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "GIONEE",
+  "MODEL": "E6",
+  "BRAND": "GIONEE",
+  "PRODUCT": "GIONEE",
+  "DEVICE": "GIONEE",
+  "FINGERPRINT": "alps/gionee89_dwe_jb2/gionee89_dwe_jb2:4.2.1/JOP40D/1378903587:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JOP40D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.znsj_bianyi2.1378903587",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

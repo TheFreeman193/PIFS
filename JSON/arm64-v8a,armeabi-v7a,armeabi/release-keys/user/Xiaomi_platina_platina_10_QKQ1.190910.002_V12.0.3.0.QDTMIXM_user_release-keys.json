@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "MI 8 Lite",
+  "BRAND": "Xiaomi",
+  "PRODUCT": "platina",
+  "DEVICE": "platina",
+  "FINGERPRINT": "Xiaomi/platina/platina:10/QKQ1.190910.002/V12.0.3.0.QDTMIXM:user/release-keys",
+  "SECURITY_PATCH": "2020-08-01",
+  "FIRST_API_LEVEL": "27",
+  "BUILD_ID": "QKQ1.190910.002",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "V12.0.3.0.QDTMIXM",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

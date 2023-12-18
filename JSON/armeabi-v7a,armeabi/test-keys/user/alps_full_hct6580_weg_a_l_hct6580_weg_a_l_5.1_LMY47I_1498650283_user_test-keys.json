@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-G9350",
+  "BRAND": "samsung",
+  "PRODUCT": "hero2qltezc",
+  "DEVICE": "hero2qltechn",
+  "FINGERPRINT": "alps/full_hct6580_weg_a_l/hct6580_weg_a_l:5.1/LMY47I/1498650283:user/test-keys",
+  "SECURITY_PATCH": "2016-06-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MMB29M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "G9350ZCU2APD1",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

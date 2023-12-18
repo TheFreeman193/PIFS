@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "S9mini",
+  "BRAND": "S9mini",
+  "PRODUCT": "S9mini",
+  "DEVICE": "zm5_tx_g43_s9mini_nd42_2k_2g",
+  "FINGERPRINT": "S9mini/zm5_tx_g43_s9mini_nd42_2k_2g/zm5_tx_g43_s9mini_nd42_2k_2g:4.4.2/KOT49H/1521793807:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.daiweiping.yes",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

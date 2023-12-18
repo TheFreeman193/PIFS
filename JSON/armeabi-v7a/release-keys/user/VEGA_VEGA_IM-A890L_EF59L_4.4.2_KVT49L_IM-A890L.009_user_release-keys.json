@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "PANTECH",
+  "MODEL": "IM-A890L",
+  "BRAND": "VEGA",
+  "PRODUCT": "VEGA_IM-A890L",
+  "DEVICE": "EF59L",
+  "FINGERPRINT": "VEGA/VEGA_IM-A890L/EF59L:4.4.2/KVT49L/IM-A890L.009:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KVT49L",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "IM-A890L.009",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

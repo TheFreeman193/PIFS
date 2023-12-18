@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HUAWEI",
+  "MODEL": "MediaPad T1 8.0 Pro",
+  "BRAND": "Huawei",
+  "PRODUCT": "t1_8p0lte",
+  "DEVICE": "hwt1821l",
+  "FINGERPRINT": "Huawei/t1_8p0lte/hwt1821l:4.4.4/HuaweiMediaPad/T1821LV1R1C238B003:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "HuaweiMediaPad",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "C238B003",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

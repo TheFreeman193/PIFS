@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-G900T",
+  "BRAND": "samsung",
+  "PRODUCT": "kltetmo",
+  "DEVICE": "kltetmo",
+  "FINGERPRINT": "samsung/kltetmo/kltetmo:5.1.1/LMY47X/G900TUVS1FOL1:user/release-keys",
+  "SECURITY_PATCH": "2015-12-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47X",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "G900TUVS1FOL1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

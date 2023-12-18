@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "Tablet88T",
+  "BRAND": "alps",
+  "PRODUCT": "full_t88_5m_8783_tb_n",
+  "DEVICE": "t88_5m_8783_tb_n",
+  "FINGERPRINT": "alps/full_t88_5m_8783_tb_n/t88_5m_8783_tb_n:7.0/NRD90M/1524457383:user/test-keys",
+  "SECURITY_PATCH": "2017-01-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "NRD90M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1524457383",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

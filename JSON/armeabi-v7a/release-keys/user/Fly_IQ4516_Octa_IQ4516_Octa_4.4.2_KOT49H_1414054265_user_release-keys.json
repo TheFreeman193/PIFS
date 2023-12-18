@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Fly",
+  "MODEL": "IQ4516 Octa",
+  "BRAND": "Fly",
+  "PRODUCT": "IQ4516_Octa",
+  "DEVICE": "IQ4516_Octa",
+  "FINGERPRINT": "Fly/IQ4516_Octa/IQ4516_Octa:4.4.2/KOT49H/1414054265:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.android.1414054265",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

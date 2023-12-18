@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LG-F340L",
+  "BRAND": "lge",
+  "PRODUCT": "z_lgu_kr",
+  "DEVICE": "zee",
+  "FINGERPRINT": "lge/z_lgu_kr/zee:4.4.2/KOT49I.F340L20i/F340L20i.1463643994:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49I.F340L20i",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "F340L20i.1463643994",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

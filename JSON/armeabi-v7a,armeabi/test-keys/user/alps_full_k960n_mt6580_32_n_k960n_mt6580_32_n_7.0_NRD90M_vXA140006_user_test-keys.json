@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "k960n_mt6580_32_n",
+  "BRAND": "alps",
+  "PRODUCT": "full_k960n_mt6580_32_n",
+  "DEVICE": "k960n_mt6580_32_n",
+  "FINGERPRINT": "alps/full_k960n_mt6580_32_n/k960n_mt6580_32_n:7.0/NRD90M/vXA140006:user/test-keys",
+  "SECURITY_PATCH": "2018-05-05",
+  "FIRST_API_LEVEL": "24",
+  "BUILD_ID": "NRD90M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "vXA140006",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

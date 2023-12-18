@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "ERGO",
+  "MODEL": "ERGO A500 Best",
+  "BRAND": "ERGO",
+  "PRODUCT": "ERGO A500 Best",
+  "DEVICE": "ERGO A500 Best",
+  "FINGERPRINT": "alps/full_br6580_weg_l/br6580_weg_l:5.1/LMY47I/1464335018:user/test-keys",
+  "SECURITY_PATCH": "2015-12-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47I",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1464335018",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

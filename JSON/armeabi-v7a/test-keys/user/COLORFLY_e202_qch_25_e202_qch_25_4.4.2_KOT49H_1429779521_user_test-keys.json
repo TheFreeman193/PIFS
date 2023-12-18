@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "G808 Oc",
+  "BRAND": "COLORFLY",
+  "PRODUCT": "G808 Oc",
+  "DEVICE": "G808_3G_Oc",
+  "FINGERPRINT": "COLORFLY/e202_qch_25/e202_qch_25:4.4.2/KOT49H/1429779521:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.luhy2.1429779521",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "OnePlus",
+  "MODEL": "HD1905",
+  "BRAND": "OnePlus",
+  "PRODUCT": "OnePlus7T",
+  "DEVICE": "OnePlus7T",
+  "FINGERPRINT": "OnePlus/OnePlus7T/OnePlus7T:11/RKQ1.201022.002/2110211506:user/release-keys",
+  "SECURITY_PATCH": "2021-10-01",
+  "FIRST_API_LEVEL": "29",
+  "BUILD_ID": "RKQ1.201022.002",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "2110211506",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Meizu",
+  "MODEL": "MX2",
+  "BRAND": "Meizu",
+  "PRODUCT": "meizu_mx2",
+  "DEVICE": "mx2",
+  "FINGERPRINT": "Meizu/meizu_mx2/mx2:4.2.1/JOP40D/m04x.Flyme_OS_3.5.1.1396002866:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JOP40D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "m04x.Flyme_OS_3.5.1.1396002866",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

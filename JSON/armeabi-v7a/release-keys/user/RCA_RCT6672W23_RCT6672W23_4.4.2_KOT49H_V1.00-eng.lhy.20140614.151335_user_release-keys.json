@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "digiin",
+  "MODEL": "RCT6672W23",
+  "BRAND": "RCA",
+  "PRODUCT": "RCT6672W23",
+  "DEVICE": "RCT6672W23",
+  "FINGERPRINT": "RCA/RCT6672W23/RCT6672W23:4.4.2/KOT49H/V1.00-eng.lhy.20140614.151335:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.lrh.20140718.225151",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

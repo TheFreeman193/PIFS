@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-G903W",
+  "BRAND": "samsung",
+  "PRODUCT": "s5neoltevl",
+  "DEVICE": "s5neoltecan",
+  "FINGERPRINT": "samsung/s5neoltevl/s5neoltecan:5.1.1/LMY47X/G903WVLU1AOJ9:user/release-keys",
+  "SECURITY_PATCH": "2015-11-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47X",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "G903WVLU1AOJ9",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

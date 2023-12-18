@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "i-mobile",
+  "MODEL": "i-mobile i-STYLE 710",
+  "BRAND": "i-mobile",
+  "PRODUCT": "i-mobile",
+  "DEVICE": "i-mobile",
+  "FINGERPRINT": "i-mobile/th_imb/thimb:4.4.2/KOT49H/:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "40",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

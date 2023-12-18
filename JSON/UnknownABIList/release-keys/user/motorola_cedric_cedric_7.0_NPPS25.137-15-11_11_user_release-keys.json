@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Motorola",
+  "MODEL": "Moto G (5)",
+  "BRAND": "motorola",
+  "PRODUCT": "cedric",
+  "DEVICE": "cedric",
+  "FINGERPRINT": "motorola/cedric/cedric:7.0/NPPS25.137-15-11/11:user/release-keys",
+  "SECURITY_PATCH": "2016-08-05",
+  "FIRST_API_LEVEL": "24",
+  "BUILD_ID": "NPPS25.137-15-11",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "11",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

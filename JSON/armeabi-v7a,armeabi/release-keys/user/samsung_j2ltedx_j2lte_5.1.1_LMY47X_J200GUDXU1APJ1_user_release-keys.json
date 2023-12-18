@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-J200GU",
+  "BRAND": "samsung",
+  "PRODUCT": "j2ltedx",
+  "DEVICE": "j2lte",
+  "FINGERPRINT": "samsung/j2ltedx/j2lte:5.1.1/LMY47X/J200GUDXU1APJ1:user/release-keys",
+  "SECURITY_PATCH": "2016-10-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47X",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "J200GUDXU1APJ1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

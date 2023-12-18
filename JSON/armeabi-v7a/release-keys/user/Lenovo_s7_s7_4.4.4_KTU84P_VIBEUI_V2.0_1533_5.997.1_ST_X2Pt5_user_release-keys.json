@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LENOVO",
+  "MODEL": "Lenovo X2Pt5",
+  "BRAND": "Lenovo",
+  "PRODUCT": "s7",
+  "DEVICE": "s7",
+  "FINGERPRINT": "Lenovo/s7/s7:4.4.4/KTU84P/VIBEUI_V2.0_1533_5.997.1_ST_X2Pt5:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84P",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "VIBEUI_V2.0_1533_5.997.1_ST_X2Pt5",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

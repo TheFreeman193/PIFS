@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "CARBAYSTAR",
+  "MODEL": "K999",
+  "BRAND": "CARBAYSTAR",
+  "PRODUCT": "K999",
+  "DEVICE": "B906",
+  "FINGERPRINT": "alps/b906_800x1280/b906_800x1280:4.4.2/KOT49H/1479115135:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "CARBAYSTAR",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.luoyihui.1479115135",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

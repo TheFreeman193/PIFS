@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "Redmi 6",
+  "BRAND": "xiaomi",
+  "PRODUCT": "cereus",
+  "DEVICE": "cereus",
+  "FINGERPRINT": "xiaomi/cereus/cereus:8.1.0/O11019/V10.3.3.0.OCGMIXM:user/release-keys",
+  "SECURITY_PATCH": "2019-05-01",
+  "FIRST_API_LEVEL": "27",
+  "BUILD_ID": "O11019",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "V10.3.3.0.OCGMIXM",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

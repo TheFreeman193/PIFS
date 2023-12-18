@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-T377T",
+  "BRAND": "samsung",
+  "PRODUCT": "gtesltetmo",
+  "DEVICE": "gtesltetmo",
+  "FINGERPRINT": "samsung/gtesltetmo/gtesltetmo:7.1.1/NMF26X/T377TUVU1BQI5:user/release-keys",
+  "SECURITY_PATCH": "2017-08-01",
+  "FIRST_API_LEVEL": "23",
+  "BUILD_ID": "NMF26X",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "T377TUVU1BQI5",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

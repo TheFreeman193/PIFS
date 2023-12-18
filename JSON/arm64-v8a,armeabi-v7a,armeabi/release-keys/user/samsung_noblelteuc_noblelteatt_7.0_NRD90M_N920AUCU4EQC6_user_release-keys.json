@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SAMSUNG-SM-N920A",
+  "BRAND": "samsung",
+  "PRODUCT": "noblelteuc",
+  "DEVICE": "noblelteatt",
+  "FINGERPRINT": "samsung/noblelteuc/noblelteatt:7.0/NRD90M/N920AUCU4EQC6:user/release-keys",
+  "SECURITY_PATCH": "2017-03-01",
+  "FIRST_API_LEVEL": "22",
+  "BUILD_ID": "NRD90M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "N920AUCU4EQC6",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

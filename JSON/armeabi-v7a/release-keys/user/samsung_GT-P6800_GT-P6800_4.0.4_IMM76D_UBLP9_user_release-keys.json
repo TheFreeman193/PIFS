@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "GT-P6800",
+  "BRAND": "samsung",
+  "PRODUCT": "GT-P6800",
+  "DEVICE": "GT-P6800",
+  "FINGERPRINT": "samsung/GT-P6800/GT-P6800:4.0.4/IMM76D/UBLP9:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "IMM76D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "UBLP9",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

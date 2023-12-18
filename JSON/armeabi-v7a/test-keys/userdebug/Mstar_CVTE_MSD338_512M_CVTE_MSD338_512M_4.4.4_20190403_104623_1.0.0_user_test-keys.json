@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "CVTE",
+  "MODEL": "Smart TV",
+  "BRAND": "MStar",
+  "PRODUCT": "CVTM358",
+  "DEVICE": "CVTM358",
+  "FINGERPRINT": "Mstar/CVTE_MSD338_512M/CVTE_MSD338_512M:4.4.4/20190403_104623/1.0.0:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "20190403_104623",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1.0.0",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

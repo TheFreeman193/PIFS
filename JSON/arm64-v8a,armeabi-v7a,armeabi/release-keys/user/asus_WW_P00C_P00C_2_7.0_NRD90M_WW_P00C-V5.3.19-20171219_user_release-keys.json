@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "asus",
+  "MODEL": "P00C",
+  "BRAND": "asus",
+  "PRODUCT": "WW_P00C",
+  "DEVICE": "P00C_2",
+  "FINGERPRINT": "asus/WW_P00C/P00C_2:7.0/NRD90M/WW_P00C-V5.3.19-20171219:user/release-keys",
+  "SECURITY_PATCH": "2017-12-01",
+  "FIRST_API_LEVEL": "23",
+  "BUILD_ID": "NRD90M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "WW_P00C-V5.3.19-20171219",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

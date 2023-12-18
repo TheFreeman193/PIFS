@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "P8",
+  "BRAND": "alps",
+  "PRODUCT": "k006_shx_s20",
+  "DEVICE": "k006_shx_s20",
+  "FINGERPRINT": "alps/k006_shx_s20/k006_shx_s20:5.1.0/KOT49H/1446537919:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.flycom-224.1446537919",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

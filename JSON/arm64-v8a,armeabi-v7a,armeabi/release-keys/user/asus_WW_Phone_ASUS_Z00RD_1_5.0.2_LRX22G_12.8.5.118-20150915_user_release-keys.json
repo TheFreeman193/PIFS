@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "asus",
+  "MODEL": "ASUS_Z00RD",
+  "BRAND": "asus",
+  "PRODUCT": "WW_Phone",
+  "DEVICE": "ASUS_Z00RD_1",
+  "FINGERPRINT": "asus/WW_Phone/ASUS_Z00RD_1:5.0.2/LRX22G/12.8.5.118-20150915:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LRX22G",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "WW_Phone-12.8.5.118-20150915",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

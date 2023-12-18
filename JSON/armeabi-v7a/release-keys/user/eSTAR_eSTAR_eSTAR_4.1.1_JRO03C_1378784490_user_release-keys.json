@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "eSTAR",
+  "MODEL": "eSTAR X40",
+  "BRAND": "eSTAR",
+  "PRODUCT": "bq_Aquaris",
+  "DEVICE": "bq_Aquaris",
+  "FINGERPRINT": "eSTAR/eSTAR/eSTAR:4.1.1/JRO03C/1378784490:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JRO03C",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.builder41.1378784490",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

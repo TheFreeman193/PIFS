@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-G7102",
+  "BRAND": "samsung",
+  "PRODUCT": "ms013gxx",
+  "DEVICE": "ms013g",
+  "FINGERPRINT": "samsung/ms013gxx/ms013g:6.0.1/MOB31K/c7c635374b:user/release-keys",
+  "SECURITY_PATCH": "2017-01-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MOB31K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "c7c635374b",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

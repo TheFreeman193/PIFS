@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "MI 5s",
+  "BRAND": "Xiaomi",
+  "PRODUCT": "capricorn",
+  "DEVICE": "capricorn",
+  "FINGERPRINT": "Xiaomi/capricorn/capricorn:7.0/NRD90M/V9.6.1.0.NAGMIFD:user/release-keys",
+  "SECURITY_PATCH": "2018-05-01",
+  "FIRST_API_LEVEL": "23",
+  "BUILD_ID": "NRD90M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "V9.6.1.0.NAGMIFD",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

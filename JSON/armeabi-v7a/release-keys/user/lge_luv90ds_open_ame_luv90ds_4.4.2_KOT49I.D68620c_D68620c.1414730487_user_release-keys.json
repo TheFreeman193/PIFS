@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LG-D686",
+  "BRAND": "lge",
+  "PRODUCT": "luv90ds_open_ame",
+  "DEVICE": "luv90ds",
+  "FINGERPRINT": "lge/luv90ds_open_ame/luv90ds:4.4.2/KOT49I.D68620c/D68620c.1414730487:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49I.D68620c",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "D68620c.1414730487",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

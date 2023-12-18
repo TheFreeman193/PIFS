@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "SHARP",
+  "MODEL": "SH825Wi",
+  "BRAND": "SHARP",
+  "PRODUCT": "SH825Wi",
+  "DEVICE": "SH825Wi",
+  "FINGERPRINT": "SHARP/SH825Wi/SH825Wi:4.4.2/S3300/01.00.00:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "S3300",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "01.00.00",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

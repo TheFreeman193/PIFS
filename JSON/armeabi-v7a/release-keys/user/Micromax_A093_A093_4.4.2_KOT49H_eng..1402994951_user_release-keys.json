@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Micromax",
+  "MODEL": "Micromax A093",
+  "BRAND": "Micromax",
+  "PRODUCT": "A093",
+  "DEVICE": "A093",
+  "FINGERPRINT": "Micromax/A093/A093:4.4.2/KOT49H/eng..1402994951:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng..1402994951",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

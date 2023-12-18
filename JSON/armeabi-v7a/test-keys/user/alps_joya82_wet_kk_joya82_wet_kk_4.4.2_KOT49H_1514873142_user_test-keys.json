@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "ZH960",
+  "BRAND": "ZH960",
+  "PRODUCT": "joya82_wet_kk",
+  "DEVICE": "joya82_wet_kk",
+  "FINGERPRINT": "alps/joya82_wet_kk/joya82_wet_kk:4.4.2/KOT49H/1514873142:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.twd.1514873142",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

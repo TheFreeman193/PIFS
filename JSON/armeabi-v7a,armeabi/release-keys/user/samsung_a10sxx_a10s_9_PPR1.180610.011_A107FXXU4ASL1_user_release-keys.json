@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-A107F",
+  "BRAND": "samsung",
+  "PRODUCT": "a10sxx",
+  "DEVICE": "a10s",
+  "FINGERPRINT": "samsung/a10sxx/a10s:9/PPR1.180610.011/A107FXXU4ASL1:user/release-keys",
+  "SECURITY_PATCH": "2019-12-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "PPR1.180610.011",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "A107FXXU4ASL1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

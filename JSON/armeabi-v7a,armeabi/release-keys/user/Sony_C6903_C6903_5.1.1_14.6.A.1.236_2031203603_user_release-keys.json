@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Sony",
+  "MODEL": "C6903",
+  "BRAND": "Sony",
+  "PRODUCT": "C6903",
+  "DEVICE": "C6903",
+  "FINGERPRINT": "Sony/C6903/C6903:5.1.1/14.6.A.1.236/2031203603:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "14.6.A.1.236",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "2031203603",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

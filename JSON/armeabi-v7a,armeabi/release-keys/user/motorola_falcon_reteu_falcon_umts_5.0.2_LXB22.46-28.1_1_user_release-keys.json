@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "motorola",
+  "MODEL": "XT1032",
+  "BRAND": "motorola",
+  "PRODUCT": "falcon_reteu",
+  "DEVICE": "falcon_umts",
+  "FINGERPRINT": "motorola/falcon_reteu/falcon_umts:5.0.2/LXB22.46-28.1/1:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LXB22.46-28.1",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "Nexus 10",
+  "BRAND": "google",
+  "PRODUCT": "mantaray",
+  "DEVICE": "manta",
+  "FINGERPRINT": "google/mantaray/manta:5.1.1/LMY48T/2237560:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY48T",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "2237560",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

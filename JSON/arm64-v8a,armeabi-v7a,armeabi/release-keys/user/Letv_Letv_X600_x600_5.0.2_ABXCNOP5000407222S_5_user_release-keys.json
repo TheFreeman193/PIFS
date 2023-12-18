@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Letv",
+  "MODEL": "X600",
+  "BRAND": "Letv",
+  "PRODUCT": "Letv X600",
+  "DEVICE": "x600",
+  "FINGERPRINT": "Letv/Letv X600/x600:5.0.2/ABXCNOP5000407222S/5:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "ABXCNOP5000407222S",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "5",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

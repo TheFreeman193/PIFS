@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LG-P760",
+  "BRAND": "LGE",
+  "PRODUCT": "PolishBlood_p760",
+  "DEVICE": "p760",
+  "FINGERPRINT": "LGE/PolishBlood_p760/p760:4.2.2/JDQ39/eng.mikegapinski.20130801.172141:userdebug/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "4.2.8",
+  "TYPE": "userdebug",
+  "TAGS": "release-keys"
+}

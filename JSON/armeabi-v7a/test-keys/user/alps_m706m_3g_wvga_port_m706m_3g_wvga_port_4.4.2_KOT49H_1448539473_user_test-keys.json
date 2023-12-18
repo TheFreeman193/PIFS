@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "TAB 9S",
+  "BRAND": "alps",
+  "PRODUCT": "m706m_3g_wvga_port",
+  "DEVICE": "m706m_3g_wvga_port",
+  "FINGERPRINT": "alps/m706m_3g_wvga_port/m706m_3g_wvga_port:4.4.2/KOT49H/1448539473:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.hx05.1448539473",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "NO.1",
+  "MODEL": "N3",
+  "BRAND": "NO.1",
+  "PRODUCT": "N3",
+  "DEVICE": "N3",
+  "FINGERPRINT": "NO.1/N3:4.3.0/JOP40D/eng.bz.1388463289:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JOP40D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.bz.1388463289",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

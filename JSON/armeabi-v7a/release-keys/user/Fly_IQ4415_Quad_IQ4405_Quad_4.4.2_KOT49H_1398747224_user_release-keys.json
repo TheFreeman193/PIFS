@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Fly",
+  "MODEL": "IQ4405 Quad",
+  "BRAND": "Fly",
+  "PRODUCT": "IQ4405",
+  "DEVICE": "IQ4405_Quad",
+  "FINGERPRINT": "Fly/IQ4415_Quad/IQ4405_Quad:4.4.2/KOT49H/1398747224:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "10",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

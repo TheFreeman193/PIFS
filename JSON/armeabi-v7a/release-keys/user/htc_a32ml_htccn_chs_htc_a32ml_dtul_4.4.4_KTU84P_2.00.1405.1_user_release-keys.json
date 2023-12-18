@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HTC",
+  "MODEL": "HTC D626w",
+  "BRAND": "htc",
+  "PRODUCT": "a32ml_htccn_chs",
+  "DEVICE": "htc_a32ml_dtul",
+  "FINGERPRINT": "htc/a32ml_htccn_chs/htc_a32ml_dtul:4.4.4/KTU84P/2.00.1405.1:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84P",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "17",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

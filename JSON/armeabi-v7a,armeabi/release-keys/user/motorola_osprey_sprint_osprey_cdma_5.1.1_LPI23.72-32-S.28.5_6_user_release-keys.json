@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "motorola",
+  "MODEL": "MotoG3",
+  "BRAND": "motorola",
+  "PRODUCT": "osprey_sprint",
+  "DEVICE": "osprey_cdma",
+  "FINGERPRINT": "motorola/osprey_sprint/osprey_cdma:5.1.1/LPI23.72-32-S.28.5/6:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LPI23.72-32-S.28.5",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "6",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

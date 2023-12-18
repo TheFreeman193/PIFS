@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Lenovo",
+  "MODEL": "Lenovo S820 i",
+  "BRAND": "Lenovo",
+  "PRODUCT": "S820 i",
+  "DEVICE": "Android",
+  "FINGERPRINT": "alps/yuanda72_wet_a_jb3/yuanda72_wet_a_jb3:4.2.2/JDQ39/1410593220:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.root.1410593220",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

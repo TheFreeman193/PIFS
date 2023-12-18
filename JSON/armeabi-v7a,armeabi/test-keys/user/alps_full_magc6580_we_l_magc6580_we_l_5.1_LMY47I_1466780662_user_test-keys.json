@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "S7",
+  "BRAND": "S7",
+  "PRODUCT": "full_magc6580_we_l",
+  "DEVICE": "magc6580_we_l",
+  "FINGERPRINT": "alps/full_magc6580_we_l/magc6580_we_l:5.1/LMY47I/1466780662:user/test-keys",
+  "SECURITY_PATCH": "2016-03-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47I",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1466780662",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

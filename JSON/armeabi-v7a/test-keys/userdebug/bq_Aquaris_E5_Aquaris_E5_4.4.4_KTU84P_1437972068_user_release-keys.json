@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "bq",
+  "MODEL": "Aquaris E5",
+  "BRAND": "bq",
+  "PRODUCT": "Aquaris_E5",
+  "DEVICE": "vegetalte",
+  "FINGERPRINT": "bq/Aquaris_E5/Aquaris_E5:4.4.4/KTU84P/1437972068:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84Q",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "e135bb1578",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

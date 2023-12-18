@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "MStar Semiconductor, Inc.",
+  "MODEL": "MStar Android TV",
+  "BRAND": "MStar",
+  "PRODUCT": "aosp_blueberry_scbc",
+  "DEVICE": "blueberry_scbc",
+  "FINGERPRINT": "MStar/aosp_blueberry_scbc/blueberry_scbc:5.1.1/LMY47V/1.0.0:userdebug/release-keys",
+  "SECURITY_PATCH": "2015-11-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47V",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1.0.0",
+  "TYPE": "userdebug",
+  "TAGS": "release-keys"
+}

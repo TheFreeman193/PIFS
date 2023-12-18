@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "MI 2",
+  "BRAND": "Xiaomi",
+  "PRODUCT": "aries",
+  "DEVICE": "aries",
+  "FINGERPRINT": "Xiaomi/aries/aries:4.1.1/JRO03L/3.3.22:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JRO03L",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "3.3.22",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

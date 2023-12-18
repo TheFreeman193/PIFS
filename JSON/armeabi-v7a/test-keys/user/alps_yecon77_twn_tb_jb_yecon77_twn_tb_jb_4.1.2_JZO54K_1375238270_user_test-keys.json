@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "yecon77_twn_tb_jb",
+  "BRAND": "Prestigio",
+  "PRODUCT": "yecon77_twn_tb_jb",
+  "DEVICE": "PMP7170B3G_DUO",
+  "FINGERPRINT": "alps/yecon77_twn_tb_jb/yecon77_twn_tb_jb:4.1.2/JZO54K/1375238270:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JZO54K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.android.1375238270",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

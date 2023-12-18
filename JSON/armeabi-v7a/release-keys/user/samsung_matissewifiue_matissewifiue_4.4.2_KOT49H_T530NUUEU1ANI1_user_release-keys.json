@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-T530NU",
+  "BRAND": "samsung",
+  "PRODUCT": "matissewifiue",
+  "DEVICE": "matissewifiue",
+  "FINGERPRINT": "samsung/matissewifiue/matissewifiue:4.4.2/KOT49H/T530NUUEU1ANI1:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "T530NUUEU1ANI1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

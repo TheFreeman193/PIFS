@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "asus",
+  "MODEL": "ASUS_I006D",
+  "BRAND": "asus",
+  "PRODUCT": "OPEN_Phone",
+  "DEVICE": "qssi",
+  "FINGERPRINT": "asus/qssi/qssi:13/TKQ1.220523.001/32.0501.0403.4:user/release-keys",
+  "SECURITY_PATCH": "2022-06-05",
+  "FIRST_API_LEVEL": "30",
+  "BUILD_ID": "TKQ1.220523.001",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "32.0501.0403.4",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

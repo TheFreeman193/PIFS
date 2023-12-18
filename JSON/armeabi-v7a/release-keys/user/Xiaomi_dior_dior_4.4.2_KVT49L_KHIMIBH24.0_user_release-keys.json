@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "HM NOTE 1LTE",
+  "BRAND": "Xiaomi",
+  "PRODUCT": "dior",
+  "DEVICE": "dior",
+  "FINGERPRINT": "Xiaomi/dior/dior:4.4.2/KVT49L/KHIMIBH24.0:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KVT49L",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "KHIMIBH24.0",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

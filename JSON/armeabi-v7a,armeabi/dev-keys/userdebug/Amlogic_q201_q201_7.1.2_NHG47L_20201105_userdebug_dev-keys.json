@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Lifestream",
+  "MODEL": "MTS TV Box 317",
+  "BRAND": "Amlogic",
+  "PRODUCT": "q201",
+  "DEVICE": "q201",
+  "FINGERPRINT": "Amlogic/q201/q201:7.1.2/NHG47L/20201105:userdebug/dev-keys",
+  "SECURITY_PATCH": "2017-12-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "NHG47L",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20201105",
+  "TYPE": "userdebug",
+  "TAGS": "dev-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Cherry Mobile",
+  "MODEL": "H870",
+  "BRAND": "Cherry Mobile",
+  "PRODUCT": "Flare S3",
+  "DEVICE": "Flare S3",
+  "FINGERPRINT": "alps/signal82_wet_kk/signal82_wet_kk:4.4.2/KOT49H/1411807083:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.sangyongqing.1411807083",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

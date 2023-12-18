@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "L866+",
+  "BRAND": "alps",
+  "PRODUCT": "r9t_jc_mul",
+  "DEVICE": "r9t_jc_mul",
+  "FINGERPRINT": "alps/r9t_jc_mul/r9t_jc_mul:4.4.4/KOT49H/1427800836:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.tianyida03.1427800836",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

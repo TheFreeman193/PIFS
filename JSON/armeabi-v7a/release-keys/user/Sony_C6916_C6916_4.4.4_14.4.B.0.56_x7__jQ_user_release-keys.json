@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Sony",
+  "MODEL": "C6916",
+  "BRAND": "Sony",
+  "PRODUCT": "C6916",
+  "DEVICE": "C6916",
+  "FINGERPRINT": "Sony/C6916/C6916:4.4.4/14.4.B.0.56/x7__jQ:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "14.4.B.0.56",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "x7__jQ",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

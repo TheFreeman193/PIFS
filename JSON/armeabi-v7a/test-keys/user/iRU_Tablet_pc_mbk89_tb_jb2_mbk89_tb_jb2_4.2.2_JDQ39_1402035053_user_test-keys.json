@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "iRU Tablet pc",
+  "BRAND": "iRU_Tablet_pc",
+  "PRODUCT": "mbk89_tb_jb2",
+  "DEVICE": "mbk89_tb_jb2",
+  "FINGERPRINT": "iRU_Tablet_pc/mbk89_tb_jb2/mbk89_tb_jb2:4.2.2/JDQ39/1402035053:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.lzw.1402035053",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

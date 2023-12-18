@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LG-M151",
+  "BRAND": "lge",
+  "PRODUCT": "lv1_global_ca",
+  "DEVICE": "lv1",
+  "FINGERPRINT": "lge/lv1_global_ca/lv1:6.0.1/MXB48T/1725709239b13:user/release-keys",
+  "SECURITY_PATCH": "2017-09-01",
+  "FIRST_API_LEVEL": "23",
+  "BUILD_ID": "MXB48T",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1725709239b13",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

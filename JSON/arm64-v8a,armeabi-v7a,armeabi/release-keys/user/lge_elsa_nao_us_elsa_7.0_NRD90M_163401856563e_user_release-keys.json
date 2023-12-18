@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LG-US996",
+  "BRAND": "lge",
+  "PRODUCT": "elsa_nao_us",
+  "DEVICE": "elsa",
+  "FINGERPRINT": "lge/elsa_nao_us/elsa:7.0/NRD90M/163401856563e:user/release-keys",
+  "SECURITY_PATCH": "2016-12-01",
+  "FIRST_API_LEVEL": "24",
+  "BUILD_ID": "NRD90M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "163401856563e",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

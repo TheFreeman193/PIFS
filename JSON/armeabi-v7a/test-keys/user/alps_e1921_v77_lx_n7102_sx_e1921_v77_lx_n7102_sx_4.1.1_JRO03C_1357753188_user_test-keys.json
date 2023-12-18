@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "GT-N7102",
+  "BRAND": "samsung",
+  "PRODUCT": "e1921_v77_lx_n7102_sx",
+  "DEVICE": "e1921_v77_lx_n7102_sx",
+  "FINGERPRINT": "alps/e1921_v77_lx_n7102_sx/e1921_v77_lx_n7102_sx:4.1.1/JRO03C/1357753188:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JRO03C",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.root.1357753188",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

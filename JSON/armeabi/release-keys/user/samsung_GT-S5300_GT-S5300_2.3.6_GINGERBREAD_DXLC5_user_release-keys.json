@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "GT-S5300",
+  "BRAND": "samsung",
+  "PRODUCT": "GT-S5300",
+  "DEVICE": "GT-S5300",
+  "FINGERPRINT": "samsung/GT-S5300/GT-S5300:2.3.6/GINGERBREAD/DXLC5:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "GINGERBREAD",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "DXLC5",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

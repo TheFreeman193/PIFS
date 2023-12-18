@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "YG",
+  "MODEL": "A777",
+  "BRAND": "Android",
+  "PRODUCT": "full_m805_892x_evm",
+  "DEVICE": "m805_892x",
+  "FINGERPRINT": "Android/full_m805_892x_evm/m805_892x:4.0.3/A777/eng.zxp.20120425.153913:userdebug/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "A777",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.zxp.20120425.153913",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

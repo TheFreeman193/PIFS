@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HUAWEI",
+  "MODEL": "SCL-L21",
+  "BRAND": "Huawei",
+  "PRODUCT": "SCL-L21",
+  "DEVICE": "hwSCL-Q",
+  "FINGERPRINT": "Huawei/SCL-L21/hwSCL-Q:5.1.1/HuaweiSCL-L21/C432B130:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "HuaweiSCL-L21",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "C432B130",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

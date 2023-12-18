@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Prestigio",
+  "MODEL": "PMT3067_3G",
+  "BRAND": "Prestigio",
+  "PRODUCT": "PMT3067_3G",
+  "DEVICE": "PMT3057_3G",
+  "FINGERPRINT": "Prestigio/PMT3067_3G/PMT3057_3G:4.4.2/KOT49H/1433147691:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.jbs.1433147691",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

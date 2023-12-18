@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Freelander",
+  "MODEL": "MID",
+  "BRAND": "Freelander",
+  "PRODUCT": "yecon89_tb_jb2",
+  "DEVICE": "yecon89_tb_jb2",
+  "FINGERPRINT": "alps/yecon89_tb_jb2/yecon89_tb_jb2:4.2.1/JOP40D/1385035194:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "PX2",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.hede.1385035194",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Netxeon",
+  "MODEL": "S82",
+  "BRAND": "MBX",
+  "PRODUCT": "k200",
+  "DEVICE": "k200",
+  "FINGERPRINT": "MBX/k200/k200:4.4.2/KOT49H/20150601:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20150601",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

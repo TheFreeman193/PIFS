@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LGLS770",
+  "BRAND": "lge",
+  "PRODUCT": "g4stylusc_spr_us",
+  "DEVICE": "g4stylusc",
+  "FINGERPRINT": "lge/g4stylusc_spr_us/g4stylusc:6.0/MRA58K/17296102583b4:user/release-keys",
+  "SECURITY_PATCH": "2017-03-01",
+  "FIRST_API_LEVEL": "23",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "17296102583b4",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "UTOK",
+  "MODEL": "Hello 7K",
+  "BRAND": "UTOK",
+  "PRODUCT": "mg710",
+  "DEVICE": "mg710",
+  "FINGERPRINT": "alps/mg680/mg680:4.4.2/KOT49H/1434394082:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.wsf.1434394082",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

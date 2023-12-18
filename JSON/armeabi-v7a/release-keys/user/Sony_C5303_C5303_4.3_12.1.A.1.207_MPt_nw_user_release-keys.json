@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Sony",
+  "MODEL": "C5303",
+  "BRAND": "Sony",
+  "PRODUCT": "C5303",
+  "DEVICE": "C5303",
+  "FINGERPRINT": "Sony/C5303/C5303:4.3/12.1.A.1.207/MPt_nw:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "12.1.A.1.207",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "MPt_nw",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

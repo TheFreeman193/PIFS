@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Sony",
+  "MODEL": "SGP771",
+  "BRAND": "Sony",
+  "PRODUCT": "SGP771",
+  "DEVICE": "SGP771",
+  "FINGERPRINT": "Sony/SGP771/SGP771:7.1.1/32.4.A.1.54/219395100:user/release-keys",
+  "SECURITY_PATCH": "2016-12-01",
+  "FIRST_API_LEVEL": "25",
+  "BUILD_ID": "32.4.A.1.54",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "219395100",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

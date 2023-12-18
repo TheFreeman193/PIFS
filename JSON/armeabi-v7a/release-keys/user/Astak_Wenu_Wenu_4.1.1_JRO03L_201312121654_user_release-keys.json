@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Quanta",
+  "MODEL": "NEOS",
+  "BRAND": "Astak",
+  "PRODUCT": "Wenu",
+  "DEVICE": "Wenu",
+  "FINGERPRINT": "Astak/Wenu/Wenu:4.1.1/JRO03L/201312121654:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JRO03L",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "201312121654",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

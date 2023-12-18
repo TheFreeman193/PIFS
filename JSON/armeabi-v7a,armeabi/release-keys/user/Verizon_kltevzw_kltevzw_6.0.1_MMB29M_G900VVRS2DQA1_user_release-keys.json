@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-G900V",
+  "BRAND": "Verizon",
+  "PRODUCT": "kltevzw",
+  "DEVICE": "kltevzw",
+  "FINGERPRINT": "Verizon/kltevzw/kltevzw:6.0.1/MMB29M/G900VVRS2DQA1:user/release-keys",
+  "SECURITY_PATCH": "2017-01-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MMB29M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "G900VVRS2DQA1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

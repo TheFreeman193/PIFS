@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "itel",
+  "MODEL": "itel it1404",
+  "BRAND": "itel",
+  "PRODUCT": "scx15_w400_it1404_UUI_NoSDAPK",
+  "DEVICE": "scx15_w400_it1404",
+  "FINGERPRINT": "itel/scx15_w400_it1404_UUI_NoSDAPK/scx15_w400_it1404:4.4.2/MocorDroid/_P14.30.2_P2:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MocorDroid",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "_P14.30.2_P2",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

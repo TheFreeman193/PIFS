@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "Mi Note 2",
+  "BRAND": "Xiaomi",
+  "PRODUCT": "scorpio",
+  "DEVICE": "scorpio",
+  "FINGERPRINT": "Xiaomi/scorpio/scorpio:8.0.0/OPR1.170623.032/V9.6.1.0.OADCNFD:user/release-keys",
+  "SECURITY_PATCH": "2017-08-05",
+  "FIRST_API_LEVEL": "24",
+  "BUILD_ID": "OPR1.170623.032",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "V9.6.1.0.OADCNFD",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

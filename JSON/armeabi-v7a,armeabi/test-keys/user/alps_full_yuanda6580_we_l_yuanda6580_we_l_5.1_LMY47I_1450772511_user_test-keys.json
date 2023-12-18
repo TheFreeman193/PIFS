@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "BYLYND",
+  "MODEL": "P8000",
+  "BRAND": "BYLYND",
+  "PRODUCT": "P8000",
+  "DEVICE": "BYLYND",
+  "FINGERPRINT": "alps/full_yuanda6580_we_l/yuanda6580_we_l:5.1/LMY47I/1450772511:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47I",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1450772511",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

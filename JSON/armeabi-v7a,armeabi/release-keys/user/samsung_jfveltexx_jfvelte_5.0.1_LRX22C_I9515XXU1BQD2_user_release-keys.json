@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "GT-I9515",
+  "BRAND": "samsung",
+  "PRODUCT": "jfveltexx",
+  "DEVICE": "jfvelte",
+  "FINGERPRINT": "samsung/jfveltexx/jfvelte:5.0.1/LRX22C/I9515XXU1BQD2:user/release-keys",
+  "SECURITY_PATCH": "2017-04-01",
+  "FIRST_API_LEVEL": "25",
+  "BUILD_ID": "LRX22C",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "I9515XXU1BQD2",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

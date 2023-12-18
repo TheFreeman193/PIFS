@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "ZTE",
+  "MODEL": "ZTE U795",
+  "BRAND": "Android",
+  "PRODUCT": "U795",
+  "DEVICE": "U795",
+  "FINGERPRINT": "Android/U795/U795:4.1.1/JB_U795V0.0.1B01/eng.root.20121017.171405:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JB_U795V0.0.1B01",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.root.20121017.171405",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

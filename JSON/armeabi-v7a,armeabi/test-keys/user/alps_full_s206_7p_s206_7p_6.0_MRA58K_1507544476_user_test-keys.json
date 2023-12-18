@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "iPhone",
+  "MODEL": "8 plus",
+  "BRAND": "APPLE",
+  "PRODUCT": "8 plus",
+  "DEVICE": "8 plus",
+  "FINGERPRINT": "alps/full_s206_7p/s206_7p:6.0/MRA58K/1507544476:user/test-keys",
+  "SECURITY_PATCH": "2016-03-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "iOS11.0",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "iOS11.0",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

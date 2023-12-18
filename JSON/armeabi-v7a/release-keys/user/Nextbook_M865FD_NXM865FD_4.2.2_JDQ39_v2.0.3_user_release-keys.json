@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "digiin",
+  "MODEL": "NX785QC8G",
+  "BRAND": "Nextbook",
+  "PRODUCT": "M865FD",
+  "DEVICE": "NXM865FD",
+  "FINGERPRINT": "Nextbook/M865FD/NXM865FD:4.2.2/JDQ39/v2.0.3:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.root.20140321.173111",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-T330",
+  "BRAND": "samsung",
+  "PRODUCT": "milletwifixx",
+  "DEVICE": "milletwifi",
+  "FINGERPRINT": "samsung/milletwifixx/milletwifi:5.1.1/LMY47X/T330XXS1BPL3:user/release-keys",
+  "SECURITY_PATCH": "2016-05-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47X",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "T330XXS1BPL3",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

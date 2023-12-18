@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "motorola",
+  "MODEL": "XT1056",
+  "BRAND": "motorola",
+  "PRODUCT": "ghost_sprint",
+  "DEVICE": "ghost",
+  "FINGERPRINT": "motorola/ghost_sprint/ghost:5.1/LPA23.12-39.10-9/13:user/release-keys",
+  "SECURITY_PATCH": "2016-08-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LPA23.12-39.10-9",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "13",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

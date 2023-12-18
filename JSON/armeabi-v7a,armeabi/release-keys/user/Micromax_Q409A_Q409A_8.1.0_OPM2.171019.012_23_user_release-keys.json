@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Micromax",
+  "MODEL": "Micromax Q409A",
+  "BRAND": "Micromax",
+  "PRODUCT": "Q409A",
+  "DEVICE": "Q409A",
+  "FINGERPRINT": "Micromax/Q409A/Q409A:8.1.0/OPM2.171019.012/23:user/release-keys",
+  "SECURITY_PATCH": "2018-09-05",
+  "FIRST_API_LEVEL": "NULL",
+  "BUILD_ID": "OPM2.171019.012",
+  "VNDK_VERSION": "1",
+  "INCREMENTAL": "23",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

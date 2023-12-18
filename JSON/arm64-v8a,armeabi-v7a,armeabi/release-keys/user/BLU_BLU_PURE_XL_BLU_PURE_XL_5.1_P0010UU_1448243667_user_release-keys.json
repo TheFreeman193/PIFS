@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "BLU",
+  "MODEL": "PURE XL",
+  "BRAND": "BLU",
+  "PRODUCT": "BLU_PURE_XL",
+  "DEVICE": "BLU_PURE_XL",
+  "FINGERPRINT": "BLU/BLU_PURE_XL/BLU_PURE_XL:5.1/P0010UU/1448243667:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "P0010UU",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1448243667",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HMD Global",
+  "MODEL": "Nokia 7.2",
+  "BRAND": "Nokia",
+  "PRODUCT": "Daredevil_00WW",
+  "DEVICE": "DDV_sprout",
+  "FINGERPRINT": "Nokia/Daredevil_00WW/DDV_sprout:9/PKQ1.190118.001/00WW_1_400:user/release-keys",
+  "SECURITY_PATCH": "2020-01-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "PKQ1.190118.001",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "00WW_1_400",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

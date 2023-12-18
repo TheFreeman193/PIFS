@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LGMS631",
+  "BRAND": "MetroPCS",
+  "PRODUCT": "g4stylusn_mpcs_us",
+  "DEVICE": "g4stylusn",
+  "FINGERPRINT": "MetroPCS/g4stylusn_mpcs_us/g4stylusn:6.0/MRA58K/1620303179df8:user/release-keys",
+  "SECURITY_PATCH": "2016-07-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1620303179df8",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

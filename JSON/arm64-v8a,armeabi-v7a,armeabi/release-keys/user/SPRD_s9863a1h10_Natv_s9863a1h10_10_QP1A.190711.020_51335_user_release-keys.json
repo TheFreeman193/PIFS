@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "CUBE",
+  "MODEL": "iPlay_20",
+  "BRAND": "iPlay_20",
+  "PRODUCT": "iPlay_20",
+  "DEVICE": "iPlay_20",
+  "FINGERPRINT": "SPRD/s9863a1h10_Natv/s9863a1h10:10/QP1A.190711.020/51335:user/release-keys",
+  "SECURITY_PATCH": "2020-02-05",
+  "FIRST_API_LEVEL": "29",
+  "BUILD_ID": "QP1A.190711.020",
+  "VNDK_VERSION": "1",
+  "INCREMENTAL": "51335",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

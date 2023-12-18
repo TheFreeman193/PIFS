@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "oplus",
+  "MODEL": "ossi",
+  "BRAND": "oplus",
+  "PRODUCT": "ossi",
+  "DEVICE": "ossi",
+  "FINGERPRINT": "oplus/ossi/ossi:UpsideDownCake/UP1A.230407.001/1686004135743:user/release-keys",
+  "SECURITY_PATCH": "2023-05-05",
+  "FIRST_API_LEVEL": "31",
+  "BUILD_ID": "UP1A.230407.001",
+  "VNDK_VERSION": "32",
+  "INCREMENTAL": "1686004135743",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "VS980 4G",
+  "BRAND": "lge",
+  "PRODUCT": "g2_vzw",
+  "DEVICE": "g2",
+  "FINGERPRINT": "lge/g2_vzw/g2:5.0.2/LRX22G/15046001715f9:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LRX22G",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "15046001715f9",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

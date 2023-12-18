@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "jxd",
+  "MODEL": "s602B",
+  "BRAND": "jxd",
+  "PRODUCT": "full_gpdroid",
+  "DEVICE": "s602B",
+  "FINGERPRINT": "jxd/full_gpdroid/s602B:4.0.4/IMM76D/eng.mcuser.20121101.132116:userdebug/dev-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "IMM76D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.mcuser.20121101.132116",
+  "TYPE": "userdebug",
+  "TAGS": "dev-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Getac",
+  "MODEL": "ZX10",
+  "BRAND": "Getac",
+  "PRODUCT": "zx10",
+  "DEVICE": "zx10",
+  "FINGERPRINT": "Getac/zx10/zx10:12/SKQ1.220713.001/ZX1000005:user/release-keys",
+  "SECURITY_PATCH": "2023-05-01",
+  "FIRST_API_LEVEL": "30",
+  "BUILD_ID": "SKQ1.220713.001",
+  "VNDK_VERSION": "32",
+  "INCREMENTAL": "ZX1000005",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

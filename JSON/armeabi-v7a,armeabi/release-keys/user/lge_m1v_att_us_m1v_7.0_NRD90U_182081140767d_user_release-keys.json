@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LG-K371",
+  "BRAND": "lge",
+  "PRODUCT": "m1v_att_us",
+  "DEVICE": "m1v",
+  "FINGERPRINT": "lge/m1v_att_us/m1v:7.0/NRD90U/182081140767d:user/release-keys",
+  "SECURITY_PATCH": "2018-03-01",
+  "FIRST_API_LEVEL": "23",
+  "BUILD_ID": "NRD90U",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "182081140767d",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

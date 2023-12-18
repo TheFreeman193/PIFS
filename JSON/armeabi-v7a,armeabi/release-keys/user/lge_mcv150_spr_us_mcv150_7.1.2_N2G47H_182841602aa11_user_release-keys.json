@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LG-SP200",
+  "BRAND": "lge",
+  "PRODUCT": "mcv150_spr_us",
+  "DEVICE": "mcv150",
+  "FINGERPRINT": "lge/mcv150_spr_us/mcv150:7.1.2/N2G47H/182841602aa11:user/release-keys",
+  "SECURITY_PATCH": "2018-10-01",
+  "FIRST_API_LEVEL": "25",
+  "BUILD_ID": "N2G47H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "182841602aa11",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

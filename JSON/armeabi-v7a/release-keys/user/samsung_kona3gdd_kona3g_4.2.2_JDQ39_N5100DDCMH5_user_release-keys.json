@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "GT-N5100",
+  "BRAND": "samsung",
+  "PRODUCT": "kona3gdd",
+  "DEVICE": "kona3g",
+  "FINGERPRINT": "samsung/kona3gdd/kona3g:4.2.2/JDQ39/N5100DDCMH5:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "N5100DDCMH5",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

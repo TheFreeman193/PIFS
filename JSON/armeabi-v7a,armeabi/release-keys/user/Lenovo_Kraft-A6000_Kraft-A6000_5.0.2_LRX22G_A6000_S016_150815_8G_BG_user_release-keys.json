@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LENOVO",
+  "MODEL": "Lenovo A6000",
+  "BRAND": "Lenovo",
+  "PRODUCT": "Kraft-A6000",
+  "DEVICE": "Kraft-A6000",
+  "FINGERPRINT": "Lenovo/Kraft-A6000/Kraft-A6000:5.0.2/LRX22G/A6000_S016_150815_8G_BG:user/release-keys",
+  "SECURITY_PATCH": "NULL",
+  "FIRST_API_LEVEL": "27",
+  "BUILD_ID": "LRX22G",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "A6000_S016_150815_8G_BG",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

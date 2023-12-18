@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Sony",
+  "MODEL": "SGP321",
+  "BRAND": "Sony",
+  "PRODUCT": "SGP321_1274-0825",
+  "DEVICE": "SGP321",
+  "FINGERPRINT": "Sony/SGP321_1274-0825/SGP321:4.3/10.4.B.0.569/xr3_rQ:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "10.4.B.0.569",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "xr3_rQ",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

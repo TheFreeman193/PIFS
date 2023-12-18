@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-N910T3",
+  "BRAND": "samsung",
+  "PRODUCT": "trltetmofrp",
+  "DEVICE": "trltetmo",
+  "FINGERPRINT": "samsung/trltetmofrp/trltetmo:6.0.1/MMB29M/N910T3UVS3EQG1:user/release-keys",
+  "SECURITY_PATCH": "2017-07-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MMB29M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "N910T3UVS3EQG1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

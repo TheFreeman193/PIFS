@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Sony",
+  "MODEL": "Qssi",
+  "BRAND": "Sony",
+  "PRODUCT": "qssi",
+  "DEVICE": "qssi",
+  "FINGERPRINT": "Sony/qssi/qssi:13/TKQ1.220807.001/1:user/release-keys",
+  "SECURITY_PATCH": "2022-11-01",
+  "FIRST_API_LEVEL": "30",
+  "BUILD_ID": "61.2.A.0.382",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

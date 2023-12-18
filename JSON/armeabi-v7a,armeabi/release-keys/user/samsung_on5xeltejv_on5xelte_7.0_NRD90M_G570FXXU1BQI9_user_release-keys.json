@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-G570F",
+  "BRAND": "samsung",
+  "PRODUCT": "on5xeltejv",
+  "DEVICE": "on5xelte",
+  "FINGERPRINT": "samsung/on5xeltejv/on5xelte:7.0/NRD90M/G570FXXU1BQI9:user/release-keys",
+  "SECURITY_PATCH": "2017-08-01",
+  "FIRST_API_LEVEL": "23",
+  "BUILD_ID": "NRD90M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "G570FXXU1BQI9",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

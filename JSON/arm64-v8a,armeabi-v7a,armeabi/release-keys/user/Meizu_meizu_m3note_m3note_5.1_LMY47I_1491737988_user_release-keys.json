@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Meizu",
+  "MODEL": "m3 note",
+  "BRAND": "Meizu",
+  "PRODUCT": "m3note",
+  "DEVICE": "m3note",
+  "FINGERPRINT": "Meizu/meizu_m3note/m3note:5.1/LMY47I/1491737988:user/release-keys",
+  "SECURITY_PATCH": "2016-03-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47I",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1491737988",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

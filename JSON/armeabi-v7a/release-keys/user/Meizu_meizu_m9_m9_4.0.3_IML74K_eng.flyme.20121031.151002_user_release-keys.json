@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Meizu",
+  "MODEL": "M9",
+  "BRAND": "Meizu",
+  "PRODUCT": "meizu_m9",
+  "DEVICE": "m9",
+  "FINGERPRINT": "Meizu/meizu_m9/m9:4.0.3/IML74K/eng.flyme.20121031.151002:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "IML74K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.flyme.20121031.151002",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LENOVO",
+  "MODEL": "Lenovo S850",
+  "BRAND": "Lenovo",
+  "PRODUCT": "scofield_row",
+  "DEVICE": "S850",
+  "FINGERPRINT": "Lenovo/scofield_row/S850:4.4.2/KOT49H/S850_ROW_S216_150206.:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "S850_ROW_S216_150206",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

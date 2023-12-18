@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-T280",
+  "BRAND": "samsung",
+  "PRODUCT": "gtexswifixx",
+  "DEVICE": "gtexswifi",
+  "FINGERPRINT": "samsung/gtexswifixx/gtexswifi:5.1.1/LMY47V/T280XXU0AQK2:user/release-keys",
+  "SECURITY_PATCH": "2017-12-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47V",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "T280XXU0AQK2",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "N9000",
+  "BRAND": "alps",
+  "PRODUCT": "09_v89_jbaol1",
+  "DEVICE": "09_v89_jbaol1",
+  "FINGERPRINT": "alps/09_v89_jbaol1/09_v89_jbaol1:4.2.1/JOP40D/1382689211:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JOP40D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.root.1382689211",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

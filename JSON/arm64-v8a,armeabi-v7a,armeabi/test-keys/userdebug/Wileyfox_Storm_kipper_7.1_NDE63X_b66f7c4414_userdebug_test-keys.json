@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Wileyfox",
+  "MODEL": "Wileyfox Storm",
+  "BRAND": "Wileyfox",
+  "PRODUCT": "Storm",
+  "DEVICE": "kipper",
+  "FINGERPRINT": "Wileyfox/Storm/kipper:7.1/NDE63X/b66f7c4414:userdebug/test-keys",
+  "SECURITY_PATCH": "2016-11-05",
+  "FIRST_API_LEVEL": "23",
+  "BUILD_ID": "NDE63X",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "b66f7c4414",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

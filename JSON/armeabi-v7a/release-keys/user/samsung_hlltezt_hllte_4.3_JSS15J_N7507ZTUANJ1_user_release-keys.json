@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-N7507",
+  "BRAND": "samsung",
+  "PRODUCT": "hlltezt",
+  "DEVICE": "hllte",
+  "FINGERPRINT": "samsung/hlltezt/hllte:4.3/JSS15J/N7507ZTUANJ1:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JSS15J",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "N7507ZTUANJ1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

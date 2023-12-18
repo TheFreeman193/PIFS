@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-N910C",
+  "BRAND": "samsung",
+  "PRODUCT": "treltexx",
+  "DEVICE": "trelte",
+  "FINGERPRINT": "samsung/treltexx/trelte:6.0.1/MMB29K/N910CXXS2DQHA:user/release-keys",
+  "SECURITY_PATCH": "2017-08-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MMB29K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "N910CXXS2DQHA",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

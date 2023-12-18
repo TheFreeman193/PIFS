@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HXWS",
+  "MODEL": "HX S905 Series",
+  "BRAND": "Android",
+  "PRODUCT": "hx_s905a",
+  "DEVICE": "hx_s905a",
+  "FINGERPRINT": "Android/hx_s905a/hx_s905a:5.1.1/LMY47V/20161124:userdebug/test-keys",
+  "SECURITY_PATCH": "2015-11-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47V",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20161124",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Sony",
+  "MODEL": "ST23i",
+  "BRAND": "Sony",
+  "PRODUCT": "ST23i_1266-5470",
+  "DEVICE": "ST23i",
+  "FINGERPRINT": "Sony/ST23i_1266-5470/ST23i:4.0.4/11.0.A.5.8/46N97g:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "11.0.A.5.8",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "46N97g",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

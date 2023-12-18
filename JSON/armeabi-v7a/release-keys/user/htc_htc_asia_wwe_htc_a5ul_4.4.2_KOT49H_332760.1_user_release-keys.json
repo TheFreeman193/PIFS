@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HTC",
+  "MODEL": "HTC Desire 816",
+  "BRAND": "htc",
+  "PRODUCT": "htc_asia_wwe",
+  "DEVICE": "htc_a5ul",
+  "FINGERPRINT": "htc/htc_asia_wwe/htc_a5ul:4.4.2/KOT49H/332760.1:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "332760.1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

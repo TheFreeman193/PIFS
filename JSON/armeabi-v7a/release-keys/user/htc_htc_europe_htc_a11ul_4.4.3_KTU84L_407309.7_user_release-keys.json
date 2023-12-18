@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HTC",
+  "MODEL": "HTC Desire 510",
+  "BRAND": "htc",
+  "PRODUCT": "htc_europe",
+  "DEVICE": "htc_a11ul",
+  "FINGERPRINT": "htc/htc_europe/htc_a11ul:4.4.3/KTU84L/407309.7:user/release-keys",
+  "SECURITY_PATCH": "2015-11-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84L",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "407309.7",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

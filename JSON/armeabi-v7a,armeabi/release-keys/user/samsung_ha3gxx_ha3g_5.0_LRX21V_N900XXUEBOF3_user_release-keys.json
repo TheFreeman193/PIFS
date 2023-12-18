@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-G920F",
+  "BRAND": "samsung",
+  "PRODUCT": "hltexx",
+  "DEVICE": "hlte",
+  "FINGERPRINT": "samsung/ha3gxx/ha3g:5.0/LRX21V/N900XXUEBOF3:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LRX21V",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "N900XXUEBOF3",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

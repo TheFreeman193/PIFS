@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Hisense",
+  "MODEL": "Sero 7 Pro",
+  "BRAND": "Hisense",
+  "PRODUCT": "dopa_m470",
+  "DEVICE": "m470",
+  "FINGERPRINT": "Hisense/dopa_m470/m470:5.1.1/LMY47Z/dolorespark05282238:userdebug/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47Z",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.dolorespark.20150528.223701",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

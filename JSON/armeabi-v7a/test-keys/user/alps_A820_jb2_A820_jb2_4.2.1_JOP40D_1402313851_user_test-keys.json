@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LENOVO",
+  "MODEL": "Lenovo A820",
+  "BRAND": "Lenovo",
+  "PRODUCT": "A820",
+  "DEVICE": "A820",
+  "FINGERPRINT": "alps/A820_jb2/A820_jb2:4.2.1/JOP40D/1402313851:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JOP40D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.lewa.1402313851",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "amlogic",
+  "MODEL": "M8S+",
+  "BRAND": "Android",
+  "PRODUCT": "n200C",
+  "DEVICE": "n200C",
+  "FINGERPRINT": "Android/n200C/n200C:5.1.1/LMY47V/20160623:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47V",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20160623",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

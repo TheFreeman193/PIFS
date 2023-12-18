@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "MSI",
+  "MODEL": "MS5",
+  "BRAND": "Trimble_Navigation",
+  "PRODUCT": "PeopleNet_ConnectedTablet",
+  "DEVICE": "MS5",
+  "FINGERPRINT": "Trimble_Navigation/PeopleNet_ConnectedTablet/MS5:4.4.3/2.0.0-rc2/2016_02:user/release-keys",
+  "SECURITY_PATCH": "2016-08-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "2.0.0-rc2",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "2016_02",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "ZTE",
+  "MODEL": "Z6530V",
+  "BRAND": "ZTE",
+  "PRODUCT": "VSBL_Z6530V",
+  "DEVICE": "k71v1_64_bsp",
+  "FINGERPRINT": "alps/full_flycom6580_we_m/flycom6580_we_m:6.0/MRA58K/1537528068:user/test-keys",
+  "SECURITY_PATCH": "2019-12-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1537528068",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

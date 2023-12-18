@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SCH-M828C",
+  "BRAND": "samsung",
+  "PRODUCT": "SCH-M828C",
+  "DEVICE": "SCH-M828C",
+  "FINGERPRINT": "samsung/SCH-M828C/SCH-M828C/SCH-M828C:2.2.2/FROYO/EH03:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "FROYO",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "EH03",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

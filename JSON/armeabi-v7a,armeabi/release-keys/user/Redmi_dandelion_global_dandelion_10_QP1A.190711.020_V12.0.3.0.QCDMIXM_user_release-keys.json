@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "M2006C3LG",
+  "BRAND": "Redmi",
+  "PRODUCT": "dandelion_global",
+  "DEVICE": "dandelion",
+  "FINGERPRINT": "Redmi/dandelion_global/dandelion:10/QP1A.190711.020/V12.0.3.0.QCDMIXM:user/release-keys",
+  "SECURITY_PATCH": "2020-07-01",
+  "FIRST_API_LEVEL": "29",
+  "BUILD_ID": "QP1A.190711.020",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "V12.0.3.0.QCDMIXM",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

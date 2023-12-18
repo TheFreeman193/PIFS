@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "2014811",
+  "BRAND": "Xiaomi",
+  "PRODUCT": "2014811",
+  "DEVICE": "HM2014811",
+  "FINGERPRINT": "Xiaomi/2014811/HM2014811:4.4.4/KTU84P/V6.6.7.0.KHJMICF:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84P",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "V6.6.7.0.KHJMICF",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

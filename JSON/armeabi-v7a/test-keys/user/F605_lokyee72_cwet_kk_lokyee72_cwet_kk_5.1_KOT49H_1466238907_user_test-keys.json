@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "F605",
+  "MODEL": "F605",
+  "BRAND": "F605",
+  "PRODUCT": "F605",
+  "DEVICE": "F605",
+  "FINGERPRINT": "F605/lokyee72_cwet_kk/lokyee72_cwet_kk:5.1/KOT49H/1466238907:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.chenb.1466238907",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "motorola",
+  "MODEL": "moto g power (2022)",
+  "BRAND": "motorola",
+  "PRODUCT": "tonga_g",
+  "DEVICE": "tonga",
+  "FINGERPRINT": "motorola/tonga_g/tonga:12/S3RQS32.20-42-10-2/33be1:user/release-keys",
+  "SECURITY_PATCH": "2022-10-01",
+  "FIRST_API_LEVEL": "30",
+  "BUILD_ID": "S3RQS32.20-42-10-2",
+  "VNDK_VERSION": "31",
+  "INCREMENTAL": "33be1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

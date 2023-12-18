@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "GT-I8160",
+  "BRAND": "samsung",
+  "PRODUCT": "GT-I8160",
+  "DEVICE": "GT-I8160",
+  "FINGERPRINT": "samsung/GT-I8160/GT-I8160:2.3.6/GINGERBREAD/XXLK6:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "GINGERBREAD",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "XXLK6",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

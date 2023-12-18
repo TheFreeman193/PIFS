@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "micromax",
+  "MODEL": "Micromax A065",
+  "BRAND": "Micromax",
+  "PRODUCT": "A065",
+  "DEVICE": "A065",
+  "FINGERPRINT": "Micromax/A065/A065:4.4.2/KOT49H/MMX_A065_SW_V1.0_HW_V1.0_270614:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng..1404028162",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

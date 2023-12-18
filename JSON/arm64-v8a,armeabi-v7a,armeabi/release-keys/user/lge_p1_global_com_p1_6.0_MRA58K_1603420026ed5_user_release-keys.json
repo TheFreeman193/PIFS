@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LG-H818",
+  "BRAND": "lge",
+  "PRODUCT": "p1_global_com",
+  "DEVICE": "p1",
+  "FINGERPRINT": "lge/p1_global_com/p1:6.0/MRA58K/1603420026ed5:user/release-keys",
+  "SECURITY_PATCH": "2015-11-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1603420026ed5",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "TCT",
+  "MODEL": "6043D",
+  "BRAND": "TCT",
+  "PRODUCT": "6043D",
+  "DEVICE": "DIABLOXPLUS",
+  "FINGERPRINT": "TCT/6043D/DIABLOXPLUS:4.4.2/KOT49H/vAN5-0:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "vAN5-0",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

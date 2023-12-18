@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-T710",
+  "BRAND": "samsung",
+  "PRODUCT": "gts28wifixx",
+  "DEVICE": "gts28wifi",
+  "FINGERPRINT": "samsung/gts28wifixx/gts28wifi:7.0/NRD90M/T710XXU2DRB1:user/release-keys",
+  "SECURITY_PATCH": "2018-01-01",
+  "FIRST_API_LEVEL": "21",
+  "BUILD_ID": "NRD90M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "T710XXU2DRB1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "INFINIX",
+  "MODEL": "Infinix X6826",
+  "BRAND": "Infinix",
+  "PRODUCT": "TSSI",
+  "DEVICE": "FULL-64",
+  "FINGERPRINT": "Infinix/TSSI/FULL-64:12/SP1A.210812.016/230314V467:user/release-keys",
+  "SECURITY_PATCH": "2023-03-05",
+  "FIRST_API_LEVEL": "31",
+  "BUILD_ID": "SP1A.210812.016",
+  "VNDK_VERSION": "31",
+  "INCREMENTAL": "230314V1309",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

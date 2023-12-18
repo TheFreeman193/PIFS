@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "ZTE",
+  "MODEL": "ZTE V9820",
+  "BRAND": "ZTE",
+  "PRODUCT": "ZTE-V9820",
+  "DEVICE": "ZTE-V9820",
+  "FINGERPRINT": "ZTE/ZTE-V9820/ZTE-V9820:4.4.2/KVT49L/eng.root.20150530.230519:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KVT49L",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.root.20150530.230519",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

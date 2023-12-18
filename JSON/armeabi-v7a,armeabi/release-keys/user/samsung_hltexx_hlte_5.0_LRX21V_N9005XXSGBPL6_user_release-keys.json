@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-N9005",
+  "BRAND": "samsung",
+  "PRODUCT": "hltexx",
+  "DEVICE": "hlte",
+  "FINGERPRINT": "samsung/hltexx/hlte:5.0/LRX21V/N9005XXSGBPL6:user/release-keys",
+  "SECURITY_PATCH": "2015-11-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LRX21V",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "N9005XXSGBPL6",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

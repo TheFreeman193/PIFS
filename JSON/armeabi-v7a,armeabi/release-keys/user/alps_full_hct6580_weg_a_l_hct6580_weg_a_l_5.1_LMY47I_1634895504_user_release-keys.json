@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "P50 Pro+",
+  "BRAND": "alps",
+  "PRODUCT": "P50_Pro_plus",
+  "DEVICE": "P50_Pro_plus",
+  "FINGERPRINT": "alps/full_hct6580_weg_a_l/hct6580_weg_a_l:5.1/LMY47I/1634895504:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LRX21M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1634895504",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

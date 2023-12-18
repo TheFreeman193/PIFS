@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-G532F",
+  "BRAND": "samsung",
+  "PRODUCT": "grandpplteser",
+  "DEVICE": "grandpplte",
+  "FINGERPRINT": "samsung/grandpplteser/grandpplte:6.0.1/MMB29T/G532FXXU1AQB4:user/release-keys",
+  "SECURITY_PATCH": "2017-02-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MMB29T",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "G532FXXU1AQB4",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

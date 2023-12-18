@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "PULID",
+  "MODEL": "B943",
+  "BRAND": "alps",
+  "PRODUCT": "V6",
+  "DEVICE": "V6",
+  "FINGERPRINT": "alps/V6/V6:4.2.1/JOP40D/1365252921:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JOP40D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.scm.1365252921",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

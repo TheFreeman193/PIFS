@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "DIGMA",
+  "MODEL": "Plane S7.0 3G PS7005MG",
+  "BRAND": "DIGMA",
+  "PRODUCT": "Plane S7.0 3G",
+  "DEVICE": "PS7005MG",
+  "FINGERPRINT": "alps/full_elink8321_emmc/elink8321_emmc:5.1/LMY47I/1447063912:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47I",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1447063912",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

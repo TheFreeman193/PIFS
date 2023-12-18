@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SAMSUNG-SM-G891A",
+  "BRAND": "samsung",
+  "PRODUCT": "poseidonlteuc",
+  "DEVICE": "poseidonlteatt",
+  "FINGERPRINT": "samsung/poseidonlteuc/poseidonlteatt:6.0.1/MMB29M/G891AUCS2API2:user/release-keys",
+  "SECURITY_PATCH": "2016-09-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MMB29M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "G891AUCS2API2",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

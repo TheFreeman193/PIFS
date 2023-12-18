@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Cherry Mobile",
+  "MODEL": "Q510",
+  "BRAND": "CherryMobile",
+  "PRODUCT": "CherryMobile",
+  "DEVICE": "FlareDash",
+  "FINGERPRINT": "qcom/msm8610/msm8610:4.3/JLS36C/TBW598212_9422_V011020:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JLS36C",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "TBW598212_9422_V011020",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

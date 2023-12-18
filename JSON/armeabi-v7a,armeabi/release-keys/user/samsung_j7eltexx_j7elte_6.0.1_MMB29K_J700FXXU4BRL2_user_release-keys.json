@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-J700F",
+  "BRAND": "samsung",
+  "PRODUCT": "j7eltexx",
+  "DEVICE": "j7elte",
+  "FINGERPRINT": "samsung/j7eltexx/j7elte:6.0.1/MMB29K/J700FXXU4BRL2:user/release-keys",
+  "SECURITY_PATCH": "2018-04-01",
+  "FIRST_API_LEVEL": "22",
+  "BUILD_ID": "MMB29K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "J700FXXU4BRL2",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

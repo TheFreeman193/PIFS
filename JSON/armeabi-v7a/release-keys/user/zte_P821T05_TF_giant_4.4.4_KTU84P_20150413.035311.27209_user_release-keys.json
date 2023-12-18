@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "zte",
+  "MODEL": "Z791G",
+  "BRAND": "zte",
+  "PRODUCT": "P821T05_TF",
+  "DEVICE": "giant",
+  "FINGERPRINT": "zte/P821T05_TF/giant:4.4.4/KTU84P/20150413.035311.27209:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84P",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20150413.035311.27209",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

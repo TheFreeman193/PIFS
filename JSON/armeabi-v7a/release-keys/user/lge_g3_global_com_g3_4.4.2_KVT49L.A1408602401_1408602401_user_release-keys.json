@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LG-D855",
+  "BRAND": "lge",
+  "PRODUCT": "g3_global_com",
+  "DEVICE": "g3",
+  "FINGERPRINT": "lge/g3_global_com/g3:4.4.2/KVT49L.A1408602401/1408602401:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KVT49L.A1408602401",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1408602401",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

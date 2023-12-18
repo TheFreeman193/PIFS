@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "i12 Pro",
+  "BRAND": "alps",
+  "PRODUCT": "i12 Pro",
+  "DEVICE": "a52c1_ybz_za71a",
+  "FINGERPRINT": "alps/d37f2/d37f2:8.0/KOT49H/1606896959:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.dsxsw05.1606896959",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

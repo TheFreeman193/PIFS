@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Motorola",
+  "MODEL": "moto g(6)",
+  "BRAND": "motorola",
+  "PRODUCT": "ali",
+  "DEVICE": "ali",
+  "FINGERPRINT": "motorola/ali/ali:9/PPSS29.55-37-7-6/16c5a7:user/release-keys",
+  "SECURITY_PATCH": "2020-02-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "PPSS29.55-37-7-6",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "16c5a7",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

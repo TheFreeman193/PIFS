@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-G361H",
+  "BRAND": "samsung",
+  "PRODUCT": "coreprimeve3gxx",
+  "DEVICE": "coreprimeve3g",
+  "FINGERPRINT": "samsung/coreprimeve3gxx/coreprimeve3g:5.1.1/LMY48B/G361HXXS0ARK1:user/release-keys",
+  "SECURITY_PATCH": "2017-02-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY48B",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "G361HXXS0ARK1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "N960-JO1X",
+  "BRAND": "alps",
+  "PRODUCT": "N960-JO1X",
+  "DEVICE": "N960",
+  "FINGERPRINT": "alps/bird82_cwet_a_kk/bird82_cwet_a_kk:4.4.2/KOT49H/1589183258:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.c.1589183258",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

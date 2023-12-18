@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "Redmi Note 4X",
+  "BRAND": "xiaomi",
+  "PRODUCT": "mido",
+  "DEVICE": "mido",
+  "FINGERPRINT": "xiaomi/mido/mido:6.0.1/MMB29M/V8.5.7.0.MCFCNED:user/release-keys",
+  "SECURITY_PATCH": "2018.10.01",
+  "FIRST_API_LEVEL": "23",
+  "BUILD_ID": "Masik",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "MDB",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

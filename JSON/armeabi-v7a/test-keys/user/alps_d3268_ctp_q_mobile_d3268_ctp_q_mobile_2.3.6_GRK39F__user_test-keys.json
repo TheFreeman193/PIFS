@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "Q-Smart S1",
+  "BRAND": "alps",
+  "PRODUCT": "d3268_ctp_q_mobile",
+  "DEVICE": "d3268_ctp_q_mobile",
+  "FINGERPRINT": "alps/d3268_ctp_q_mobile/d3268_ctp_q_mobile:2.3.6/GRK39F/:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "GRK39F",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "54",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

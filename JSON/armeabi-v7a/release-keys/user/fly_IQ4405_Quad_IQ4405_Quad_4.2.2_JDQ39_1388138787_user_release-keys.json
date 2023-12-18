@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "FLY",
+  "MODEL": "Fly IQ4405_Quad",
+  "BRAND": "fly",
+  "PRODUCT": "IQ4405_Quad",
+  "DEVICE": "IQ4405_Quad",
+  "FINGERPRINT": "fly/IQ4405_Quad/IQ4405_Quad:4.2.2/JDQ39/1388138787:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.jenkins.1388138787",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

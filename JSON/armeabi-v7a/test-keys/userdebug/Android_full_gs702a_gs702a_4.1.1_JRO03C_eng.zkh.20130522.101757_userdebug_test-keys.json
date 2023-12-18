@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "unknown",
+  "MODEL": "Z6530V",
+  "BRAND": "ZTE",
+  "PRODUCT": "full_gs702a",
+  "DEVICE": "gs702a",
+  "FINGERPRINT": "Android/full_gs702a/gs702a:4.1.1/JRO03C/eng.zkh.20130522.101757:userdebug/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JRO03C",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.zkh.20130522.101757",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

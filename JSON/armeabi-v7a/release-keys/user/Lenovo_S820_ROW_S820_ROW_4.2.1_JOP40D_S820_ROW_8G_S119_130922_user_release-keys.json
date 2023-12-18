@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LENOVO",
+  "MODEL": "Lenovo S820_ROW",
+  "BRAND": "Lenovo",
+  "PRODUCT": "S820_ROW",
+  "DEVICE": "S820_ROW",
+  "FINGERPRINT": "Lenovo/S820_ROW/S820_ROW:4.2.1/JOP40D/S820_ROW_8G_S119_130922:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JOP40D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "S820_ROW_8G_S119_130922",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

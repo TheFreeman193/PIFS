@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "T0LTE",
+  "BRAND": "samsung",
+  "PRODUCT": "t0ltexx",
+  "DEVICE": "t0lte",
+  "FINGERPRINT": "samsung/t0ltexx/t0lte:4.3/JSS15J/N7105XXUENA1:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84P",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "297",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

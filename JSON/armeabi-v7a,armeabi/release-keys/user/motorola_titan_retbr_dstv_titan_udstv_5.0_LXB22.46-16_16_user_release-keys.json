@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "motorola",
+  "MODEL": "XT1068/69",
+  "BRAND": "motorola",
+  "PRODUCT": "titan_retbr_dstv",
+  "DEVICE": "titan_udstv",
+  "FINGERPRINT": "motorola/titan_retbr_dstv/titan_udstv:5.0/LXB22.46-16/16:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LXB22G.2015-01-10",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "16",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-N910F",
+  "BRAND": "samsung",
+  "PRODUCT": "trltexx",
+  "DEVICE": "trlte",
+  "FINGERPRINT": "samsung/trltexx/trlte:5.1.1/LMY47X/N910FXXS1CPC6:user/release-keys",
+  "SECURITY_PATCH": "2016-04-02",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47X",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "N910FXXS1CPC6",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

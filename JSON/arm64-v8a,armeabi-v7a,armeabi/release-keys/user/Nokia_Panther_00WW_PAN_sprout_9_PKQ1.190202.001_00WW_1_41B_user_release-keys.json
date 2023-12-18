@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HMD Global",
+  "MODEL": "Nokia 4.2",
+  "BRAND": "Nokia",
+  "PRODUCT": "Panther_00WW",
+  "DEVICE": "PAN_sprout",
+  "FINGERPRINT": "Nokia/Panther_00WW/PAN_sprout:9/PKQ1.190202.001/00WW_1_41B:user/release-keys",
+  "SECURITY_PATCH": "2019-10-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "PKQ1.190202.001",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "00WW_1_41B",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

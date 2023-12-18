@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "GT-I9500",
+  "BRAND": "Samsung",
+  "PRODUCT": "Galaxy S4",
+  "DEVICE": "GT-I9500",
+  "FINGERPRINT": "alps/keytak17_jb/keytak17_jb:4.1.2/JZO54K/1373955463:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JZO54K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.liangss.1373955463",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

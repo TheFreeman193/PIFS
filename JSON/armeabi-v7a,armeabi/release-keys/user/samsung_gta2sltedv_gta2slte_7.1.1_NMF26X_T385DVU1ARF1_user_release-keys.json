@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-T385",
+  "BRAND": "samsung",
+  "PRODUCT": "gta2sltedv",
+  "DEVICE": "gta2slte",
+  "FINGERPRINT": "samsung/gta2sltedv/gta2slte:7.1.1/NMF26X/T385DVU1ARF1:user/release-keys",
+  "SECURITY_PATCH": "2018-05-01",
+  "FIRST_API_LEVEL": "25",
+  "BUILD_ID": "NMF26X",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "T385DVU1ARF1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

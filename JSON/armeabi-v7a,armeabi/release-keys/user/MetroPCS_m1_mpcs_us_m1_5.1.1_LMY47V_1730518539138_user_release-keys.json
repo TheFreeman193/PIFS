@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LGMS330",
+  "BRAND": "MetroPCS",
+  "PRODUCT": "m1_mpcs_us",
+  "DEVICE": "m1",
+  "FINGERPRINT": "MetroPCS/m1_mpcs_us/m1:5.1.1/LMY47V/1730518539138:user/release-keys",
+  "SECURITY_PATCH": "2017-04-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47V",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1730518539138",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

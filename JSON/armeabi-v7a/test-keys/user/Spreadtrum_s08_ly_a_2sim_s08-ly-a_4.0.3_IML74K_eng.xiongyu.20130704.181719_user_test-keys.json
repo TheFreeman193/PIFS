@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Spreadtrum",
+  "MODEL": "mini 720",
+  "BRAND": "Spreadtrum",
+  "PRODUCT": "s08_ly_a_2sim",
+  "DEVICE": "s08-ly-a",
+  "FINGERPRINT": "Spreadtrum/s08_ly_a_2sim/s08-ly-a:4.0.3/IML74K/eng.xiongyu.20130704.181719:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "IML74K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.xiongyu.20130704.181719",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

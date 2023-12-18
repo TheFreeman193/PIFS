@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "Mi Note 3",
+  "BRAND": "Xiaomi",
+  "PRODUCT": "jason",
+  "DEVICE": "jason",
+  "FINGERPRINT": "Xiaomi/jason/jason:8.1.0/OPM1.171019.019/V10.2.2.0.OCHMIXM:user/release-keys",
+  "SECURITY_PATCH": "2018-12-01",
+  "FIRST_API_LEVEL": "27",
+  "BUILD_ID": "OPM1.171019.019",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "V10.2.2.0.OCHMIXM",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

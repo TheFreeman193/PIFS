@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "GT-I9500",
+  "BRAND": "samsung",
+  "PRODUCT": "ks01lteskt",
+  "DEVICE": "ks01lteskt",
+  "FINGERPRINT": "samsung/ks01lteskt/ks01lteskt:4.4.2/KOT49H/I9500XXUFNB7:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "I9500XXUFNB7",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

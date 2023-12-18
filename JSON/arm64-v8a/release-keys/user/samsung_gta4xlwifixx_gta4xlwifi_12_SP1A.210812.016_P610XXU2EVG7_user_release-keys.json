@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-P610",
+  "BRAND": "samsung",
+  "PRODUCT": "gta4xlwifixx",
+  "DEVICE": "gta4xlwifi",
+  "FINGERPRINT": "samsung/gta4xlwifixx/gta4xlwifi:12/SP1A.210812.016/P610XXU2EVG7:user/release-keys",
+  "SECURITY_PATCH": "2022-07-01",
+  "FIRST_API_LEVEL": "29",
+  "BUILD_ID": "SP1A.210812.016",
+  "VNDK_VERSION": "31",
+  "INCREMENTAL": "P610XXU2EVG7",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

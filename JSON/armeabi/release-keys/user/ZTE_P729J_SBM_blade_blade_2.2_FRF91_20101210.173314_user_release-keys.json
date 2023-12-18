@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "ZTE",
+  "MODEL": "ZTE-BLADE",
+  "BRAND": "ZTE",
+  "PRODUCT": "P729J_SBM",
+  "DEVICE": "blade",
+  "FINGERPRINT": "ZTE/P729J_SBM/blade/blade:2.2/FRF91/20101210.173314:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "FRF91",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20101210.173314",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

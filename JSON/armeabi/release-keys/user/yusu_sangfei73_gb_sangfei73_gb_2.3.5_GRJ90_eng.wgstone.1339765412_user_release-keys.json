@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Philips",
+  "MODEL": "W626",
+  "BRAND": "yusu",
+  "PRODUCT": "sangfei73_gb",
+  "DEVICE": "sangfei73_gb",
+  "FINGERPRINT": "yusu/sangfei73_gb/sangfei73_gb:2.3.5/GRJ90/eng.wgstone.1339765412:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "GRJ90",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.wgstone.1339765412",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

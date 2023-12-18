@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Google",
+  "MODEL": "Pixel 3a",
+  "BRAND": "google",
+  "PRODUCT": "sargo",
+  "DEVICE": "sargo",
+  "FINGERPRINT": "google/sargo/sargo:10/QQ3A.200805.001/6578210:user/release-keys",
+  "SECURITY_PATCH": "2020-08-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "QQ3A.200805.001",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "6578210",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

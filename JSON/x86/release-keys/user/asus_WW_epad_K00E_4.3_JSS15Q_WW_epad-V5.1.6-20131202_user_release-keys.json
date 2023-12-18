@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "asus",
+  "MODEL": "K00E",
+  "BRAND": "asus",
+  "PRODUCT": "WW_epad",
+  "DEVICE": "K00E",
+  "FINGERPRINT": "asus/WW_epad/K00E:4.3/JSS15Q/WW_epad-V5.1.6-20131202:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JSS15Q",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "WW_epad-V5.1.6-20131202",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

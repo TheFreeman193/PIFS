@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-A910F",
+  "BRAND": "samsung",
+  "PRODUCT": "a9xproltedx",
+  "DEVICE": "a9xproltesea",
+  "FINGERPRINT": "samsung/a9xproltedx/a9xproltesea:7.0/NRD90M/A910FXXU1BRA2:user/release-keys",
+  "SECURITY_PATCH": "2017-08-01",
+  "FIRST_API_LEVEL": "23",
+  "BUILD_ID": "NRD90M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "A910FXXU1BRA2",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

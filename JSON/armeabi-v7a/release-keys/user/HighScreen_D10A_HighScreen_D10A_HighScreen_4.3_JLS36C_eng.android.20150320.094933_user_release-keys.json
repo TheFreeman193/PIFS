@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HighScreen",
+  "MODEL": "Boost IIse",
+  "BRAND": "HighScreen",
+  "PRODUCT": "D10A_HighScreen",
+  "DEVICE": "D10A_HighScreen",
+  "FINGERPRINT": "HighScreen/D10A_HighScreen/D10A_HighScreen:4.3/JLS36C/eng.android.20150320.094933:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JLS36C",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.android.20150320.094933",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

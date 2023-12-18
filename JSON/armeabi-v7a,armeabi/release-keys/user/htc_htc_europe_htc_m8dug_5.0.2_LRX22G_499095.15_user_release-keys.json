@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HTC",
+  "MODEL": "HTC One_M8 dual sim",
+  "BRAND": "htc",
+  "PRODUCT": "htc_europe",
+  "DEVICE": "htc_m8dug",
+  "FINGERPRINT": "htc/htc_europe/htc_m8dug:5.0.2/LRX22G/499095.15:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LRX22G",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "499095.15",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

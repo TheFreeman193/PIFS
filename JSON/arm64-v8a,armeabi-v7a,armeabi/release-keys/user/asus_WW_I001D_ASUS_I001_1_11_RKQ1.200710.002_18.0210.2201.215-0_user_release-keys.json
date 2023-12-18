@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "asus",
+  "MODEL": "ASUS_I001D",
+  "BRAND": "asus",
+  "PRODUCT": "WW_I001D",
+  "DEVICE": "ASUS_I001_1",
+  "FINGERPRINT": "asus/WW_I001D/ASUS_I001_1:11/RKQ1.200710.002/18.0210.2201.215-0:user/release-keys",
+  "SECURITY_PATCH": "2022-01-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "RKQ1.200710.002",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "18.0210.2201.215-0",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

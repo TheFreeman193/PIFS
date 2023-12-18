@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Explay",
+  "MODEL": "Discovery",
+  "BRAND": "Explay",
+  "PRODUCT": "Discovery",
+  "DEVICE": "Prime",
+  "FINGERPRINT": "Explay/Discovery/Prime:4.4.2/KOT49H/1415105698:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1415105698",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

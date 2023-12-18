@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "GT-N8000",
+  "BRAND": "samsung",
+  "PRODUCT": "p4noterfxx",
+  "DEVICE": "p4noterf",
+  "FINGERPRINT": "samsung/p4noterfxx/p4noterf:4.4.2/KOT49H/N8000XXUDNH2:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "N8000XXUDNH2",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

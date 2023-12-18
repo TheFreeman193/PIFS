@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "qssi system image for arm64",
+  "BRAND": "qti",
+  "PRODUCT": "qssi",
+  "DEVICE": "qssi",
+  "FINGERPRINT": "qti/qssi/qssi:12/SKQ1.211006.001/V13.0.5.0.SJUMIXM:user/release-keys",
+  "SECURITY_PATCH": "2022-07-01",
+  "FIRST_API_LEVEL": "30",
+  "BUILD_ID": "SKQ1.211006.001",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "V13.0.5.0.SJUMIXM",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

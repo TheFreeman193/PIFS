@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HUAWEI",
+  "MODEL": "HUAWEI Y300-0100",
+  "BRAND": "Huawei",
+  "PRODUCT": "Y300-0100",
+  "DEVICE": "hwY300-0100",
+  "FINGERPRINT": "Huawei/Y300-0100/hwY300-0100:4.1.1/HuaweiY300-0100/C00B196:user/ota-rel-keys,release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "HuaweiY300-0100",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "C00B196",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

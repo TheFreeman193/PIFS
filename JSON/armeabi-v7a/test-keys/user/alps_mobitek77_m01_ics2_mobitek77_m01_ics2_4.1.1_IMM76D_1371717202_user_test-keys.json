@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HTC",
+  "MODEL": "HTC X920e",
+  "BRAND": "htccn_chs",
+  "PRODUCT": "dlxu",
+  "DEVICE": "dlxu",
+  "FINGERPRINT": "alps/mobitek77_m01_ics2/mobitek77_m01_ics2:4.1.1/IMM76D/1371717202:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "IMM76D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.root.1371717202",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

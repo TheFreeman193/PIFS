@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "elephone",
+  "MODEL": "Elephone P3000S",
+  "BRAND": "elephone",
+  "PRODUCT": "P3000S",
+  "DEVICE": "c201v92ds_jbaol1_3m_ouya",
+  "FINGERPRINT": "alps/c201v92ds_jbaol1_3m_ouya/c201v92ds_jbaol1_3m_ouya:4.4.2/KOT49H/1421721385:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.root.1421721385",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

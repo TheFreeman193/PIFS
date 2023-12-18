@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Amlogic",
+  "MODEL": "ABOX-III",
+  "BRAND": "Amlogic",
+  "PRODUCT": "NEXBOX_A1",
+  "DEVICE": "NEXBOX_A1",
+  "FINGERPRINT": "Amlogic/NEXBOX_A1/NEXBOX_A1:6.0.1/ABOX-III/20170117:userdebug/test-keys",
+  "SECURITY_PATCH": "2016-08-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "ABOX-III",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20170117",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

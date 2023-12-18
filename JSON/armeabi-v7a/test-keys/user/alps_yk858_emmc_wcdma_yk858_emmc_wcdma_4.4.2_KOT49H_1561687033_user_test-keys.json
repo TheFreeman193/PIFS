@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "android",
+  "MODEL": "K6_11_OH",
+  "BRAND": "K6",
+  "PRODUCT": "yk858_emmc_wcdma",
+  "DEVICE": "android",
+  "FINGERPRINT": "alps/yk858_emmc_wcdma/yk858_emmc_wcdma:4.4.2/KOT49H/1561687033:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.liuyang.1561687033",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

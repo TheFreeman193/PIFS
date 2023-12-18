@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Sony",
+  "MODEL": "Xperia E3",
+  "BRAND": "Sony",
+  "PRODUCT": "D2203",
+  "DEVICE": "flamingo",
+  "FINGERPRINT": "Sony/D2203/D2203:4.4.2/18.4.C.1.29/4nv_bQ:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84Q",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "b342fd5789",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

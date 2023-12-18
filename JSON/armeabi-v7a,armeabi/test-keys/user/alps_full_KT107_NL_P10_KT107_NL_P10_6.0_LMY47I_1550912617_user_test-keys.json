@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "JTY",
+  "MODEL": "P10",
+  "BRAND": "VISON",
+  "PRODUCT": "P10",
+  "DEVICE": "P10",
+  "FINGERPRINT": "alps/full_KT107_NL_P10/KT107_NL_P10:6.0/LMY47I/1550912617:user/test-keys",
+  "SECURITY_PATCH": "2019-02-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47I",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1550912617",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

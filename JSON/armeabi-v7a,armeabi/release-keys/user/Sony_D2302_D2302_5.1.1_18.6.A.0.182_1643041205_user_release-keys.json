@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Sony",
+  "MODEL": "D2302",
+  "BRAND": "Sony",
+  "PRODUCT": "D2302",
+  "DEVICE": "D2302",
+  "FINGERPRINT": "Sony/D2302/D2302:5.1.1/18.6.A.0.182/1643041205:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "18.6.A.0.182",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1643041205",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

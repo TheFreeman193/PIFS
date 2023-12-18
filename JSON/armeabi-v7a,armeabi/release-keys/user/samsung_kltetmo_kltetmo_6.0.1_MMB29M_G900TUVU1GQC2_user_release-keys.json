@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-G900T",
+  "BRAND": "samsung",
+  "PRODUCT": "kltetmo",
+  "DEVICE": "kltetmo",
+  "FINGERPRINT": "samsung/kltetmo/kltetmo:6.0.1/MMB29M/G900TUVU1GQC2:user/release-keys",
+  "SECURITY_PATCH": "2017-03-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MMB29M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "G900TUVU1GQC2",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

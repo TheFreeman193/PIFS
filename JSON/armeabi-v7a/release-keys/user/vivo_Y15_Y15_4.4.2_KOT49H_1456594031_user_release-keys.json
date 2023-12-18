@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "vivo",
+  "MODEL": "vivo Y15",
+  "BRAND": "vivo",
+  "PRODUCT": "Y15",
+  "DEVICE": "Y15",
+  "FINGERPRINT": "vivo/Y15/Y15:4.4.2/KOT49H/1456594031:user/release-keys",
+  "SECURITY_PATCH": "2016-01-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.compiler.1456594031",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

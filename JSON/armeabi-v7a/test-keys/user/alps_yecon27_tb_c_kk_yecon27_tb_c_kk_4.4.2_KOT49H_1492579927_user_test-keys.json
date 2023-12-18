@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "unknown",
+  "MODEL": "CAR AUDIO",
+  "BRAND": "unknown",
+  "PRODUCT": "unknown",
+  "DEVICE": "yecon27_tb_c_kk",
+  "FINGERPRINT": "alps/yecon27_tb_c_kk/yecon27_tb_c_kk:4.4.2/KOT49H/1492579927:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MID",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.android2014.1492579927",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

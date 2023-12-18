@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "gxq6580_weg_l",
+  "BRAND": "alps",
+  "PRODUCT": "full_gxq6580_weg_l",
+  "DEVICE": "gxq6580_weg_l",
+  "FINGERPRINT": "alps/full_gxq6580_weg_l/gxq6580_weg_l:5.1/LMY47I/1461734077:user/test-keys",
+  "SECURITY_PATCH": "2016-01-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47I",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1461734077",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

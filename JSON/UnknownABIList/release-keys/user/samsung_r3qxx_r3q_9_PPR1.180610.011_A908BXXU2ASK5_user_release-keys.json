@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-A908B",
+  "BRAND": "samsung",
+  "PRODUCT": "r3qxx",
+  "DEVICE": "r3q",
+  "FINGERPRINT": "samsung/r3qxx/r3q:9/PPR1.180610.011/A908BXXU2ASK5:user/release-keys",
+  "SECURITY_PATCH": "2019-11-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "PPR1.180610.011",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "A908BXXU2ASK5",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

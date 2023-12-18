@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Fly",
+  "MODEL": "FS505",
+  "BRAND": "Fly",
+  "PRODUCT": "FS505",
+  "DEVICE": "Nimbus_7",
+  "FINGERPRINT": "Fly/FS505/Nimbus_7:5.1/LMY47I/1457779695:user/release-keys",
+  "SECURITY_PATCH": "2016-03-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47I",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1463639892",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

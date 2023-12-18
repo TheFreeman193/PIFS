@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "ZTE",
+  "MODEL": "N9500",
+  "BRAND": "ZTE",
+  "PRODUCT": "ZTE_Inspiration",
+  "DEVICE": "gordon",
+  "FINGERPRINT": "ZTE/ZTE_Inspiration/gordon:4.0.4/IMM76I/20131113.032942.31650:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "IMM76I",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20131113.032942.31650",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

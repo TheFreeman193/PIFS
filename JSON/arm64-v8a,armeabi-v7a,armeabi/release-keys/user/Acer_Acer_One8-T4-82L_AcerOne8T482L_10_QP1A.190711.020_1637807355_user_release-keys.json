@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Acer",
+  "MODEL": "Acer One 8 T4-82L",
+  "BRAND": "Acer",
+  "PRODUCT": "Acer_One8-T4-82L",
+  "DEVICE": "AcerOne8T482L",
+  "FINGERPRINT": "Acer/Acer_One8-T4-82L/AcerOne8T482L:10/QP1A.190711.020/1637807355:user/release-keys",
+  "SECURITY_PATCH": "2021-11-05",
+  "FIRST_API_LEVEL": "29",
+  "BUILD_ID": "QP1A.190711.020",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1637807355",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

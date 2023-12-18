@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "ALLVIEW",
+  "MODEL": "V1_Viper",
+  "BRAND": "ALLVIEW",
+  "PRODUCT": "ALLVIEW",
+  "DEVICE": "ALLVIEW",
+  "FINGERPRINT": "ALLVIEW/ALLVIEW/ALLVIEW:4.4.2/KOT49H/1421933827:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.znsj_bianyi3.1421933827",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LGLS450",
+  "BRAND": "lge",
+  "PRODUCT": "me0_spr_us",
+  "DEVICE": "me0",
+  "FINGERPRINT": "lge/me0_spr_us/me0:6.0.1/MXB48T/16256112877be:user/release-keys",
+  "SECURITY_PATCH": "2016-09-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MXB48T",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "16256112877be",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

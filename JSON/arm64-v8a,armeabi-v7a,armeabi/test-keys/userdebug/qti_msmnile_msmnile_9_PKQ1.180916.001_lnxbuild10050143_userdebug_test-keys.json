@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "QUALCOMM",
+  "MODEL": "msmnile for arm64",
+  "BRAND": "qti",
+  "PRODUCT": "msmnile",
+  "DEVICE": "msmnile",
+  "FINGERPRINT": "qti/msmnile/msmnile:9/PKQ1.180916.001/lnxbuild10050143:userdebug/test-keys",
+  "SECURITY_PATCH": "2018-08-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "PKQ1.180916.001",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.lnxbui.20181005.014402",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

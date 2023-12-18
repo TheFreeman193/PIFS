@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HUAWEI",
+  "MODEL": "HUAWEI G510-0200",
+  "BRAND": "Huawei",
+  "PRODUCT": "G510-0200",
+  "DEVICE": "hwG510-0200",
+  "FINGERPRINT": "Huawei/G510-0200/hwG510-0200:4.1.1/HuaweiG510-0200/C96B195:user/ota-rel-keys,release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "HuaweiG510-0200",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "C96B195",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

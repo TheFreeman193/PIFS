@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "bq",
+  "MODEL": "Edison 2 Quad Core",
+  "BRAND": "bq",
+  "PRODUCT": "bq_Edison2_QuadCore",
+  "DEVICE": "edison2qc",
+  "FINGERPRINT": "bq/cm_edison2qc/edison2qc:4.4.4/KTU84Q/8ebcff1e8e:userdebug/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84Q",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "8ebcff1e8e",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "bq",
+  "MODEL": "Aquaris C",
+  "BRAND": "bq",
+  "PRODUCT": "jeice_bq",
+  "DEVICE": "jeice",
+  "FINGERPRINT": "bq/jeice_bq/jeice:8.1.0/OPM1.171019.026/1267:user/release-keys",
+  "SECURITY_PATCH": "2018-10-01",
+  "FIRST_API_LEVEL": "27",
+  "BUILD_ID": "OPM1.171019.026",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1267",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

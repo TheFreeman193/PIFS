@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Samsung",
+  "MODEL": "SM-A525F",
+  "BRAND": "samsung",
+  "PRODUCT": "a52qnsxx",
+  "DEVICE": "a52q",
+  "FINGERPRINT": "samsung/a52qnsxx/a52q:11/RP1A.200720.012/A525FXXU2AUF3:user/release-keys",
+  "SECURITY_PATCH": "2021-06-01",
+  "FIRST_API_LEVEL": "30",
+  "BUILD_ID": "RP1A.200720.012",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "A525FXXU2AUF3",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

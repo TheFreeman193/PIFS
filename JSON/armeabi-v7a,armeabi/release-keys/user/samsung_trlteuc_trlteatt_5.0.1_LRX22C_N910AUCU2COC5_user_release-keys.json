@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SAMSUNG-SM-N910A",
+  "BRAND": "samsung",
+  "PRODUCT": "trlteuc",
+  "DEVICE": "trlteatt",
+  "FINGERPRINT": "samsung/trlteuc/trlteatt:5.0.1/LRX22C/N910AUCU2COC5:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LRX22C",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "N910AUCU2COC5",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

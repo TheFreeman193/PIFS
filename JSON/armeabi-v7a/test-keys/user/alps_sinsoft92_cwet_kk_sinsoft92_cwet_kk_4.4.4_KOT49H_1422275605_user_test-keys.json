@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "X9",
+  "BRAND": "CUBOT",
+  "PRODUCT": "X9",
+  "DEVICE": "X9",
+  "FINGERPRINT": "alps/sinsoft92_cwet_kk/sinsoft92_cwet_kk:4.4.4/KOT49H/1422275605:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.caojinliang.1422275605",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

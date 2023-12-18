@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HTP Semiconductor, Inc.",
+  "MODEL": "Android projector",
+  "BRAND": "Mstar",
+  "PRODUCT": "full_grape",
+  "DEVICE": "grape",
+  "FINGERPRINT": "Mstar/full_grape/grape:4.4.4/DLP00090510000/0.0.1:userdebug/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "DLP00090510000",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "0.0.1",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

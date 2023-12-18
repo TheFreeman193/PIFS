@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HUAWEI",
+  "MODEL": "hi6210sft",
+  "BRAND": "hi6210sft",
+  "PRODUCT": "hi6210sft",
+  "DEVICE": "hi6210sft",
+  "FINGERPRINT": "hi6210sft/hi6210sft/hi6210sft:5.0/LRX21M/jenkins09051417:user/test-keys",
+  "SECURITY_PATCH": "2016-08-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LRX21M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.jenkins.20160905.141529",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

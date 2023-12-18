@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "NVIDIA",
+  "MODEL": "SHIELD Tablet",
+  "BRAND": "nvidia",
+  "PRODUCT": "wx_na_do",
+  "DEVICE": "shieldtablet",
+  "FINGERPRINT": "nvidia/wx_na_do/shieldtablet:5.1.1/LMY48C/35398_567.2193:user/release-keys",
+  "SECURITY_PATCH": "NULL",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY48C",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "35398_567.2193",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

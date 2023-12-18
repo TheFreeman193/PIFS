@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Philips",
+  "MODEL": "Philips I908",
+  "BRAND": "Philips",
+  "PRODUCT": "I908",
+  "DEVICE": "Octa",
+  "FINGERPRINT": "Philips/I908/Octa:4.4.2/KOT49H/1428988093.V05:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1428988093.V05",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

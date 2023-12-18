@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "DOOGEE",
+  "MODEL": "HT16",
+  "BRAND": "DOOGEE",
+  "PRODUCT": "full_br6580_weg_emmc_m",
+  "DEVICE": "br6580_weg_emmc_m",
+  "FINGERPRINT": "DOOGEE/full_br6580_weg_emmc_m/br6580_weg_emmc_m:6.0/MRA58K/1482385179:user/test-keys",
+  "SECURITY_PATCH": "2016-10-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1482385179",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

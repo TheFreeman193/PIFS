@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "GT-S5830L",
+  "BRAND": "samsung",
+  "PRODUCT": "GT-S5830L",
+  "DEVICE": "GT-S5830L",
+  "FINGERPRINT": "samsung/GT-S5830L/GT-S5830L:2.3.6/GINGERBREAD/UBKPL:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "GINGERBREAD",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "UBKPL",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

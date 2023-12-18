@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HUAWEI",
+  "MODEL": "T1 7.0",
+  "BRAND": "Huawei",
+  "PRODUCT": "MediaPad",
+  "DEVICE": "hwt1701",
+  "FINGERPRINT": "Huawei/MediaPad/hwt1701:4.4.2/HuaweiMediaPad/T1701uasV1R1C209B005:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "HuaweiMediaPad",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "C209B005",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

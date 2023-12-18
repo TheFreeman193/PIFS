@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "motorola",
+  "MODEL": "XT1022",
+  "BRAND": "motorola",
+  "PRODUCT": "condor_retaildsds",
+  "DEVICE": "condor_umtsds",
+  "FINGERPRINT": "motorola/condor_retaildsds/condor_umtsds:4.4.4/KXC21.5-40/46:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KXC21.5-40",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "46",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SHV-E330L",
+  "BRAND": "samsung",
+  "PRODUCT": "ks01ltelgt",
+  "DEVICE": "ks01ltelgt",
+  "FINGERPRINT": "samsung/ks01ltelgt/ks01ltelgt:4.4.2/KOT49H/E330LKLUCNJ1:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "E330LKLUCNJ1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

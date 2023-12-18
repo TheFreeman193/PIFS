@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "ZTE",
+  "MODEL": "Z839",
+  "BRAND": "ZTE",
+  "PRODUCT": "Z839",
+  "DEVICE": "sweet",
+  "FINGERPRINT": "ZTE/Z839/sweet:7.1.1/NMF26V/20190620.173333:user/release-keys",
+  "SECURITY_PATCH": "2019-07-01",
+  "FIRST_API_LEVEL": "24",
+  "BUILD_ID": "NMF26V",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20190620.173333",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

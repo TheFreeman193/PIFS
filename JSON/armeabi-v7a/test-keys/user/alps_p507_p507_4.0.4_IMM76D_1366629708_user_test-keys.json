@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "p507",
+  "BRAND": "alps",
+  "PRODUCT": "p507",
+  "DEVICE": "p507",
+  "FINGERPRINT": "alps/p507/p507:4.0.4/IMM76D/1366629708:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "IMM76D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.yud.1366629708",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Amazon",
+  "MODEL": "Z6530V",
+  "BRAND": "Amazon",
+  "PRODUCT": "full_ford",
+  "DEVICE": "ford",
+  "FINGERPRINT": "Amazon/full_ford/ford:5.1.1/LVY48F/37.5.5.2_user_552153420:user/release-keys",
+  "SECURITY_PATCH": "2016-05-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LVY48F",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "37.5.5.2_user_552153420",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

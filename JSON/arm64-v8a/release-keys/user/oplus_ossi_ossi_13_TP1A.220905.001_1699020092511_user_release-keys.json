@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "oplus",
+  "MODEL": "ossi",
+  "BRAND": "oplus",
+  "PRODUCT": "ossi",
+  "DEVICE": "ossi",
+  "FINGERPRINT": "oplus/ossi/ossi:13/TP1A.220905.001/1699020092511:user/release-keys",
+  "SECURITY_PATCH": "2023-11-05",
+  "FIRST_API_LEVEL": "30",
+  "BUILD_ID": "TP1A.220905.001",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1699020092511",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

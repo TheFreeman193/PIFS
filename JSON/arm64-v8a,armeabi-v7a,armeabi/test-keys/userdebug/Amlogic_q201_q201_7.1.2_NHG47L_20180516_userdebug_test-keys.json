@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Amlogic",
+  "MODEL": "T95ZPLUS",
+  "BRAND": "Amlogic",
+  "PRODUCT": "q201",
+  "DEVICE": "T95ZPLUS",
+  "FINGERPRINT": "Amlogic/q201/q201:7.1.2/NHG47L/20180516:userdebug/test-keys",
+  "SECURITY_PATCH": "2017-05-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "NHG47L",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20180516",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

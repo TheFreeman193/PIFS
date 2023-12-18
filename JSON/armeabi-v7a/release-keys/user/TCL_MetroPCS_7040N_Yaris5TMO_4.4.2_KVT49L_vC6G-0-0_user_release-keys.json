@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "TCL",
+  "MODEL": "7040N",
+  "BRAND": "TCL_MetroPCS",
+  "PRODUCT": "7040N",
+  "DEVICE": "Yaris5TMO",
+  "FINGERPRINT": "TCL_MetroPCS/7040N/Yaris5TMO:4.4.2/KVT49L/vC6G-0-0:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KVT49L",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "vC6G-0-0",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

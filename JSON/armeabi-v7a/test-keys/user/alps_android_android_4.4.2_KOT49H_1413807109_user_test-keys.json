@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "thl",
+  "MODEL": "thl T6 pro",
+  "BRAND": "thl",
+  "PRODUCT": "thl T6 pro",
+  "DEVICE": "Android",
+  "FINGERPRINT": "alps/android/android:4.4.2/KOT49H/1413807109:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.huangliang.1413807109",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

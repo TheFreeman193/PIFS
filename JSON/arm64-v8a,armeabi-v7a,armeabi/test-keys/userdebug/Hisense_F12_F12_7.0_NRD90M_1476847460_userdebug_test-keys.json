@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Hisense",
+  "MODEL": "Hisense F12",
+  "BRAND": "Hisense",
+  "PRODUCT": "F12",
+  "DEVICE": "F12",
+  "FINGERPRINT": "Hisense/F12/F12:7.0/NRD90M/1476847460:userdebug/test-keys",
+  "SECURITY_PATCH": "2016-10-05",
+  "FIRST_API_LEVEL": "24",
+  "BUILD_ID": "NRD90M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1476847460",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

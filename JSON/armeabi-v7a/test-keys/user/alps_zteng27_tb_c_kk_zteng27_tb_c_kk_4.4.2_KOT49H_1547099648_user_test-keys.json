@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "ZTENG",
+  "MODEL": "ZT502",
+  "BRAND": "alps",
+  "PRODUCT": "PND",
+  "DEVICE": "zteng27_tb_c_kk",
+  "FINGERPRINT": "alps/zteng27_tb_c_kk/zteng27_tb_c_kk:4.4.2/KOT49H/1547099648:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.hg.1547099648",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

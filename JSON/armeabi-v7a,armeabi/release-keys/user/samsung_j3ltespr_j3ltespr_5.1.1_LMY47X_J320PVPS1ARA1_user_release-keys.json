@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-J320P",
+  "BRAND": "samsung",
+  "PRODUCT": "j3ltespr",
+  "DEVICE": "j3ltespr",
+  "FINGERPRINT": "samsung/j3ltespr/j3ltespr:5.1.1/LMY47X/J320PVPS1ARA1:user/release-keys",
+  "SECURITY_PATCH": "2018-01-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47X",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "J320PVPS1ARA1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "ZTE",
+  "MODEL": "X9180",
+  "BRAND": "ZTE",
+  "PRODUCT": "X9180",
+  "DEVICE": "X9180",
+  "FINGERPRINT": "ZTE/X9180/X9180:4.4.2/KVT49L/eng.nubia.20140827.094524:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KVT49L",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.nubia.20140929.170431",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

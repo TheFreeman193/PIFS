@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LEAGOO_Lead5",
+  "MODEL": "LEAGOO_Lead5",
+  "BRAND": "LEAGOO_Lead5",
+  "PRODUCT": "LEAGOO_Lead5",
+  "DEVICE": "LEAGOO_Lead5",
+  "FINGERPRINT": "LEAGOO_Lead5/LEAGOO_Lead5/LEAGOO_Lead5:4.4.2/KOT49H/1426232199:user/dev-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.jenkins.1426232199",
+  "TYPE": "user",
+  "TAGS": "dev-keys"
+}

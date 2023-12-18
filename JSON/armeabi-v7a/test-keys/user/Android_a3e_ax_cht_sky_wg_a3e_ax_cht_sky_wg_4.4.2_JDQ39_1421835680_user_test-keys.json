@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "Android",
+  "BRAND": "Android",
+  "PRODUCT": "a3e_ax_cht_sky_wg",
+  "DEVICE": "a3e_ax_cht_sky_wg",
+  "FINGERPRINT": "Android/a3e_ax_cht_sky_wg/a3e_ax_cht_sky_wg:4.4.2/JDQ39/1421835680:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.user.1421835680",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Meizu",
+  "MODEL": "PRO 6 Plus",
+  "BRAND": "Meizu",
+  "PRODUCT": "meizu_PRO6Plus",
+  "DEVICE": "PRO6Plus",
+  "FINGERPRINT": "Meizu/meizu_PRO6Plus/PRO6Plus:7.0.0/NRD90M/m96.Flyme_7.0.1533805452:user/release-keys",
+  "SECURITY_PATCH": "2018-06-05",
+  "FIRST_API_LEVEL": "25",
+  "BUILD_ID": "NRD90M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "m96.Flyme_7.0.1533805452",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

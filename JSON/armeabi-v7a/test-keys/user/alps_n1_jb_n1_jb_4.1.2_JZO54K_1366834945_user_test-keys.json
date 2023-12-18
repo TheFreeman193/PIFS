@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "n1_jb",
+  "BRAND": "alps",
+  "PRODUCT": "n1_jb",
+  "DEVICE": "n1_jb",
+  "FINGERPRINT": "alps/n1_jb/n1_jb:4.1.2/JZO54K/1366834945:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JZO54K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.lewa.1366834945",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "rockchip",
+  "MODEL": "MXQ-4K",
+  "BRAND": "Android",
+  "PRODUCT": "rk322x_box",
+  "DEVICE": "rk322x_box",
+  "FINGERPRINT": "Android/rk322x_box/rk322x_box:6.0.1/MXC89K/user.akrd-50.20170602.125101:userdebug/test-keys",
+  "SECURITY_PATCH": "2016-03-01",
+  "FIRST_API_LEVEL": "23",
+  "BUILD_ID": "MXC89K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "user.akrd-50.20170602.125101",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

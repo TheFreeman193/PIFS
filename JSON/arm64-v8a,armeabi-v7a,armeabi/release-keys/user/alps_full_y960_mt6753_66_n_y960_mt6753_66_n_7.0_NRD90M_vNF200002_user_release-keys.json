@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "y960_mt6753_66_n",
+  "BRAND": "alps",
+  "PRODUCT": "full_y960_mt6753_66_n",
+  "DEVICE": "y960_mt6753_66_n",
+  "FINGERPRINT": "alps/full_y960_mt6753_66_n/y960_mt6753_66_n:7.0/NRD90M/vNF200002:user/release-keys",
+  "SECURITY_PATCH": "2018-04-05",
+  "FIRST_API_LEVEL": "24",
+  "BUILD_ID": "NRD90M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "vNF200002",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

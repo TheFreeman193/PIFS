@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "ZTE",
+  "MODEL": "Z6530V",
+  "BRAND": "WonderMedia",
+  "PRODUCT": "VSBL_Z6530V",
+  "DEVICE": "wmid",
+  "FINGERPRINT": "WonderMedia/wmid/wmid:4.1.1/JRO03H/_130108.1751:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JRO03H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "_130108.1751",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

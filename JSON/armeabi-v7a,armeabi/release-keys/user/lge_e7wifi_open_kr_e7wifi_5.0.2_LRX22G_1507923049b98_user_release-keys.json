@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LG-V400",
+  "BRAND": "lge",
+  "PRODUCT": "e7wifi_open_kr",
+  "DEVICE": "e7wifi",
+  "FINGERPRINT": "lge/e7wifi_open_kr/e7wifi:5.0.2/LRX22G/1507923049b98:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LRX22G",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1507923049b98",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

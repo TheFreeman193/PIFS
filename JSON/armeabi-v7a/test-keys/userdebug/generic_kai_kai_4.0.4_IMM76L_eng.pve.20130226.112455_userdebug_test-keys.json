@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "NVIDIA",
+  "MODEL": "Oysters T34",
+  "BRAND": "generic",
+  "PRODUCT": "kai",
+  "DEVICE": "kai",
+  "FINGERPRINT": "generic/kai/kai:4.0.4/IMM76L/eng.pve.20130226.112455:userdebug/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "IMM76L",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.pve.20130226.112455",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

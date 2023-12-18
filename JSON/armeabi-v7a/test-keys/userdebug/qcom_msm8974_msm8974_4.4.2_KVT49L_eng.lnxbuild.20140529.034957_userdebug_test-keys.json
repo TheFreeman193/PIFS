@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "unknown",
+  "MODEL": "msm8974",
+  "BRAND": "qcom",
+  "PRODUCT": "msm8974",
+  "DEVICE": "msm8974",
+  "FINGERPRINT": "qcom/msm8974/msm8974:4.4.2/KVT49L/eng.lnxbuild.20140529.034957:userdebug/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KVT49L",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.lnxbuild.20140529.034957",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

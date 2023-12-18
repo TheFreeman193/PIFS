@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "motorola",
+  "MODEL": "RAZR HD",
+  "BRAND": "motorola",
+  "PRODUCT": "XT925",
+  "DEVICE": "vanquish_u",
+  "FINGERPRINT": "motorola/XT925_rtfr/vanquish_u:4.4.2/KDA20.127/59:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47V",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "52cc8f0396",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

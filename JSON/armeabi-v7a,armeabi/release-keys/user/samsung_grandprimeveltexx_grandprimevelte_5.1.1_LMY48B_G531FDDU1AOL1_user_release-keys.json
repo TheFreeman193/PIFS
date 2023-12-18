@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-G531F",
+  "BRAND": "samsung",
+  "PRODUCT": "grandprimeveltexx",
+  "DEVICE": "grandprimevelte",
+  "FINGERPRINT": "samsung/grandprimeveltexx/grandprimevelte:5.1.1/LMY48B/G531FDDU1AOL1:user/release-keys",
+  "SECURITY_PATCH": "2015-12-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY48B",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "G531FDDU1AOL1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

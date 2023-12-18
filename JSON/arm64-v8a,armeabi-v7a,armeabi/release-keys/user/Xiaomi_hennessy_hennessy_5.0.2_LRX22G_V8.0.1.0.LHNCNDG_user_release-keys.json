@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "Redmi Note 3",
+  "BRAND": "Xiaomi",
+  "PRODUCT": "hennessy",
+  "DEVICE": "hennessy",
+  "FINGERPRINT": "Xiaomi/hennessy/hennessy:5.0.2/LRX22G/V8.0.1.0.LHNCNDG:user/release-keys",
+  "SECURITY_PATCH": "2016-08-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LRX22G",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "V8.0.1.0.LHNCNDG",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

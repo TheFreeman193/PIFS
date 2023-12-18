@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Archos",
+  "MODEL": "Archos 55 Helium",
+  "BRAND": "archos",
+  "PRODUCT": "MTKAC55HE",
+  "DEVICE": "ac55he",
+  "FINGERPRINT": "archos/MTKAC55HE/ac55he:6.0/MRA58K/20181129.010922:user/release-keys",
+  "SECURITY_PATCH": "2018-08-05",
+  "FIRST_API_LEVEL": "23",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20181129.010922",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

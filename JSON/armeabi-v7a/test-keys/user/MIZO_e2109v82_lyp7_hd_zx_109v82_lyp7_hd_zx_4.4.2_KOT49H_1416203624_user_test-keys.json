@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "MIZO",
+  "MODEL": "MZ-I8",
+  "BRAND": "MIZO",
+  "PRODUCT": "e2109v82_lyp7_hd_zx",
+  "DEVICE": "109v82_lyp7_hd_zx",
+  "FINGERPRINT": "MIZO/e2109v82_lyp7_hd_zx/109v82_lyp7_hd_zx:4.4.2/KOT49H/1416203624:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.root.1416203624",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

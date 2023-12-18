@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-J510GN",
+  "BRAND": "samsung",
+  "PRODUCT": "j5xnltedx",
+  "DEVICE": "j5xnlte",
+  "FINGERPRINT": "samsung/j5xnltedx/j5xnlte:6.0.1/MMB29M/J510GNDXU1APF4:user/release-keys",
+  "SECURITY_PATCH": "2016-07-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MMB29M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "J510GNDXU1APF4",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

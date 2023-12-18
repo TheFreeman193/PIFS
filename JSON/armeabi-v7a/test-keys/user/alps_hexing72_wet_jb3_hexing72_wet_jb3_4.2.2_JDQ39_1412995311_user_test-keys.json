@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "SP-1140D",
+  "BRAND": "alps",
+  "PRODUCT": "hexing72_wet_jb3",
+  "DEVICE": "hexing72_wet_jb3",
+  "FINGERPRINT": "alps/hexing72_wet_jb3/hexing72_wet_jb3:4.2.2/JDQ39/1412995311:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.xiaolei.1412995311",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

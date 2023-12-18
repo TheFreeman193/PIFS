@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "CVTE",
+  "MODEL": "Z6530V",
+  "BRAND": "ZTE",
+  "PRODUCT": "VSBL_Z6530V",
+  "DEVICE": "k71v1_64_bsp",
+  "FINGERPRINT": "Mstar/CVTM638_768/CVTM638_768:4.4.4/c62f1ea3_20161010_144419/1.0.0:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "c62f1ea3_20161010_144419",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1.0.0",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

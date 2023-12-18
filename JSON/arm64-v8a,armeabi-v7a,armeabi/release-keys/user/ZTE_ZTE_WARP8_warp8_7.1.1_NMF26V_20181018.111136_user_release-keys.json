@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "ZTE",
+  "MODEL": "N9517",
+  "BRAND": "ZTE",
+  "PRODUCT": "ZTE_WARP8",
+  "DEVICE": "warp8",
+  "FINGERPRINT": "ZTE/ZTE_WARP8/warp8:7.1.1/NMF26V/20181018.111136:user/release-keys",
+  "SECURITY_PATCH": "2018-10-01",
+  "FIRST_API_LEVEL": "24",
+  "BUILD_ID": "NMF26V",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20181018.111136",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

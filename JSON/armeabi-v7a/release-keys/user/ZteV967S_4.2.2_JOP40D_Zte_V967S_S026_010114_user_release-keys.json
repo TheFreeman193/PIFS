@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "Galaxy Nexus",
+  "BRAND": "google",
+  "PRODUCT": "yakju",
+  "DEVICE": "maguro",
+  "FINGERPRINT": "ZteV967S:4.2.2/JOP40D/Zte_V967S_S026_010114:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JOP40D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "V967_S026_010114",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

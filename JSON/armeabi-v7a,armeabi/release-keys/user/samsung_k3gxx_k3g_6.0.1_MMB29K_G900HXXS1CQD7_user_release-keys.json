@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-G900H",
+  "BRAND": "samsung",
+  "PRODUCT": "k3gxx",
+  "DEVICE": "k3g",
+  "FINGERPRINT": "samsung/k3gxx/k3g:6.0.1/MMB29K/G900HXXS1CQD7:user/release-keys",
+  "SECURITY_PATCH": "2017-04-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MMB29K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "G900HXXS1CQD7",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

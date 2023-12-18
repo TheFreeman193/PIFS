@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "X23",
+  "MODEL": "X23",
+  "BRAND": "Android",
+  "PRODUCT": "X23",
+  "DEVICE": "X23",
+  "FINGERPRINT": "alps/full_aeon6737m_65_m0/aeon6737m_65_m0:6.0/MRA58K/1560496409:user/test-keys",
+  "SECURITY_PATCH": "2017-11-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1560496409",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

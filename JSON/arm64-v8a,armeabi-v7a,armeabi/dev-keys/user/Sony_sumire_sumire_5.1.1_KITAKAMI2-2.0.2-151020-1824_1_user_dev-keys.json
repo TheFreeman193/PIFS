@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Sony",
+  "MODEL": "E6653",
+  "BRAND": "Sony",
+  "PRODUCT": "sumire",
+  "DEVICE": "sumire",
+  "FINGERPRINT": "Sony/sumire/sumire:5.1.1/KITAKAMI2-2.0.2-151020-1824/1:user/dev-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "32.0.A.6.152",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1",
+  "TYPE": "user",
+  "TAGS": "dev-keys"
+}

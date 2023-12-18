@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Acer",
+  "MODEL": "A500",
+  "BRAND": "acer",
+  "PRODUCT": "full_a500",
+  "DEVICE": "a500",
+  "FINGERPRINT": "acer/a500_ww_gen1/picasso:4.2.2/JDQ39E/1333032611:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39E",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.thor2002ro.20130425.081703",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

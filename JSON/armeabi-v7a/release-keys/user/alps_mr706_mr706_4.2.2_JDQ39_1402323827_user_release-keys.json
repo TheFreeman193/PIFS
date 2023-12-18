@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "GXPAD395G",
+  "BRAND": "alps",
+  "PRODUCT": "GXPAD395G",
+  "DEVICE": "mr706z",
+  "FINGERPRINT": "alps/mr706/mr706:4.2.2/JDQ39/1402323827:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.dzm.1402323827",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

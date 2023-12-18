@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LENOVO",
+  "MODEL": "Lenovo TB-X103F",
+  "BRAND": "Lenovo",
+  "PRODUCT": "TB-X103F",
+  "DEVICE": "TB-X103F",
+  "FINGERPRINT": "Lenovo/TB-X103F/TB-X103F:6.0.1/LenovoTB-X103F/TB-X103F_S000038_180317_ROW:user/release-keys",
+  "SECURITY_PATCH": "2018-01-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LenovoTB-X103F",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "TB-X103F_S000038_180317_ROW",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

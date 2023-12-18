@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "C6603",
+  "BRAND": "galaxy 3",
+  "PRODUCT": "VSBL_Z6530V",
+  "DEVICE": "C6603",
+  "FINGERPRINT": "samsung/A2525:4.4.2/jdq39/2.050SP.02.a:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "jdq39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "2.050SP.02.a",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "P706",
+  "MODEL": "P706",
+  "BRAND": "Android",
+  "PRODUCT": "full_gs702c",
+  "DEVICE": "gs702c",
+  "FINGERPRINT": "Android/full_gs702c/gs702c:4.2.2/JDQ39/eng.intel.20140104.120023:userdebug/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.intel.20140104.120023",
+  "TYPE": "userdebug",
+  "TAGS": "release-keys"
+}

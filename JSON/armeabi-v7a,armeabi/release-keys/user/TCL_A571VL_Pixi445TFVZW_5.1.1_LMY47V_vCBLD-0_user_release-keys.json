@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "TCT",
+  "MODEL": "A571VL",
+  "BRAND": "TCL",
+  "PRODUCT": "A571VL",
+  "DEVICE": "Pixi445TFVZW",
+  "FINGERPRINT": "TCL/A571VL/Pixi445TFVZW:5.1.1/LMY47V/vCBLD-0:user/release-keys",
+  "SECURITY_PATCH": "2016-05-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47V",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "vCBLD-0",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

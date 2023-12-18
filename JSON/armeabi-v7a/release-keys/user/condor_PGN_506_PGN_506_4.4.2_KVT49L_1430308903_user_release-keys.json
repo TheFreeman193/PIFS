@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "SPA_CONDOR_ELECTRONICS",
+  "MODEL": "PGN-506",
+  "BRAND": "condor",
+  "PRODUCT": "condor",
+  "DEVICE": "condor",
+  "FINGERPRINT": "condor/PGN_506/PGN_506:4.4.2/KVT49L/1430308903:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KVT49L",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.znsj.20150513.150523",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

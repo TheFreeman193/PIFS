@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "jiayu",
+  "MODEL": "s3",
+  "BRAND": "jiayu",
+  "PRODUCT": "aicp_s3_h560",
+  "DEVICE": "s3_h560",
+  "FINGERPRINT": "jiayu/aicp_s3_h560/s3_h560:6.0.1/MOB30Z/feae2b04f7:userdebug/test-keys",
+  "SECURITY_PATCH": "2016-08-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MOB30Z",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "feae2b04f7",
+  "TYPE": "userdebug",
+  "TAGS": "release-keys"
+}

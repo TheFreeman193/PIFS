@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Lenovo",
+  "MODEL": "Lenovo P770",
+  "BRAND": "Lenovo",
+  "PRODUCT": "amoi77_cu_jb2",
+  "DEVICE": "amoi77_cu_jb2",
+  "FINGERPRINT": "AMOI/amoi77_cu_jb2/amoi77_cu_jb2:4.2.2/JDQ39/1377211925:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "3.12.27",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

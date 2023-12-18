@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "INFINIX MOBILITY LIMITED",
+  "MODEL": "Infinix X690B",
+  "BRAND": "Infinix",
+  "PRODUCT": "X690B-GL",
+  "DEVICE": "Infinix-X690B",
+  "FINGERPRINT": "Infinix/X690B-GL/Infinix-X690B:10/QP1A.190711.020/DE-GL-220215V356:user/release-keys",
+  "SECURITY_PATCH": "2022-02-05",
+  "FIRST_API_LEVEL": "29",
+  "BUILD_ID": "QP1A.190711.020",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "DE-GL-220215V356",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

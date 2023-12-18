@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "JTY",
+  "MODEL": "Samsung KT107H",
+  "BRAND": "JTY",
+  "PRODUCT": "kt096h_101_fhd",
+  "DEVICE": "kt096h_101_fhd",
+  "FINGERPRINT": "alps/kt096h_101_fhd/kt096h_101_fhd:4.4.2/KOT49H/1499327907:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.jty.1499327907",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

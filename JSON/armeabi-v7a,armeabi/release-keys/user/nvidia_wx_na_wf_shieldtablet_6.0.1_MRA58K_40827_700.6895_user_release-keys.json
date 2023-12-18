@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "NVIDIA",
+  "MODEL": "SHIELD Tablet",
+  "BRAND": "nvidia",
+  "PRODUCT": "wx_na_wf",
+  "DEVICE": "shieldtablet",
+  "FINGERPRINT": "nvidia/wx_na_wf/shieldtablet:6.0.1/MRA58K/40827_700.6895:user/release-keys",
+  "SECURITY_PATCH": "2016-03-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "40827_700.6895",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

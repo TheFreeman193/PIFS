@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "itel",
+  "MODEL": "itel it1452",
+  "BRAND": "Spreadtrum",
+  "PRODUCT": "scx15_sp7715eacuccspecAplus_UUI",
+  "DEVICE": "scx15_sp7715ea",
+  "FINGERPRINT": "Spreadtrum/scx15_sp7715eacuccspecAplus_UUI/scx15_sp7715ea:4.4.2/KOT49H/19.1_P14.43.3:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "19.1_P14.43.3",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

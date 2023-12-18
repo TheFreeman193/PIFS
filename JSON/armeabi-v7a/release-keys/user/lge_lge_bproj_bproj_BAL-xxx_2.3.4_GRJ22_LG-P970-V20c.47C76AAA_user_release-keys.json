@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LG-P970",
+  "BRAND": "lge",
+  "PRODUCT": "lge_bproj",
+  "DEVICE": "bproj_BAL-xxx",
+  "FINGERPRINT": "lge/lge_bproj/bproj_BAL-xxx:2.3.4/GRJ22/LG-P970-V20c.47C76AAA:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "GRJ22",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "LG-P970-V20c.47C76AAA",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

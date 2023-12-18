@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "NVIDIA",
+  "MODEL": "SHIELD Tablet",
+  "BRAND": "nvidia",
+  "PRODUCT": "wx_na_wf",
+  "DEVICE": "shieldtablet",
+  "FINGERPRINT": "nvidia/wx_na_wf/shieldtablet:4.4.2/KOT49H/24526_458.3788:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "24526_458.3788",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

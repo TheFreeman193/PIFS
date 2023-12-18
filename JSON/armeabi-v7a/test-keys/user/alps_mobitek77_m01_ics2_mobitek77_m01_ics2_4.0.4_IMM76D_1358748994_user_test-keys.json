@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "T720",
+  "BRAND": "MITO02",
+  "PRODUCT": "MITO",
+  "DEVICE": "T720",
+  "FINGERPRINT": "alps/mobitek77_m01_ics2/mobitek77_m01_ics2:4.0.4/IMM76D/1358748994:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "IMM76D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.gm1225.1358748994",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

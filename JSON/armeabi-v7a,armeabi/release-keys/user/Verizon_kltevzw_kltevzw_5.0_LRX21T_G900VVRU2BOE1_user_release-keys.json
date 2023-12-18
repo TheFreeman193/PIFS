@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-G900V",
+  "BRAND": "Verizon",
+  "PRODUCT": "kltevzw",
+  "DEVICE": "kltevzw",
+  "FINGERPRINT": "Verizon/kltevzw/kltevzw:5.0/LRX21T/G900VVRU2BOE1:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LRX21T",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "G900VVRU2BOE1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

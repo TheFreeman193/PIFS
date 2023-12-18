@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "L7RET",
+  "MODEL": "VIVO",
+  "BRAND": "alps",
+  "PRODUCT": "l7ret_bxc_ds",
+  "DEVICE": "Android",
+  "FINGERPRINT": "alps/l7ret_bxc_ds/l7ret_bxc_ds:4.2.2/JDQ39/1380451791:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.maihaiqi.1380451791",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

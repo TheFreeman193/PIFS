@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-G950U",
+  "BRAND": "samsung",
+  "PRODUCT": "dreamqltesq",
+  "DEVICE": "dreamqltesq",
+  "FINGERPRINT": "samsung/dreamqltesq/dreamqltesq:7.0/NRD90M/G950USQU1AQDE:user/release-keys",
+  "SECURITY_PATCH": "2017-04-01",
+  "FIRST_API_LEVEL": "24",
+  "BUILD_ID": "NRD90M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "G950USQU1AQDE",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

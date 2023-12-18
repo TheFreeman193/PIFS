@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Meizu",
+  "MODEL": "M2Note",
+  "BRAND": "Meizu",
+  "PRODUCT": "lineage_m2note",
+  "DEVICE": "m2note",
+  "FINGERPRINT": "Meizu/lineage_m2note/m2note:7.1.2/NJH47F/2c420fff73:user/release-keys",
+  "SECURITY_PATCH": "2018-05-05",
+  "FIRST_API_LEVEL": "22",
+  "BUILD_ID": "NJH47F",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "2c420fff73",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

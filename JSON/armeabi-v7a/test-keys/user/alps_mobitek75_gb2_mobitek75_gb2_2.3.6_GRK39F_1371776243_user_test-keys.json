@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "Galaxy S4",
+  "BRAND": "Galaxy S4",
+  "PRODUCT": "Galaxy S4",
+  "DEVICE": "Galaxy S4",
+  "FINGERPRINT": "alps/mobitek75_gb2/mobitek75_gb2:2.3.6/GRK39F/1371776243:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "GRK39F",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.test.1371776243",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

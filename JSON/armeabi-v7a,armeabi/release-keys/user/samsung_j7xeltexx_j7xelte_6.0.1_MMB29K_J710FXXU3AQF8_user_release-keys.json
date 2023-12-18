@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-J710F",
+  "BRAND": "samsung",
+  "PRODUCT": "j7xeltexx",
+  "DEVICE": "j7xelte",
+  "FINGERPRINT": "samsung/j7xeltexx/j7xelte:6.0.1/MMB29K/J710FXXU3AQF8:user/release-keys",
+  "SECURITY_PATCH": "2017-06-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MMB29K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "J710FXXU3AQF8",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

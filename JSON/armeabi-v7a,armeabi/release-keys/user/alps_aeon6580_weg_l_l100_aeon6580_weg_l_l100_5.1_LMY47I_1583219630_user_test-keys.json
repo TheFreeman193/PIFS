@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "apls",
+  "MODEL": "A8S",
+  "BRAND": "QMX",
+  "PRODUCT": "A8S",
+  "DEVICE": "A8S",
+  "FINGERPRINT": "alps/aeon6580_weg_l_l100/aeon6580_weg_l_l100:5.1/LMY47I/1583219630:user/test-keys",
+  "SECURITY_PATCH": "2017-03-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47I",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1583219630",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

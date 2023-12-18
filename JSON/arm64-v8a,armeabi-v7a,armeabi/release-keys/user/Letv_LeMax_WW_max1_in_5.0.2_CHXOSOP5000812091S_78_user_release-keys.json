@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Letv",
+  "MODEL": "Le Max",
+  "BRAND": "Letv",
+  "PRODUCT": "LeMax_WW",
+  "DEVICE": "max1_in",
+  "FINGERPRINT": "Letv/LeMax_WW/max1_in:5.0.2/CHXOSOP5000812091S/78:user/release-keys",
+  "SECURITY_PATCH": "2015-12-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "CHXOSOP5000812091S",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "78",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

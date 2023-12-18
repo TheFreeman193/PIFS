@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "ZTE",
+  "MODEL": "Z3001S",
+  "BRAND": "ZTE",
+  "PRODUCT": "ZTE_SAPPHIRELTE",
+  "DEVICE": "sapphire4g",
+  "FINGERPRINT": "ZTE/ZTE_SAPPHIRELTE/sapphire4g:7.1.1/NMF26V/20191209.111413:user/release-keys",
+  "SECURITY_PATCH": "2019-12-01",
+  "FIRST_API_LEVEL": "24",
+  "BUILD_ID": "NMF26V",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20191209.111413",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LENOVO",
+  "MODEL": "Lenovo A516",
+  "BRAND": "LENOVO",
+  "PRODUCT": "A516_AllegroROM",
+  "DEVICE": "A516_ALLEGROROM",
+  "FINGERPRINT": "LENOVO/A516_AllegroROM/A516_ALLEGROROM:4.2.2/JDQ39/1379405516:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.pengyinhua.1379405516",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

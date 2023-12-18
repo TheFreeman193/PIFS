@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "OnePlus",
+  "MODEL": "GM1915",
+  "BRAND": "OnePlus",
+  "PRODUCT": "OnePlus7ProTMO",
+  "DEVICE": "OnePlus7ProTMO",
+  "FINGERPRINT": "OnePlus/OnePlus7ProTMO/OnePlus7ProTMO:10/QKQ1.190716.003/2012102113:user/release-keys",
+  "SECURITY_PATCH": "2020-12-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "QKQ1.190716.003",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "2012102113",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

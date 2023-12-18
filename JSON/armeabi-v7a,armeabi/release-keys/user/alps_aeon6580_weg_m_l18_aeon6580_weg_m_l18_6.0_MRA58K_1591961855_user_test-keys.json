@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "leimin",
+  "MODEL": "S20 Pro",
+  "BRAND": "Android",
+  "PRODUCT": "S20 Pro",
+  "DEVICE": "S20 Pro",
+  "FINGERPRINT": "alps/aeon6580_weg_m_l18/aeon6580_weg_m_l18:6.0/MRA58K/1591961855:user/test-keys",
+  "SECURITY_PATCH": "2020-05-22",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1591961855",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

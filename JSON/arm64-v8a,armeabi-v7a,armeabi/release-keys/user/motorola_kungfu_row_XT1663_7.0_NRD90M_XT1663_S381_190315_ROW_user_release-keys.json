@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "motorola",
+  "MODEL": "XT1663",
+  "BRAND": "motorola",
+  "PRODUCT": "kungfu_row",
+  "DEVICE": "XT1663",
+  "FINGERPRINT": "motorola/kungfu_row/XT1663:7.0/NRD90M/XT1663_S381_190315_ROW:user/release-keys",
+  "SECURITY_PATCH": "2018-08-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "NRD90M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "XT1663_S381_190315_ROW",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "YUSUN",
+  "MODEL": "Hero-K1",
+  "BRAND": "Hero-K1",
+  "PRODUCT": "LA2-W",
+  "DEVICE": "YUSUN_LA2-W",
+  "FINGERPRINT": "Hero-K1/LA2-W/YUSUN_LA2-W:4.2.2/Hero-K1LA2-W/AW839Q-BH725AMD10-0101-V0103:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "Hero-K1LA2-W",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng..1405674013",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

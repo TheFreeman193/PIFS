@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-G360H",
+  "BRAND": "samsung",
+  "PRODUCT": "core33gdd",
+  "DEVICE": "core33g",
+  "FINGERPRINT": "samsung/core33gdd/core33g:4.4.4/KTU84P/G360HDDU0APA3:user/release-keys",
+  "SECURITY_PATCH": "2016-01-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84P",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "G360HDDU0APA3",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

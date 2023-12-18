@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "ZTE",
+  "MODEL": "ZTE Blade L3",
+  "BRAND": "ZTE",
+  "PRODUCT": "P182A20",
+  "DEVICE": "P182A20",
+  "FINGERPRINT": "ZTE/P182A20/P182A20:4.4.2/KOT49H/20150918.152839:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.builder2.20150918.152839",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "DIGMA",
+  "MODEL": "Plane 1585S 4G PS1202PL",
+  "BRAND": "DIGMA",
+  "PRODUCT": "Plane_1585S_4G",
+  "DEVICE": "PS1202PL",
+  "FINGERPRINT": "DIGMA/Plane_1585S_4G/PS1202PL:8.1.0/OPM2.171019.012/43311:user/release-keys",
+  "SECURITY_PATCH": "2018-10-05",
+  "FIRST_API_LEVEL": "NULL",
+  "BUILD_ID": "OPM2.171019.012",
+  "VNDK_VERSION": "1",
+  "INCREMENTAL": "43311",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "htc",
+  "MODEL": "a3ul",
+  "BRAND": "htc",
+  "PRODUCT": "slim_a3ul",
+  "DEVICE": "a3ul",
+  "FINGERPRINT": "htc/slim_a3ul/a3ul:4.4.4/KTU84Q/eng.xiaozihan.20150703.161703:userdebug/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84Q",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.xiaozihan.20150703.161703",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

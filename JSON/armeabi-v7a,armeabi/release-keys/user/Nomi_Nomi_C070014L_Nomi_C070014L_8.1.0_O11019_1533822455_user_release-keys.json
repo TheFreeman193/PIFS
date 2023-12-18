@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Nomi",
+  "MODEL": "Nomi_C070014L",
+  "BRAND": "Nomi",
+  "PRODUCT": "Nomi_C070014L",
+  "DEVICE": "Nomi_C070014L",
+  "FINGERPRINT": "Nomi/Nomi_C070014L/Nomi_C070014L:8.1.0/O11019/1533822455:user/release-keys",
+  "SECURITY_PATCH": "2018-07-05",
+  "FIRST_API_LEVEL": "NULL",
+  "BUILD_ID": "O11019",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1533822455",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

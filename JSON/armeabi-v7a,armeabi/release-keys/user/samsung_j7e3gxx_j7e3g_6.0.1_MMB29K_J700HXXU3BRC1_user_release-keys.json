@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-J700H",
+  "BRAND": "samsung",
+  "PRODUCT": "j7e3gxx",
+  "DEVICE": "j7e3g",
+  "FINGERPRINT": "samsung/j7e3gxx/j7e3g:6.0.1/MMB29K/J700HXXU3BRC1:user/release-keys",
+  "SECURITY_PATCH": "2017-08-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MMB29K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "J700HXXU3BRC1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

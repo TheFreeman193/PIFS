@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "bq",
+  "MODEL": "Aquaris E5 HD",
+  "BRAND": "bq",
+  "PRODUCT": "Aquaris_E5_HD",
+  "DEVICE": "Aquaris_E5_HD",
+  "FINGERPRINT": "bq/Aquaris_E5_HD/Aquaris_E5_HD:4.4.2/KOT49H/1434626356:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "54c3b37",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

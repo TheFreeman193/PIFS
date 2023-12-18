@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "MI PAD",
+  "BRAND": "Xiaomi",
+  "PRODUCT": "mocha",
+  "DEVICE": "mocha",
+  "FINGERPRINT": "Xiaomi/mocha/mocha:4.4.4/KTU84P/7.11.16:user/release-keys",
+  "SECURITY_PATCH": "2016-12-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84P",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "7.11.16",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

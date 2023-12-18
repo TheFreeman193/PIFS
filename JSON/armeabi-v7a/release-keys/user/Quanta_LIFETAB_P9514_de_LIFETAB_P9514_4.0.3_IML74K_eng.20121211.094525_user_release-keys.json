@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "MEDION",
+  "MODEL": "LIFETAB_P9514",
+  "BRAND": "Quanta",
+  "PRODUCT": "LIFETAB_P9514_de",
+  "DEVICE": "LIFETAB_P9514",
+  "FINGERPRINT": "Quanta/LIFETAB_P9514_de/LIFETAB_P9514:4.0.3/IML74K/eng.20121211.094525:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "IML74K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.20121211.094525",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

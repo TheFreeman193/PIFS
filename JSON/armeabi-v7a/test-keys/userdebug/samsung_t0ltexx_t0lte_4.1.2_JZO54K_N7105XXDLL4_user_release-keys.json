@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "GT-N7105",
+  "BRAND": "samsung",
+  "PRODUCT": "t0lte",
+  "DEVICE": "t0lte",
+  "FINGERPRINT": "samsung/t0ltexx/t0lte:4.1.2/JZO54K/N7105XXDLL4:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84Q",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.root.20140722.103825",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

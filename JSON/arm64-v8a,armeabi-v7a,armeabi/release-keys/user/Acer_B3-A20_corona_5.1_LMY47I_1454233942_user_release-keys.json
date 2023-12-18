@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Acer",
+  "MODEL": "B3-A20",
+  "BRAND": "Acer",
+  "PRODUCT": "B3-A20",
+  "DEVICE": "corona",
+  "FINGERPRINT": "Acer/B3-A20/corona:5.1/LMY47I/1454233942:user/release-keys",
+  "SECURITY_PATCH": "2016-01-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47I",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1454233942",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

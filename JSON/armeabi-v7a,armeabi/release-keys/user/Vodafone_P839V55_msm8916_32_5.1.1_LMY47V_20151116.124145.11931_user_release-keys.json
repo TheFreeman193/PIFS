@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Vodafone",
+  "MODEL": "Vodafone Smart ultra 6",
+  "BRAND": "Vodafone",
+  "PRODUCT": "P839V55",
+  "DEVICE": "msm8916_32",
+  "FINGERPRINT": "Vodafone/P839V55/msm8916_32:5.1.1/LMY47V/20151116.124145.11931:user/release-keys",
+  "SECURITY_PATCH": "2015-09-11",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47V",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20151116.124145",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

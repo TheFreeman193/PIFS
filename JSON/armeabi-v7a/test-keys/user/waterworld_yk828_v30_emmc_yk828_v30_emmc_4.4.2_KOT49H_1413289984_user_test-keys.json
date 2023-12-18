@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LTE 4G",
+  "MODEL": "LTE 4G",
+  "BRAND": "LTE 4G",
+  "PRODUCT": "yk828_v30_emmc",
+  "DEVICE": "LTE 4G",
+  "FINGERPRINT": "waterworld/yk828_v30_emmc/yk828_v30_emmc:4.4.2/KOT49H/1413289984:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.root.1413289984",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

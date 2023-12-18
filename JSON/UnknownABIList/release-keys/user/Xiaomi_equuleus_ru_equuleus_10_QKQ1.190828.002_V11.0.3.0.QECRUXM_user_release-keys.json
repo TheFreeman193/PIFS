@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "Mi 8 Pro",
+  "BRAND": "Xiaomi",
+  "PRODUCT": "equuleus_ru",
+  "DEVICE": "equuleus",
+  "FINGERPRINT": "Xiaomi/equuleus_ru/equuleus:10/QKQ1.190828.002/V11.0.3.0.QECRUXM:user/release-keys",
+  "SECURITY_PATCH": "2020-04-01",
+  "FIRST_API_LEVEL": "29",
+  "BUILD_ID": "QKQ1.190828.002",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "V11.0.3.0.QECRUXM",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

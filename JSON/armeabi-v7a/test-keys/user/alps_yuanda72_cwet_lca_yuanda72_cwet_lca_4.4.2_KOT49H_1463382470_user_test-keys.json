@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HUAWEI",
+  "MODEL": "Mate2",
+  "BRAND": "HUAWEI",
+  "PRODUCT": "Mate2",
+  "DEVICE": "HUAWEI",
+  "FINGERPRINT": "alps/yuanda72_cwet_lca/yuanda72_cwet_lca:4.4.2/KOT49H/1463382470:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.root.1463382470",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

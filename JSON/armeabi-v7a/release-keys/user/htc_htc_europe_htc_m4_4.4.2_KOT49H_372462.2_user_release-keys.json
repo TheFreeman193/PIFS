@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HTC",
+  "MODEL": "HTC One mini",
+  "BRAND": "htc",
+  "PRODUCT": "htc_europe",
+  "DEVICE": "htc_m4",
+  "FINGERPRINT": "htc/htc_europe/htc_m4:4.4.2/KOT49H/372462.2:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "372462.2",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

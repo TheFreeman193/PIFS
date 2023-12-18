@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "unknown",
+  "MODEL": "Z6530V",
+  "BRAND": "Android",
+  "PRODUCT": "full_gs702c",
+  "DEVICE": "gs702c",
+  "FINGERPRINT": "Android/full_gs702c/gs702c:4.2.2/JDQ39/eng.yl.20131221.145559:userdebug/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.yl.20131221.145559",
+  "TYPE": "userdebug",
+  "TAGS": "release-keys"
+}

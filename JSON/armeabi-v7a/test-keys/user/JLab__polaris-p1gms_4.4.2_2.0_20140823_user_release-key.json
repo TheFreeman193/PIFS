@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Foxconn International Holdings Limited",
+  "MODEL": "JLab PRO-7",
+  "BRAND": "Jlab",
+  "PRODUCT": "JLab_PRO_7",
+  "DEVICE": "JLab_PRO_7",
+  "FINGERPRINT": "JLab//polaris-p1gms:4.4.2/2.0/20140823:user/release-key",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20141211",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

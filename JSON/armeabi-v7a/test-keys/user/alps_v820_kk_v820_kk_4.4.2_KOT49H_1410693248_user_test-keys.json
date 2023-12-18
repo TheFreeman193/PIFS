@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HUAWEI",
+  "MODEL": "HUAWEI",
+  "BRAND": "HUAWEI",
+  "PRODUCT": "HUAWEI",
+  "DEVICE": "HUAWEI",
+  "FINGERPRINT": "alps/v820_kk/v820_kk:4.4.2/KOT49H/1410693248:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.ysm.1410693248",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

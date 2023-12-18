@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HTC",
+  "MODEL": "HTC D820u",
+  "BRAND": "htc",
+  "PRODUCT": "htccn_chs_2",
+  "DEVICE": "htc_a51dtul",
+  "FINGERPRINT": "htc/htccn_chs_2/htc_a51dtul:4.4.4/KTU84P/393232.4:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84P",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "393232.4",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

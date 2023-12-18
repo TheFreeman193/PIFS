@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Sony",
+  "MODEL": "ST27i",
+  "BRAND": "SEMC",
+  "PRODUCT": "ST27i_1265-8433",
+  "DEVICE": "ST27i",
+  "FINGERPRINT": "SEMC/ST27i_1265-8433/ST27i:4.1.2/6.2.A.1.100/m_v_zg:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "6.2.A.1.100",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "m_v_zg",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

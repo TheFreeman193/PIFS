@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "WIKO",
+  "MODEL": "TOMMY",
+  "BRAND": "WIKO",
+  "PRODUCT": "P4901AC",
+  "DEVICE": "P4901AC",
+  "FINGERPRINT": "WIKO/P4901AC/P4901AC:6.0.1/MMB29M/android05232003:user/release-keys",
+  "SECURITY_PATCH": "2016-09-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MMB29M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "android05232003",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "M2006C3MG",
+  "BRAND": "Redmi",
+  "PRODUCT": "angelica_global",
+  "DEVICE": "angelica",
+  "FINGERPRINT": "Redmi/angelica_global/angelica:10/QP1A.190711.020/V12.0.4.0.QCRMIXM:user/release-keys",
+  "SECURITY_PATCH": "2020-08-01",
+  "FIRST_API_LEVEL": "29",
+  "BUILD_ID": "QP1A.190711.020",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "V12.0.4.0.QCRMIXM",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

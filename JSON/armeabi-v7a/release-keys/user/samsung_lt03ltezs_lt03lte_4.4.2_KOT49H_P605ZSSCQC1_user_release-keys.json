@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-P605",
+  "BRAND": "samsung",
+  "PRODUCT": "lt03ltezs",
+  "DEVICE": "lt03lte",
+  "FINGERPRINT": "samsung/lt03ltezs/lt03lte:4.4.2/KOT49H/P605ZSSCQC1:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "P605ZSSCQC1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

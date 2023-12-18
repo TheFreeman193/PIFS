@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "ZTE",
+  "MODEL": "Z832",
+  "BRAND": "ZTE",
+  "PRODUCT": "Z832",
+  "DEVICE": "mimir",
+  "FINGERPRINT": "ZTE/Z832/mimir:6.0.1/MMB29M/20171204.054934:user/release-keys",
+  "SECURITY_PATCH": "2017-12-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MMB29M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20171204.054934",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

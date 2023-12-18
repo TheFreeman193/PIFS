@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "Nexus 7",
+  "BRAND": "samsung",
+  "PRODUCT": "YP-GS1",
+  "DEVICE": "grouper",
+  "FINGERPRINT": "samsung/YP-GS1/YP-GS1:2.3.6/GINGERBREAD/XXLD1:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "GINGERBREAD",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "XXLD1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

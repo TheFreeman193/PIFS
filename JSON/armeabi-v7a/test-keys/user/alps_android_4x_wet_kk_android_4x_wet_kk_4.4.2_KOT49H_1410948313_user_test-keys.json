@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "H900",
+  "BRAND": "alps",
+  "PRODUCT": "android_4x_wet_kk",
+  "DEVICE": "android_4x_wet_kk",
+  "FINGERPRINT": "alps/android_4x_wet_kk/android_4x_wet_kk:4.4.2/KOT49H/1410948313:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.linux-server-build3.1410948313",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

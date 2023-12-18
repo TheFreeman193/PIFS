@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "CUBE",
+  "MODEL": "Freer X9",
+  "BRAND": "cube",
+  "PRODUCT": "cube",
+  "DEVICE": "Freer X9",
+  "FINGERPRINT": "CUBE/full_elink8173_tb_m/elink8173_tb_m:6.0/MRA58L/qyj10260030:user/dev-keys",
+  "SECURITY_PATCH": "2017-03-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MRA58L",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.qyj.20171026.002746",
+  "TYPE": "user",
+  "TAGS": "dev-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Iris",
+  "MODEL": "Iris 415",
+  "BRAND": "Iris",
+  "PRODUCT": "415",
+  "DEVICE": "415",
+  "FINGERPRINT": "Iris/415/415:4.2.2/Iris415/Lava_iris415_S007_20140325:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "Iris415",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng..1395732977",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

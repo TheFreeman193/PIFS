@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Amlogic",
+  "MODEL": "TX92",
+  "BRAND": "Amlogic",
+  "PRODUCT": "q201",
+  "DEVICE": "q201",
+  "FINGERPRINT": "Amlogic/q201/q201:7.1.2/NHG47L/20180502:userdebug/test-keys",
+  "SECURITY_PATCH": "2017-08-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "NHG47L",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20180502",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LG-V909",
+  "BRAND": "lge",
+  "PRODUCT": "lge_startablet",
+  "DEVICE": "v909",
+  "FINGERPRINT": "lge/lge_startablet/v909:3.1/HMJ37/v10p.479758F3:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "HMJ37",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "v10p.479758F3",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

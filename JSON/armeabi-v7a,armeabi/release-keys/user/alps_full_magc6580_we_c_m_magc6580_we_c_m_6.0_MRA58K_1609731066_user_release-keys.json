@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Welcome",
+  "MODEL": "Note21U",
+  "BRAND": "Welcome",
+  "PRODUCT": "sp7731g_fs066_project",
+  "DEVICE": "sp7731g_fs066",
+  "FINGERPRINT": "alps/full_magc6580_we_c_m/magc6580_we_c_m:6.0/MRA58K/1609731066:user/release-keys",
+  "SECURITY_PATCH": "2020-10-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.android.20210104.113032",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

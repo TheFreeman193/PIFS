@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "GT-I9100",
+  "BRAND": "samsung",
+  "PRODUCT": "GT-I9100",
+  "DEVICE": "GT-I9100",
+  "FINGERPRINT": "Fly/IQ4413_Quad/IQ4413_Quad:4.4.2/KOT49H/1401161552:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.jenkins.1401161552",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

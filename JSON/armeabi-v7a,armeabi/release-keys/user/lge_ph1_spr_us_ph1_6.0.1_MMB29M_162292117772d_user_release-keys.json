@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LGLS775",
+  "BRAND": "lge",
+  "PRODUCT": "ph1_spr_us",
+  "DEVICE": "ph1",
+  "FINGERPRINT": "lge/ph1_spr_us/ph1:6.0.1/MMB29M/162292117772d:user/release-keys",
+  "SECURITY_PATCH": "2016-08-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MMB29M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "162292117772d",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

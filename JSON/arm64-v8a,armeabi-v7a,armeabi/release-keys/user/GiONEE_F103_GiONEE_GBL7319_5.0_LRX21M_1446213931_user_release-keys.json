@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "GiONEE",
+  "MODEL": "F103",
+  "BRAND": "GiONEE",
+  "PRODUCT": "F103",
+  "DEVICE": "GiONEE_GBL7319",
+  "FINGERPRINT": "GiONEE/F103/GiONEE_GBL7319:5.0/LRX21M/1446213931:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LRX21M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1446731143",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

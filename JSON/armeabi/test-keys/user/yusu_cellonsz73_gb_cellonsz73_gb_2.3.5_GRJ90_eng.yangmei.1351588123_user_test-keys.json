@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "unknown",
+  "MODEL": "MC603CH",
+  "BRAND": "yusu",
+  "PRODUCT": "cellonsz73_gb",
+  "DEVICE": "cellonsz73_gb",
+  "FINGERPRINT": "yusu/cellonsz73_gb/cellonsz73_gb:2.3.5/GRJ90/eng.yangmei.1351588123:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "GRJ90",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.yangmei.1351588123",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "ASUS",
+  "MODEL": "Z101",
+  "BRAND": "ASUS",
+  "PRODUCT": "Z101",
+  "DEVICE": "Z101",
+  "FINGERPRINT": "alps/full_KT107_port/KT107_port:6.0/LMY47I/1502770221:user/test-keys",
+  "SECURITY_PATCH": "2016-01-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47I",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1502770221",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

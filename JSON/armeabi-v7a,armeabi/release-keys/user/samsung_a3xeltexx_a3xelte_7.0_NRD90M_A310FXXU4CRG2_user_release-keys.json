@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-A310F",
+  "BRAND": "samsung",
+  "PRODUCT": "a3xeltexx",
+  "DEVICE": "a3xelte",
+  "FINGERPRINT": "samsung/a3xeltexx/a3xelte:7.0/NRD90M/A310FXXU4CRG2:user/release-keys",
+  "SECURITY_PATCH": "2018-06-01",
+  "FIRST_API_LEVEL": "22",
+  "BUILD_ID": "NRD90M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "A310FXXU4CRG2",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

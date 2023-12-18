@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Cherry",
+  "MODEL": "A170",
+  "BRAND": "Cherry_Mobile",
+  "PRODUCT": "astar_y3",
+  "DEVICE": "astar-y3",
+  "FINGERPRINT": "Cherry_Mobile/astar_y3/astar-y3:4.4.2/KVT49L/20150608:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KVT49L",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20150608",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

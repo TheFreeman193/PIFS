@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "GT-I8190",
+  "BRAND": "samsung",
+  "PRODUCT": "cm_golden",
+  "DEVICE": "golden",
+  "FINGERPRINT": "samsung/cm_golden/golden:4.4.2/KVT49L/d6d35961a4:userdebug/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KVT49L",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "d6d35961a4",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

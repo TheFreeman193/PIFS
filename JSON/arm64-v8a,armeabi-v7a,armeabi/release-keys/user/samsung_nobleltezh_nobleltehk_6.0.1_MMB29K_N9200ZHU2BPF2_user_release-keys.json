@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-N9200",
+  "BRAND": "samsung",
+  "PRODUCT": "nobleltezh",
+  "DEVICE": "nobleltehk",
+  "FINGERPRINT": "samsung/nobleltezh/nobleltehk:6.0.1/MMB29K/N9200ZHU2BPF2:user/release-keys",
+  "SECURITY_PATCH": "2016-06-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MMB29K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "N9200ZHU2BPF2",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

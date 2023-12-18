@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Google",
+  "MODEL": "Pixel 2 XL",
+  "BRAND": "google",
+  "PRODUCT": "taimen",
+  "DEVICE": "taimen",
+  "FINGERPRINT": "google/taimen/taimen:11/RP1A.201005.004.A1/6934943:user/release-keys",
+  "SECURITY_PATCH": "2020-10-05",
+  "FIRST_API_LEVEL": "26",
+  "BUILD_ID": "RP1A.201005.004.A1",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "6934943",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

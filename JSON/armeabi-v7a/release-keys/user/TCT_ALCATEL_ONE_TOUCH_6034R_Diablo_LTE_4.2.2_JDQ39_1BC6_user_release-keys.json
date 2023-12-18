@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "TCT",
+  "MODEL": "ALCATEL ONE TOUCH 6034R",
+  "BRAND": "TCT",
+  "PRODUCT": "ALCATEL_ONE_TOUCH_6034R",
+  "DEVICE": "Diablo_LTE",
+  "FINGERPRINT": "TCT/ALCATEL_ONE_TOUCH_6034R/Diablo_LTE:4.2.2/JDQ39/1BC6:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1BC6",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LG-H918",
+  "BRAND": "lge",
+  "PRODUCT": "elsa_tmo_us",
+  "DEVICE": "elsa",
+  "FINGERPRINT": "lge/elsa_tmo_us/elsa:8.0.0/OPR1.170623.032/1831917495b33:user/release-keys",
+  "SECURITY_PATCH": "2018-11-01",
+  "FIRST_API_LEVEL": "26",
+  "BUILD_ID": "OPR1.170623.032",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1831917495b33",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

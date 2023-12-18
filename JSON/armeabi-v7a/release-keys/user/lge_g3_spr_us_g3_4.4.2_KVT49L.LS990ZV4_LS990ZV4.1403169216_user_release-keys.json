@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LGLS990",
+  "BRAND": "lge",
+  "PRODUCT": "g3_spr_us",
+  "DEVICE": "g3",
+  "FINGERPRINT": "lge/g3_spr_us/g3:4.4.2/KVT49L.LS990ZV4/LS990ZV4.1403169216:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KVT49L.LS990ZV4",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "LS990ZV4.1403169216",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

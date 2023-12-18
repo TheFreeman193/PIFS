@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "asus",
+  "MODEL": "Nexus 7",
+  "BRAND": "google",
+  "PRODUCT": "razor",
+  "DEVICE": "flo",
+  "FINGERPRINT": "google/razor/flo:6.0.1/MOB30X/3036618:user/release-keys",
+  "SECURITY_PATCH": "2016-08-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MOB30X",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "3036618",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

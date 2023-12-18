@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "GT-P1000M",
+  "BRAND": "samsung",
+  "PRODUCT": "GT-P1000M",
+  "DEVICE": "GT-P1000M",
+  "FINGERPRINT": "samsung/GT-P1000M/GT-P1000M/GT-P1000M:2.2/FROYO/UGJJ7:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "FROYO",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "UGJJ7",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

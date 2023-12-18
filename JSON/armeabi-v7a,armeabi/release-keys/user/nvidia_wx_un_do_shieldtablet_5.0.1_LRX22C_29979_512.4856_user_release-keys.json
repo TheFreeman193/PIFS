@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "NVIDIA",
+  "MODEL": "SHIELD Tablet",
+  "BRAND": "nvidia",
+  "PRODUCT": "wx_un_do",
+  "DEVICE": "shieldtablet",
+  "FINGERPRINT": "nvidia/wx_un_do/shieldtablet:5.0.1/LRX22C/29979_512.4856:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LRX22C",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "29979_512.4856",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

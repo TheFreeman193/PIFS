@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "ADVAN",
+  "MODEL": "Vandroid",
+  "BRAND": "ADVAN",
+  "PRODUCT": "gilda_a21",
+  "DEVICE": "gilda_a21",
+  "FINGERPRINT": "ADVAN/gilda_a21/gilda_a21:4.2.2/S5-F-V1.0-2013.10.30/52705C70:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "S5-F-V1.0-2013.10.30",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.gfs.20131030.090959",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

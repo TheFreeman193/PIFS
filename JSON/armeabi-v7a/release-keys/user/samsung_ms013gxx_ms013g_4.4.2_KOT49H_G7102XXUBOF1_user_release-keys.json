@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-G7102",
+  "BRAND": "samsung",
+  "PRODUCT": "ms013gxx",
+  "DEVICE": "ms013g",
+  "FINGERPRINT": "samsung/ms013gxx/ms013g:4.4.2/KOT49H/G7102XXUBOF1:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "G7102XXUBOF1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

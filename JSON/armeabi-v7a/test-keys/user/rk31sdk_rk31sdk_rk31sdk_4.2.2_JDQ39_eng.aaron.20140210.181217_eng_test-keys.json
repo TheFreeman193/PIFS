@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "rockchip",
+  "MODEL": "rk31sdk",
+  "BRAND": "rk31sdk",
+  "PRODUCT": "rk31sdk",
+  "DEVICE": "rk31sdk",
+  "FINGERPRINT": "rk31sdk/rk31sdk/rk31sdk:4.2.2/JDQ39/eng.aaron.20140210.181217:eng/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.aaron.20140210.181217",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

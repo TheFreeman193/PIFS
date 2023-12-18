@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "motorola",
+  "MODEL": "MotoE2(4G-LTE)",
+  "BRAND": "motorola",
+  "PRODUCT": "surnia_acg_lte",
+  "DEVICE": "surnia_cdma",
+  "FINGERPRINT": "motorola/surnia_acg_lte/surnia_cdma:5.1/LPI23.29-30/35:user/release-keys",
+  "SECURITY_PATCH": "2016-01-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LPI23.29-30",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "35",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

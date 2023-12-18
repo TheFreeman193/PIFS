@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Sony",
+  "MODEL": "D6603",
+  "BRAND": "Sony",
+  "PRODUCT": "leo",
+  "DEVICE": "leo",
+  "FINGERPRINT": "Sony/leo/leo:6.0.1/MMB29X.Z1/3582-somc:user/release-keys",
+  "SECURITY_PATCH": "2016-04-02",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MMB29X.Z1",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "3582-somc",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "bq",
+  "MODEL": "bq Aquaris 4",
+  "BRAND": "bq",
+  "PRODUCT": "bq_Aquaris4",
+  "DEVICE": "bq_Aquaris4",
+  "FINGERPRINT": "bq/bq/bq:4.1.1/JRO03C/:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JRO03C",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "54",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

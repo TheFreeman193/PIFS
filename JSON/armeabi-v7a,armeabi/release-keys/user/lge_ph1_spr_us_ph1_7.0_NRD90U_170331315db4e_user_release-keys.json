@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LGLS775",
+  "BRAND": "lge",
+  "PRODUCT": "ph1_spr_us",
+  "DEVICE": "ph1",
+  "FINGERPRINT": "lge/ph1_spr_us/ph1:7.0/NRD90U/170331315db4e:user/release-keys",
+  "SECURITY_PATCH": "2017-02-01",
+  "FIRST_API_LEVEL": "23",
+  "BUILD_ID": "NRD90U",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "170331315db4e",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

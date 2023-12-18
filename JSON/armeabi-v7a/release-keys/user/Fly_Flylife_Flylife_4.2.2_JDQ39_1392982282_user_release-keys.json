@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "Flylife Connect 7.85 3G 2",
+  "BRAND": "Fly",
+  "PRODUCT": "Flylife",
+  "DEVICE": "Flylife_Connect_785_3G_2",
+  "FINGERPRINT": "Fly/Flylife/Flylife:4.2.2/JDQ39/1392982282:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.rlk-buildsrv1.1397837901",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

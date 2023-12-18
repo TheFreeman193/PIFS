@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "OUKITEL",
+  "MODEL": "K6000 Pro",
+  "BRAND": "OUKITEL",
+  "PRODUCT": "K6000_Pro",
+  "DEVICE": "OUKITEL",
+  "FINGERPRINT": "OUKITEL/full_hct6753_65u_m0/hct6753_65u_m0:6.0/MRA58K/1469875728:user/release-keys",
+  "SECURITY_PATCH": "2016-07-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1469875728",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

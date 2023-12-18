@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "magcomm",
+  "MODEL": "S9",
+  "BRAND": "STREAM",
+  "PRODUCT": "Everest",
+  "DEVICE": "Everest",
+  "FINGERPRINT": "STREAM/Everest/Everest:8.1.0/O11019/1543055299:user/release-keys",
+  "SECURITY_PATCH": "2018-10-05",
+  "FIRST_API_LEVEL": "NULL",
+  "BUILD_ID": "O11019",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1543055299",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

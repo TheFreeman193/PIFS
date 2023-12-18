@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "OnePlus",
+  "MODEL": "GM1917",
+  "BRAND": "OnePlus",
+  "PRODUCT": "OnePlus7Pro",
+  "DEVICE": "OnePlus7Pro",
+  "FINGERPRINT": "OnePlus/OnePlus7Pro/OnePlus7Pro:9/PKQ1.190110.001/1907281556:user/release-keys",
+  "SECURITY_PATCH": "2019-08-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "PKQ1.190110.001",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1907281556",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

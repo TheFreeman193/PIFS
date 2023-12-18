@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-G935P",
+  "BRAND": "samsung",
+  "PRODUCT": "hero2qltespr",
+  "DEVICE": "hero2qltespr",
+  "FINGERPRINT": "samsung/hero2qltespr/hero2qltespr:6.0.1/MMB29M/G935PVPS2APG1:user/release-keys",
+  "SECURITY_PATCH": "2016-07-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MMB29M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "G935PVPS2APG1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

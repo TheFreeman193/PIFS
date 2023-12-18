@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "MyPhone",
+  "MODEL": "MyPhone Infinity Lite",
+  "BRAND": "MyPhone",
+  "PRODUCT": "MyPhone_Infinity_Lite",
+  "DEVICE": "MyPhone_Infinity_Lite",
+  "FINGERPRINT": "MyPhone/s4750ae/s4750ae:4.4.2/KOT49H/:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "30",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

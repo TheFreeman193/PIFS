@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Prestigio",
+  "MODEL": "PMT3017_WI",
+  "BRAND": "Prestigio",
+  "PRODUCT": "PMT3017_WI",
+  "DEVICE": "PMT3017_WI",
+  "FINGERPRINT": "Prestigio/PMT3017_WI/PMT3017_WI:4.4.2/KVT49L/20150720:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KVT49L",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20150720",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "HM 1S",
+  "BRAND": "Xiaomi",
+  "PRODUCT": "cm_armani",
+  "DEVICE": "armani",
+  "FINGERPRINT": "Xiaomi/cm_armani/armani:4.4.4/KTU84Q/133c21deae:userdebug/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84Q",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "133c21deae",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

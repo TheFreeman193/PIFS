@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "InnJoo",
+  "MODEL": "Halo X",
+  "BRAND": "InnJoo",
+  "PRODUCT": "InnJoo",
+  "DEVICE": "Halo_X",
+  "FINGERPRINT": "InnJoo/InnJoo/Halo_X:6.0/MRA58K/2:user/release-keys",
+  "SECURITY_PATCH": "2016-08-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "2",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

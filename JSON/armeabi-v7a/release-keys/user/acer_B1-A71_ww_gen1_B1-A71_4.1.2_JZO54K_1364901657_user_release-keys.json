@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "acer",
+  "MODEL": "B1-A71",
+  "BRAND": "acer",
+  "PRODUCT": "B1-A71_ww_gen1",
+  "DEVICE": "B1-A71",
+  "FINGERPRINT": "acer/B1-A71_ww_gen1/B1-A71:4.1.2/JZO54K/1364901657:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JZO54K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.marsl_lin.1364901607",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

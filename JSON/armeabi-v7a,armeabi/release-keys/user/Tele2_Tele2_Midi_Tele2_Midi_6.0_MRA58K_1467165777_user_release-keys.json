@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Tele2",
+  "MODEL": "Tele2 Midi",
+  "BRAND": "Tele2",
+  "PRODUCT": "Tele2 Midi",
+  "DEVICE": "Midi",
+  "FINGERPRINT": "Tele2/Tele2_Midi/Tele2_Midi:6.0/MRA58K/1467165777:user/release-keys",
+  "SECURITY_PATCH": "2016-06-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1467165777",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

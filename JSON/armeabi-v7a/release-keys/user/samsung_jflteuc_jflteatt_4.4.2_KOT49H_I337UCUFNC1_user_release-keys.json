@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SAMSUNG-SGH-I337",
+  "BRAND": "samsung",
+  "PRODUCT": "jflteuc",
+  "DEVICE": "jflteatt",
+  "FINGERPRINT": "samsung/jflteuc/jflteatt:4.4.2/KOT49H/I337UCUFNC1:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "I337UCUFNC1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "ZTE",
+  "MODEL": "Z899VL",
+  "BRAND": "ZTE",
+  "PRODUCT": "Z899VL",
+  "DEVICE": "elden",
+  "FINGERPRINT": "ZTE/Z899VL/elden:7.1.1/NMF26V/20170620.054013:user/release-keys",
+  "SECURITY_PATCH": "2017-06-01",
+  "FIRST_API_LEVEL": "24",
+  "BUILD_ID": "NMF26V",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20170620.054013",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

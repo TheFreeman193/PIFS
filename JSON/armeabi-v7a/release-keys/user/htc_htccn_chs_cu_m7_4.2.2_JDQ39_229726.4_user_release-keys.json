@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HTC",
+  "MODEL": "HTC 801e",
+  "BRAND": "htc",
+  "PRODUCT": "htccn_chs_cu",
+  "DEVICE": "m7",
+  "FINGERPRINT": "htc/htccn_chs_cu/m7:4.2.2/JDQ39/229726.4:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "229726.4",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

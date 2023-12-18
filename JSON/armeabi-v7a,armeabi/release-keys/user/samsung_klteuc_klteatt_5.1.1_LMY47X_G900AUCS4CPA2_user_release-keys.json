@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SAMSUNG-SM-G900A",
+  "BRAND": "samsung",
+  "PRODUCT": "klteuc",
+  "DEVICE": "klteatt",
+  "FINGERPRINT": "samsung/klteuc/klteatt:5.1.1/LMY47X/G900AUCS4CPA2:user/release-keys",
+  "SECURITY_PATCH": "2016-04-02",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47X",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "G900AUCS4CPA2",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

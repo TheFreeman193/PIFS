@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "ZTE",
+  "MODEL": "Z6530V",
+  "BRAND": "ZTE",
+  "PRODUCT": "VSBL_Z6530V",
+  "DEVICE": "td070va1",
+  "FINGERPRINT": "acer/td070va1_ww_gen1/td070va1:4.2.1/JOP40D/_141201.0328:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JOP40D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "_141201.0328",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

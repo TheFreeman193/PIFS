@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LGUS215",
+  "BRAND": "lge",
+  "PRODUCT": "lv3_usc_us",
+  "DEVICE": "lv3",
+  "FINGERPRINT": "lge/lv3_usc_us/lv3:7.0/NRD90U/1731215473ab0:user/release-keys",
+  "SECURITY_PATCH": "2017-11-06",
+  "FIRST_API_LEVEL": "24",
+  "BUILD_ID": "NRD90U",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1731215473ab0",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

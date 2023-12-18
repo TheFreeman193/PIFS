@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Ulefone",
+  "MODEL": "Power_6",
+  "BRAND": "Ulefone",
+  "PRODUCT": "Power_6",
+  "DEVICE": "Power_6",
+  "FINGERPRINT": "Ulefone/Power_6/Power_6:9/PPR1.180610.011/1558318996:user/release-keys",
+  "SECURITY_PATCH": "2019-05-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "PPR1.180610.011",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1558318996",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

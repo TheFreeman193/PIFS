@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Hisense",
+  "MODEL": "HS-U988",
+  "BRAND": "Hisense",
+  "PRODUCT": "U988",
+  "DEVICE": "U988",
+  "FINGERPRINT": "Hisense/U988/U988:4.4.2/KVT49L/NYT2.6.02.00:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KVT49L",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "NYT2.6.02.00",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

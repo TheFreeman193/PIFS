@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Micromax",
+  "MODEL": "Micromax A092",
+  "BRAND": "Micromax",
+  "PRODUCT": "A092",
+  "DEVICE": "A092",
+  "FINGERPRINT": "Micromax/A092/A092:4.3/JLS36C/MicromaxA092V13140422:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JLS36C",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "MicromaxA092V13140422",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

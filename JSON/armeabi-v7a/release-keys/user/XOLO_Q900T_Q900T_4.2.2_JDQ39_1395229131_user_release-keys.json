@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "XOLO",
+  "MODEL": "Q900T",
+  "BRAND": "XOLO",
+  "PRODUCT": "Q900T",
+  "DEVICE": "Q900T",
+  "FINGERPRINT": "XOLO/Q900T/Q900T:4.2.2/JDQ39/1395229131:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.cme.1395229131",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

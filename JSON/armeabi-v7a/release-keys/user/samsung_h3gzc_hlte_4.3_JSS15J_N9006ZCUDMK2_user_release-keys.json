@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-N9006",
+  "BRAND": "samsung",
+  "PRODUCT": "h3gzc",
+  "DEVICE": "hlte",
+  "FINGERPRINT": "samsung/h3gzc/hlte:4.3/JSS15J/N9006ZCUDMK2:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JSS15J",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "N9006ZCUDMK2",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

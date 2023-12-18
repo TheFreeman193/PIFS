@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SPH-L720",
+  "BRAND": "samsung",
+  "PRODUCT": "jfltespr",
+  "DEVICE": "jfltespr",
+  "FINGERPRINT": "samsung/jfltespr/jfltespr:4.3/JSS15J/L720VPUEMJA:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JSS15J",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "L720VPUEMJA",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

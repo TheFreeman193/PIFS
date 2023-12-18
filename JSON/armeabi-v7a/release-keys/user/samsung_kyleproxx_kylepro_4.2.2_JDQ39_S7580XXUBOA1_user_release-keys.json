@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "GT-S7580",
+  "BRAND": "samsung",
+  "PRODUCT": "kyleproxx",
+  "DEVICE": "kylepro",
+  "FINGERPRINT": "samsung/kyleproxx/kylepro:4.2.2/JDQ39/S7580XXUBOA1:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "S7580XXUBOA1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

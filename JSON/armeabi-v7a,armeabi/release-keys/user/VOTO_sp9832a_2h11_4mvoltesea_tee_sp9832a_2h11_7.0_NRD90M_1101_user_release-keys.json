@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "VOTO",
+  "MODEL": "VOTO V2",
+  "BRAND": "VOTO",
+  "PRODUCT": "VOTO V2",
+  "DEVICE": "VOTO_V2",
+  "FINGERPRINT": "VOTO/sp9832a_2h11_4mvoltesea_tee/sp9832a_2h11:7.0/NRD90M/1101:user/release-keys",
+  "SECURITY_PATCH": "2017-09-05",
+  "FIRST_API_LEVEL": "24",
+  "BUILD_ID": "NRD90M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.ldk.20171101.140050",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

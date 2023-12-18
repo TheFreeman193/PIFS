@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "rockchip",
+  "MODEL": "rk322x-box",
+  "BRAND": "Android",
+  "PRODUCT": "rk322x_box",
+  "DEVICE": "rk322x_box",
+  "FINGERPRINT": "Android/rk322x_box/rk322x_box:5.1.1/LMY49F/wanghy10211701:userdebug/test-keys",
+  "SECURITY_PATCH": "2016-04-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY49F",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.wanghy.20161021.165227",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

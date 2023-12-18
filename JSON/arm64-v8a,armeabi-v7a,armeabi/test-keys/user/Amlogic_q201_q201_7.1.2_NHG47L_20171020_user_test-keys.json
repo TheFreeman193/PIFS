@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Netxeon",
+  "MODEL": "Beelink GT1",
+  "BRAND": "Amlogic",
+  "PRODUCT": "q201",
+  "DEVICE": "q201",
+  "FINGERPRINT": "Amlogic/q201/q201:7.1.2/NHG47L/20171020:user/test-keys",
+  "SECURITY_PATCH": "2017-05-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "NHG47L",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20171020",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

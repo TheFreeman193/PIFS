@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LENOVO",
+  "MODEL": "Lenovo S860",
+  "BRAND": "Lenovo",
+  "PRODUCT": "phaetondvt3_row",
+  "DEVICE": "S860",
+  "FINGERPRINT": "Lenovo/phaetondvt3_row/S860:4.4.2/KOT49H/S860_ROW_S308_140818.:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "S860_ROW_S308_140818",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

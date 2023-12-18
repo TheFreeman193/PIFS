@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SAMSUNG-SM-N900A",
+  "BRAND": "SAMSUNG",
+  "PRODUCT": "hlteatt",
+  "DEVICE": "hlteuc",
+  "FINGERPRINT": "SAMSUNG/hlteatt/hlteuc:4.4.4/tt/eng.tiantian.20160823.151355:userdebug/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "tt",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.tiantian.20160823.151355",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

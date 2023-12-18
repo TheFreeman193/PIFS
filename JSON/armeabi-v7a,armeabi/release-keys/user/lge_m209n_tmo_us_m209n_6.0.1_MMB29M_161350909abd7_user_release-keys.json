@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LG-K428",
+  "BRAND": "lge",
+  "PRODUCT": "m209n_tmo_us",
+  "DEVICE": "m209n",
+  "FINGERPRINT": "lge/m209n_tmo_us/m209n:6.0.1/MMB29M/161350909abd7:user/release-keys",
+  "SECURITY_PATCH": "2016-05-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MMB29M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "161350909abd7",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

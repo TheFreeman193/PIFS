@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "TCL",
+  "MODEL": "9003X",
+  "BRAND": "TCL",
+  "PRODUCT": "9003X",
+  "DEVICE": "Pixi4-7_3G",
+  "FINGERPRINT": "TCL/9003X/Pixi4-7_3G:6.0/MRA58K/vC9D-0:user/release-keys",
+  "SECURITY_PATCH": "2017-11-06",
+  "FIRST_API_LEVEL": "23",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "vC9D-0",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

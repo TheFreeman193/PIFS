@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "motorola",
+  "MODEL": "XT1039",
+  "BRAND": "motorola",
+  "PRODUCT": "peregrine_retde",
+  "DEVICE": "peregrine",
+  "FINGERPRINT": "motorola/peregrine_retde/peregrine:4.4.4/KXB21.14-L1.56/52:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KXB21.14-L1.56",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "52",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

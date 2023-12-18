@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-G9650",
+  "BRAND": "samsung",
+  "PRODUCT": "star2qltezh",
+  "DEVICE": "star2qltechn",
+  "FINGERPRINT": "samsung/star2qltezh/star2qltechn:10/QP1A.190711.020/G9650ZHS7FUA1:user/release-keys",
+  "SECURITY_PATCH": "2021-01-01",
+  "FIRST_API_LEVEL": "26",
+  "BUILD_ID": "QP1A.190711.020",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "G9650ZHS7FUA1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

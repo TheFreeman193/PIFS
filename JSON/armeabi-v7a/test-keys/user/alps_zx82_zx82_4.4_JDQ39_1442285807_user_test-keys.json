@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "iPhone",
+  "MODEL": "6S",
+  "BRAND": "APPLE",
+  "PRODUCT": "6S",
+  "DEVICE": "6S",
+  "FINGERPRINT": "alps/zx82/zx82:4.4/JDQ39/1442285807:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "iOS9.0",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "iOS9.0",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

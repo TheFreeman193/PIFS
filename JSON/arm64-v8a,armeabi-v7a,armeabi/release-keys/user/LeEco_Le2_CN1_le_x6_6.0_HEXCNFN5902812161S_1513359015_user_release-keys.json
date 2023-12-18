@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LeMobile",
+  "MODEL": "Le X620",
+  "BRAND": "LeEco",
+  "PRODUCT": "Le2_CN1",
+  "DEVICE": "le_x6",
+  "FINGERPRINT": "LeEco/Le2_CN1/le_x6:6.0/HEXCNFN5902812161S/1513359015:user/release-keys",
+  "SECURITY_PATCH": "2015-12-01",
+  "FIRST_API_LEVEL": "23",
+  "BUILD_ID": "HEXCNFN5902812161S",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1513359015",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "MBX",
+  "MODEL": "MK808B Plus",
+  "BRAND": "MBX",
+  "PRODUCT": "m201",
+  "DEVICE": "m201",
+  "FINGERPRINT": "MBX/m201/m201:4.4.2/KOT49H/20150508:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20150508",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

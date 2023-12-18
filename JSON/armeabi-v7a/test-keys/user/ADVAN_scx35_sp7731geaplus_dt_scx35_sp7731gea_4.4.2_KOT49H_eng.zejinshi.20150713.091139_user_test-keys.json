@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "ADVAN",
+  "MODEL": "S4X",
+  "BRAND": "ADVAN",
+  "PRODUCT": "scx35_sp7731geaplus_dt",
+  "DEVICE": "scx35_sp7731gea",
+  "FINGERPRINT": "ADVAN/scx35_sp7731geaplus_dt/scx35_sp7731gea:4.4.2/KOT49H/eng.zejinshi.20150713.091139:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.zejinshi.20150713.091139",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

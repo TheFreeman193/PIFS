@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "VIVAX",
+  "MODEL": "VIVAX_Fly_V550",
+  "BRAND": "VIVAX",
+  "PRODUCT": "Fly_V550",
+  "DEVICE": "Fly_V550",
+  "FINGERPRINT": "VIVAX/Fly_V550/Fly_V550:5.1/LMY47D/1465979475:user/dev-keys",
+  "SECURITY_PATCH": "2016-02-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1465979475",
+  "TYPE": "user",
+  "TAGS": "dev-keys"
+}

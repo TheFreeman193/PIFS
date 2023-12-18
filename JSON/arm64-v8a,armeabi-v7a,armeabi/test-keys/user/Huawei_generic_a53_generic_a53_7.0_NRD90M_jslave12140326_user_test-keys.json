@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "unknown",
+  "MODEL": "generic_a53",
+  "BRAND": "Huawei",
+  "PRODUCT": "generic_a53",
+  "DEVICE": "generic_a53",
+  "FINGERPRINT": "Huawei/generic_a53/generic_a53:7.0/NRD90M/jslave12140326:user/test-keys",
+  "SECURITY_PATCH": "2017-12-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "NRD90M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.jslave.20171214.032608",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

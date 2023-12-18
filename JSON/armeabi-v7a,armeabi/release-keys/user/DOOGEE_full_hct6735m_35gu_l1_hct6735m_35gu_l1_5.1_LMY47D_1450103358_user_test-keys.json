@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "DOOGEE",
+  "MODEL": "T6",
+  "BRAND": "DOOGEE",
+  "PRODUCT": "full_hct6735m_35gu_l1",
+  "DEVICE": "hct6735m_35gu_l1",
+  "FINGERPRINT": "DOOGEE/full_hct6735m_35gu_l1/hct6735m_35gu_l1:5.1/LMY47D/1450103358:user/test-keys",
+  "SECURITY_PATCH": "2015-12-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1450103358",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

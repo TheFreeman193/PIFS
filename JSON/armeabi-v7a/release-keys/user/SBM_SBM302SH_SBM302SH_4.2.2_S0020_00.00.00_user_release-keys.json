@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "SHARP",
+  "MODEL": "SBM302SH",
+  "BRAND": "SBM",
+  "PRODUCT": "SBM302SH",
+  "DEVICE": "SBM302SH",
+  "FINGERPRINT": "SBM/SBM302SH/SBM302SH:4.2.2/S0020/00.00.00:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "S0020",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "00.00.00",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

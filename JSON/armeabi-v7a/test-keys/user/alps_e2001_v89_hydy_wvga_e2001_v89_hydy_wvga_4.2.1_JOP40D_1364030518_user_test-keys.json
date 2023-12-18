@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "MIZ",
+  "MODEL": "Z6",
+  "BRAND": "MIZ",
+  "PRODUCT": "e2001_v89_hydy_wvga",
+  "DEVICE": "e2001_v89_hydy_wvga",
+  "FINGERPRINT": "alps/e2001_v89_hydy_wvga/e2001_v89_hydy_wvga:4.2.1/JOP40D/1364030518:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JOP40D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.root.1364030518",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "INFINIX MOBILITY LIMITED",
+  "MODEL": "Infinix X657B",
+  "BRAND": "Infinix",
+  "PRODUCT": "TSSI",
+  "DEVICE": "AGo-32",
+  "FINGERPRINT": "Infinix/TSSI/AGo-32:11/RP1A.200720.011/221121V701:user/release-keys",
+  "SECURITY_PATCH": "2022-11-05",
+  "FIRST_API_LEVEL": "29",
+  "BUILD_ID": "RP1A.200720.011",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "221121V1102",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

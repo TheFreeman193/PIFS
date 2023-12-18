@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-A320FL",
+  "BRAND": "samsung",
+  "PRODUCT": "a3y17ltexc",
+  "DEVICE": "a3y17lte",
+  "FINGERPRINT": "samsung/a3y17ltexc/a3y17lte:7.0/NRD90M/A320FLXXS2BRAA:user/release-keys",
+  "SECURITY_PATCH": "2018-01-01",
+  "FIRST_API_LEVEL": "23",
+  "BUILD_ID": "NRD90M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "A320FLXXS2BRAA",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

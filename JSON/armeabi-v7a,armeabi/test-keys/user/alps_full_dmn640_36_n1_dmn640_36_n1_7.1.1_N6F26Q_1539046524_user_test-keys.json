@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "LEMX",
+  "BRAND": "LEMX",
+  "PRODUCT": "LEMX",
+  "DEVICE": "LEMX",
+  "FINGERPRINT": "alps/full_dmn640_36_n1/dmn640_36_n1:7.1.1/N6F26Q/1539046524:user/test-keys",
+  "SECURITY_PATCH": "2018-05-05",
+  "FIRST_API_LEVEL": "NULL",
+  "BUILD_ID": "N6F26Q",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1539046524",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

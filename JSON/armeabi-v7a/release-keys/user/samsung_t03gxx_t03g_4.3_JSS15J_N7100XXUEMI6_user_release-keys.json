@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "GT-N7100",
+  "BRAND": "samsung",
+  "PRODUCT": "t03gxx",
+  "DEVICE": "t03g",
+  "FINGERPRINT": "samsung/t03gxx/t03g:4.3/JSS15J/N7100XXUEMI6:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JSS15J",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "N7100XXUEMI6",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

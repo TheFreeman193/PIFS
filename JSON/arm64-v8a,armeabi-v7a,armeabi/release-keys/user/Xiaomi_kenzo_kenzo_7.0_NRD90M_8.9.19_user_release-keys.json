@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "Kenzo",
+  "BRAND": "Xiaomi",
+  "PRODUCT": "kenzo",
+  "DEVICE": "kenzo",
+  "FINGERPRINT": "Xiaomi/kenzo/kenzo:7.0/NRD90M/8.9.19:user/release-keys",
+  "SECURITY_PATCH": "2018-07-01",
+  "FIRST_API_LEVEL": "23",
+  "BUILD_ID": "NRD90M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "8.9.19",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

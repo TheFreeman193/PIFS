@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Samsung",
+  "MODEL": "SM-J320FN",
+  "BRAND": "samsung",
+  "PRODUCT": "j3xnltexx",
+  "DEVICE": "j3xnlte",
+  "FINGERPRINT": "samsung/j3xnltexx/j3xnlte:5.1.1/LMY47V/J320FNXXU0ARB1:user/release-keys",
+  "SECURITY_PATCH": "2015-10-01",
+  "FIRST_API_LEVEL": "22",
+  "BUILD_ID": "LMY47V",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "J320FNXXU0ARB1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

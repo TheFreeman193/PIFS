@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "amlogic",
+  "MODEL": "Mini MX-G",
+  "BRAND": "Android",
+  "PRODUCT": "p200_2G",
+  "DEVICE": "p200_2G",
+  "FINGERPRINT": "Android/p200_2G/p200_2G:5.1.1/LMY47V/20160420:user/test-keys",
+  "SECURITY_PATCH": "2015-11-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47V",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20160420",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

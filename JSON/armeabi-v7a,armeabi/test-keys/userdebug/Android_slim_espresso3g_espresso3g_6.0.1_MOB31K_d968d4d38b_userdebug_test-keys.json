@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Samsung",
+  "MODEL": "Galaxy Tab 2 3G",
+  "BRAND": "Android",
+  "PRODUCT": "slim_espresso3g",
+  "DEVICE": "espresso3g",
+  "FINGERPRINT": "Android/slim_espresso3g/espresso3g:6.0.1/MOB31K/d968d4d38b:userdebug/test-keys",
+  "SECURITY_PATCH": "2016-11-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MOB31K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "d968d4d38b",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Sony",
+  "MODEL": "C1905",
+  "BRAND": "Sony",
+  "PRODUCT": "C1905",
+  "DEVICE": "nicki",
+  "FINGERPRINT": "Sony/C1905/C1905:4.3/15.4.A.0.23/eng.user.20140307.104342:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84P",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "a50db22529",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

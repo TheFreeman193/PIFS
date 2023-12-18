@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Huawei",
+  "MODEL": "ALP-L29",
+  "BRAND": "HUAWEI",
+  "PRODUCT": "ALP-L29",
+  "DEVICE": "HWALP",
+  "FINGERPRINT": "HUAWEI/ALP-L29/HWALP:8.0.0/HUAWEIALP-L29S/143(C636):user/release-keys",
+  "SECURITY_PATCH": "2018-10-01",
+  "FIRST_API_LEVEL": "26",
+  "BUILD_ID": "HUAWEIALP-L29S",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "143(C636)",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

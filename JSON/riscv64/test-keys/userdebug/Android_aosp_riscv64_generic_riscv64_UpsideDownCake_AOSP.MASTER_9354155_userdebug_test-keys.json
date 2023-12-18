@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "unknown",
+  "MODEL": "AOSP on Riscv64",
+  "BRAND": "Android",
+  "PRODUCT": "aosp_riscv64",
+  "DEVICE": "generic_riscv64",
+  "FINGERPRINT": "Android/aosp_riscv64/generic_riscv64:UpsideDownCake/AOSP.MASTER/9354155:userdebug/test-keys",
+  "SECURITY_PATCH": "2022-11-05",
+  "FIRST_API_LEVEL": "NULL",
+  "BUILD_ID": "AOSP.MASTER",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "9354155",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

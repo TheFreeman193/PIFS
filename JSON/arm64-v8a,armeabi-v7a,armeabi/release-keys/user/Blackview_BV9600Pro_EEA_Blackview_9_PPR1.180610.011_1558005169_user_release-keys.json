@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Blackview",
+  "MODEL": "BV9600Pro",
+  "BRAND": "Blackview",
+  "PRODUCT": "BV9600Pro_EEA",
+  "DEVICE": "Blackview",
+  "FINGERPRINT": "Blackview/BV9600Pro_EEA/Blackview:9/PPR1.180610.011/1558005169:user/release-keys",
+  "SECURITY_PATCH": "2019-05-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "PPR1.180610.011",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1558005169",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

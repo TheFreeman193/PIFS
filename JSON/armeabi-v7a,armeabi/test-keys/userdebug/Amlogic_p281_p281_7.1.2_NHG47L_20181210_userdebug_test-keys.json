@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Amlogic",
+  "MODEL": "TX3 Mini",
+  "BRAND": "Amlogic",
+  "PRODUCT": "p281",
+  "DEVICE": "p281",
+  "FINGERPRINT": "Amlogic/p281/p281:7.1.2/NHG47L/20181210:userdebug/test-keys",
+  "SECURITY_PATCH": "2017-12-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "NHG47L",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20181210",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

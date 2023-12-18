@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "M9600",
+  "BRAND": "alps",
+  "PRODUCT": "M9600",
+  "DEVICE": "M9600",
+  "FINGERPRINT": "alps/yuanda15_cu_ics2/yuanda15_cu_ics2:4.0.4/IMM76D/1384237951:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "IMM76D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.root.1384237951",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

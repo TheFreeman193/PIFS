@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "ZTE",
+  "MODEL": "ZTE N986",
+  "BRAND": "ZTE",
+  "PRODUCT": "P188F02",
+  "DEVICE": "P188F02",
+  "FINGERPRINT": "ZTE/P188F02/P188F02:4.2.1/JOP40D/eng.root.20131115.140608:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JOP40D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "4.1.3",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

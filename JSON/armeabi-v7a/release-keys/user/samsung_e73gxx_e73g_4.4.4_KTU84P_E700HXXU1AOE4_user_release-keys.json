@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-E700H",
+  "BRAND": "samsung",
+  "PRODUCT": "e73gxx",
+  "DEVICE": "e73g",
+  "FINGERPRINT": "samsung/e73gxx/e73g:4.4.4/KTU84P/E700HXXU1AOE4:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84P",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "E700HXXU1AOE4",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

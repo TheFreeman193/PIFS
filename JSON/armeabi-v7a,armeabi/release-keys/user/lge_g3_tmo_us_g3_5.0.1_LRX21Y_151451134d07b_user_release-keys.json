@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LG-D851",
+  "BRAND": "lge",
+  "PRODUCT": "g3_tmo_us",
+  "DEVICE": "g3",
+  "FINGERPRINT": "lge/g3_tmo_us/g3:5.0.1/LRX21Y/151451134d07b:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LRX21Y",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "151451134d07b",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

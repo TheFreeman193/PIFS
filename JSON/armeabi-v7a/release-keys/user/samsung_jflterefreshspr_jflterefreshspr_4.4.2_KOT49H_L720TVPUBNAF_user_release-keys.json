@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SPH-L720T",
+  "BRAND": "samsung",
+  "PRODUCT": "jflterefreshspr",
+  "DEVICE": "jflterefreshspr",
+  "FINGERPRINT": "samsung/jflterefreshspr/jflterefreshspr:4.4.2/KOT49H/L720TVPUBNAF:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "L720TVPUBNAF",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

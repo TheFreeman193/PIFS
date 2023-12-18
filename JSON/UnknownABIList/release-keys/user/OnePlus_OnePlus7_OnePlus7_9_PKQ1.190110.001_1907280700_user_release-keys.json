@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "OnePlus",
+  "MODEL": "GM1905",
+  "BRAND": "OnePlus",
+  "PRODUCT": "OnePlus7",
+  "DEVICE": "OnePlus7",
+  "FINGERPRINT": "OnePlus/OnePlus7/OnePlus7:9/PKQ1.190110.001/1907280700:user/release-keys",
+  "SECURITY_PATCH": "2019-08-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "PKQ1.190110.001",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1907280700",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

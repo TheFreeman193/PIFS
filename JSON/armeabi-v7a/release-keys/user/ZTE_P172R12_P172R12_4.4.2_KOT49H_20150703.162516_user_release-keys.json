@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "ZTE",
+  "MODEL": "ZTE T220",
+  "BRAND": "ZTE",
+  "PRODUCT": "P172R12",
+  "DEVICE": "P172R12",
+  "FINGERPRINT": "ZTE/P172R12/P172R12:4.4.2/KOT49H/20150703.162516:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "_P14.30.2_P7",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

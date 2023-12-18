@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Jiayu",
+  "MODEL": "S3",
+  "BRAND": "Jiayu",
+  "PRODUCT": "full_s3_h560",
+  "DEVICE": "s3_h560",
+  "FINGERPRINT": "Jiayu/full_s3_h560/s3_h560:7.1.2/N2G47O/cm05271109:user/release-keys",
+  "SECURITY_PATCH": "2017-05-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "N2G47O",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.cm.20170527.110918",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

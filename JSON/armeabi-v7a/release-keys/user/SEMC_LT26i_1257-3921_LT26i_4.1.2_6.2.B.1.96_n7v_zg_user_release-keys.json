@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Sony Ericsson",
+  "MODEL": "LT26i",
+  "BRAND": "SEMC",
+  "PRODUCT": "LT26i_1257-3921",
+  "DEVICE": "LT26i",
+  "FINGERPRINT": "SEMC/LT26i_1257-3921/LT26i:4.1.2/6.2.B.1.96/n7v_zg:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "6.2.B.1.96",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "n7v_zg",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

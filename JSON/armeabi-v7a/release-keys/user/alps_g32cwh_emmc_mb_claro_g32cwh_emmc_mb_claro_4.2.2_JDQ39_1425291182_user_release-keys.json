@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "FLY mini",
+  "BRAND": "FLY mini",
+  "PRODUCT": "FLY mini",
+  "DEVICE": "FLY mini",
+  "FINGERPRINT": "alps/g32cwh_emmc_mb_claro/g32cwh_emmc_mb_claro:4.2.2/JDQ39/1425291182:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.zhouyj.1425291182",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

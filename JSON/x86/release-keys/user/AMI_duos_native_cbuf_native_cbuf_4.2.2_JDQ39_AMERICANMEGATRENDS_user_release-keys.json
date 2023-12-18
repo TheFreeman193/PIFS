@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "American Megatrends Inc.",
+  "MODEL": "DuOS",
+  "BRAND": "AMI",
+  "PRODUCT": "duos_native_cbuf",
+  "DEVICE": "native_cbuf",
+  "FINGERPRINT": "AMI/duos_native_cbuf/native_cbuf:4.2.2/JDQ39/AMERICANMEGATRENDS:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "AMERICANMEGATRENDS-1.0.18.10342",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

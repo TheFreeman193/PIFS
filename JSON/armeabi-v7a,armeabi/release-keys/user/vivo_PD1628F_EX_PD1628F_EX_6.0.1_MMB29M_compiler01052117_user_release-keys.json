@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "vivo",
+  "MODEL": "vivo PD1628F_EX",
+  "BRAND": "vivo",
+  "PRODUCT": "PD1628F_EX",
+  "DEVICE": "PD1628F_EX",
+  "FINGERPRINT": "vivo/PD1628F_EX/PD1628F_EX:6.0.1/MMB29M/compiler01052117:user/release-keys",
+  "SECURITY_PATCH": "2018-08-01",
+  "FIRST_API_LEVEL": "23",
+  "BUILD_ID": "MMB29M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.compiler.20190105.211334",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

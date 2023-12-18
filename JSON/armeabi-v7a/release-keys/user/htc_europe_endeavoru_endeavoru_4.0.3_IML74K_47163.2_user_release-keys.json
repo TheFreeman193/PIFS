@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HTC",
+  "MODEL": "EndeavorU",
+  "BRAND": "htc_europe",
+  "PRODUCT": "endeavoru",
+  "DEVICE": "endeavoru",
+  "FINGERPRINT": "htc_europe/endeavoru/endeavoru:4.0.3/IML74K/47163.2:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "IML74K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "47163.2",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

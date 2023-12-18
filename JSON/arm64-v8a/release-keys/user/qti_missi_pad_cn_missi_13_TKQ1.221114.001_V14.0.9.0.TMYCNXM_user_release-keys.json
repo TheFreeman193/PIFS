@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "QUALCOMM",
+  "MODEL": "missi_pad_cn system image for arm64",
+  "BRAND": "qti",
+  "PRODUCT": "missi_pad_cn",
+  "DEVICE": "missi",
+  "FINGERPRINT": "qti/missi_pad_cn/missi:13/TKQ1.221114.001/V14.0.9.0.TMYCNXM:user/release-keys",
+  "SECURITY_PATCH": "2023-09-01",
+  "FIRST_API_LEVEL": "33",
+  "BUILD_ID": "TKQ1.221114.001",
+  "VNDK_VERSION": "31",
+  "INCREMENTAL": "V14.0.9.0.TMYCNXM",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

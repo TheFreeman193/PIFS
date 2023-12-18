@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "Lenovo S90C",
+  "BRAND": "alps",
+  "PRODUCT": "hexing82_cwet_kk",
+  "DEVICE": "hexing82_cwet_kk",
+  "FINGERPRINT": "alps/hexing82_cwet_kk/hexing82_cwet_kk:4.4.2/KOT49H/1433414016:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.te.1433414016",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

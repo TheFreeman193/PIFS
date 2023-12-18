@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "kiano",
+  "MODEL": "kc103g",
+  "BRAND": "kiano",
+  "PRODUCT": "cm_kc103g",
+  "DEVICE": "kc103g",
+  "FINGERPRINT": "pipo/cm_kc103g/kc103g:4.4.4/KTU84Q/686f9932fc:userdebug/test-keys",
+  "SECURITY_PATCH": "2016-03-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84Q",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "686f9932fc",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

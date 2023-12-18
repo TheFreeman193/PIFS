@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "GT-S5660",
+  "BRAND": "samsung",
+  "PRODUCT": "GT-S5660",
+  "DEVICE": "GT-S5660",
+  "FINGERPRINT": "samsung/GT-S5660/GT-S5660:2.3.6/GINGERBREAD/XXKTI:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "GINGERBREAD",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "XXKTI",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

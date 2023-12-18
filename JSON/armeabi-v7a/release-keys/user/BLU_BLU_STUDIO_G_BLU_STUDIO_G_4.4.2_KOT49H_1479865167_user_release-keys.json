@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "BLU",
+  "MODEL": "BLU STUDIO G",
+  "BRAND": "BLU",
+  "PRODUCT": "BLU_STUDIO_G",
+  "DEVICE": "BLU_STUDIO_G",
+  "FINGERPRINT": "BLU/BLU_STUDIO_G/BLU_STUDIO_G:4.4.2/KOT49H/1479865167:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "user.jenkins.1479865167",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-T231",
+  "BRAND": "samsung",
+  "PRODUCT": "degas3gxx",
+  "DEVICE": "degas3g",
+  "FINGERPRINT": "samsung/degas3gxx/degas3g:4.4.2/KOT49H/T231XXU0AOI2:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "T231XXU0AOI2",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

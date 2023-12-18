@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "BBK",
+  "MODEL": "vivo Y28",
+  "BRAND": "vivo",
+  "PRODUCT": "Y28",
+  "DEVICE": "Y28",
+  "FINGERPRINT": "vivo/Y28/Y28:4.4.2/KOT49H/1441447426:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.compiler.1441447426",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

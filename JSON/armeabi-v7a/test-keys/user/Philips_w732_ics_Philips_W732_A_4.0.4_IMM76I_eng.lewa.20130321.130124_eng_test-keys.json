@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Philips",
+  "MODEL": "W732",
+  "BRAND": "Philips",
+  "PRODUCT": "w732_ics",
+  "DEVICE": "Philips_W732_A",
+  "FINGERPRINT": "Philips/w732_ics/Philips_W732_A:4.0.4/IMM76I/eng.lewa.20130321.130124:eng/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "IMM76I",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.lewa.20130321.130124",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

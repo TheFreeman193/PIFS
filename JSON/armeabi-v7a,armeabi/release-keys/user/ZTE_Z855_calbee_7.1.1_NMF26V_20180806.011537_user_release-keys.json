@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "ZTE",
+  "MODEL": "Z855",
+  "BRAND": "ZTE",
+  "PRODUCT": "Z855",
+  "DEVICE": "calbee",
+  "FINGERPRINT": "ZTE/Z855/calbee:7.1.1/NMF26V/20180806.011537:user/release-keys",
+  "SECURITY_PATCH": "2018-08-01",
+  "FIRST_API_LEVEL": "24",
+  "BUILD_ID": "NMF26V",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20180806.011537",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

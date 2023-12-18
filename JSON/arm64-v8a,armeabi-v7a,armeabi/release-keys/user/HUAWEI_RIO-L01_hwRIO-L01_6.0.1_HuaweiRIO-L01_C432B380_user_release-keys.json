@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HUAWEI",
+  "MODEL": "HUAWEI",
+  "BRAND": "HUAWEI",
+  "PRODUCT": "msm8916_64",
+  "DEVICE": "hwRIO-L01",
+  "FINGERPRINT": "HUAWEI/RIO-L01/hwRIO-L01:6.0.1/HuaweiRIO-L01/C432B380:user/release-keys",
+  "SECURITY_PATCH": "2016-07-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MMB28B",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "C432B380",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

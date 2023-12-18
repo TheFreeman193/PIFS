@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "AT",
+  "MODEL": "AT-AS55HD1",
+  "BRAND": "AT",
+  "PRODUCT": "at_as55hd1",
+  "DEVICE": "at_as55hd1",
+  "FINGERPRINT": "AT/at_as55hd1/at_as55hd1:4.4.2/KOT49H/1410511356:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1410511356",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

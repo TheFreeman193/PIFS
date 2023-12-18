@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "Redmi Note 3",
+  "BRAND": "Xiaomi",
+  "PRODUCT": "kenzo",
+  "DEVICE": "kenzo",
+  "FINGERPRINT": "Xiaomi/kenzo/kenzo:5.1.1/LMY47V/V7.1.8.0.LHOMICL:user/release-keys",
+  "SECURITY_PATCH": "2016-02-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47V",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "V7.1.8.0.LHOMICL",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

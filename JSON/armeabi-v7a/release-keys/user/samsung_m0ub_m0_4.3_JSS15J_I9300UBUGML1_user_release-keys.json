@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "GT-I9300",
+  "BRAND": "samsung",
+  "PRODUCT": "m0ub",
+  "DEVICE": "m0",
+  "FINGERPRINT": "samsung/m0ub/m0:4.3/JSS15J/I9300UBUGML1:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JSS15J",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "I9300UBUGML1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

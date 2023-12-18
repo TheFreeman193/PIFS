@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HTC",
+  "MODEL": "HTC Desire 320",
+  "BRAND": "htc",
+  "PRODUCT": "a32mg_htc_europe",
+  "DEVICE": "htc_a32mg_dug",
+  "FINGERPRINT": "htc/a32mg_htc_europe/htc_a32mg_dug:4.4.2/KOT49H/378:user/release-keys",
+  "SECURITY_PATCH": "2016-01-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "378",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

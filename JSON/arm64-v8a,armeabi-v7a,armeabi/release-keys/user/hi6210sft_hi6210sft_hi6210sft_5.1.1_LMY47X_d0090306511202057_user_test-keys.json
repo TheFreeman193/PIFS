@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HUAWEI",
+  "MODEL": "hi6210sft",
+  "BRAND": "hi6210sft",
+  "PRODUCT": "hi6210sft",
+  "DEVICE": "hi6210sft",
+  "FINGERPRINT": "hi6210sft/hi6210sft/hi6210sft:5.1.1/LMY47X/d0090306511202057:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47X",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.d00903065.20151120.205503",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

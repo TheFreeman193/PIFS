@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "asus",
+  "MODEL": "ASUS_Z00TD",
+  "BRAND": "asus",
+  "PRODUCT": "WW_Z00T",
+  "DEVICE": "ASUS_Z00T",
+  "FINGERPRINT": "asus/WW_Z00T/ASUS_Z00T:5.0.2/LRX22G/WW_user_1.17.40.1234_20160304:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LRX22G",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "WW_Z00T-WW_user_1.17.40.1234_20160304-user-20160304",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

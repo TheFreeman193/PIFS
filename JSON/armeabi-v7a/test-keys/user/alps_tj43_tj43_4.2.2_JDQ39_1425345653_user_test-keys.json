@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "MI 3W",
+  "BRAND": "Xiaomi",
+  "PRODUCT": "tj43",
+  "DEVICE": "tj43",
+  "FINGERPRINT": "alps/tj43/tj43:4.2.2/JDQ39/1425345653:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JLS36C",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "KXDCNBH34.0",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

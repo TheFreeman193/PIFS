@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "motorola",
+  "MODEL": "moto e5 play",
+  "BRAND": "motorola",
+  "PRODUCT": "james_t",
+  "DEVICE": "james",
+  "FINGERPRINT": "motorola/james_t/james:8.0.0/OCP27.91-150-14/1:user/release-keys",
+  "SECURITY_PATCH": "2019-09-01",
+  "FIRST_API_LEVEL": "26",
+  "BUILD_ID": "OCP27.91-150-14",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

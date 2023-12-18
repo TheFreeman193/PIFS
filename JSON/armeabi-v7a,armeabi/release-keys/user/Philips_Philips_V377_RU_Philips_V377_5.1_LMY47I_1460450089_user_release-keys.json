@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Philips",
+  "MODEL": "Philips V377",
+  "BRAND": "Philips",
+  "PRODUCT": "Philips_V377_RU",
+  "DEVICE": "Philips_V377",
+  "FINGERPRINT": "Philips/Philips_V377_RU/Philips_V377:5.1/LMY47I/1460450089:user/release-keys",
+  "SECURITY_PATCH": "2016-03-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47I",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1460450089",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

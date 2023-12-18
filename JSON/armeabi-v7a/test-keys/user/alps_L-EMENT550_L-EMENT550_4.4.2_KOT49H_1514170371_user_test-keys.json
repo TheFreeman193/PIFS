@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Aphone_R11",
+  "MODEL": "Aphone_R11",
+  "BRAND": "Aphone_R11",
+  "PRODUCT": "Aphone_R11",
+  "DEVICE": "Aphone_R11",
+  "FINGERPRINT": "alps/L-EMENT550/L-EMENT550:4.4.2/KOT49H/1514170371:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.hechang.1514170371",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

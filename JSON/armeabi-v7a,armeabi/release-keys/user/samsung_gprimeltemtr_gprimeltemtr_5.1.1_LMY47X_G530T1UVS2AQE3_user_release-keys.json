@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-G530T1",
+  "BRAND": "samsung",
+  "PRODUCT": "gprimeltemtr",
+  "DEVICE": "gprimeltemtr",
+  "FINGERPRINT": "samsung/gprimeltemtr/gprimeltemtr:5.1.1/LMY47X/G530T1UVS2AQE3:user/release-keys",
+  "SECURITY_PATCH": "2017-05-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47X",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "G530T1UVS2AQE3",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Fly",
+  "MODEL": "Compact",
+  "BRAND": "Fly",
+  "PRODUCT": "Compact",
+  "DEVICE": "Life_Compact",
+  "FINGERPRINT": "Fly/Compact/Life_Compact:7.0/NRD90M/1537250964:user/release-keys",
+  "SECURITY_PATCH": "2018-09-05",
+  "FIRST_API_LEVEL": "24",
+  "BUILD_ID": "NRD90M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1537250964",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

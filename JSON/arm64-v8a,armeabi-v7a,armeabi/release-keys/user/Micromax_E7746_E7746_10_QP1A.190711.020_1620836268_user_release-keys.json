@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Micromax",
+  "MODEL": "IN_Note1",
+  "BRAND": "Micromax",
+  "PRODUCT": "E7746",
+  "DEVICE": "E7746",
+  "FINGERPRINT": "Micromax/E7746/E7746:10/QP1A.190711.020/1620836268:user/release-keys",
+  "SECURITY_PATCH": "2021-05-05",
+  "FIRST_API_LEVEL": "29",
+  "BUILD_ID": "QP1A.190711.020",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1620836268",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

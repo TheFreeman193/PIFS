@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "ZTE",
+  "MODEL": "Nexodus Pro",
+  "BRAND": "Homar Serra Electronics",
+  "PRODUCT": "06v20_v89_gq3010fhd",
+  "DEVICE": "Homar Serra",
+  "FINGERPRINT": "Nexodus/06v20_v89_gq3010fhd/06v20_v89_gq3010fhd:4.2.2/JOP40D/1394623611:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JOP40D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.root.1394623611",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

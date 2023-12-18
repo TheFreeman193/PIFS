@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Sony",
+  "MODEL": "SGP312",
+  "BRAND": "Sony",
+  "PRODUCT": "SGP312_1273-3867",
+  "DEVICE": "SGP312",
+  "FINGERPRINT": "Sony/SGP312_1273-3867/SGP312:4.2.2/10.3.1.C.0.136/d393rg:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "10.3.1.C.0.136",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "d393rg",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

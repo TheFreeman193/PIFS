@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "motorola",
+  "MODEL": "MotoE2(4G-LTE)",
+  "BRAND": "motorola",
+  "PRODUCT": "surnia_att",
+  "DEVICE": "surnia_umts",
+  "FINGERPRINT": "motorola/surnia_att/surnia_umts:5.1/LPIS23.29-18.9-2/2:user/release-keys",
+  "SECURITY_PATCH": "2016-04-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LPIS23.29-18.9-2",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "2",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

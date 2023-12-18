@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HTC",
+  "MODEL": "HTC Desire S",
+  "BRAND": "htc_europe",
+  "PRODUCT": "htc_saga",
+  "DEVICE": "saga",
+  "FINGERPRINT": "htc_europe/htc_saga/saga:4.0.4/IMM76D/434411.2:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "IMM76D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "434411.2",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

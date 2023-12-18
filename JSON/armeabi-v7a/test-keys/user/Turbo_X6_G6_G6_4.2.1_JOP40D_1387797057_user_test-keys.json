@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LTJ",
+  "MODEL": "Turbo X6",
+  "BRAND": "Turbo_X6",
+  "PRODUCT": "G6",
+  "DEVICE": "G6",
+  "FINGERPRINT": "Turbo_X6/G6/G6:4.2.1/JOP40D/1387797057:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JOP40D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.scm.1387797057",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

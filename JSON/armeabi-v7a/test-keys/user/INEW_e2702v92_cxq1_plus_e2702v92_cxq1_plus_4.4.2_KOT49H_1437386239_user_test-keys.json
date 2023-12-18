@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "CXQ",
+  "MODEL": "V8 Plus",
+  "BRAND": "INEW",
+  "PRODUCT": "V8 Plus",
+  "DEVICE": "702v92_cxq1",
+  "FINGERPRINT": "INEW/e2702v92_cxq1_plus/e2702v92_cxq1_plus:4.4.2/KOT49H/1437386239:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.root.1437386239",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

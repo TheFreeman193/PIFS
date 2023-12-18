@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "HM 2A",
+  "BRAND": "Xiaomi",
+  "PRODUCT": "full_lte26007",
+  "DEVICE": "lte26007",
+  "FINGERPRINT": "Xiaomi/full_lte26007/lte26007:4.4.4/KTU84Q/5.7.2:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84Q",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "999.777.222",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

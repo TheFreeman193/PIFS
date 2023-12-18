@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-A500H",
+  "BRAND": "samsung",
+  "PRODUCT": "a53gxx",
+  "DEVICE": "a53g",
+  "FINGERPRINT": "samsung/a53gxx/a53g:5.0.2/LRX22G/A500HXXU1BPE1:user/release-keys",
+  "SECURITY_PATCH": "2016-05-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LRX22G",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "A500HXXU1BPE1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

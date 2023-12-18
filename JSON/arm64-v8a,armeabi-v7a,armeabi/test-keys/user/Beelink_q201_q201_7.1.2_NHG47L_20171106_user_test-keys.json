@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "AZW",
+  "MODEL": "Beelink GT1",
+  "BRAND": "Beelink",
+  "PRODUCT": "q201",
+  "DEVICE": "q201",
+  "FINGERPRINT": "Beelink/q201/q201:7.1.2/NHG47L/20171106:user/test-keys",
+  "SECURITY_PATCH": "2017-05-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "NHG47L",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20171106",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

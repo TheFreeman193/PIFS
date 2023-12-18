@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "L1E",
+  "MODEL": "Android",
+  "BRAND": "Android",
+  "PRODUCT": "l1e_jhe_3g",
+  "DEVICE": "L1E",
+  "FINGERPRINT": "Android/l1e_jhe_3g/l1e_jhe_3g:4.4.3/JDQ39/1394797409:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.tydsa.1394797409",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

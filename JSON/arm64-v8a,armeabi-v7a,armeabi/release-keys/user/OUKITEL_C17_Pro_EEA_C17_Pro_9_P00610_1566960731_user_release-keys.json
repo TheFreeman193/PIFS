@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "wheatek",
+  "MODEL": "C17 Pro",
+  "BRAND": "OUKITEL",
+  "PRODUCT": "C17_Pro_EEA",
+  "DEVICE": "C17_Pro",
+  "FINGERPRINT": "OUKITEL/C17_Pro_EEA/C17_Pro:9/P00610/1566960731:user/release-keys",
+  "SECURITY_PATCH": "2019-08-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "P00610",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1566960731",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

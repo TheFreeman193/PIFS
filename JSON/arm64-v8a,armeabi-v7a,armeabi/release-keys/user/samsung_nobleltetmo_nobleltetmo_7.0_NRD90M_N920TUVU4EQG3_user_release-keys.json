@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-N920T",
+  "BRAND": "samsung",
+  "PRODUCT": "nobleltetmo",
+  "DEVICE": "nobleltetmo",
+  "FINGERPRINT": "samsung/nobleltetmo/nobleltetmo:7.0/NRD90M/N920TUVU4EQG3:user/release-keys",
+  "SECURITY_PATCH": "2017-07-01",
+  "FIRST_API_LEVEL": "22",
+  "BUILD_ID": "NRD90M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "N920TUVU4EQG3",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LG-VS985",
+  "BRAND": "lge",
+  "PRODUCT": "g3_vzw_us",
+  "DEVICE": "vs985",
+  "FINGERPRINT": "lge/g3_vzw/g3:6.0/MRA58K/160141503d43c:user/release-keys",
+  "SECURITY_PATCH": "2016-05-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MOB30J",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "354dbf4414",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

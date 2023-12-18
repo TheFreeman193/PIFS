@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-N900T",
+  "BRAND": "samsung",
+  "PRODUCT": "hltetmo",
+  "DEVICE": "hltetmo",
+  "FINGERPRINT": "samsung/hltetmo/hltetmo:5.0/LRX21V/N900TUVSFPH3:user/release-keys",
+  "SECURITY_PATCH": "2016-09-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LRX21V",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "N900TUVSFPH3",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

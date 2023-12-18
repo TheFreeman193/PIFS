@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "AOC",
+  "MODEL": "Q80Y31",
+  "BRAND": "AOC_Q80Y31",
+  "PRODUCT": "AOC_Q80Y31",
+  "DEVICE": "AOC_Q80Y31",
+  "FINGERPRINT": "AOC/AOC_Q80Y31/AOC:4.2.2/JDQ39/20140303:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20140303",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

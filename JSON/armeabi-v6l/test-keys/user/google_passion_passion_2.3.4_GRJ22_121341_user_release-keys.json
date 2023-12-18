@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "ZTE",
+  "MODEL": "Racer",
+  "BRAND": "zte",
+  "PRODUCT": "racer",
+  "DEVICE": "mooncake",
+  "FINGERPRINT": "google/passion/passion:2.3.4/GRJ22/121341:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "GRJ22",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng..20121231.235229",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

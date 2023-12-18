@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LG-LS777",
+  "BRAND": "lge",
+  "PRODUCT": "sf340_spr_us",
+  "DEVICE": "sf340",
+  "FINGERPRINT": "lge/sf340_spr_us/sf340:7.0/NRD90U/1814912282a4c:user/release-keys",
+  "SECURITY_PATCH": "2018-05-01",
+  "FIRST_API_LEVEL": "24",
+  "BUILD_ID": "NRD90U",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1814912282a4c",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

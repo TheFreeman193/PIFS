@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Amlogic",
+  "MODEL": "X92",
+  "BRAND": "Amlogic",
+  "PRODUCT": "q201",
+  "DEVICE": "q201",
+  "FINGERPRINT": "Amlogic/q201/q201:6.0.1/MHC19J/20161215:userdebug/test-keys",
+  "SECURITY_PATCH": "2016-08-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MHC19J",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20161215",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

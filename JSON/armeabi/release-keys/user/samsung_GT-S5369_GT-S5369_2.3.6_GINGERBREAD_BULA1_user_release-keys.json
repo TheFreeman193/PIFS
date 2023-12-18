@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "GT-S5369",
+  "BRAND": "samsung",
+  "PRODUCT": "GT-S5369",
+  "DEVICE": "GT-S5369",
+  "FINGERPRINT": "samsung/GT-S5369/GT-S5369:2.3.6/GINGERBREAD/BULA1:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "GINGERBREAD",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "BULA1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

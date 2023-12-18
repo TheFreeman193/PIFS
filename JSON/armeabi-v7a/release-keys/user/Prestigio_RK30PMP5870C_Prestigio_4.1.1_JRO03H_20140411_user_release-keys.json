@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Prestigio",
+  "MODEL": "PMP5870C",
+  "BRAND": "Prestigio",
+  "PRODUCT": "RK30PMP5870C",
+  "DEVICE": "Prestigio",
+  "FINGERPRINT": "Prestigio/RK30PMP5870C/Prestigio:4.1.1/JRO03H/20140411:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JRO03H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20140411",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

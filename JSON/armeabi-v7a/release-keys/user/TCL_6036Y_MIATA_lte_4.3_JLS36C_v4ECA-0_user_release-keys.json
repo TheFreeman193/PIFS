@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "TCL",
+  "MODEL": "6036Y",
+  "BRAND": "TCL",
+  "PRODUCT": "6036Y",
+  "DEVICE": "MIATA_lte",
+  "FINGERPRINT": "TCL/6036Y/MIATA_lte:4.3/JLS36C/v4ECA-0:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JLS36C",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "v4ECA-0",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

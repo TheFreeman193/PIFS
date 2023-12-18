@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "GIONEE",
+  "MODEL": "Gpad_G2",
+  "BRAND": "GIONEE",
+  "PRODUCT": "GIONEE",
+  "DEVICE": "GIONEE",
+  "FINGERPRINT": "alps/GIONEE/GIONEE:4.1.2/JZO54K/1366906156:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JZO54K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.znsj_bianyi3.1366906156",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

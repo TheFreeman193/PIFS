@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "GT-I8552",
+  "BRAND": "samsung",
+  "PRODUCT": "delos3gxx",
+  "DEVICE": "delos3geur",
+  "FINGERPRINT": "samsung/delos3gxx/delos3geur:4.1.2/JZO54K/I8552XXAMD4:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JZO54K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "I8552XXAMD4",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

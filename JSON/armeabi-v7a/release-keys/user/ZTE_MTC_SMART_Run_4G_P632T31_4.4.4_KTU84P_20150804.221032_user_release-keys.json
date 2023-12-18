@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "ZTE",
+  "MODEL": "MTC SMART Run 4G",
+  "BRAND": "ZTE",
+  "PRODUCT": "MTC_SMART_Run_4G",
+  "DEVICE": "P632T31",
+  "FINGERPRINT": "ZTE/MTC_SMART_Run_4G/P632T31:4.4.4/KTU84P/20150804.221032:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84P",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.root.1438740777",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

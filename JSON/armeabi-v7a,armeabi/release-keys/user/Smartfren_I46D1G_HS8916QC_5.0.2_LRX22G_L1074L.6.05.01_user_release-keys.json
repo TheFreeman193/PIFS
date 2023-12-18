@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Hisense",
+  "MODEL": "Andromax I46D1G",
+  "BRAND": "Smartfren",
+  "PRODUCT": "I46D1G",
+  "DEVICE": "HS8916QC",
+  "FINGERPRINT": "Smartfren/I46D1G/HS8916QC:5.0.2/LRX22G/L1074L.6.05.01:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LRX22G",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "L1074L.6.05.01",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

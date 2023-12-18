@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HTC",
+  "MODEL": "MSM8996 for arm64",
+  "BRAND": "htc",
+  "PRODUCT": "pmeuhl_00709",
+  "DEVICE": "htc_pmeuhl",
+  "FINGERPRINT": "htc/pmeuhl_00709/htc_pmeuhl:8.0.0/OPR1.170623.027/1012001.8:user/release-keys",
+  "SECURITY_PATCH": "2018-02-01",
+  "FIRST_API_LEVEL": "25",
+  "BUILD_ID": "OPR1.170623.027",
+  "VNDK_VERSION": "32",
+  "INCREMENTAL": "1012001.8",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

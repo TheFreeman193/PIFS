@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "OPPO",
+  "MODEL": "OPPO A83js",
+  "BRAND": "OPPO",
+  "PRODUCT": "A83js",
+  "DEVICE": "M6763D",
+  "FINGERPRINT": "ZTE/VSBL_Z6530V/Z6530:9/PPR1.180610.011/20190924.105452:user/release-keys",
+  "SECURITY_PATCH": "2019-10-05",
+  "FIRST_API_LEVEL": "25",
+  "BUILD_ID": "N6F26Q",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1583934565",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

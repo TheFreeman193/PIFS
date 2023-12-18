@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "unknown",
+  "MODEL": "SXZ-PDX0-01",
+  "BRAND": "Android",
+  "PRODUCT": "full_m805_892xv8",
+  "DEVICE": "m805_892x",
+  "FINGERPRINT": "Android/full_m805_892xv8/m805_892x:4.0.4/SXZ-PDX0-01/eng.jzx.20130913.174059:userdebug/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "SXZ-PDX0-01",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.jzx.20130913.174059",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HTC",
+  "MODEL": "HTC Ruby",
+  "BRAND": "htc_asia_wwe",
+  "PRODUCT": "htc_ruby",
+  "DEVICE": "ruby",
+  "FINGERPRINT": "htc_asia_wwe/htc_ruby/ruby:2.3.4/GRJ22/324941.3:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "GRJ22",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "324941.3",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

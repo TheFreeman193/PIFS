@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "HM NOTE 1W",
+  "BRAND": "Xiaomi",
+  "PRODUCT": "lcsh92_wet_jb9",
+  "DEVICE": "lcsh92_wet_jb9",
+  "FINGERPRINT": "Xiaomi/lcsh92_wet_jb9/lcsh92_wet_jb9:4.4.2/KOT49H/5.9.17:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "5.9.17",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

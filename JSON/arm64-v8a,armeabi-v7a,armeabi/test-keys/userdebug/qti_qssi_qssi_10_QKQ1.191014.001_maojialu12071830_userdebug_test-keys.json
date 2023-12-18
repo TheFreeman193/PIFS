@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "QUALCOMM",
+  "MODEL": "qssi system image for arm64",
+  "BRAND": "qti",
+  "PRODUCT": "qssi",
+  "DEVICE": "qssi",
+  "FINGERPRINT": "qti/qssi/qssi:10/QKQ1.191014.001/maojialu12071830:userdebug/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "QKQ1.191014.001",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.maojia.20191207.183034",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

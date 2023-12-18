@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Torex Co, Hong Kong",
+  "MODEL": "Torex Pad 2",
+  "BRAND": "Torex",
+  "PRODUCT": "elink82_tb_jb5",
+  "DEVICE": "elink82_tb_jb5",
+  "FINGERPRINT": "alps/elink82_tb_jb5/elink82_tb_jb5:4.2.2/JDQ39/1406104534:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.xuzq.1406104534",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

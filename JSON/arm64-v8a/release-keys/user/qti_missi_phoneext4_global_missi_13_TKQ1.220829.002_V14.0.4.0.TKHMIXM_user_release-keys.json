@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "QUALCOMM",
+  "MODEL": "missi system image for arm64",
+  "BRAND": "qti",
+  "PRODUCT": "missi",
+  "DEVICE": "missi",
+  "FINGERPRINT": "qti/missi_phoneext4_global/missi:13/TKQ1.220829.002/V14.0.4.0.TKHMIXM:user/release-keys",
+  "SECURITY_PATCH": "2023-02-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "TKQ1.220829.002",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "V14.0.4.0.TKHMIXM",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

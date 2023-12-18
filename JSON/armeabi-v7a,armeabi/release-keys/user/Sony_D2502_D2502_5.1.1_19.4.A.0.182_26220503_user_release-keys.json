@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Sony",
+  "MODEL": "D2502",
+  "BRAND": "Sony",
+  "PRODUCT": "D2502",
+  "DEVICE": "D2502",
+  "FINGERPRINT": "Sony/D2502/D2502:5.1.1/19.4.A.0.182/26220503:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "19.4.A.0.182",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "26220503",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

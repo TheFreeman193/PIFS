@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Allwinner",
+  "MODEL": "QUAD-CORE T3 K2001M",
+  "BRAND": "Allwinner",
+  "PRODUCT": "K2001M_CLD_S212208",
+  "DEVICE": "t3-k2001-nwd",
+  "FINGERPRINT": "Allwinner/t3_k2001_nwd/t3-k2001-nwd:6.0.1/MMB29M/20170707:user/test-keys",
+  "SECURITY_PATCH": "2015-12-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MMB29M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20170707",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

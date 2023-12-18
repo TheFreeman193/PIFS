@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "GT-I9300I",
+  "BRAND": "samsung",
+  "PRODUCT": "s3ve3gdsxx",
+  "DEVICE": "s3ve3gds",
+  "FINGERPRINT": "samsung/s3ve3gdsxx/s3ve3gds:4.3/JLS36C/I9300IXWUAND2:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JLS36C",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "I9300IXWUAND2",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

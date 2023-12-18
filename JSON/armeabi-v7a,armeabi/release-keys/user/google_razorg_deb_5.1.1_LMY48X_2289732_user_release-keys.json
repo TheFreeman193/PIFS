@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "asus",
+  "MODEL": "Nexus 7",
+  "BRAND": "google",
+  "PRODUCT": "razorg",
+  "DEVICE": "deb",
+  "FINGERPRINT": "google/razorg/deb:5.1.1/LMY48X/2289732:user/release-keys",
+  "SECURITY_PATCH": "2015-11-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY48X",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "2289732",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

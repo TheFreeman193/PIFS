@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "Galaxy Nexus",
+  "BRAND": "google",
+  "PRODUCT": "takju",
+  "DEVICE": "maguro",
+  "FINGERPRINT": "google/takju/maguro:4.3/JWR66V/737497:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JWR66V",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "737497",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

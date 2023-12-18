@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LENOVO",
+  "MODEL": "Lenovo A399",
+  "BRAND": "Lenovo",
+  "PRODUCT": "Aiken",
+  "DEVICE": "Aiken",
+  "FINGERPRINT": "Lenovo/Aiken/Aiken:4.4.2/KOT49H/A399_S026_150108_CU:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "A399_S026_150108_CU",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

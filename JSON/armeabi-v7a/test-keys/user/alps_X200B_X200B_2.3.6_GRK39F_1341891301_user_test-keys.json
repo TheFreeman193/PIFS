@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "Z3Z6Z7",
+  "BRAND": "alps",
+  "PRODUCT": "X200B",
+  "DEVICE": "X200B",
+  "FINGERPRINT": "alps/X200B/X200B:2.3.6/GRK39F/1341891301:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "GRK39F",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.scm.1341891301",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

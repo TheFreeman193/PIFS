@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "GT-I9500",
+  "BRAND": "alps",
+  "PRODUCT": "mtk6589_wet_jb3",
+  "DEVICE": "mtk6589_wet_jb3",
+  "FINGERPRINT": "alps/benrui72_wet_jb3/benrui72_wet_jb3:4.2.2/JDQ39/1385629740:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.whl.1385629740",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

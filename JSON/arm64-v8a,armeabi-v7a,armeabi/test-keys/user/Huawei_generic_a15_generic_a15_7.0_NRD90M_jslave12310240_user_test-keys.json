@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "unknown",
+  "MODEL": "generic_a15",
+  "BRAND": "Huawei",
+  "PRODUCT": "generic_a15",
+  "DEVICE": "generic_a15",
+  "FINGERPRINT": "Huawei/generic_a15/generic_a15:7.0/NRD90M/jslave12310240:user/test-keys",
+  "SECURITY_PATCH": "2019-08-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "NRD90M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.jslave.20191231.024054",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

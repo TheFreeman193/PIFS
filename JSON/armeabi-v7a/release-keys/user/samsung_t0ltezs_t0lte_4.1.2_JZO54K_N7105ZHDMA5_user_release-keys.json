@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "GT-N7105",
+  "BRAND": "samsung",
+  "PRODUCT": "t0lte",
+  "DEVICE": "t0lte",
+  "FINGERPRINT": "samsung/t0ltezs/t0lte:4.1.2/JZO54K/N7105ZHDMA5:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JZO54K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "N7105ZHDMA5",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

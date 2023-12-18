@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-N920C",
+  "BRAND": "samsung",
+  "PRODUCT": "nobleltejv",
+  "DEVICE": "noblelte",
+  "FINGERPRINT": "samsung/nobleltejv/noblelte:6.0.1/MMB29K/N920CXXS3BPI3:user/release-keys",
+  "SECURITY_PATCH": "2016-09-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MMB29K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "N920CXXS3BPI3",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

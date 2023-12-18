@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Spreadtrum",
+  "MODEL": "SOUL",
+  "BRAND": "Spreadtrum",
+  "PRODUCT": "scx15_sp7715gacuccspecAplus_UUI",
+  "DEVICE": "scx15_sp7715ga",
+  "FINGERPRINT": "Spreadtrum/scx15_sp7715gacuccspecAplus_UUI/scx15_sp7715ga:4.4.2/KOT49H/_P14.30.2_P2:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "_P14.30.2_P2",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

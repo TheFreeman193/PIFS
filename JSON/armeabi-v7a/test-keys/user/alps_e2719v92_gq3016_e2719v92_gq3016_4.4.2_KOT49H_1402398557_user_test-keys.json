@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "719v92_gq3016",
+  "BRAND": "alps",
+  "PRODUCT": "e2719v92_gq3016",
+  "DEVICE": "719v92_gq3016",
+  "FINGERPRINT": "alps/e2719v92_gq3016/e2719v92_gq3016:4.4.2/KOT49H/1402398557:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.root.1402398557",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

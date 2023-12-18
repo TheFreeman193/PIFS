@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "evb3562v_c_66_m0",
+  "BRAND": "alps",
+  "PRODUCT": "full_evb3562v_c_66_m0",
+  "DEVICE": "evb3562v_c_66_m0",
+  "FINGERPRINT": "alps/full_evb3562v_c_66_m0/evb3562v_c_66_m0:6.0/MRA58K/1511338330:userdebug/test-keys",
+  "SECURITY_PATCH": "2016-06-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1511338330",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

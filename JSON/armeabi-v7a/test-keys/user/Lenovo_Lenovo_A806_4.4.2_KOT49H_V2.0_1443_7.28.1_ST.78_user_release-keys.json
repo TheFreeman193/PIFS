@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LENOVO",
+  "MODEL": "Lenovo A806",
+  "BRAND": "Lenovo",
+  "PRODUCT": "Lenovo A806",
+  "DEVICE": "Lenovo",
+  "FINGERPRINT": "Lenovo/Lenovo/A806:4.4.2/KOT49H/V2.0_1443_7.28.1_ST.78:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "Materialized _MOD",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

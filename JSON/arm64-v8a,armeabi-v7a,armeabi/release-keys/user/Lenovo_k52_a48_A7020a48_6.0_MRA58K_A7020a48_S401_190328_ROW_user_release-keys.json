@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LENOVO",
+  "MODEL": "Lenovo A7020a48",
+  "BRAND": "Lenovo",
+  "PRODUCT": "k52_a48",
+  "DEVICE": "A7020a48",
+  "FINGERPRINT": "Lenovo/k52_a48/A7020a48:6.0/MRA58K/A7020a48_S401_190328_ROW:user/release-keys",
+  "SECURITY_PATCH": "2016-10-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "A7020a48_S401_190328_ROW",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

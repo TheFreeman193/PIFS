@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "Bepa G900W",
+  "BRAND": "bepa",
+  "PRODUCT": "Bepa G900W",
+  "DEVICE": "Bepa G900W",
+  "FINGERPRINT": "alps/zx82/zx82:4.4.2/JDQ39/1407483147:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H.G9008SKSU1ANCE",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "G900SKSU1AND3",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

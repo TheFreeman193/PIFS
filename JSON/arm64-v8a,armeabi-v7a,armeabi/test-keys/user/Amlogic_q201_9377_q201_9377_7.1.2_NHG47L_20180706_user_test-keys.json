@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Amlogic",
+  "MODEL": "H96 PRO+",
+  "BRAND": "Amlogic",
+  "PRODUCT": "q201_9377",
+  "DEVICE": "q201_9377",
+  "FINGERPRINT": "Amlogic/q201_9377/q201_9377:7.1.2/NHG47L/20180706:user/test-keys",
+  "SECURITY_PATCH": "2017-12-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "NHG47L",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20180706",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

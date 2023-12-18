@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HTC",
+  "MODEL": "MSM8994 for arm64",
+  "BRAND": "htc",
+  "PRODUCT": "himawhl_sprint_wwe",
+  "DEVICE": "htc_himawhl",
+  "FINGERPRINT": "htc/himawhl_sprint_wwe/htc_himawhl:6.0/MRA58K/695981.4:user/release-keys",
+  "SECURITY_PATCH": "2016-01-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "695981.4",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LG-D620",
+  "BRAND": "lge",
+  "PRODUCT": "g2m_global_com",
+  "DEVICE": "g2m",
+  "FINGERPRINT": "lge/g2m_global_com/g2m:4.4.2/KOT49I.A1395545709/1395545709:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49I.A1395545709",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1395545709",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

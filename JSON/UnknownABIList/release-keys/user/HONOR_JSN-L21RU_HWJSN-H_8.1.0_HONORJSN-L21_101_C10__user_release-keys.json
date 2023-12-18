@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Huawei",
+  "MODEL": "JSN-L21",
+  "BRAND": "HONOR",
+  "PRODUCT": "JSN-L21RU",
+  "DEVICE": "HWJSN-H",
+  "FINGERPRINT": "HONOR/JSN-L21RU/HWJSN-H:8.1.0/HONORJSN-L21/101(C10):user/release-keys",
+  "SECURITY_PATCH": "2018-10-01",
+  "FIRST_API_LEVEL": "27",
+  "BUILD_ID": "HONORJSN-L21",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "101(C10)",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

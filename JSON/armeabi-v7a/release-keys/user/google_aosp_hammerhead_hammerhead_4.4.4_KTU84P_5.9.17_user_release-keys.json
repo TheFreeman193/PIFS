@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "Nexus 5",
+  "BRAND": "google",
+  "PRODUCT": "aosp_hammerhead",
+  "DEVICE": "hammerhead",
+  "FINGERPRINT": "google/aosp_hammerhead/hammerhead:4.4.4/KTU84P/5.9.17:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84P",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "5.9.17",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LG-V500",
+  "BRAND": "lge",
+  "PRODUCT": "awifi_open_sca",
+  "DEVICE": "awifi",
+  "FINGERPRINT": "lge/awifi_open_sca/awifi:4.4.2/KOT49I.V50020d/.1401948597:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49I.V50020d",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": ".1401948597",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Micromax",
+  "MODEL": "Micromax A117",
+  "BRAND": "micromax",
+  "PRODUCT": "A117",
+  "DEVICE": "A117",
+  "FINGERPRINT": "micromax/s9203/s9203:4.2.1/JOP40D/:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JOP40D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "58",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

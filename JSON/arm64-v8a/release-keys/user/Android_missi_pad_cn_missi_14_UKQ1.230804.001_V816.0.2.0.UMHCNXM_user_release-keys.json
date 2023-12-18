@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "mainline",
+  "BRAND": "Android",
+  "PRODUCT": "mainline",
+  "DEVICE": "generic",
+  "FINGERPRINT": "Android/missi_pad_cn/missi:14/UKQ1.230804.001/V816.0.2.0.UMHCNXM:user/release-keys",
+  "SECURITY_PATCH": "2023-11-01",
+  "FIRST_API_LEVEL": "33",
+  "BUILD_ID": "UKQ1.230804.001",
+  "VNDK_VERSION": "32",
+  "INCREMENTAL": "V816.0.2.0.UMHCNXM",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

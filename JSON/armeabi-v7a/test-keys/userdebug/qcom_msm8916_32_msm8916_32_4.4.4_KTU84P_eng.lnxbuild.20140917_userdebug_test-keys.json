@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "unknown",
+  "MODEL": "msm8916_32",
+  "BRAND": "qcom",
+  "PRODUCT": "msm8916_32",
+  "DEVICE": "msm8916_32",
+  "FINGERPRINT": "qcom/msm8916_32/msm8916_32:4.4.4/KTU84P/eng.lnxbuild.20140917:userdebug/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84P",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.lnxbuild.20140917",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Blackview",
+  "MODEL": "BV9900Pro",
+  "BRAND": "Blackview",
+  "PRODUCT": "BV9900Pro_RU",
+  "DEVICE": "BV9900Pro",
+  "FINGERPRINT": "Blackview/BV9900Pro_RU/BV9900Pro:10/QP1A.190711.020/1576080487:user/release-keys",
+  "SECURITY_PATCH": "2020-08-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "QP1A.190711.020",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1576080487",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

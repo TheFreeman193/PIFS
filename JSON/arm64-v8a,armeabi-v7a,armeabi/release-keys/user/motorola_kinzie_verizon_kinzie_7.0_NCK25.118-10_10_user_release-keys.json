@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "motorola",
+  "MODEL": "XT1585",
+  "BRAND": "motorola",
+  "PRODUCT": "kinzie_verizon",
+  "DEVICE": "kinzie",
+  "FINGERPRINT": "motorola/kinzie_verizon/kinzie:7.0/NCK25.118-10/10:user/release-keys",
+  "SECURITY_PATCH": "2016-12-01",
+  "FIRST_API_LEVEL": "21",
+  "BUILD_ID": "NCK25.118-10",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "10",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

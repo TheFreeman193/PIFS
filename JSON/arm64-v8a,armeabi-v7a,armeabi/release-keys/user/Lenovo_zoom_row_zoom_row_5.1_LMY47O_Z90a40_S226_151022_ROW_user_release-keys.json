@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LENOVO",
+  "MODEL": "Lenovo Z90a40",
+  "BRAND": "Lenovo",
+  "PRODUCT": "zoom_row",
+  "DEVICE": "zoom_row",
+  "FINGERPRINT": "Lenovo/zoom_row/zoom_row:5.1/LMY47O/Z90a40_S226_151022_ROW:user/release-keys",
+  "SECURITY_PATCH": "2015-11-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47O",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "Z90a40_S226_151022_ROW",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "MAC",
+  "MODEL": "A105_TXD_MULA_T",
+  "BRAND": "MAC",
+  "PRODUCT": "A105_TXD_MULA_T",
+  "DEVICE": "A105_TXD_MULA_T",
+  "FINGERPRINT": "MAC/A105_TXD_MULA_T:4.0.4/IMM76D/eng.bz.1354194703:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "IMM76D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.bz.1354194703",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

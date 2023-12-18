@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LGL164VL",
+  "BRAND": "lge",
+  "PRODUCT": "lv7_trf_us_vzw_R",
+  "DEVICE": "lv7",
+  "FINGERPRINT": "lge/lv7_trf_us_vzw_R/lv7:7.0/NRD90U/1714512223a22:user/release-keys",
+  "SECURITY_PATCH": "2017-05-01",
+  "FIRST_API_LEVEL": "24",
+  "BUILD_ID": "NRD90U",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1714512223a22",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

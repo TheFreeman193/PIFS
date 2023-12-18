@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "Mi5",
+  "BRAND": "Xiaomi",
+  "PRODUCT": "gemini",
+  "DEVICE": "gemini",
+  "FINGERPRINT": "Xiaomi/gemini/gemini:7.0/NRD90M/V8.2.2.0.NAAMIEB:user/release-keys",
+  "SECURITY_PATCH": "2017-03-01",
+  "FIRST_API_LEVEL": "23",
+  "BUILD_ID": "NRD90M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "V8.2.2.0.NAAMIEB",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

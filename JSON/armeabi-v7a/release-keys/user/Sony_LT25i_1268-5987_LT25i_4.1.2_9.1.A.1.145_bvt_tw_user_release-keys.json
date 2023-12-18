@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Sony",
+  "MODEL": "LT25i",
+  "BRAND": "Sony",
+  "PRODUCT": "LT25i_1268-5987",
+  "DEVICE": "LT25i",
+  "FINGERPRINT": "Sony/LT25i_1268-5987/LT25i:4.1.2/9.1.A.1.145/bvt_tw:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "9.1.A.1.145",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "bvt_tw",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

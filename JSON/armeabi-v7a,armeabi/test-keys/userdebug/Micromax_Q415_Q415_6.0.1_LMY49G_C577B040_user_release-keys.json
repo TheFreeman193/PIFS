@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Micromax",
+  "MODEL": "Q415",
+  "BRAND": "Micromax",
+  "PRODUCT": "cm_Q415",
+  "DEVICE": "Q415",
+  "FINGERPRINT": "Micromax/Q415/Q415:6.0.1/LMY49G/C577B040:user/release-keys",
+  "SECURITY_PATCH": "2016-08-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MOB30Z",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "d8485a4747",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

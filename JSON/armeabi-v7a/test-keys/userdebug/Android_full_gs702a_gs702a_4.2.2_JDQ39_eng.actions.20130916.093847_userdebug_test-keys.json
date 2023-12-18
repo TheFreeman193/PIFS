@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "unknown",
+  "MODEL": "Full AOSP on Leopard SOC",
+  "BRAND": "Android",
+  "PRODUCT": "full_gs702a",
+  "DEVICE": "gs702a",
+  "FINGERPRINT": "Android/full_gs702a/gs702a:4.2.2/JDQ39/eng.actions.20130916.093847:userdebug/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.actions.20130916.093847",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

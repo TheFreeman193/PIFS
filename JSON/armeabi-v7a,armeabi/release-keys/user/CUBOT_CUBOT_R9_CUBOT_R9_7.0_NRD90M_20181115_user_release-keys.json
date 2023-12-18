@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "CUBOT",
+  "MODEL": "CUBOT R9",
+  "BRAND": "CUBOT",
+  "PRODUCT": "CUBOT_R9",
+  "DEVICE": "CUBOT_R9",
+  "FINGERPRINT": "CUBOT/CUBOT_R9/CUBOT_R9:7.0/NRD90M/20181115:user/release-keys",
+  "SECURITY_PATCH": "2018-09-05",
+  "FIRST_API_LEVEL": "24",
+  "BUILD_ID": "NRD90M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20181115",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

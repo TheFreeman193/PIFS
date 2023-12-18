@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Samsung",
+  "MODEL": "GT-I8150",
+  "BRAND": "Samsung",
+  "PRODUCT": "crdroid_ancora",
+  "DEVICE": "ancora",
+  "FINGERPRINT": "samsung/GT-I8150/GT-I8150:2.3.6/GINGERBREAD/XXLMJ:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LRX22G",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "8aacff1f5c",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

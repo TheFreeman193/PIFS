@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "mediatek",
+  "MODEL": "Highscreen Zera F",
+  "BRAND": "lenovo",
+  "PRODUCT": "full_alps",
+  "DEVICE": "alps",
+  "FINGERPRINT": "5.1.1/LVY48F/1783956:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LVY48F",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.zormax.20150930.232315",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

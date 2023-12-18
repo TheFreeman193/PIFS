@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Huawei",
+  "MODEL": "Nexus 6P",
+  "BRAND": "google",
+  "PRODUCT": "angler",
+  "DEVICE": "angler",
+  "FINGERPRINT": "google/angler/angler:6.0/MDB08L/2343525:user/release-keys",
+  "SECURITY_PATCH": "2015-10-01",
+  "FIRST_API_LEVEL": "23",
+  "BUILD_ID": "MDB08L",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "2343525",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

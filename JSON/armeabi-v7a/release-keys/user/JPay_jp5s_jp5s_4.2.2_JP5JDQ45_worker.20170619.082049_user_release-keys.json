@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "JPay Inc.",
+  "MODEL": "JP5s Inmate Media Device",
+  "BRAND": "JPay",
+  "PRODUCT": "jp5s",
+  "DEVICE": "jp5s",
+  "FINGERPRINT": "JPay/jp5s/jp5s:4.2.2/JP5JDQ45/worker.20170619.082049:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JP5JDQ45",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "worker.20170619.082049",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "Nexus 5X",
+  "BRAND": "google",
+  "PRODUCT": "bullhead",
+  "DEVICE": "bullhead",
+  "FINGERPRINT": "google/bullhead/bullhead:8.0.0/OPR4.170623.020/4443074:user/release-keys",
+  "SECURITY_PATCH": "2017-08-05",
+  "FIRST_API_LEVEL": "23",
+  "BUILD_ID": "OPR4.170623.020",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "4443074",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

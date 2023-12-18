@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "panasonic",
+  "MODEL": "FZ-M1F323XKM",
+  "BRAND": "panasonic",
+  "PRODUCT": "US_toughpad",
+  "DEVICE": "FZ-M1F323XKM",
+  "FINGERPRINT": "panasonic/US_toughpad/FZ-M1F323XKM:4.2.1/JOP40D/US_user_4.2.2.91525_20130711:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JOP40D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "US_toughpad-US_user_4.2.2.91525_20130711-user-20130711",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

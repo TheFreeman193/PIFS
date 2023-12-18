@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-G350E",
+  "BRAND": "samsung",
+  "PRODUCT": "higgs2gxx",
+  "DEVICE": "higgs2g",
+  "FINGERPRINT": "samsung/higgs2gxx/higgs2g:4.4.2/KOT49H/G350EXXU0AQC1:user/release-keys",
+  "SECURITY_PATCH": "2017-03-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "G350EXXU0AQC1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

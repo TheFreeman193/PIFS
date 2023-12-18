@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "OnePlus",
+  "MODEL": "HD1917",
+  "BRAND": "OnePlus",
+  "PRODUCT": "OnePlus7TPro",
+  "DEVICE": "OnePlus7TPro",
+  "FINGERPRINT": "OnePlus/OnePlus7TPro/OnePlus7TPro:11/RKQ1.201022.002/2110211612:user/release-keys",
+  "SECURITY_PATCH": "2021-10-01",
+  "FIRST_API_LEVEL": "29",
+  "BUILD_ID": "RKQ1.201022.002",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "2110211612",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

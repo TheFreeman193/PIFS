@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HongXin",
+  "MODEL": "M16",
+  "BRAND": "Amlogic",
+  "PRODUCT": "M16",
+  "DEVICE": "hx_s905x",
+  "FINGERPRINT": "Amlogic/M16/hx_s905x:7.1.2/NHG47L/20171030:userdebug/test-keys",
+  "SECURITY_PATCH": "2017-05-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "NHG47L",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20171030",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

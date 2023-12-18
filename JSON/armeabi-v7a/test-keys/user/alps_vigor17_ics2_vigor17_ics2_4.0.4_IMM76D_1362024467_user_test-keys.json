@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "A789",
+  "BRAND": "lenovo",
+  "PRODUCT": "6589",
+  "DEVICE": "6589",
+  "FINGERPRINT": "alps/vigor17_ics2/vigor17_ics2:4.0.4/IMM76D/1362024467:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "IMM76D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.tiankun.1362024467",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

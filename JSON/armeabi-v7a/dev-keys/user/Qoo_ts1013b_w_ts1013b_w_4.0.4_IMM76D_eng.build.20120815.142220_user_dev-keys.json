@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "3Q",
+  "MODEL": "TS1013B",
+  "BRAND": "Qoo",
+  "PRODUCT": "ts1013b_w",
+  "DEVICE": "ts1013b_w",
+  "FINGERPRINT": "Qoo/ts1013b_w/ts1013b_w:4.0.4/IMM76D/eng.build.20120815.142220:user/dev-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "IMM76D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.build.20120815.142220",
+  "TYPE": "user",
+  "TAGS": "dev-keys"
+}

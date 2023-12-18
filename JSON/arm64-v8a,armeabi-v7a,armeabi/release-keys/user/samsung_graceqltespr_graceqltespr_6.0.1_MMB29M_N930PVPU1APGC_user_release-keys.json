@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-N930P",
+  "BRAND": "samsung",
+  "PRODUCT": "graceqltespr",
+  "DEVICE": "graceqltespr",
+  "FINGERPRINT": "samsung/graceqltespr/graceqltespr:6.0.1/MMB29M/N930PVPU1APGC:user/release-keys",
+  "SECURITY_PATCH": "2016-07-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MMB29M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "N930PVPU1APGC",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

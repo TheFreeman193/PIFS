@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "PULID",
+  "MODEL": "S4",
+  "BRAND": "S4",
+  "PRODUCT": "V9",
+  "DEVICE": "V9",
+  "FINGERPRINT": "S4/V9/V9:4.2.1/JOP40D/1370341515:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JOP40D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.scm.1370341515",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

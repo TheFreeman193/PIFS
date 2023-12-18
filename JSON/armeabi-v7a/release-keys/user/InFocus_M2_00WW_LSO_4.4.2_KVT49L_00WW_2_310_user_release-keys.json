@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "FIH",
+  "MODEL": "InFocus M2",
+  "BRAND": "InFocus",
+  "PRODUCT": "M2_00WW",
+  "DEVICE": "LSO",
+  "FINGERPRINT": "InFocus/M2_00WW/LSO:4.4.2/KVT49L/00WW_2_310:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KVT49L",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "00WW_2_310",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

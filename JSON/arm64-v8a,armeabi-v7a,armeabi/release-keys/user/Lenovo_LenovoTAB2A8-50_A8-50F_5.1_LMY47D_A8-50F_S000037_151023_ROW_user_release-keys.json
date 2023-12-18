@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LENOVO",
+  "MODEL": "Lenovo TAB 2 A8-50F",
+  "BRAND": "Lenovo",
+  "PRODUCT": "LenovoTAB2A8-50",
+  "DEVICE": "A8-50F",
+  "FINGERPRINT": "Lenovo/LenovoTAB2A8-50/A8-50F:5.1/LMY47D/A8-50F_S000037_151023_ROW:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "A8-50F_S000037_151023_ROW",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

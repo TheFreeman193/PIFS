@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-N900L",
+  "BRAND": "samsung",
+  "PRODUCT": "hltelgt",
+  "DEVICE": "hltelgt",
+  "FINGERPRINT": "samsung/hltelgt/hltelgt:5.0/LRX21V/N900LKLU0GOC4:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LRX21V",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "N900LKLU0GOC4",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

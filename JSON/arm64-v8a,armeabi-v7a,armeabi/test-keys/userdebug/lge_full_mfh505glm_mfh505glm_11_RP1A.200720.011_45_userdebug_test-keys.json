@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "mfh505glm",
+  "BRAND": "lge",
+  "PRODUCT": "full_mfh505glm",
+  "DEVICE": "mfh505glm",
+  "FINGERPRINT": "lge/full_mfh505glm/mfh505glm:11/RP1A.200720.011/45:userdebug/test-keys",
+  "SECURITY_PATCH": "2020-12-05",
+  "FIRST_API_LEVEL": "30",
+  "BUILD_ID": "RP1A.200720.011",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "45",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

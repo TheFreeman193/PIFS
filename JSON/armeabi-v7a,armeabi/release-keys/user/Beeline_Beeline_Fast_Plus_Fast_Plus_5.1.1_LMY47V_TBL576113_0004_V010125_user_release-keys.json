@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "K-TOUCH",
+  "MODEL": "Beeline Fast +",
+  "BRAND": "Beeline",
+  "PRODUCT": "Beeline_Fast_Plus",
+  "DEVICE": "Fast_Plus",
+  "FINGERPRINT": "Beeline/Beeline_Fast_Plus/Fast_Plus:5.1.1/LMY47V/TBL576113_0004_V010125:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47V",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "TBL576113_0004_V010125",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

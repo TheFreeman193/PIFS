@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Sony",
+  "MODEL": "C6506",
+  "BRAND": "Sony",
+  "PRODUCT": "C6506_1270-6259",
+  "DEVICE": "C6506",
+  "FINGERPRINT": "Sony/C6506_1270-6259/C6506:4.2.2/10.3.1.A.2.67/vPd3rg:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "10.3.1.A.2.67",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "vPd3rg",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Android",
+  "MODEL": "HT2",
+  "BRAND": "Android",
+  "PRODUCT": "ht2_ct106_jhgg_32g",
+  "DEVICE": "HT2",
+  "FINGERPRINT": "Android/ht2_ct106_jhgg_32g/HT2:4.4.4/KTU84P/1429081529:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84P",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.zhuya.1429081529",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

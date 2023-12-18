@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Lava",
+  "MODEL": "iris X1",
+  "BRAND": "iris",
+  "PRODUCT": "X1ST8865",
+  "DEVICE": "X1ST8865",
+  "FINGERPRINT": "iris/X1ST8865/X1ST8865:4.4.2/X1/20141001.013145:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "X1",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20141001.013145",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

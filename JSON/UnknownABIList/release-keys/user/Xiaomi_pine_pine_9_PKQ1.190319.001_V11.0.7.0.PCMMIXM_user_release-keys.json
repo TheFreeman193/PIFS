@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "Redmi 7A",
+  "BRAND": "Xiaomi",
+  "PRODUCT": "pine",
+  "DEVICE": "pine",
+  "FINGERPRINT": "Xiaomi/pine/pine:9/PKQ1.190319.001/V11.0.7.0.PCMMIXM:user/release-keys",
+  "SECURITY_PATCH": "2020-03-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "PKQ1.190319.001",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "V11.0.7.0.PCMMIXM",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

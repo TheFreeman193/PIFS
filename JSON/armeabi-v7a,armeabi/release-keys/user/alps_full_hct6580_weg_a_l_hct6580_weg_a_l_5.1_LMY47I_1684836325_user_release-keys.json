@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "S23 Ultra+",
+  "BRAND": "alps",
+  "PRODUCT": "S23_Ultra_plus",
+  "DEVICE": "S23_Ultra_plus",
+  "FINGERPRINT": "alps/full_hct6580_weg_a_l/hct6580_weg_a_l:5.1/LMY47I/1684836325:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LRX21M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1684836325",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

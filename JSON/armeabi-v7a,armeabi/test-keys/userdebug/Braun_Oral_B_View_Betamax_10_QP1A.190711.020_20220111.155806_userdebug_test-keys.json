@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Archos",
+  "MODEL": "Oral B View",
+  "BRAND": "Braun",
+  "PRODUCT": "Oral B View",
+  "DEVICE": "Betamax",
+  "FINGERPRINT": "Braun/Oral_B_View/Betamax:10/QP1A.190711.020/20220111.155806:userdebug/test-keys",
+  "SECURITY_PATCH": "2021-01-05",
+  "FIRST_API_LEVEL": "29",
+  "BUILD_ID": "QP1A.190711.020",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20220111.155806",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-T113",
+  "BRAND": "samsung",
+  "PRODUCT": "goyavewifixx",
+  "DEVICE": "goyavewifi",
+  "FINGERPRINT": "samsung/goyavewifixx/goyavewifi:4.4.4/KTU84P/T113XXU0APA5:user/release-keys",
+  "SECURITY_PATCH": "2016-02-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84P",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "T113XXU0APA5",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

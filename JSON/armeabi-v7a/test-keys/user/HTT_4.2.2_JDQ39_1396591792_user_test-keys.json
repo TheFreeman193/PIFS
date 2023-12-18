@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "MECER",
+  "MODEL": "800P31C",
+  "BRAND": "MECER",
+  "PRODUCT": "800P31C",
+  "DEVICE": "800P31C",
+  "FINGERPRINT": "HTT:4.2.2/JDQ39/1396591792:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.chivin.1396591792",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

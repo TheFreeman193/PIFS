@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "JTY",
+  "MODEL": "TYD-107",
+  "BRAND": "JTY",
+  "PRODUCT": "kt096h_101",
+  "DEVICE": "kt096h_101",
+  "FINGERPRINT": "alps/kt096h_101/kt096h_101:4.4.2/KOT49H/1483685394:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.azhuo.1483685394",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Sony",
+  "MODEL": "C6902",
+  "BRAND": "Sony",
+  "PRODUCT": "C6902",
+  "DEVICE": "C6902",
+  "FINGERPRINT": "Sony/C6902/C6902:5.0.2/14.5.A.0.242/2953600412:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "14.5.A.0.242",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "2953600412",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

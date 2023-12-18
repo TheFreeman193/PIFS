@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Thl",
+  "MODEL": "w100",
+  "BRAND": "Thl",
+  "PRODUCT": "Thl_jb2",
+  "DEVICE": "Thl_jb2",
+  "FINGERPRINT": "alps/w100_jb2/w100_jb2:4.2.1/JOP40D/1376526806:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JOP40D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.lewa.1376526806",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

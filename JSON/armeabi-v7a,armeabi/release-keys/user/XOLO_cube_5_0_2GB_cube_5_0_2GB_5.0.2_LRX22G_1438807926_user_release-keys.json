@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "XOLO",
+  "MODEL": "cube 5.0_2GB",
+  "BRAND": "XOLO",
+  "PRODUCT": "cube_5_0_2GB",
+  "DEVICE": "cube_5_0_2GB",
+  "FINGERPRINT": "XOLO/cube_5_0_2GB/cube_5_0_2GB:5.0.2/LRX22G/1438807926:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LRX22G",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1438807926",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

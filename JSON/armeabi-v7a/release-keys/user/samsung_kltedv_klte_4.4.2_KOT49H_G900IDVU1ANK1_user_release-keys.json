@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-G900I",
+  "BRAND": "samsung",
+  "PRODUCT": "kltedv",
+  "DEVICE": "klte",
+  "FINGERPRINT": "samsung/kltedv/klte:4.4.2/KOT49H/G900IDVU1ANK1:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "G900IDVU1ANK1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

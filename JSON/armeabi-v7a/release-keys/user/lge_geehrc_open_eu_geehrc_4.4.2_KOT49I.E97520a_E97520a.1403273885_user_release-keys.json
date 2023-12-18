@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LG-E975",
+  "BRAND": "lge",
+  "PRODUCT": "geehrc_open_eu",
+  "DEVICE": "geehrc",
+  "FINGERPRINT": "lge/geehrc_open_eu/geehrc:4.4.2/KOT49I.E97520a/E97520a.1403273885:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49I.E97520a",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "E97520a.1403273885",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

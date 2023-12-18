@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-J120F",
+  "BRAND": "samsung",
+  "PRODUCT": "j1xltejt",
+  "DEVICE": "j1xlte",
+  "FINGERPRINT": "samsung/j1xltejt/j1xlte:5.1.1/LMY47X/J120FXXU2ARK1:user/release-keys",
+  "SECURITY_PATCH": "2018-03-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47X",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "J120FXXU2ARK1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

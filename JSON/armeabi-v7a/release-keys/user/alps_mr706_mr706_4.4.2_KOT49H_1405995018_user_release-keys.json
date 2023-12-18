@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "TG735",
+  "BRAND": "alps",
+  "PRODUCT": "mr706",
+  "DEVICE": "mr706",
+  "FINGERPRINT": "alps/mr706/mr706:4.4.2/KOT49H/1405995018:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.thh.1405995018",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "MStar Semiconductor, Inc.",
+  "MODEL": "MStar Android TV",
+  "BRAND": "MStar",
+  "PRODUCT": "full_mango",
+  "DEVICE": "mango",
+  "FINGERPRINT": "MStar/full_mango/mango:4.4.2/KOT49H/1.3.7:userdebug/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1.3.7",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HUAWEI",
+  "MODEL": "Y635-L03",
+  "BRAND": "Huawei",
+  "PRODUCT": "Y635-L03",
+  "DEVICE": "hwY635",
+  "FINGERPRINT": "Huawei/Y635-L03/hwY635:4.4.4/HuaweiY635-L03/CANC113B140:user/ota-rel-keys,release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "HuaweiY635-L03",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "CANC113B140",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

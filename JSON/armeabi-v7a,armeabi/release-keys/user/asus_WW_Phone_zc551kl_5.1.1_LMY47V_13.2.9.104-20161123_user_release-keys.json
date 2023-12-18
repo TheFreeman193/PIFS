@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "asus",
+  "MODEL": "Z6530V",
+  "BRAND": "asus",
+  "PRODUCT": "WW_Phone",
+  "DEVICE": "k71v1_64_bsp",
+  "FINGERPRINT": "asus/WW_Phone/zc551kl:5.1.1/LMY47V/13.2.9.104-20161123:user/release-keys",
+  "SECURITY_PATCH": "2016-11-01",
+  "FIRST_API_LEVEL": "22",
+  "BUILD_ID": "LMY47V",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "WW_Phone-13.2.9.104-20161123",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

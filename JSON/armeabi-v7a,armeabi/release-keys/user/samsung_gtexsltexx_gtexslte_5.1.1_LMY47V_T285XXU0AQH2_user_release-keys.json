@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-T285",
+  "BRAND": "samsung",
+  "PRODUCT": "gtexsltexx",
+  "DEVICE": "gtexslte",
+  "FINGERPRINT": "samsung/gtexsltexx/gtexslte:5.1.1/LMY47V/T285XXU0AQH2:user/release-keys",
+  "SECURITY_PATCH": "2017-08-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47V",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "T285XXU0AQH2",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

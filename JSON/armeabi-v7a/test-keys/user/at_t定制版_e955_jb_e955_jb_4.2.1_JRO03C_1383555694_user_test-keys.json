@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "moztek",
+  "MODEL": "出口定制版",
+  "BRAND": "at&t定制版",
+  "PRODUCT": "e955_jb",
+  "DEVICE": "e955_jb",
+  "FINGERPRINT": "at&t定制版/e955_jb/e955_jb:4.2.1/JRO03C/1383555694:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JRO03C",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.s043.1383555694",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

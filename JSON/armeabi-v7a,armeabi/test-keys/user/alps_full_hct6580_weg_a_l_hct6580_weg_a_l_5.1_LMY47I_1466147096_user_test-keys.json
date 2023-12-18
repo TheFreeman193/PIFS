@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-G930F",
+  "BRAND": "samsung",
+  "PRODUCT": "nobleltezh",
+  "DEVICE": "nobleltehk",
+  "FINGERPRINT": "alps/full_hct6580_weg_a_l/hct6580_weg_a_l:5.1/LMY47I/1466147096:user/test-keys",
+  "SECURITY_PATCH": "2016-03-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MMB29K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "G935FXXU1APAVA",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

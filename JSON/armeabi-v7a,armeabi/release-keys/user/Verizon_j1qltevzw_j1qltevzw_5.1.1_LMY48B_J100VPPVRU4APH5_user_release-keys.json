@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-J100VPP",
+  "BRAND": "Verizon",
+  "PRODUCT": "j1qltevzw",
+  "DEVICE": "j1qltevzw",
+  "FINGERPRINT": "Verizon/j1qltevzw/j1qltevzw:5.1.1/LMY48B/J100VPPVRU4APH5:user/release-keys",
+  "SECURITY_PATCH": "2016-09-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY48B",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "J100VPPVRU4APH5",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

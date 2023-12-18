@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-J510H",
+  "BRAND": "samsung",
+  "PRODUCT": "j5x3gjv",
+  "DEVICE": "j5x3g",
+  "FINGERPRINT": "samsung/j5x3gjv/j5x3g:7.1.1/NMF26X/J510HXXU2BRG1:user/release-keys",
+  "SECURITY_PATCH": "2018-07-01",
+  "FIRST_API_LEVEL": "23",
+  "BUILD_ID": "NMF26X",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "J510HXXU2BRG1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "ALLVIEW",
+  "MODEL": "X1_Soul_Xtreme",
+  "BRAND": "ALLVIEW",
+  "PRODUCT": "ALLVIEW",
+  "DEVICE": "ALLVIEW",
+  "FINGERPRINT": "ALLVIEW/ALLVIEW/ALLVIEW:4.4.2/KVT49L/:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KVT49L",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.znsj.20160625.180559",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

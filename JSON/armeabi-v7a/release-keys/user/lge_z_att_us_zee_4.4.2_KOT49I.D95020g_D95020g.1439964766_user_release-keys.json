@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LG-D950",
+  "BRAND": "lge",
+  "PRODUCT": "z_att_us",
+  "DEVICE": "zee",
+  "FINGERPRINT": "lge/z_att_us/zee:4.4.2/KOT49I.D95020g/D95020g.1439964766:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49I.D95020g",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "D95020g.1439964766",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

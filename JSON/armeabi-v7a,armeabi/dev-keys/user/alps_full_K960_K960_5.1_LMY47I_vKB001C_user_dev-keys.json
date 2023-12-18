@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "K960",
+  "BRAND": "alps",
+  "PRODUCT": "full_K960",
+  "DEVICE": "K960",
+  "FINGERPRINT": "alps/full_K960/K960:5.1/LMY47I/vKB001C:user/dev-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47I",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "vKB001C",
+  "TYPE": "user",
+  "TAGS": "dev-keys"
+}

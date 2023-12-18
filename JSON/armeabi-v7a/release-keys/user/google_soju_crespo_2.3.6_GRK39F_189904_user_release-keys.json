@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "Nexus S",
+  "BRAND": "google",
+  "PRODUCT": "soju",
+  "DEVICE": "crespo",
+  "FINGERPRINT": "google/soju/crespo:2.3.6/GRK39F/189904:user/release-keys",
+  "SECURITY_PATCH": "2022-09-05",
+  "FIRST_API_LEVEL": "29",
+  "BUILD_ID": "GRK39F",
+  "VNDK_VERSION": "33",
+  "INCREMENTAL": "189904",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

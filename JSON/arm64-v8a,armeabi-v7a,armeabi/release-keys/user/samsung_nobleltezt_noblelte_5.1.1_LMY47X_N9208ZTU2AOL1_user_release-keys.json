@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-N9208",
+  "BRAND": "samsung",
+  "PRODUCT": "nobleltezt",
+  "DEVICE": "noblelte",
+  "FINGERPRINT": "samsung/nobleltezt/noblelte:5.1.1/LMY47X/N9208ZTU2AOL1:user/release-keys",
+  "SECURITY_PATCH": "2015-12-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47X",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "N9208ZTU2AOL1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

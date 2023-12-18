@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "OnePlus",
+  "MODEL": "BE2025",
+  "BRAND": "OnePlus",
+  "PRODUCT": "OnePlusN10METRO",
+  "DEVICE": "OnePlusN10METRO",
+  "FINGERPRINT": "OnePlus/OnePlusN10METRO/OnePlusN10METRO:11/RKQ1.201217.002/2108030048:user/release-keys",
+  "SECURITY_PATCH": "2021-08-01",
+  "FIRST_API_LEVEL": "29",
+  "BUILD_ID": "RKQ1.201217.002",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "2108030048",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

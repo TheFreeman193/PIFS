@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Vodafone",
+  "MODEL": "VFD 1100",
+  "BRAND": "Vodafone",
+  "PRODUCT": "VFD1100",
+  "DEVICE": "Tab7",
+  "FINGERPRINT": "Vodafone/VFD1100/Tab7:6.0/MRA58K/vEGF-0:user/release-keys",
+  "SECURITY_PATCH": "2016-05-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "vEGF-0",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

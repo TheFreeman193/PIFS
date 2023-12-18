@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "motorola",
+  "MODEL": "Z6530V",
+  "BRAND": "motorola",
+  "PRODUCT": "tesla_falcon",
+  "DEVICE": "k71v1_64_bsp",
+  "FINGERPRINT": "ZTE/VSBL_Z6530V/Z6530:9/PPR1.180610.011/20190924.105452:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47Z",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "94c2230149",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

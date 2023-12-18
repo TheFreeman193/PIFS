@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "ZTE",
+  "MODEL": "Z956",
+  "BRAND": "ZTE",
+  "PRODUCT": "Z956",
+  "DEVICE": "financier",
+  "FINGERPRINT": "ZTE/Z956/financier:6.0.1/MMB29M/20171130.045021:user/release-keys",
+  "SECURITY_PATCH": "2017-12-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MMB29M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20171130.045021",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

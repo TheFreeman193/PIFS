@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SAMSUNG-SM-J320A",
+  "BRAND": "samsung",
+  "PRODUCT": "j3xlteuc",
+  "DEVICE": "j3xlteatt",
+  "FINGERPRINT": "samsung/j3xlteuc/j3xlteatt:7.1.1/NMF26X/J320AUCS3BQL2:user/release-keys",
+  "SECURITY_PATCH": "2017-12-01",
+  "FIRST_API_LEVEL": "23",
+  "BUILD_ID": "NMF26X",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "J320AUCS3BQL2",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-J327R7",
+  "BRAND": "samsung",
+  "PRODUCT": "j3poplteacg",
+  "DEVICE": "j3poplteacg",
+  "FINGERPRINT": "samsung/j3poplteacg/j3poplteacg:7.0/NRD90M/J327R7WWS4ARF2:user/release-keys",
+  "SECURITY_PATCH": "2018-06-01",
+  "FIRST_API_LEVEL": "24",
+  "BUILD_ID": "NRD90M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "J327R7WWS4ARF2",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

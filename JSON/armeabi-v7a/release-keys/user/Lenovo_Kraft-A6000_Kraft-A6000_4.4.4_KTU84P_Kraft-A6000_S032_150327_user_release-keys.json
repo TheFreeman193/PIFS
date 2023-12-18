@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LENOVO",
+  "MODEL": "Lenovo A6000",
+  "BRAND": "Lenovo",
+  "PRODUCT": "Kraft-A6000",
+  "DEVICE": "Kraft-A6000",
+  "FINGERPRINT": "Lenovo/Kraft-A6000/Kraft-A6000:4.4.4/KTU84P/Kraft-A6000_S032_150327:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84P",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "Kraft-A6000_S032_150327",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

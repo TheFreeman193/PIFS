@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HTC",
+  "MODEL": "HTC Desire 601 dual sim",
+  "BRAND": "htc",
+  "PRODUCT": "htc_asia_wwe",
+  "DEVICE": "zaradug",
+  "FINGERPRINT": "htc/htc_asia_wwe/zaradug:4.2.2/JDQ39/279464.3:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "279464.3",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

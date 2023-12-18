@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "VS985 4G",
+  "BRAND": "lge",
+  "PRODUCT": "g3_vzw",
+  "DEVICE": "g3",
+  "FINGERPRINT": "lge/g3_vzw/g3:5.1.1/LMY47V/1525410464a1b:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47V",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1525410464a1b",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

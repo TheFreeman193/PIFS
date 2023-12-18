@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "amlogic",
+  "MODEL": "C6S",
+  "BRAND": "p6330",
+  "PRODUCT": "p6330",
+  "DEVICE": "p6330",
+  "FINGERPRINT": "Android/p6330/p6330:5.1.1/LMY47V/20170807:user/test-keys",
+  "SECURITY_PATCH": "2015-11-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MHC19J",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20180809",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

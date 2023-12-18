@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-G313H",
+  "BRAND": "samsung",
+  "PRODUCT": "vivalto3gxx",
+  "DEVICE": "vivalto3g",
+  "FINGERPRINT": "samsung/vivalto3gxx/vivalto3g:4.4.2/KOT49H/G313HXXU0AOH2:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "G313HXXU0AOH2",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

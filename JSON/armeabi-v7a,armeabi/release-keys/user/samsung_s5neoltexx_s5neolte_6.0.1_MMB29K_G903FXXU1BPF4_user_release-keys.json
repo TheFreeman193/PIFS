@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-G903F",
+  "BRAND": "samsung",
+  "PRODUCT": "s5neoltexx",
+  "DEVICE": "s5neolte",
+  "FINGERPRINT": "samsung/s5neoltexx/s5neolte:6.0.1/MMB29K/G903FXXU1BPF4:user/release-keys",
+  "SECURITY_PATCH": "2016-06-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MMB29K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "G903FXXU1BPF4",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

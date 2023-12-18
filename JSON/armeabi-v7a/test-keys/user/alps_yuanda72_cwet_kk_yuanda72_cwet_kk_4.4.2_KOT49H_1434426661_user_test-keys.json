@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LOGO",
+  "MODEL": "S6",
+  "BRAND": "LOGO",
+  "PRODUCT": "S6",
+  "DEVICE": "LOGO",
+  "FINGERPRINT": "alps/yuanda72_cwet_kk/yuanda72_cwet_kk:4.4.2/KOT49H/1434426661:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.root.1434426661",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

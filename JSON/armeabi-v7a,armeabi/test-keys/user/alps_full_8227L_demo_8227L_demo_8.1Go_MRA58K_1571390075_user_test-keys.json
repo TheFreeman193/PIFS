@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "8227L_demo",
+  "BRAND": "alps",
+  "PRODUCT": "full_8227L_demo",
+  "DEVICE": "8227L_demo",
+  "FINGERPRINT": "alps/full_8227L_demo/8227L_demo:8.1Go/MRA58K/1571390075:user/test-keys",
+  "SECURITY_PATCH": "2017-11-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1571390075",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

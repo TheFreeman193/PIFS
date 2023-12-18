@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Amlogic",
+  "MODEL": "X92",
+  "BRAND": "Amlogic",
+  "PRODUCT": "q201",
+  "DEVICE": "q201",
+  "FINGERPRINT": "RKM/q6330/q6330:7.1.2/NHG47L/20170901:user/test-keys",
+  "SECURITY_PATCH": "2017-05-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "NHG47L",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20170901",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

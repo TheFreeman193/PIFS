@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "ANS_NKJ",
+  "MODEL": "AQT100",
+  "BRAND": "NKJ_AQT100",
+  "PRODUCT": "NKJ_AQT100",
+  "DEVICE": "NKJ_AQT100",
+  "FINGERPRINT": "NKJ_AQT100/NKJ_AQT100/NKJ_AQT100:5.1.1/NKJ.02.42.01.04/01:user/release-keys",
+  "SECURITY_PATCH": "2016-10-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "NKJ.02.42.01.04",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "01",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

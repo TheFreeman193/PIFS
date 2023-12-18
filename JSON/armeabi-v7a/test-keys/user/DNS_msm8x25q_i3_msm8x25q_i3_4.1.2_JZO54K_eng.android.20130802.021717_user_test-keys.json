@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "DNS",
+  "MODEL": "s4003",
+  "BRAND": "DNS",
+  "PRODUCT": "msm8x25q_i3",
+  "DEVICE": "msm8x25q_i3",
+  "FINGERPRINT": "DNS/msm8x25q_i3/msm8x25q_i3:4.1.2/JZO54K/eng.android.20130802.021717:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JZO54K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.android.20130802.021717",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

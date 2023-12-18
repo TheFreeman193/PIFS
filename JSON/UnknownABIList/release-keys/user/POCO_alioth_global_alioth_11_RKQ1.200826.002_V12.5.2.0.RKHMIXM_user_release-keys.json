@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "POCO",
+  "MODEL": "M2012K11AG",
+  "BRAND": "POCO",
+  "PRODUCT": "alioth_global",
+  "DEVICE": "alioth",
+  "FINGERPRINT": "POCO/alioth_global/alioth:11/RKQ1.200826.002/V12.5.2.0.RKHMIXM:user/release-keys",
+  "SECURITY_PATCH": "2021-05-01",
+  "FIRST_API_LEVEL": "30",
+  "BUILD_ID": "RKQ1.200826.002",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "V12.5.2.0.RKHMIXM",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "SMMS8H3G",
+  "BRAND": "SMMS8H3G",
+  "PRODUCT": "c706",
+  "DEVICE": "c706",
+  "FINGERPRINT": "alps/c706/c706:4.4.2/KOT49H/1423031820:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.lile.1423031820",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

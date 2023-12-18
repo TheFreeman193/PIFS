@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Motorola",
+  "MODEL": "Nexus 6",
+  "BRAND": "google",
+  "PRODUCT": "shamu",
+  "DEVICE": "shamu",
+  "FINGERPRINT": "google/shamu/shamu:6.0/MRA58N/2289998:user/release-keys",
+  "SECURITY_PATCH": "2015-10-01",
+  "FIRST_API_LEVEL": "21",
+  "BUILD_ID": "MRA58N",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "2289998",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "QUALCOMM",
+  "MODEL": "qssi system image for arm64",
+  "BRAND": "qti",
+  "PRODUCT": "qssi",
+  "DEVICE": "qssi",
+  "FINGERPRINT": "qti/qssi/qssi:11/RKQ1.210614.002/1638373193925:user/release-keys",
+  "SECURITY_PATCH": "2021-11-05",
+  "FIRST_API_LEVEL": "30",
+  "BUILD_ID": "RKQ1.210614.002",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1638373193925",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

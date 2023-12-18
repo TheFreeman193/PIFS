@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "inoco8163_tb_jz_m",
+  "BRAND": "alps",
+  "PRODUCT": "full_inoco8163_tb_jz_m",
+  "DEVICE": "inoco8163_tb_jz_m",
+  "FINGERPRINT": "128",
+  "SECURITY_PATCH": "2016-05-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "KA11-RTI-6.0-X.1.1.8",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

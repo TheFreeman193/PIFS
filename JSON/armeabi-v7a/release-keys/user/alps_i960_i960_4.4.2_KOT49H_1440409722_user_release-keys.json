@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "i960",
+  "BRAND": "alps",
+  "PRODUCT": "i960",
+  "DEVICE": "i960",
+  "FINGERPRINT": "alps/i960/i960:4.4.2/KOT49H/1440409722:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "vEB021G",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

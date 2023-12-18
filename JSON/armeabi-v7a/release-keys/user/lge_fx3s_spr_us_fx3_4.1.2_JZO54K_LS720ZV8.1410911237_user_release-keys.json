@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LG-LS720",
+  "BRAND": "lge",
+  "PRODUCT": "fx3s_spr_us",
+  "DEVICE": "fx3",
+  "FINGERPRINT": "lge/fx3s_spr_us/fx3:4.1.2/JZO54K/LS720ZV8.1410911237:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JZO54K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "LS720ZV8.1410911237",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

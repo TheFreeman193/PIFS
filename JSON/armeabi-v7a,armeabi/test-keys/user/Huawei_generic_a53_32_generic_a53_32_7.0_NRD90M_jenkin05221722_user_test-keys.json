@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "unknown",
+  "MODEL": "generic_a53_32",
+  "BRAND": "Huawei",
+  "PRODUCT": "generic_a53_32",
+  "DEVICE": "generic_a53_32",
+  "FINGERPRINT": "Huawei/generic_a53_32/generic_a53_32:7.0/NRD90M/jenkin05221722:user/test-keys",
+  "SECURITY_PATCH": "2019-05-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "NRD90M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.jenkin.20190522.172237",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

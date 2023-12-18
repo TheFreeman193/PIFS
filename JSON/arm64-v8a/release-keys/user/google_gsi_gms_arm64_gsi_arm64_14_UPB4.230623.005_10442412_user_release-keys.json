@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Google",
+  "MODEL": "mainline",
+  "BRAND": "google",
+  "PRODUCT": "mainline",
+  "DEVICE": "generic",
+  "FINGERPRINT": "google/gsi_gms_arm64/gsi_arm64:14/UPB4.230623.005/10442412:user/release-keys",
+  "SECURITY_PATCH": "2023-07-05",
+  "FIRST_API_LEVEL": "NULL",
+  "BUILD_ID": "UPB4.230623.005",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "10442412",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

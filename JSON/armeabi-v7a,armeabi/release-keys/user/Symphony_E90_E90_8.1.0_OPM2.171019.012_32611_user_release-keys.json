@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Symphony",
+  "MODEL": "E90",
+  "BRAND": "Symphony",
+  "PRODUCT": "E90",
+  "DEVICE": "E90",
+  "FINGERPRINT": "Symphony/E90/E90:8.1.0/OPM2.171019.012/32611:user/release-keys",
+  "SECURITY_PATCH": "2018-08-05",
+  "FIRST_API_LEVEL": "NULL",
+  "BUILD_ID": "OPM2.171019.012",
+  "VNDK_VERSION": "1",
+  "INCREMENTAL": "32611",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

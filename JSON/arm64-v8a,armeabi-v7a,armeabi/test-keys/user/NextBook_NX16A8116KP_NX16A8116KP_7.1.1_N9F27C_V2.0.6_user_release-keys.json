@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Yifang",
+  "MODEL": "NX16A8116KP",
+  "BRAND": "NextBook",
+  "PRODUCT": "NX16A8116KP",
+  "DEVICE": "NX16A8116KP",
+  "FINGERPRINT": "NextBook/NX16A8116KP/NX16A8116KP:7.1.1/N9F27C/V2.0.6:user/release-keys",
+  "SECURITY_PATCH": "2017-08-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "N9F27C",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20171122",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

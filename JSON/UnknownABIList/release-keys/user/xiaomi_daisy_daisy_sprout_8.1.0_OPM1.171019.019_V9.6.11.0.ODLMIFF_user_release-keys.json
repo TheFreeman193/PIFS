@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "Mi A2 Lite",
+  "BRAND": "xiaomi",
+  "PRODUCT": "daisy",
+  "DEVICE": "daisy_sprout",
+  "FINGERPRINT": "xiaomi/daisy/daisy_sprout:8.1.0/OPM1.171019.019/V9.6.11.0.ODLMIFF:user/release-keys",
+  "SECURITY_PATCH": "2018-11-01",
+  "FIRST_API_LEVEL": "27",
+  "BUILD_ID": "OPM1.171019.019",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "V9.6.11.0.ODLMIFF",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

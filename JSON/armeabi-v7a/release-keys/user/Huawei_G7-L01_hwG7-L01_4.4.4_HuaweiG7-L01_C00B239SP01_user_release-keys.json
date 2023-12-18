@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HUAWEI",
+  "MODEL": "G7-L01",
+  "BRAND": "Huawei",
+  "PRODUCT": "G7-L01",
+  "DEVICE": "hwG7-L01",
+  "FINGERPRINT": "Huawei/G7-L01/hwG7-L01:4.4.4/HuaweiG7-L01/C00B239SP01:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "HuaweiG7-L01",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "C00B239SP01",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

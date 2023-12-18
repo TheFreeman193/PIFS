@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "KINGSING",
+  "MODEL": "KINGSING_S1",
+  "BRAND": "KINGSING",
+  "PRODUCT": "e02_ks",
+  "DEVICE": "e02_ks",
+  "FINGERPRINT": "KINGSING/e02_ks/e02_ks:4.4.2/KOT49H/1407481360:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.root.1407481360",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

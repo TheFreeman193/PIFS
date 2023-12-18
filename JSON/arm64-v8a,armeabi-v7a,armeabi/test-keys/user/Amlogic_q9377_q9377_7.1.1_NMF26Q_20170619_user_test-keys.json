@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Amlogic",
+  "MODEL": "H96 PRO+",
+  "BRAND": "Amlogic",
+  "PRODUCT": "q9377",
+  "DEVICE": "q9377",
+  "FINGERPRINT": "Amlogic/q9377/q9377:7.1.1/NMF26Q/20170619:user/test-keys",
+  "SECURITY_PATCH": "2017-03-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "NMF26Q",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20170619",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

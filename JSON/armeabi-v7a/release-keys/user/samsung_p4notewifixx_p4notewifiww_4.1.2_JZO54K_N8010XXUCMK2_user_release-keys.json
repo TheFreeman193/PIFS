@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "GT-N8010",
+  "BRAND": "samsung",
+  "PRODUCT": "p4notewifixx",
+  "DEVICE": "p4notewifiww",
+  "FINGERPRINT": "samsung/p4notewifixx/p4notewifiww:4.1.2/JZO54K/N8010XXUCMK2:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JZO54K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "N8010XXUCMK2",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

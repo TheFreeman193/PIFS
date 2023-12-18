@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LG-K350",
+  "BRAND": "lge",
+  "PRODUCT": "mm1v_global_com",
+  "DEVICE": "mm1v",
+  "FINGERPRINT": "lge/mm1v_global_com/mm1v:6.0/MRA58K/1726515044572:user/release-keys",
+  "SECURITY_PATCH": "2017-09-01",
+  "FIRST_API_LEVEL": "23",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1726515044572",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "NEC",
+  "MODEL": "LAVIE Tab E 10FHD2",
+  "BRAND": "NEC",
+  "PRODUCT": "full_achilles6_row_wifi",
+  "DEVICE": "achilles6_row_wifi",
+  "FINGERPRINT": "NEC/full_achilles6_row_wifi/achilles6_row_wifi:10/QP1A.190711.020/LAVIETabE10FHD2_USR_S200428_2201110006_V9.56_BMAIN_NEC:user/release-keys",
+  "SECURITY_PATCH": "2022-01-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "QP1A.190711.020",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "LAVIETabE10FHD2_USR_S200428_2201110006_V9.56_BMAIN_NEC",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

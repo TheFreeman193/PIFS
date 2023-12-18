@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "Z1",
+  "BRAND": "KINGZONE",
+  "PRODUCT": "Z1",
+  "DEVICE": "Z1",
+  "FINGERPRINT": "alps/c211_tz_3m_k368_new_13/c211_tz_3m_k368_new_13:4.4.4/KTU84P/1433569430:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84P",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.root.1433569430",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

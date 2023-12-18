@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "CUBE",
+  "MODEL": "U55GT",
+  "BRAND": "CUBE",
+  "PRODUCT": "htt89_tb_jb2",
+  "DEVICE": "U55GT",
+  "FINGERPRINT": "HTT:4.2.2/JDQ39/1375965453:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.ser3.1375965453",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "GT-I9300",
+  "MODEL": "GT-I9300",
+  "BRAND": "samsung",
+  "PRODUCT": "GT-I9300",
+  "DEVICE": "GT-I9300",
+  "FINGERPRINT": "alps/mobitek75_ics2/mobitek75_ics2:4.0.4/IMM76D/1359391476:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "IMM76D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.root.1359391476",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

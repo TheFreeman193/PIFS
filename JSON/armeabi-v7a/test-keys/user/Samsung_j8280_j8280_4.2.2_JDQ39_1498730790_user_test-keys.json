@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Samsung",
+  "MODEL": "Galaxy A9(2017)",
+  "BRAND": "Samsung",
+  "PRODUCT": "Galaxy A9(2017)",
+  "DEVICE": "Galaxy A9(2017)",
+  "FINGERPRINT": "Samsung/j8280/j8280:4.2.2/JDQ39/1498730790:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.builder.1498730790",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

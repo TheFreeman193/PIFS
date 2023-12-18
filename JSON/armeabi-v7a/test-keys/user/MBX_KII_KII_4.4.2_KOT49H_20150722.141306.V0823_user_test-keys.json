@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "MBX",
+  "MODEL": "KⅡ",
+  "BRAND": "MBX",
+  "PRODUCT": "KII",
+  "DEVICE": "KII",
+  "FINGERPRINT": "MBX/KII/KII:4.4.2/KOT49H/20150722.141306.V0823:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20150722.141306.V0823",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "XOLO",
+  "MODEL": "Q1010i",
+  "BRAND": "XOLO",
+  "PRODUCT": "Q1010i",
+  "DEVICE": "Q1010i",
+  "FINGERPRINT": "XOLO/Q1010i/Q1010i:4.4.2/KOT49H/1413940208:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1413940208",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

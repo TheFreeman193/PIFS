@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Elephone",
+  "MODEL": "M3",
+  "BRAND": "Elephone",
+  "PRODUCT": "M3",
+  "DEVICE": "magc6755_66c_m",
+  "FINGERPRINT": "Elephone/full_magc6755_66c_m/magc6755_66c_m:6.0/MRA58K/1469016800:user/test-keys",
+  "SECURITY_PATCH": "2016-03-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1469016800",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

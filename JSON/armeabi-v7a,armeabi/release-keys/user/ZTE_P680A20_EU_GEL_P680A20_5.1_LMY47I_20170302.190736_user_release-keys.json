@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "ZTE",
+  "MODEL": "ZTE Blade L5 Plus",
+  "BRAND": "ZTE",
+  "PRODUCT": "P680A20_EU_GEL",
+  "DEVICE": "P680A20",
+  "FINGERPRINT": "ZTE/P680A20_EU_GEL/P680A20:5.1/LMY47I/20170302.190736:user/release-keys",
+  "SECURITY_PATCH": "2016-10-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47I",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1488452762",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

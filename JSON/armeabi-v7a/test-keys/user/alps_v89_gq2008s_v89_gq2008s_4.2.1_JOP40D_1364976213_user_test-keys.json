@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "v89_gq2008s",
+  "BRAND": "alps",
+  "PRODUCT": "v89_gq2008s",
+  "DEVICE": "v89_gq2008s",
+  "FINGERPRINT": "alps/v89_gq2008s/v89_gq2008s:4.2.1/JOP40D/1364976213:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JOP40D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.root.1364976213",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

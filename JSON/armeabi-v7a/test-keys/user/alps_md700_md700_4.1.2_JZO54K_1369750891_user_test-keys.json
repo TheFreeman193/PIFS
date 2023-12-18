@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "MD700",
+  "BRAND": "alps",
+  "PRODUCT": "md700",
+  "DEVICE": "md700",
+  "FINGERPRINT": "alps/md700/md700:4.1.2/JZO54K/1369750891:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JZO54K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.root.1369750891",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "FIH",
+  "MODEL": "InFocus M350",
+  "BRAND": "InFocus",
+  "PRODUCT": "M350_00WW",
+  "DEVICE": "G30",
+  "FINGERPRINT": "InFocus/M350_00WW/G30:4.4.4/KTU84P/00WW_4_33L:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84P",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "00WW_4_33L",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

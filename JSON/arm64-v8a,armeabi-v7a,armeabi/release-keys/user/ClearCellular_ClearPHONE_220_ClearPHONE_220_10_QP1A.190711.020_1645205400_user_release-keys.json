@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "ClearCellular",
+  "MODEL": "FreedomPhone220",
+  "BRAND": "ClearCellular",
+  "PRODUCT": "ClearPHONE_220",
+  "DEVICE": "ClearPHONE_220",
+  "FINGERPRINT": "ClearCellular/ClearPHONE_220/ClearPHONE_220:10/QP1A.190711.020/1645205400:user/release-keys",
+  "SECURITY_PATCH": "2020-06-05",
+  "FIRST_API_LEVEL": "29",
+  "BUILD_ID": "QP1A.190711.020",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1645205400",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

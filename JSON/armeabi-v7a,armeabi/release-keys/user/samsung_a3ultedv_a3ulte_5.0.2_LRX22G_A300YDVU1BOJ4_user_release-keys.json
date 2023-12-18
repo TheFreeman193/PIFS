@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-A300Y",
+  "BRAND": "samsung",
+  "PRODUCT": "a3ultedv",
+  "DEVICE": "a3ulte",
+  "FINGERPRINT": "samsung/a3ultedv/a3ulte:5.0.2/LRX22G/A300YDVU1BOJ4:user/release-keys",
+  "SECURITY_PATCH": "2015-11-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LRX22G",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "A300YDVU1BOJ4",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

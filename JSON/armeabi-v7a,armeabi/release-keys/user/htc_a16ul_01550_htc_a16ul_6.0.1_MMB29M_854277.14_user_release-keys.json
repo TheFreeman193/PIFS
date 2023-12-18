@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HTC",
+  "MODEL": "htc_a16ul",
+  "BRAND": "htc",
+  "PRODUCT": "a16ul_01550",
+  "DEVICE": "htc_a16ul",
+  "FINGERPRINT": "htc/a16ul_01550/htc_a16ul:6.0.1/MMB29M/854277.14:user/release-keys",
+  "SECURITY_PATCH": "2017-02-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MMB29M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "854277.14",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "ONDA",
+  "MODEL": "TM-7043XD",
+  "BRAND": "MID",
+  "PRODUCT": "g12refM704A1RU",
+  "DEVICE": "g12refM704A1RU",
+  "FINGERPRINT": "MID/g12refM704A1RU/g12refM704A1RU:4.1.1/JRO03C/eng.hai.wang:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JRO03C",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.hai.wang",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

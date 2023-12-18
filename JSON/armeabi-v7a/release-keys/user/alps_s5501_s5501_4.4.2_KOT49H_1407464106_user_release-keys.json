@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "QMobile i9",
+  "BRAND": "QMobile",
+  "PRODUCT": "QMobile i9",
+  "DEVICE": "QMobile i9",
+  "FINGERPRINT": "alps/s5501/s5501:4.4.2/KOT49H/1407464106:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.kangjin.1407464106",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

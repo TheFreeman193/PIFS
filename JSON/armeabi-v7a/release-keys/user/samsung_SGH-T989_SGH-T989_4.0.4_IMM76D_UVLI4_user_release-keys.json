@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SGH-T989",
+  "BRAND": "samsung",
+  "PRODUCT": "SGH-T989",
+  "DEVICE": "SGH-T989",
+  "FINGERPRINT": "samsung/SGH-T989/SGH-T989:4.0.4/IMM76D/UVLI4:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "IMM76D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "UVLI4",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "Mi 4i",
+  "BRAND": "Xiaomi",
+  "PRODUCT": "ferrari",
+  "DEVICE": "ferrari",
+  "FINGERPRINT": "Xiaomi/ferrari/ferrari:5.0.2/LRX22G/V6.7.2.0.LXIMICH:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LRX22G",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "V6.7.2.0.LXIMICH",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

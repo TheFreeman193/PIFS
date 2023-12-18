@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LENOVO",
+  "MODEL": "IdeaTabA1000L-F",
+  "BRAND": "Lenovo",
+  "PRODUCT": "IdeaTab_A1000L-F",
+  "DEVICE": "A1000LF",
+  "FINGERPRINT": "Lenovo/IdeaTab_A1000L-F/A1000LF:4.1.2/JZO54K/A1000LF_A412_01_15_130928:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JZO54K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "IdeaTab_A1000LF_A412_01_S15",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

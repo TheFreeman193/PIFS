@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Unknown",
+  "MODEL": "Nokia 8.1",
+  "BRAND": "Unknown",
+  "PRODUCT": "PNX_00WW_FIH",
+  "DEVICE": "PNX",
+  "FINGERPRINT": "Nokia/Phoenix_00WW/PNX_sprout:10/QKQ1.190725.002/00WW_4_15B:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "NULL",
+  "BUILD_ID": "QKQ1.190725.002",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "00WW_4_15B",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

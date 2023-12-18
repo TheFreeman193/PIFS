@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "Redmi 6A",
+  "BRAND": "xiaomi",
+  "PRODUCT": "cactus",
+  "DEVICE": "cactus",
+  "FINGERPRINT": "xiaomi/cactus/cactus:9/PPR1.180610.011/V11.0.7.0.PCBMIXM:user/release-keys",
+  "SECURITY_PATCH": "2020-03-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "PPR1.180610.011",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "V11.0.7.0.PCBMIXM",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

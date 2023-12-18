@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "Redmi 3S",
+  "BRAND": "Xiaomi",
+  "PRODUCT": "land",
+  "DEVICE": "land",
+  "FINGERPRINT": "Xiaomi/land/land:6.0.1/MMB29M/9.3.28:user/release-keys",
+  "SECURITY_PATCH": "2017-04-01",
+  "FIRST_API_LEVEL": "23",
+  "BUILD_ID": "MMB29M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "9.3.28",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

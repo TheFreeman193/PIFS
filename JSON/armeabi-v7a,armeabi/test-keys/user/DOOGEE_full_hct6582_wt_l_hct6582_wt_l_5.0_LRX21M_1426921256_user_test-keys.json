@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "DOOGEE",
+  "MODEL": "Titans2_DG700",
+  "BRAND": "DOOGEE",
+  "PRODUCT": "full_hct6582_wt_l",
+  "DEVICE": "hct82_cwet_kk",
+  "FINGERPRINT": "DOOGEE/full_hct6582_wt_l/hct6582_wt_l:5.0/LRX21M/1426921256:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LRX21M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1426921256",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

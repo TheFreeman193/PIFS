@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "JTY",
+  "MODEL": "T805C",
+  "BRAND": "CARBAYSTAR",
+  "PRODUCT": "KT107",
+  "DEVICE": "KT107",
+  "FINGERPRINT": "alps/full_KT107_NL/KT107_NL:5.1/LMY47I/1473166866:user/test-keys",
+  "SECURITY_PATCH": "2016-01-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47I",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1473166866",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

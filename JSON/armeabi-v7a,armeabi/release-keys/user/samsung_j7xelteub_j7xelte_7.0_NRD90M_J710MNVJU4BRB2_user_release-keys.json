@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-J710MN",
+  "BRAND": "samsung",
+  "PRODUCT": "j7xelteub",
+  "DEVICE": "j7xelte",
+  "FINGERPRINT": "samsung/j7xelteub/j7xelte:7.0/NRD90M/J710MNVJU4BRB2:user/release-keys",
+  "SECURITY_PATCH": "2018-01-01",
+  "FIRST_API_LEVEL": "23",
+  "BUILD_ID": "NRD90M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "J710MNVJU4BRB2",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

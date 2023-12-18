@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "PANASONIC",
+  "MODEL": "ELUGA Z1",
+  "BRAND": "Panasonic",
+  "PRODUCT": "ELUGA_Z1",
+  "DEVICE": "ELUGA_Z1",
+  "FINGERPRINT": "Panasonic/ELUGA_Z1/ELUGA_Z1:8.1.0/O11019/1536172036:user/release-keys",
+  "SECURITY_PATCH": "2018-08-05",
+  "FIRST_API_LEVEL": "NULL",
+  "BUILD_ID": "O11019",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1536172036",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

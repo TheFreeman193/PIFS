@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "rockchip",
+  "MODEL": "rk31sdk",
+  "BRAND": "rockchip",
+  "PRODUCT": "rk31_872xu",
+  "DEVICE": "rk31_872xu",
+  "FINGERPRINT": "rockchip/rk31_872xu/rk31_872xu:4.4.2/KOT49H/eng.arron.20150104.160843:eng/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.arron.20150104.160843",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Q1",
+  "MODEL": "Q1",
+  "BRAND": "Q1",
+  "PRODUCT": "scx15_sp7715gaplus_UUIhvga",
+  "DEVICE": "scx15_sp7715ga",
+  "FINGERPRINT": "Q1/scx15_sp7715gaplus_UUIhvga/scx15_sp7715ga:4.4.2/KOT49H/19.1_P15.44.1:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "19.1_P15.44.1",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

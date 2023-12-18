@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "digiin",
+  "MODEL": "Elite9Q",
+  "BRAND": "Prestige",
+  "PRODUCT": "Elite9Q",
+  "DEVICE": "Elite9Q",
+  "FINGERPRINT": "Prestige/Elite9Q/Elite9Q:4.4.2/KOT49H/android.20140922.095648:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "android.20140922.095648",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

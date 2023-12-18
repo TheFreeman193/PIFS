@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Meizu",
+  "MODEL": "PRO 7 Plus",
+  "BRAND": "Meizu",
+  "PRODUCT": "meizu_PRO7Plus_CN",
+  "DEVICE": "PRO7Plus",
+  "FINGERPRINT": "Meizu/meizu_PRO7Plus_CN/PRO7Plus:7.0/NRD90M/1571742948:user/release-keys",
+  "SECURITY_PATCH": "2019-08-01",
+  "FIRST_API_LEVEL": "24",
+  "BUILD_ID": "NRD90M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1571742948",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

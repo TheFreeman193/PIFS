@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SGH-T599N",
+  "BRAND": "samsung",
+  "PRODUCT": "cm_codinalte",
+  "DEVICE": "codinamtr",
+  "FINGERPRINT": "cyanogenmod/cm_codinalte/codinalte:4.4.2/TRIANA0020140411",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "TRIANA0020140411",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "9e480578ab",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

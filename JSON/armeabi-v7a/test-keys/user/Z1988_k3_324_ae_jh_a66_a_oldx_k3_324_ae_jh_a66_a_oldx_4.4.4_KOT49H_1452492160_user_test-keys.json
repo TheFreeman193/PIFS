@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "Z1988",
+  "BRAND": "Z1988",
+  "PRODUCT": "k3_324_ae_jh_a66_a_oldx",
+  "DEVICE": "k3_324_ae_jh_a66_a_oldx",
+  "FINGERPRINT": "Z1988/k3_324_ae_jh_a66_a_oldx/k3_324_ae_jh_a66_a_oldx:4.4.4/KOT49H/1452492160:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.user.1452492160",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HTC",
+  "MODEL": "HTC One",
+  "BRAND": "htc",
+  "PRODUCT": "htc_la_spa",
+  "DEVICE": "m7",
+  "FINGERPRINT": "htc/htc_la_spa/m7:4.4.3/KTU84L/376078.1:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84L",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "376078.1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

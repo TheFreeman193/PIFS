@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "ADVAN",
+  "MODEL": "S5",
+  "BRAND": "ADVAN",
+  "PRODUCT": "S5",
+  "DEVICE": "ADVAN",
+  "FINGERPRINT": "ADVAN/S5/S5:4.0.4/S5-V1.0-2013.04.12/eng.gfs.20130412.161801:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "S5-V1.0-2013.04.12",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.gfs.20130412.161801",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

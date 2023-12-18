@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "nubia",
+  "MODEL": "SM-G965F",
+  "BRAND": "samsung",
+  "PRODUCT": "star2ltexx",
+  "DEVICE": "star2lte",
+  "FINGERPRINT": "nubia/NX551J/NX551J:6.0.1/MMB29M/eng.nubia.20180618.175011:user/release-keys",
+  "SECURITY_PATCH": "2017-03-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MMB29M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.nubia.20180618.175011",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

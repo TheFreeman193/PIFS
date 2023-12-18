@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Motorola",
+  "MODEL": "Moto G (5S)",
+  "BRAND": "motorola",
+  "PRODUCT": "montana",
+  "DEVICE": "montana",
+  "FINGERPRINT": "motorola/montana/montana:8.1.0/OPPS28.65-37-7-11/7f8a6:user/release-keys",
+  "SECURITY_PATCH": "2019-08-01",
+  "FIRST_API_LEVEL": "25",
+  "BUILD_ID": "OPPS28.65-37-7-11",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "7f8a6",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

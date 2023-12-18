@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "SHARK KSR-A0",
+  "BRAND": "blackshark",
+  "PRODUCT": "KSR-A0",
+  "DEVICE": "missi",
+  "FINGERPRINT": "blackshark/KSR-A0/kaiser:11/KASE2201030CN00MR2/V11.0.4.0.JOYUI:user/release-keys",
+  "SECURITY_PATCH": "2021-11-01",
+  "FIRST_API_LEVEL": "30",
+  "BUILD_ID": "KASE2201030CN00MR2",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "V12.0.1.0.RBHCNBS",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

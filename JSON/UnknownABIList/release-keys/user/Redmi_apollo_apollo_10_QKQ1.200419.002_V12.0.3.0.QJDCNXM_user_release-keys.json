@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Redmi",
+  "MODEL": "M2007J3SC",
+  "BRAND": "Redmi",
+  "PRODUCT": "apollo",
+  "DEVICE": "apollo",
+  "FINGERPRINT": "Redmi/apollo/apollo:10/QKQ1.200419.002/V12.0.3.0.QJDCNXM:user/release-keys",
+  "SECURITY_PATCH": "2020-09-01",
+  "FIRST_API_LEVEL": "29",
+  "BUILD_ID": "QKQ1.200419.002",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "V12.0.3.0.QJDCNXM",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

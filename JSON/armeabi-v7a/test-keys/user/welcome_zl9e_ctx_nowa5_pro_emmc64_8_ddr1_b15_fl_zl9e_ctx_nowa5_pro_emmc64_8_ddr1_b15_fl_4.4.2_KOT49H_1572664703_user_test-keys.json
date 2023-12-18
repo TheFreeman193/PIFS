@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "nowa5 Pro",
+  "BRAND": "welcome",
+  "PRODUCT": "nowa5 Pro",
+  "DEVICE": "zl9e_ctx_nowa5_pro_emmc64_8_ddr1_b15_fl",
+  "FINGERPRINT": "welcome/zl9e_ctx_nowa5_pro_emmc64_8_ddr1_b15_fl/zl9e_ctx_nowa5_pro_emmc64_8_ddr1_b15_fl:4.4.2/KOT49H/1572664703:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.daiweiping.1572664703",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

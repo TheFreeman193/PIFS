@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-J610G",
+  "BRAND": "samsung",
+  "PRODUCT": "j6primelteub",
+  "DEVICE": "j6primelte",
+  "FINGERPRINT": "samsung/j6primelteub/j6primelte:10/QP1A.190711.020/J610GUBU4CTI1:user/release-keys",
+  "SECURITY_PATCH": "2020-08-01",
+  "FIRST_API_LEVEL": "27",
+  "BUILD_ID": "QP1A.190711.020",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "J610GUBU4CTI1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "motorola",
+  "MODEL": "motorola one fusion",
+  "BRAND": "motorola",
+  "PRODUCT": "astro_retail",
+  "DEVICE": "astro",
+  "FINGERPRINT": "motorola/astro_retail/astro:10/QPL30.62-23-2/f7942:user/release-keys",
+  "SECURITY_PATCH": "2020-04-01",
+  "FIRST_API_LEVEL": "29",
+  "BUILD_ID": "QPL30.62-23-2",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "f7942",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

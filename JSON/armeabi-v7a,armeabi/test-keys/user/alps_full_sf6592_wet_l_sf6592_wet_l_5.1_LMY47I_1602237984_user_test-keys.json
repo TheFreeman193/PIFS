@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "AYZ",
+  "MODEL": "TAB910",
+  "BRAND": "TAB910",
+  "PRODUCT": "TAB910",
+  "DEVICE": "TAB910",
+  "FINGERPRINT": "alps/full_sf6592_wet_l/sf6592_wet_l:5.1/LMY47I/1602237984:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47I",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1602237984",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

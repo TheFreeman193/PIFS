@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-P613",
+  "BRAND": "samsung",
+  "PRODUCT": "gta4xlvewifixx",
+  "DEVICE": "qssi",
+  "FINGERPRINT": "samsung/gta4xlvewifixx/qssi:12/SP2A.220305.013/P613XXS1AVJ5:user/release-keys",
+  "SECURITY_PATCH": "2022-10-01",
+  "FIRST_API_LEVEL": "30",
+  "BUILD_ID": "SP2A.220305.013",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "P613XXS1AVJ5",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

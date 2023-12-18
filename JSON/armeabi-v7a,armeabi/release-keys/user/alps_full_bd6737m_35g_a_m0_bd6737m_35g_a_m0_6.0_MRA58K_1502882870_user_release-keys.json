@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Ixion",
+  "MODEL": "Ixion MS155",
+  "BRAND": "Ixion",
+  "PRODUCT": "MS155",
+  "DEVICE": "MS155",
+  "FINGERPRINT": "alps/full_bd6737m_35g_a_m0/bd6737m_35g_a_m0:6.0/MRA58K/1502882870:user/release-keys",
+  "SECURITY_PATCH": "2016-07-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1502882870",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

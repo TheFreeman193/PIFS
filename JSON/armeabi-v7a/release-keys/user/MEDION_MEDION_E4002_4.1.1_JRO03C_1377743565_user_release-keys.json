@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LENOVO",
+  "MODEL": "MEDION E4002",
+  "BRAND": "MEDION",
+  "PRODUCT": "MEDION",
+  "DEVICE": "E4002",
+  "FINGERPRINT": "MEDION/MEDION/E4002:4.1.1/JRO03C/1377743565:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JRO03C",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.lironghui1.1377743565",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

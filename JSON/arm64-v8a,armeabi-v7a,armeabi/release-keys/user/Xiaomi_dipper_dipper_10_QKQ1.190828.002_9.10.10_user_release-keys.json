@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "MI 8",
+  "BRAND": "Xiaomi",
+  "PRODUCT": "dipper",
+  "DEVICE": "dipper",
+  "FINGERPRINT": "Xiaomi/dipper/dipper:10/QKQ1.190828.002/9.10.10:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "27",
+  "BUILD_ID": "QKQ1.190828.002",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "9.10.10",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

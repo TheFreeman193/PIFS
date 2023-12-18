@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-J500H",
+  "BRAND": "samsung",
+  "PRODUCT": "j53gxx",
+  "DEVICE": "j53g",
+  "FINGERPRINT": "samsung/j53gxx/j53g:6.0.1/MMB29M/J500HXXS2BRJ2:user/release-keys",
+  "SECURITY_PATCH": "2017-08-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MMB29M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "J500HXXS2BRJ2",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

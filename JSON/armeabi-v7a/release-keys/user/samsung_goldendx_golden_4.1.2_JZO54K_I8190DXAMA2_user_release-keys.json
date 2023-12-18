@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "GT-I8190",
+  "BRAND": "samsung",
+  "PRODUCT": "goldendx",
+  "DEVICE": "golden",
+  "FINGERPRINT": "samsung/goldendx/golden:4.1.2/JZO54K/I8190DXAMA2:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JZO54K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "I8190DXAMA2",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

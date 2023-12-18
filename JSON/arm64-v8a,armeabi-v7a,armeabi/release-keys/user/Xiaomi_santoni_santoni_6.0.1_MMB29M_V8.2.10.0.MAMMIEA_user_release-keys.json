@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "Redmi 4X",
+  "BRAND": "Xiaomi",
+  "PRODUCT": "santoni",
+  "DEVICE": "santoni",
+  "FINGERPRINT": "Xiaomi/santoni/santoni:6.0.1/MMB29M/V8.2.10.0.MAMMIEA:user/release-keys",
+  "SECURITY_PATCH": "2017-05-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MMB29M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "V8.2.10.0.MAMMIEA",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

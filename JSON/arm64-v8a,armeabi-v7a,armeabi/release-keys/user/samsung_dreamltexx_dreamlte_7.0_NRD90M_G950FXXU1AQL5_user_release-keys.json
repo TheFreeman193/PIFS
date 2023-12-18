@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-G950F",
+  "BRAND": "samsung",
+  "PRODUCT": "dreamltexx",
+  "DEVICE": "dreamlte",
+  "FINGERPRINT": "samsung/dreamltexx/dreamlte:7.0/NRD90M/G950FXXU1AQL5:user/release-keys",
+  "SECURITY_PATCH": "2017-12-01",
+  "FIRST_API_LEVEL": "24",
+  "BUILD_ID": "NRD90M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "G950FXXU1AQL5",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Rockchip",
+  "MODEL": "Nexus 7",
+  "BRAND": "google",
+  "PRODUCT": "nakasi",
+  "DEVICE": "grouper",
+  "FINGERPRINT": "google/nakasi/grouper:4.2.2/JDQ39E/9be5ca2016:userdebug/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39E",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "9be5ca2016",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

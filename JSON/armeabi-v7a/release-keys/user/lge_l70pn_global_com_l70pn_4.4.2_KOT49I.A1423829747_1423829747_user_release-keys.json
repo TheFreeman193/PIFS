@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LG-D290",
+  "BRAND": "lge",
+  "PRODUCT": "l70pn_global_com",
+  "DEVICE": "l70pn",
+  "FINGERPRINT": "lge/l70pn_global_com/l70pn:4.4.2/KOT49I.A1423829747/1423829747:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49I.A1423829747",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1423829747",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

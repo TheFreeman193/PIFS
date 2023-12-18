@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "Nexus S 4G",
+  "BRAND": "google",
+  "PRODUCT": "sojus",
+  "DEVICE": "crespo4g",
+  "FINGERPRINT": "google/sojus/crespo4g:4.1.2/JZO54K/485486:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JZO54K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "485486",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

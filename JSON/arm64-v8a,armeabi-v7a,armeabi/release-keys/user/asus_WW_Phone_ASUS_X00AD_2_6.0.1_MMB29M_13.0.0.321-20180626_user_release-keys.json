@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "unknown",
+  "MODEL": "ASUS_X00AD",
+  "BRAND": "asus",
+  "PRODUCT": "WW_Phone",
+  "DEVICE": "ASUS_X00AD_2",
+  "FINGERPRINT": "asus/WW_Phone/ASUS_X00AD_2:6.0.1/MMB29M/13.0.0.321-20180626:user/release-keys",
+  "SECURITY_PATCH": "2017-09-01",
+  "FIRST_API_LEVEL": "23",
+  "BUILD_ID": "MMB29M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "WW_Phone-13.0.0.321-20180626",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

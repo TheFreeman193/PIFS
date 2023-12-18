@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "kyocera",
+  "MODEL": "C5170",
+  "BRAND": "kyocera",
+  "PRODUCT": "C5170",
+  "DEVICE": "C5170",
+  "FINGERPRINT": "kyocera/C5170/C5170:4.0.4/IML77/release.20130807.141654:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "IML77",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "release.20130807.141654",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

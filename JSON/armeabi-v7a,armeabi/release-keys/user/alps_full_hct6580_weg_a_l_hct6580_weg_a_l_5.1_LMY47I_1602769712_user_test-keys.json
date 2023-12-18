@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "nova 7 Pro",
+  "BRAND": "alps",
+  "PRODUCT": "nova_7_Pro",
+  "DEVICE": "nova_7_Pro",
+  "FINGERPRINT": "alps/full_hct6580_weg_a_l/hct6580_weg_a_l:5.1/LMY47I/1602769712:user/test-keys",
+  "SECURITY_PATCH": "2016-06-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47I",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1602769712",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "QUALCOMM",
+  "MODEL": "qssi system image for arm64",
+  "BRAND": "qti",
+  "PRODUCT": "NX679J-UN",
+  "DEVICE": "NX679J-UN",
+  "FINGERPRINT": "qti/qssi-UN/qssi-UN:12/SKQ1.211113.001/eng.nubia.20220409.134257:user/release-keys",
+  "SECURITY_PATCH": "2022-03-01",
+  "FIRST_API_LEVEL": "31",
+  "BUILD_ID": "SKQ1.211113.001",
+  "VNDK_VERSION": "31",
+  "INCREMENTAL": "eng.nubia.20220409.134257",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "mid1008l_emmc",
+  "BRAND": "alps",
+  "PRODUCT": "full_mid1008l_emmc",
+  "DEVICE": "mid1008l_emmc",
+  "FINGERPRINT": "alps/full_mid1008l_emmc/mid1008l_emmc:5.1/LMY47I/1503971883:userdebug/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47I",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1503971883",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

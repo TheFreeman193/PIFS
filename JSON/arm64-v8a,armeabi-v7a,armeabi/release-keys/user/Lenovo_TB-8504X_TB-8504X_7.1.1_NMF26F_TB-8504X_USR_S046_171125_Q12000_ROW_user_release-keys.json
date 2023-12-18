@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LENOVO",
+  "MODEL": "Lenovo TB-8504X",
+  "BRAND": "Lenovo",
+  "PRODUCT": "TB-8504X",
+  "DEVICE": "TB-8504X",
+  "FINGERPRINT": "Lenovo/TB-8504X/TB-8504X:7.1.1/NMF26F/TB-8504X_USR_S046_171125_Q12000_ROW:user/release-keys",
+  "SECURITY_PATCH": "2017-10-01",
+  "FIRST_API_LEVEL": "25",
+  "BUILD_ID": "NMF26F",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "TB-8504X_S000046_171125_ROW",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

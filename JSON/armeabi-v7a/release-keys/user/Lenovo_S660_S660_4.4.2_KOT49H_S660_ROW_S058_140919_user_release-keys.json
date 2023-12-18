@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Lenovo",
+  "MODEL": "Lenovo S660",
+  "BRAND": "Lenovo",
+  "PRODUCT": "S660",
+  "DEVICE": "S660",
+  "FINGERPRINT": "Lenovo/S660/S660:4.4.2/KOT49H/S660_ROW_S058_140919:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "S660_ROW_S058_140919",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

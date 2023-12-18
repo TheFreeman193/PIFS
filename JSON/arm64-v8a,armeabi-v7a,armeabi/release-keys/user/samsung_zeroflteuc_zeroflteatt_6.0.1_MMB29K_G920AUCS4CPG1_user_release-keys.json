@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SAMSUNG-SM-G920A",
+  "BRAND": "samsung",
+  "PRODUCT": "zeroflteuc",
+  "DEVICE": "zeroflteatt",
+  "FINGERPRINT": "samsung/zeroflteuc/zeroflteatt:6.0.1/MMB29K/G920AUCS4CPG1:user/release-keys",
+  "SECURITY_PATCH": "2016-07-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MMB29K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "G920AUCS4CPG1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

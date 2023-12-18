@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "zte",
+  "MODEL": "Z970",
+  "BRAND": "zte",
+  "PRODUCT": "P892T57_MPCS",
+  "DEVICE": "draconis",
+  "FINGERPRINT": "zte/P892T57_MPCS/draconis:4.4.4/KTU84P/20161104.105951:user/release-keys",
+  "SECURITY_PATCH": "2016-11-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84P",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20161104.105951",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

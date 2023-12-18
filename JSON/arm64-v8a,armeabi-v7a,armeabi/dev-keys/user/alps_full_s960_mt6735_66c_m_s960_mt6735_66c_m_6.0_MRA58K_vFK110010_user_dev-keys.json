@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "s960_mt6735_66c_m",
+  "BRAND": "alps",
+  "PRODUCT": "full_s960_mt6735_66c_m",
+  "DEVICE": "s960_mt6735_66c_m",
+  "FINGERPRINT": "alps/full_s960_mt6735_66c_m/s960_mt6735_66c_m:6.0/MRA58K/vFK110010:user/dev-keys",
+  "SECURITY_PATCH": "2016-05-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "vFK110010",
+  "TYPE": "user",
+  "TAGS": "dev-keys"
+}

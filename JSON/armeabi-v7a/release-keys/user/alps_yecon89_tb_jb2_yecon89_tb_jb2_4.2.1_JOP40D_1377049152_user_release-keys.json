@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Freelander",
+  "MODEL": "Freelander PX2",
+  "BRAND": "Freelander",
+  "PRODUCT": "yecon89_tb_jb2",
+  "DEVICE": "yecon89_tb_jb2",
+  "FINGERPRINT": "alps/yecon89_tb_jb2/yecon89_tb_jb2:4.2.1/JOP40D/1377049152:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JOP40D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.hede.1377049152",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

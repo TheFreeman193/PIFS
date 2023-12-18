@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "teXet",
+  "MODEL": "TM-9767",
+  "BRAND": "teXet",
+  "PRODUCT": "tm9767",
+  "DEVICE": "tm9767",
+  "FINGERPRINT": "teXet/tm9767/tm9767:4.4.2/KOT49H/2f91c9e47a:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "2f91c9e47a",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

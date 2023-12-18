@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Sony",
+  "MODEL": "E2003",
+  "BRAND": "Sony",
+  "PRODUCT": "E2003",
+  "DEVICE": "E2003",
+  "FINGERPRINT": "Sony/E2003/E2003:4.4.4/25.0.A.2.31/4Pf_Nw:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "25.0.A.2.31",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "4Pf_Nw",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "GT-I8160P",
+  "BRAND": "samsung",
+  "PRODUCT": "GT-I8160P",
+  "DEVICE": "GT-I8160P",
+  "FINGERPRINT": "samsung/GT-I8160P/GT-I8160P:2.3.6/GINGERBREAD/BGLK2:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "GINGERBREAD",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "BGLK2",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

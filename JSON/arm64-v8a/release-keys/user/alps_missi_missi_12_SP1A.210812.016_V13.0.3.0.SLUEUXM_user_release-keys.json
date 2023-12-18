@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "missi",
+  "BRAND": "alps",
+  "PRODUCT": "missi",
+  "DEVICE": "missi",
+  "FINGERPRINT": "alps/missi/missi:12/SP1A.210812.016/V13.0.3.0.SLUEUXM:user/release-keys",
+  "SECURITY_PATCH": "2022-08-01",
+  "FIRST_API_LEVEL": "31",
+  "BUILD_ID": "SP1A.210812.016",
+  "VNDK_VERSION": "31",
+  "INCREMENTAL": "V13.0.3.0.SLUEUXM",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LENOVO",
+  "MODEL": "LenovoA3300-HV",
+  "BRAND": "Lenovo",
+  "PRODUCT": "A3300-HV",
+  "DEVICE": "A3300-HV",
+  "FINGERPRINT": "Lenovo/A3300-HV/A3300-HV:4.4.2/KOT49H/A3300HV_A442_01_20_140921_ROW:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "Lenovo_A3300HV_A442_01_S020",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

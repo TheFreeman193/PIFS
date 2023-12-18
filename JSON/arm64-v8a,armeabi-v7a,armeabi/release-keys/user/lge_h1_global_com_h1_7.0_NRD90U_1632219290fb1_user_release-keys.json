@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LG-H860",
+  "BRAND": "lge",
+  "PRODUCT": "h1_global_com",
+  "DEVICE": "h1",
+  "FINGERPRINT": "lge/h1_global_com/h1:7.0/NRD90U/1632219290fb1:user/release-keys",
+  "SECURITY_PATCH": "2016-11-01",
+  "FIRST_API_LEVEL": "23",
+  "BUILD_ID": "NRD90U",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1632219290fb1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

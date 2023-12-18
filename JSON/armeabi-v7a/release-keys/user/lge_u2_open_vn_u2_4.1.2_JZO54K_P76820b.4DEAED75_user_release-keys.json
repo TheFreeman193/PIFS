@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LG-P768",
+  "BRAND": "lge",
+  "PRODUCT": "u2_open_vn",
+  "DEVICE": "u2",
+  "FINGERPRINT": "lge/u2_open_vn/u2:4.1.2/JZO54K/P76820b.4DEAED75:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JZO54K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "P76820b.4DEAED75",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HTC",
+  "MODEL": "HTC One",
+  "BRAND": "htc",
+  "PRODUCT": "htc_europe",
+  "DEVICE": "m7",
+  "FINGERPRINT": "htc/htc_europe/m7:4.4.2/KOT49H/334166.110:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "334166.110",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

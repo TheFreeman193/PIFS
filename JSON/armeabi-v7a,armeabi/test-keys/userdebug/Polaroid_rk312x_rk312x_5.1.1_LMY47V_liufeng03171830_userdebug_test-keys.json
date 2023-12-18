@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Polaroid",
+  "MODEL": "MID4X10",
+  "BRAND": "Polaroid",
+  "PRODUCT": "Polaroid",
+  "DEVICE": "Polaroid",
+  "FINGERPRINT": "Polaroid/rk312x/rk312x:5.1.1/LMY47V/liufeng03171830:userdebug/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47V",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.liufeng.20160317.182657",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

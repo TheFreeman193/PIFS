@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LG-D851",
+  "BRAND": "lge",
+  "PRODUCT": "g3_tmo_us",
+  "DEVICE": "g3",
+  "FINGERPRINT": "lge/g3_tmo_us/g3:6.0/MRA58K/171101634919a:user/release-keys",
+  "SECURITY_PATCH": "2017-04-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "171101634919a",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

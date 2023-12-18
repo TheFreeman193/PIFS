@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HOMTOM",
+  "MODEL": "HT17",
+  "BRAND": "HOMTOM",
+  "PRODUCT": "HT17",
+  "DEVICE": "HT17",
+  "FINGERPRINT": "HOMTOM/HOMTOM/aeon6737m_65_m0:6.0/MRA58K/1471951439:user/test-keys",
+  "SECURITY_PATCH": "2016-05-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1471951439",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

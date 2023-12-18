@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "GT-P7510",
+  "BRAND": "samsung",
+  "PRODUCT": "GT-P7510",
+  "DEVICE": "GT-P7510",
+  "FINGERPRINT": "samsung/GT-P7510/GT-P7510:4.0.4/IMM76D/VLLH3:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "IMM76D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "VLLH3",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

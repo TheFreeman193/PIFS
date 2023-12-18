@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "CUBE",
+  "MODEL": "U65GT",
+  "BRAND": "CUBE",
+  "PRODUCT": "U65GT",
+  "DEVICE": "U65GT",
+  "FINGERPRINT": "HTT:4.4.2/KOT49H/1428567994:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.zmchivin3.1428567994",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

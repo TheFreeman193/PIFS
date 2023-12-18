@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-J710FN",
+  "BRAND": "samsung",
+  "PRODUCT": "on7xrefltedd",
+  "DEVICE": "on7xreflte",
+  "FINGERPRINT": "samsung/greatltexx/greatlte:7.1.1/NMF26X/N950FXXU1AQI1:user/release-keys",
+  "SECURITY_PATCH": "2017-08-01",
+  "FIRST_API_LEVEL": "25",
+  "BUILD_ID": "NMF26X",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "N950FXXU1AQI1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

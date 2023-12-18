@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "MStar Semiconductor, Inc.",
+  "MODEL": "60881",
+  "BRAND": "jiaming",
+  "PRODUCT": "full_mstareagle",
+  "DEVICE": "mstareagle",
+  "FINGERPRINT": "jiaming/full_mstareagle/mstareagle:4.0.4/4930e27/1.0.0.2:userdebug/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "4930e27_20141211.214746",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1.0.0.2",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

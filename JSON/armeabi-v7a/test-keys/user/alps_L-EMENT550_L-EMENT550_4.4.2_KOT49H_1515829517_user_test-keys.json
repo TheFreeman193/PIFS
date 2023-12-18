@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "R11max",
+  "MODEL": "R11max",
+  "BRAND": "R11max",
+  "PRODUCT": "R11max",
+  "DEVICE": "R11max",
+  "FINGERPRINT": "alps/L-EMENT550/L-EMENT550:4.4.2/KOT49H/1515829517:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.jjx.1515829517",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HTC",
+  "MODEL": "X515e",
+  "BRAND": "htc",
+  "PRODUCT": "htc_europe",
+  "DEVICE": "z4u",
+  "FINGERPRINT": "htc/htc_europe/z4u:4.1.2/JZO54K/313823.1:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JZO54K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "313823.1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

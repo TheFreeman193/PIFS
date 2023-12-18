@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LG-D856",
+  "BRAND": "lge",
+  "PRODUCT": "g3_open_cis",
+  "DEVICE": "g3",
+  "FINGERPRINT": "lge/g3_open_cis/g3:4.4.2/KVT49L.D85610a/D85610a.1413340400:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KVT49L.D85610a",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "D85610a.1413340400",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

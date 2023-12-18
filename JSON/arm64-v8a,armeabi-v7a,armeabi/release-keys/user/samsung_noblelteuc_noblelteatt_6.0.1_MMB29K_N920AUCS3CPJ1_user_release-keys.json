@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SAMSUNG-SM-N920A",
+  "BRAND": "samsung",
+  "PRODUCT": "noblelteuc",
+  "DEVICE": "noblelteatt",
+  "FINGERPRINT": "samsung/noblelteuc/noblelteatt:6.0.1/MMB29K/N920AUCS3CPJ1:user/release-keys",
+  "SECURITY_PATCH": "2016-10-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MMB29K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "N920AUCS3CPJ1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

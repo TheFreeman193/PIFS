@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "SHIFT4.2",
+  "MODEL": "SHIFT4.2",
+  "BRAND": "SHIFT4.2",
+  "PRODUCT": "SHIFT4.2",
+  "DEVICE": "SHIFT4.2",
+  "FINGERPRINT": "SHIFT4.2/full_joyasz6582_we_l1/joyasz6582_we_l1:5.1.1/LMY47I/1495699920:user/test-keys",
+  "SECURITY_PATCH": "2017-03-05",
+  "FIRST_API_LEVEL": "26",
+  "BUILD_ID": "LMY47I",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1495699920",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

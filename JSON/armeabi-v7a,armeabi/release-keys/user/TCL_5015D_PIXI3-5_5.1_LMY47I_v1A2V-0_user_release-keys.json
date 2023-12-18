@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "TCL",
+  "MODEL": "5015D",
+  "BRAND": "TCL",
+  "PRODUCT": "5015D",
+  "DEVICE": "PIXI3-5",
+  "FINGERPRINT": "TCL/5015D/PIXI3-5:5.1/LMY47I/v1A2V-0:user/release-keys",
+  "SECURITY_PATCH": "2017-11-05",
+  "FIRST_API_LEVEL": "21",
+  "BUILD_ID": "LMY47I",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "v1A2V-0",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "ZTE",
+  "MODEL": "Z558VL",
+  "BRAND": "ZTE",
+  "PRODUCT": "Z558VL",
+  "DEVICE": "loft",
+  "FINGERPRINT": "ZTE/Z558VL/loft:7.1.1/NMF26V/20200113.120821:user/release-keys",
+  "SECURITY_PATCH": "2020-02-01",
+  "FIRST_API_LEVEL": "24",
+  "BUILD_ID": "NMF26V",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20200113.120821",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

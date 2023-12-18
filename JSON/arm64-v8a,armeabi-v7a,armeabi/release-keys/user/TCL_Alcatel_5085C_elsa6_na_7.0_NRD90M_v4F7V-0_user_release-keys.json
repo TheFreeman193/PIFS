@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "TCL",
+  "MODEL": "Alcatel 5085C",
+  "BRAND": "TCL",
+  "PRODUCT": "Alcatel_5085C",
+  "DEVICE": "elsa6_na",
+  "FINGERPRINT": "TCL/Alcatel_5085C/elsa6_na:7.0/NRD90M/v4F7V-0:user/release-keys",
+  "SECURITY_PATCH": "2018-02-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "NRD90M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "v4F7V-0",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "MI 3",
+  "BRAND": "Xiaomi",
+  "PRODUCT": "pisces",
+  "DEVICE": "pisces",
+  "FINGERPRINT": "Xiaomi/pisces/pisces:4.2.1/JOP40D/4.1.10:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JOP40D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "4.1.10",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LTJ",
+  "MODEL": "PIXELS DG350",
+  "BRAND": "DOOGEE",
+  "PRODUCT": "A25",
+  "DEVICE": "A25",
+  "FINGERPRINT": "DOOGEE/A25/A25:4.2.9/JDQ39/1398336829:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.scm.1398336829",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HTC",
+  "MODEL": "htc_evita",
+  "BRAND": "cingular_us",
+  "PRODUCT": "evita",
+  "DEVICE": "evita",
+  "FINGERPRINT": "cingular_us/evita/evita:4.0.4/IMM76D/79936.7:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "IMM76D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "79936.7",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

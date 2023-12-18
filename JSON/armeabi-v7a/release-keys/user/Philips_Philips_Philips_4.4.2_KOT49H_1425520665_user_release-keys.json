@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Philips",
+  "MODEL": "Philips_S388",
+  "BRAND": "Philips",
+  "PRODUCT": "Philips_S388",
+  "DEVICE": "Philips_S388",
+  "FINGERPRINT": "Philips/Philips/Philips:4.4.2/KOT49H/1425520665:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.builder2003.1425520665",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "CNLAUNCH",
+  "MODEL": "X431-7",
+  "BRAND": "alps",
+  "PRODUCT": "X431-7",
+  "DEVICE": "yuanzheng77_3778",
+  "FINGERPRINT": "alps/yuanzheng77_3778/yuanzheng77_3778:4.0.4/IMM76D/1384477857:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "IMM76D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.wry.1384477857",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

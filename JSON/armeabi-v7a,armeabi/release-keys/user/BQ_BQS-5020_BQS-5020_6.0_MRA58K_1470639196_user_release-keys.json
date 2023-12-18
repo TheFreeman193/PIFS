@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "BQ",
+  "MODEL": "BQS-5020",
+  "BRAND": "BQ",
+  "PRODUCT": "BQS-5020",
+  "DEVICE": "BQS-5020",
+  "FINGERPRINT": "BQ/BQS-5020/BQS-5020:6.0/MRA58K/1470639196:user/release-keys",
+  "SECURITY_PATCH": "2016-06-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1470639196",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

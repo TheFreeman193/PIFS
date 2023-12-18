@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Allwinner",
+  "MODEL": "QUAD-CORE T3 k2001-nwd",
+  "BRAND": "Allwinner",
+  "PRODUCT": "K2001N_NWD_S212701",
+  "DEVICE": "t3-k2001-nwd",
+  "FINGERPRINT": "Allwinner/t3_k2001_nwd/t3-k2001-nwd:7.1.1/NMF27D/20181025:user/test-keys",
+  "SECURITY_PATCH": "2017-03-05",
+  "FIRST_API_LEVEL": "24",
+  "BUILD_ID": "NMF27D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20181025",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

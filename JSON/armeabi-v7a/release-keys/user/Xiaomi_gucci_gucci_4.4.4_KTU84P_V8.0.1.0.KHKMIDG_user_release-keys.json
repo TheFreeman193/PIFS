@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "HM NOTE 1S",
+  "BRAND": "Xiaomi",
+  "PRODUCT": "gucci",
+  "DEVICE": "gucci",
+  "FINGERPRINT": "Xiaomi/gucci/gucci:4.4.4/KTU84P/V8.0.1.0.KHKMIDG:user/release-keys",
+  "SECURITY_PATCH": "2016-08-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84P",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "V8.0.1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

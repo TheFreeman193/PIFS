@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "FortuneShip",
+  "MODEL": "Tele2_Maxi_Plus",
+  "BRAND": "Tele2",
+  "PRODUCT": "Tele2_Maxi_Plus",
+  "DEVICE": "Tele2_Maxi_Plus",
+  "FINGERPRINT": "Tele2/Tele2_Maxi_Plus/Tele2_Maxi_Plus:6.0/MRA58K/1481779106:user/release-keys",
+  "SECURITY_PATCH": "2017-04-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1481779106",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

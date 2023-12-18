@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "NVIDIA",
+  "MODEL": "SHIELD Tablet",
+  "BRAND": "nvidia",
+  "PRODUCT": "wx_un_do",
+  "DEVICE": "shieldtablet",
+  "FINGERPRINT": "nvidia/wx_un_do/shieldtablet:7.0/NRD90M/1928188_1065.2559:user/release-keys",
+  "SECURITY_PATCH": "2016-08-05",
+  "FIRST_API_LEVEL": "24",
+  "BUILD_ID": "NRD90M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1928188_1065.2559",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HTC",
+  "MODEL": "HTC One_M8",
+  "BRAND": "htc",
+  "PRODUCT": "telus_wwe",
+  "DEVICE": "htc_m8",
+  "FINGERPRINT": "htc/telus_wwe/htc_m8:4.4.4/KTU84P/401507.4:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84P",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "401507.4",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

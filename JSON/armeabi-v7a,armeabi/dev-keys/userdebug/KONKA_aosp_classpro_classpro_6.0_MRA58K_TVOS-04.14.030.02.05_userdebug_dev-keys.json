@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "CLASSPRO Group Co., Ltd",
+  "MODEL": "Classpro Android TV",
+  "BRAND": "KONKA",
+  "PRODUCT": "aosp_classpro",
+  "DEVICE": "classpro",
+  "FINGERPRINT": "KONKA/aosp_classpro/classpro:6.0/MRA58K/TVOS-04.14.030.02.05:userdebug/dev-keys",
+  "SECURITY_PATCH": "2016-09-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "TVOS-04.14.030.02.05",
+  "TYPE": "userdebug",
+  "TAGS": "dev-keys"
+}

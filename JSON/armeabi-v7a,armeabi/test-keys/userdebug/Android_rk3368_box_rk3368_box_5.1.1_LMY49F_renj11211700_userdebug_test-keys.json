@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "rockchip",
+  "MODEL": "X800",
+  "BRAND": "Android",
+  "PRODUCT": "rk3368_box",
+  "DEVICE": "rk3368_box",
+  "FINGERPRINT": "Android/rk3368_box/rk3368_box:5.1.1/LMY49F/renj11211700:userdebug/test-keys",
+  "SECURITY_PATCH": "2016-02-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY49F",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.renj.20161121.165504",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "ThL",
+  "MODEL": "CJ ThL",
+  "BRAND": "ThL",
+  "PRODUCT": "bird77_a_cu_ics2",
+  "DEVICE": "bird77_a_cu_ics2",
+  "FINGERPRINT": "ThL/bird77_a_cu_ics2/bird77_a_cu_ics2:4.0.4/IMM76D/1351652776:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "IMM76D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.andrew.1351652776",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

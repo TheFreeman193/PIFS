@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "Redmi Note 6 Pro",
+  "BRAND": "xiaomi",
+  "PRODUCT": "tulip",
+  "DEVICE": "tulip",
+  "FINGERPRINT": "xiaomi/tulip/tulip:9/PKQ1.180904.001/V12.0.1.0.PEKMIXM:user/release-keys",
+  "SECURITY_PATCH": "2020-11-05",
+  "FIRST_API_LEVEL": "27",
+  "BUILD_ID": "PKQ1.180904.001",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "V12.0.1.0.PEKMIXM",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

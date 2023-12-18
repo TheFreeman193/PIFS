@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "SmarTab",
+  "BRAND": "SmarTab",
+  "PRODUCT": "SmarTab",
+  "DEVICE": "SmarTab",
+  "FINGERPRINT": "alps/hexing72_cwet_kk/hexing72_cwet_kk:4.4.2/KOT49H/1431521215:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.root1.1431521215",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "OnePlus",
+  "MODEL": "GM1913",
+  "BRAND": "OnePlus",
+  "PRODUCT": "OnePlus7Pro_EEA",
+  "DEVICE": "OnePlus7Pro",
+  "FINGERPRINT": "OnePlus/OnePlus7Pro_EEA/OnePlus7Pro:10/QKQ1.190716.003/2101272339:user/release-keys",
+  "SECURITY_PATCH": "2021-01-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "QKQ1.190716.003",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "2101272339",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

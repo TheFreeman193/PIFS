@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "M2002J9G",
+  "BRAND": "Xiaomi",
+  "PRODUCT": "monet_global",
+  "DEVICE": "monet",
+  "FINGERPRINT": "Xiaomi/monet_global/monet:11/RKQ1.200826.002/V12.5.3.0.RJITWXM:user/release-keys",
+  "SECURITY_PATCH": "2021-07-01",
+  "FIRST_API_LEVEL": "29",
+  "BUILD_ID": "RKQ1.200826.002",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "V12.5.3.0.RJITWXM",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

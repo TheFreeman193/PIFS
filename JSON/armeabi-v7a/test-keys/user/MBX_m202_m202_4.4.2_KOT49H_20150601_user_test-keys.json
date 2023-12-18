@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "SkyKirin",
+  "MODEL": "MK808B Plus",
+  "BRAND": "MBX",
+  "PRODUCT": "m202",
+  "DEVICE": "m202",
+  "FINGERPRINT": "MBX/m202/m202:4.4.2/KOT49H/20150601:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20150601",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "leimin",
+  "MODEL": "S20 Ultra",
+  "BRAND": "Android",
+  "PRODUCT": "S20 Ultra",
+  "DEVICE": "S20 Ultra",
+  "FINGERPRINT": "alps/aeon6580_weg_m_l18/aeon6580_weg_m_l18:6.0/MRA58K/1599468916:user/test-keys",
+  "SECURITY_PATCH": "2020-05-22",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1599468916",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

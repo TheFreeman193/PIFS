@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "ATTILA",
+  "MODEL": "MATE8 PLUS",
+  "BRAND": "ATTILA",
+  "PRODUCT": "full_w825_648_ax_xxh_t1_zx",
+  "DEVICE": "w825_648_ax_xxh_t1_zx",
+  "FINGERPRINT": "ATTILA/teksun/teksun:5.1/LMY47I/1467357839:user/test-keys",
+  "SECURITY_PATCH": "2016-01-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47I",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1467357839",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

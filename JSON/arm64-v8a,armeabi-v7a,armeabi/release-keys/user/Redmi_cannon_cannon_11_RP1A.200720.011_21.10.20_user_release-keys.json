@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "M2007J22C",
+  "BRAND": "Redmi",
+  "PRODUCT": "cannon",
+  "DEVICE": "cannon",
+  "FINGERPRINT": "Redmi/cannon/cannon:11/RP1A.200720.011/21.10.20:user/release-keys",
+  "SECURITY_PATCH": "2021-10-01",
+  "FIRST_API_LEVEL": "29",
+  "BUILD_ID": "RP1A.200720.011",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "21.10.20",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

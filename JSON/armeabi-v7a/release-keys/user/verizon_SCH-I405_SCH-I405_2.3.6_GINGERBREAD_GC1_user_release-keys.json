@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SCH-I405",
+  "BRAND": "verizon",
+  "PRODUCT": "SCH-I405",
+  "DEVICE": "SCH-I405",
+  "FINGERPRINT": "verizon/SCH-I405/SCH-I405:2.3.6/GINGERBREAD/GC1:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "GINGERBREAD",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "GC1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

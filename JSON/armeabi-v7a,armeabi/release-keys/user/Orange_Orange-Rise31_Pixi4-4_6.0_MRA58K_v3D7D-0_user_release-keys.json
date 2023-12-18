@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "TCL",
+  "MODEL": "Orange-Rise31",
+  "BRAND": "Orange",
+  "PRODUCT": "Orange-Rise31",
+  "DEVICE": "Pixi4-4",
+  "FINGERPRINT": "Orange/Orange-Rise31/Pixi4-4:6.0/MRA58K/v3D7D-0:user/release-keys",
+  "SECURITY_PATCH": "2016-03-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "v3D7D-0",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

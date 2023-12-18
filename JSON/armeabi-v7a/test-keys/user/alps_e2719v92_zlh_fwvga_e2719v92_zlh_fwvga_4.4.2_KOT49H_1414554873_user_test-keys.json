@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "Z2",
+  "BRAND": "alps",
+  "PRODUCT": "e2719v92_zlh_fwvga",
+  "DEVICE": "719v92_zlh_fwvga",
+  "FINGERPRINT": "alps/e2719v92_zlh_fwvga/e2719v92_zlh_fwvga:4.4.2/KOT49H/1414554873:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.root.1414554873",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "bq",
+  "MODEL": "bq Aquaris 5.7",
+  "BRAND": "bq",
+  "PRODUCT": "bq_Aquaris57",
+  "DEVICE": "bqaquaris57",
+  "FINGERPRINT": "bq/bq/bq:4.4.2/KOT49H/:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "228",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

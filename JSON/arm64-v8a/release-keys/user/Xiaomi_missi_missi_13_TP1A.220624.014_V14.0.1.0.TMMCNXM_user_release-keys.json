@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "missi",
+  "BRAND": "Xiaomi",
+  "PRODUCT": "missi",
+  "DEVICE": "missi",
+  "FINGERPRINT": "Xiaomi/missi/missi:13/TP1A.220624.014/V14.0.1.0.TMMCNXM:user/release-keys",
+  "SECURITY_PATCH": "2023-04-01",
+  "FIRST_API_LEVEL": "31",
+  "BUILD_ID": "TP1A.220624.014",
+  "VNDK_VERSION": "31",
+  "INCREMENTAL": "V14.0.1.0.TMMCNXM",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Meizu",
+  "MODEL": "m1 note",
+  "BRAND": "Meizu",
+  "PRODUCT": "m1 note",
+  "DEVICE": "m1note",
+  "FINGERPRINT": "Meizu/meizu_m1note/m1note:4.4.4/KTU84P/m71.Flyme_OS_4.2.0.6.20150519145757:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84P",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "m71.Flyme_OS_4.2.0.6.20150519145757",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

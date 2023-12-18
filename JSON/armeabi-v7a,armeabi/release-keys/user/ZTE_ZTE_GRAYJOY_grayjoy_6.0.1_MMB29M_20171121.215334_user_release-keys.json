@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "ZTE",
+  "MODEL": "N9136",
+  "BRAND": "ZTE",
+  "PRODUCT": "ZTE_GRAYJOY",
+  "DEVICE": "grayjoy",
+  "FINGERPRINT": "ZTE/ZTE_GRAYJOY/grayjoy:6.0.1/MMB29M/20171121.215334:user/release-keys",
+  "SECURITY_PATCH": "2017-11-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MMB29M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20171121.215334",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

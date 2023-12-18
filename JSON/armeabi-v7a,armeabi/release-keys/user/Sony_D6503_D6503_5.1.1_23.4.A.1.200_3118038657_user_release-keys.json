@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Sony",
+  "MODEL": "D6503",
+  "BRAND": "Sony",
+  "PRODUCT": "D6503",
+  "DEVICE": "D6503",
+  "FINGERPRINT": "Sony/D6503/D6503:5.1.1/23.4.A.1.200/3118038657:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "23.4.A.1.200",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "3118038657",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

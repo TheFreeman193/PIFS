@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "ATC",
+  "MODEL": "Generic Android on ac8317",
+  "BRAND": "Android",
+  "PRODUCT": "generic_ac8317",
+  "DEVICE": "ac8317",
+  "FINGERPRINT": "Android/generic_ac8317/ac8317:6.0/JDQ39E/eng.fbzhang.20171204.173042:userdebug/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39E",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.fbzhang.20171204.173042",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

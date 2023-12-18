@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-A715F",
+  "BRAND": "samsung",
+  "PRODUCT": "a71naxx",
+  "DEVICE": "a71",
+  "FINGERPRINT": "samsung/a71naxx/a71:10/QP1A.190711.020/A715FXXU3ATK1:user/release-keys",
+  "SECURITY_PATCH": "2020-11-01",
+  "FIRST_API_LEVEL": "29",
+  "BUILD_ID": "QP1A.190711.020",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "A715FXXU3ATK1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

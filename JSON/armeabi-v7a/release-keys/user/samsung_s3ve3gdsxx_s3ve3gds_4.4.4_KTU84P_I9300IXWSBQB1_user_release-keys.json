@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "GT-I9300I",
+  "BRAND": "samsung",
+  "PRODUCT": "s3ve3gdsxx",
+  "DEVICE": "s3ve3gds",
+  "FINGERPRINT": "samsung/s3ve3gdsxx/s3ve3gds:4.4.4/KTU84P/I9300IXWSBQB1:user/release-keys",
+  "SECURITY_PATCH": "2016-05-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84P",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "I9300IXWSBQB1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

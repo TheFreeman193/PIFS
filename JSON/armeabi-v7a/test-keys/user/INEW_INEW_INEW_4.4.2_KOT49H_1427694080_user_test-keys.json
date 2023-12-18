@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "INEW",
+  "MODEL": "V1",
+  "BRAND": "INEW",
+  "PRODUCT": "V1",
+  "DEVICE": "INEW",
+  "FINGERPRINT": "INEW/INEW/INEW:4.4.2/KOT49H/1427694080:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.builder2007.1427694080",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

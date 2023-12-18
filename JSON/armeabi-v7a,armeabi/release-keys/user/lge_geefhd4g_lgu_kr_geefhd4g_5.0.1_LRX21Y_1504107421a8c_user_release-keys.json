@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LG-F240L",
+  "BRAND": "lge",
+  "PRODUCT": "geefhd4g_lgu_kr",
+  "DEVICE": "geefhd4g",
+  "FINGERPRINT": "lge/geefhd4g_lgu_kr/geefhd4g:5.0.1/LRX21Y/1504107421a8c:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LRX21Y",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1504107421a8c",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

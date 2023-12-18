@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LENOVO",
+  "MODEL": "Lenovo A358t",
+  "BRAND": "Lenovo",
+  "PRODUCT": "A358t",
+  "DEVICE": "A358t",
+  "FINGERPRINT": "Lenovo/A358t/A358t:4.4.2/KOT49H/A358t_S107_140519.20140704:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "A358t_USR_S083_1407031930_MP1V2.10_DEV_CN",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

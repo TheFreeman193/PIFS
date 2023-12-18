@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "THL",
+  "MODEL": "thl 5000",
+  "BRAND": "thl",
+  "PRODUCT": "thl 5000",
+  "DEVICE": "THL",
+  "FINGERPRINT": "thl/thl/THL:4.4.2/KOT49H/1417492155:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.builder2009.1417492155",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

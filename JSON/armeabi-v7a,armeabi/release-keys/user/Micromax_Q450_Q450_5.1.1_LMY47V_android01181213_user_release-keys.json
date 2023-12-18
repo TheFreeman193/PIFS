@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Micromax",
+  "MODEL": "Micromax Q450",
+  "BRAND": "Micromax",
+  "PRODUCT": "Q450",
+  "DEVICE": "Q450",
+  "FINGERPRINT": "Micromax/Q450/Q450:5.1.1/LMY47V/android01181213:user/release-keys",
+  "SECURITY_PATCH": "2015-11-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47V",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.android.20160328",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

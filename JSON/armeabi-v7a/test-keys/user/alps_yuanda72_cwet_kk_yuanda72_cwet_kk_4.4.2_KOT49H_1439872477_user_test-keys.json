@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "G",
+  "MODEL": "ONE M8",
+  "BRAND": "G",
+  "PRODUCT": "ONE M8",
+  "DEVICE": "G",
+  "FINGERPRINT": "alps/yuanda72_cwet_kk/yuanda72_cwet_kk:4.4.2/KOT49H/1439872477:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.root.1439872477",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

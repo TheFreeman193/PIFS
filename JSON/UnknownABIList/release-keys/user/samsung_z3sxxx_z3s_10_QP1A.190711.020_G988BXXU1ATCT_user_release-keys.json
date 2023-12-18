@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Samsung",
+  "MODEL": "SM-G988B",
+  "BRAND": "samsung",
+  "PRODUCT": "z3sxxx",
+  "DEVICE": "z3s",
+  "FINGERPRINT": "samsung/z3sxxx/z3s:10/QP1A.190711.020/G988BXXU1ATCT:user/release-keys",
+  "SECURITY_PATCH": "2020-04-01",
+  "FIRST_API_LEVEL": "29",
+  "BUILD_ID": "QP1A.190711.020",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "G988BXXU1ATCT",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HUAWEI",
+  "MODEL": "Che2-L11",
+  "BRAND": "Honor",
+  "PRODUCT": "lineage_cherryplus",
+  "DEVICE": "cherryplus",
+  "FINGERPRINT": "Honor/lineage_cherryplus/cherryplus:7.1.2/NZH54D/aafafc73eb:userdebug/release-keys",
+  "SECURITY_PATCH": "2017-10-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "NZH54D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "aafafc73eb",
+  "TYPE": "userdebug",
+  "TAGS": "release-keys"
+}

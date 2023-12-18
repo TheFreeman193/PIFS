@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "Qualcore 1010",
+  "BRAND": "alps",
+  "PRODUCT": "W109G_1408013",
+  "DEVICE": "W109G_1408013",
+  "FINGERPRINT": "alps/W109G_1408013/W109G_1408013:4.4.2/KOT49H/1409201241:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.shixiong.1409201241",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

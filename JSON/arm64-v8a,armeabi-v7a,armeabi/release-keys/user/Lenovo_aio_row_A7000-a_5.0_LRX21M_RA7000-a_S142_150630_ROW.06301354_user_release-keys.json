@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LENOVO",
+  "MODEL": "Lenovo A7000-a",
+  "BRAND": "Lenovo",
+  "PRODUCT": "aio_row",
+  "DEVICE": "A7000-a",
+  "FINGERPRINT": "Lenovo/aio_row/A7000-a:5.0/LRX21M/RA7000-a_S142_150630_ROW.06301354:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LRX21M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "A7000-a_S142_150630_ROW",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LG-M250",
+  "BRAND": "lge",
+  "PRODUCT": "mlv5_global_com",
+  "DEVICE": "mlv5",
+  "FINGERPRINT": "lge/mlv5_global_com/mlv5:7.0/NRD90U/1735218280d4e:user/release-keys",
+  "SECURITY_PATCH": "2017-12-01",
+  "FIRST_API_LEVEL": "24",
+  "BUILD_ID": "NRD90U",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1735218280d4e",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

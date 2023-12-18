@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "TCT",
+  "MODEL": "ALCATEL ONE TOUCH 918N",
+  "BRAND": "TCT",
+  "PRODUCT": "one_touch_918N_IJIN",
+  "DEVICE": "one_touch_918N_gsm",
+  "FINGERPRINT": "TCT/one_touch_918N_IJIN/one_touch_918N_gsm:2.3.6/GRK39F/v44H-0:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "GRK39F",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "v44H-0",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HTC",
+  "MODEL": "htc wildfire s a510e",
+  "BRAND": "htc_nld",
+  "PRODUCT": "htc_pico",
+  "DEVICE": "pico",
+  "FINGERPRINT": "htc_nld/htc_pico/pico:2.3.5/GRJ90/179613.2:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "GRJ90",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "179613.2",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

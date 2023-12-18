@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "Redmi 5 Plus",
+  "BRAND": "xiaomi",
+  "PRODUCT": "vince",
+  "DEVICE": "vince",
+  "FINGERPRINT": "xiaomi/vince/vince:7.1.2/N2G47H/V9.5.11.0.NEGMIFA:user/release-keys",
+  "SECURITY_PATCH": "2018-04-01",
+  "FIRST_API_LEVEL": "25",
+  "BUILD_ID": "N2G47H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "V9.5.11.0.NEGMIFA",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

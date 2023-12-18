@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "ZTE",
+  "MODEL": "One X",
+  "BRAND": "yusu",
+  "PRODUCT": "e615",
+  "DEVICE": "e615",
+  "FINGERPRINT": "yusu/e615/e615:2.3.6/GRK39F/eng.wangfei.20120803.165044:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "GRK39F",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.wangfei.20120803.165044",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

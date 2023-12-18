@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Welcome",
+  "MODEL": "S20+ Pro",
+  "BRAND": "Welcome",
+  "PRODUCT": "S20_Pro",
+  "DEVICE": "S20_Pro",
+  "FINGERPRINT": "alps/full_magc6580_we_c_m/magc6580_we_c_m:6.0/MRA58K/1599646321:user/test-keys",
+  "SECURITY_PATCH": "2016-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1599646321",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

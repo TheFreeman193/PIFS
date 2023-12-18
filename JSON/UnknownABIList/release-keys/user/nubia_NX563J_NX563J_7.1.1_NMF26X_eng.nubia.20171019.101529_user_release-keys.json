@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "ZTE",
+  "MODEL": "NX563J",
+  "BRAND": "nubia",
+  "PRODUCT": "NX563J",
+  "DEVICE": "NX563J",
+  "FINGERPRINT": "nubia/NX563J/NX563J:7.1.1/NMF26X/eng.nubia.20171019.101529:user/release-keys",
+  "SECURITY_PATCH": "2016-12-01",
+  "FIRST_API_LEVEL": "25",
+  "BUILD_ID": "NMF26X",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.nubia.20171019.101529",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

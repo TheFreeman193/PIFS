@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "unknown",
+  "MODEL": "MID",
+  "BRAND": "unknown",
+  "PRODUCT": "unknown",
+  "DEVICE": "unknown",
+  "FINGERPRINT": "unknown/unknown/unknown:4.2.1/MID/1384498571:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JOP40D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.hede.1384498571",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Android",
+  "MODEL": "mainline",
+  "BRAND": "Android",
+  "PRODUCT": "mainline",
+  "DEVICE": "generic",
+  "FINGERPRINT": "Windows/windows_x86_64/windows_x86_64:13/TQ1A.230105.002.A1/2301.40000.4.0:user/release-keys",
+  "SECURITY_PATCH": "2023-01-05",
+  "FIRST_API_LEVEL": "30",
+  "BUILD_ID": "TQ1A.230105.002.A1",
+  "VNDK_VERSION": "33",
+  "INCREMENTAL": "2301.40000.4.0",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

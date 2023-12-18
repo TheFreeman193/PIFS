@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Lenovo",
+  "MODEL": "Lenovo A889",
+  "BRAND": "Lenovo",
+  "PRODUCT": "A889",
+  "DEVICE": "A889",
+  "FINGERPRINT": "Lenovo/A889/A889:4.2.2/JDQ39/A889_S011_130101:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "A889_S011_140101",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

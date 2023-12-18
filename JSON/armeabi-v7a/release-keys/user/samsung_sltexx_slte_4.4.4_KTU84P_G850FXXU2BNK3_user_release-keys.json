@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-G850F",
+  "BRAND": "samsung",
+  "PRODUCT": "sltexx",
+  "DEVICE": "slte",
+  "FINGERPRINT": "samsung/sltexx/slte:4.4.4/KTU84P/G850FXXU2BNK3:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84P",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "G850FXXU2BNK3",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

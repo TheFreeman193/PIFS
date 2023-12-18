@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Coolpad",
+  "MODEL": "C558",
+  "BRAND": "Coolpad",
+  "PRODUCT": "C558",
+  "DEVICE": "C558",
+  "FINGERPRINT": "Coolpad/C558/C558:8.1.0/O11019/1544695559:user/release-keys",
+  "SECURITY_PATCH": "2018-11-05",
+  "FIRST_API_LEVEL": "NULL",
+  "BUILD_ID": "O11019",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1544695559",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

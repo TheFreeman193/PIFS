@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HMD Global",
+  "MODEL": "Nokia X100",
+  "BRAND": "Nokia",
+  "PRODUCT": "Deadmau5_04US",
+  "DEVICE": "DM5",
+  "FINGERPRINT": "Nokia/Deadmau5_04US/DM5:11/RKQ1.210528.001/04US_1_650:user/release-keys",
+  "SECURITY_PATCH": "2023-07-05",
+  "FIRST_API_LEVEL": "30",
+  "BUILD_ID": "RKQ1.210528.001",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "04US_1_650",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

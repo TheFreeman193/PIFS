@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "hikeen",
+  "MODEL": "tv001 on rtd289x",
+  "BRAND": "Android",
+  "PRODUCT": "rtd289x_tv001",
+  "DEVICE": "rtd289x_tv001",
+  "FINGERPRINT": "Android/rtd289x_tv001/rtd289x_tv001:6.0/MRA58K/common01201043:userdebug/test-keys",
+  "SECURITY_PATCH": "2016-07-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.common.20190120.104114",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

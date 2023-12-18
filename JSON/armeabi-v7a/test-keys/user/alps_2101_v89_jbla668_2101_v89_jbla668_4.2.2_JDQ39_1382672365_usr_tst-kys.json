@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "02_jbla668",
+  "BRAND": "alps",
+  "PRODUCT": "2101_v89_jbla668",
+  "DEVICE": "2101_v89_jbla668",
+  "FINGERPRINT": "alps/2101_v89_jbla668/2101_v89_jbla668:4.2.2/JDQ39/1382672365:usr/tst-kys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.root.1382672365",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

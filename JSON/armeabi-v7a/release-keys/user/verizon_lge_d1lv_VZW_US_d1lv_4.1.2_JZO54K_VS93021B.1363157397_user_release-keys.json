@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LG-F160K",
+  "BRAND": "verizon_lge",
+  "PRODUCT": "batman_lgu",
+  "DEVICE": "batman_lgu",
+  "FINGERPRINT": "verizon_lge/d1lv_VZW_US/d1lv:4.1.2/JZO54K/VS93021B.1363157397:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JZO54K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "VS93021B.1363157397",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Alco",
+  "MODEL": "CT9223W97",
+  "BRAND": "Pro12",
+  "PRODUCT": "CT9223W97",
+  "DEVICE": "CT9223W97",
+  "FINGERPRINT": "Pro12/CT9223W97/CT9223W97:6.0/MRA58K/1462599725:user/release-keys",
+  "SECURITY_PATCH": "2016-02-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1463715821",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

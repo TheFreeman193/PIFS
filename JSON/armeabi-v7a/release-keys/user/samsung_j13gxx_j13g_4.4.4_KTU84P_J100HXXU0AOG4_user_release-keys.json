@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-J100H",
+  "BRAND": "samsung",
+  "PRODUCT": "j13gxx",
+  "DEVICE": "j13g",
+  "FINGERPRINT": "samsung/j13gxx/j13g:4.4.4/KTU84P/J100HXXU0AOG4:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84P",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "J100HXXU0AOG4",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

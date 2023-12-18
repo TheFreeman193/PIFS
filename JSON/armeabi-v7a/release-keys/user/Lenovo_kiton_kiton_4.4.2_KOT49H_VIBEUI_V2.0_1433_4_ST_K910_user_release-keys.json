@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LENOVO",
+  "MODEL": "Lenovo K910",
+  "BRAND": "Lenovo",
+  "PRODUCT": "kiton",
+  "DEVICE": "kiton",
+  "FINGERPRINT": "Lenovo/kiton/kiton:4.4.2/KOT49H/VIBEUI_V2.0_1433_4_ST_K910:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "VIBEUI_V2.0_1433_4_ST_K910",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

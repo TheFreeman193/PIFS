@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LENOVO",
+  "MODEL": "Lenovo A5000",
+  "BRAND": "Lenovo",
+  "PRODUCT": "A5000",
+  "DEVICE": "A5000",
+  "FINGERPRINT": "Lenovo/A5000/A5000:4.4.2/KOT49H/A5000_S002_150306_GLOBE:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "A5000_S002_150306",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

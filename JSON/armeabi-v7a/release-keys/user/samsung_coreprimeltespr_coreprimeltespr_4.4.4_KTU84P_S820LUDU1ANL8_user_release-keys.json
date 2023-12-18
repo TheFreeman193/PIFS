@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "S820LUDU",
+  "BRAND": "samsung",
+  "PRODUCT": "coreprimeltespr",
+  "DEVICE": "coreprimeltespr",
+  "FINGERPRINT": "samsung/coreprimeltespr/coreprimeltespr:4.4.4/KTU84P/S820LUDU1ANL8:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84P",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "S821LUDU1ANL8",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

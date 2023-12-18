@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LENOVO",
+  "MODEL": "Lenovo A536",
+  "BRAND": "Lenovo",
+  "PRODUCT": "A536",
+  "DEVICE": "A536",
+  "FINGERPRINT": "Lenovo/A536/A536:4.4.2/KOT49H/A536_S128_140624_ROW:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "A536_S128_140624_ROW",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

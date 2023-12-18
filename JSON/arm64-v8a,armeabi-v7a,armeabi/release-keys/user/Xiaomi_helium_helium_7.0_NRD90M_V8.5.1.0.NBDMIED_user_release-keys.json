@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "Max",
+  "BRAND": "Xiaomi",
+  "PRODUCT": "helium",
+  "DEVICE": "helium",
+  "FINGERPRINT": "Xiaomi/helium/helium:7.0/NRD90M/V8.5.1.0.NBDMIED:user/release-keys",
+  "SECURITY_PATCH": "2017-05-01",
+  "FIRST_API_LEVEL": "23",
+  "BUILD_ID": "NRD90M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "V8.5.1.0.NBDMIED",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

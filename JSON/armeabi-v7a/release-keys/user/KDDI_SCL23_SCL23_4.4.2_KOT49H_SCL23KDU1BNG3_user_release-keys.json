@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SCL23",
+  "BRAND": "KDDI",
+  "PRODUCT": "SCL23",
+  "DEVICE": "SCL23",
+  "FINGERPRINT": "KDDI/SCL23/SCL23:4.4.2/KOT49H/SCL23KDU1BNG3:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "SCL23KDU1BNG3",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

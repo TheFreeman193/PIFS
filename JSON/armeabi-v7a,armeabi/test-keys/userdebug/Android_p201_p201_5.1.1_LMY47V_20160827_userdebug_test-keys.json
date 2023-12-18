@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "amlogic",
+  "MODEL": "MXQ pro",
+  "BRAND": "Android",
+  "PRODUCT": "p201",
+  "DEVICE": "p201",
+  "FINGERPRINT": "Android/p201/p201:5.1.1/LMY47V/20160827:userdebug/test-keys",
+  "SECURITY_PATCH": "2015-11-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47V",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20160827",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

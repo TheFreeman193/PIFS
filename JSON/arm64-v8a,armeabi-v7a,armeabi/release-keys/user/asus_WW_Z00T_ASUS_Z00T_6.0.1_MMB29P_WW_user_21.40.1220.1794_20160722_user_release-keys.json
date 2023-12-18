@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "asus",
+  "MODEL": "ASUS_Z00TD",
+  "BRAND": "asus",
+  "PRODUCT": "WW_Z00T",
+  "DEVICE": "ASUS_Z00T",
+  "FINGERPRINT": "asus/WW_Z00T/ASUS_Z00T:6.0.1/MMB29P/WW_user_21.40.1220.1794_20160722:user/release-keys",
+  "SECURITY_PATCH": "2016-07-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MMB29P",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "WW_Z00T-WW_user_21.40.1220.1794_20160722-user-20160722",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

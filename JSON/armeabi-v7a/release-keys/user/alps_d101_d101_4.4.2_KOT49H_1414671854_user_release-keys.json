@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "d101",
+  "BRAND": "alps",
+  "PRODUCT": "d101",
+  "DEVICE": "d101",
+  "FINGERPRINT": "alps/d101/d101:4.4.2/KOT49H/1414671854:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "vCC0035",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

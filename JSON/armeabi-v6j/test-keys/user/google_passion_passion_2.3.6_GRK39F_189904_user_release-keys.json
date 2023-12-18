@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Huawei",
+  "MODEL": "U8180",
+  "BRAND": "huawei",
+  "PRODUCT": "u8160",
+  "DEVICE": "u8160",
+  "FINGERPRINT": "google/passion/passion:2.3.6/GRK39F/189904:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "GRK39F",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng..20121209.012639",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

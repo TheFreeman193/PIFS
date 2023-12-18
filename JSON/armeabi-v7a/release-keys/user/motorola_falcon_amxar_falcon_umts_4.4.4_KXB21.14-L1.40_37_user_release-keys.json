@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "motorola",
+  "MODEL": "XT1032",
+  "BRAND": "motorola",
+  "PRODUCT": "falcon_amxar",
+  "DEVICE": "falcon_umts",
+  "FINGERPRINT": "motorola/falcon_amxar/falcon_umts:4.4.4/KXB21.14-L1.40/37:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KXB21.14-L1.40",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "37",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

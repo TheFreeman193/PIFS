@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "JINGA_IGO_L2",
+  "BRAND": "JINGA_IGO_L2",
+  "PRODUCT": "a2e_aw_tianmao_note3_jinga",
+  "DEVICE": "a2e_aw_tianmao_note3_jinga",
+  "FINGERPRINT": "JINGA_IGO_L2/a2e_aw_tianmao_note3_jinga/a2e_aw_tianmao_note3_jinga:4.2.2/JDQ39/1408457986:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.user.1408457986",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

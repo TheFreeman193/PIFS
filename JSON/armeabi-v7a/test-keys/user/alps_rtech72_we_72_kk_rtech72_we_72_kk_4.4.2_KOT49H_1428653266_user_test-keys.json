@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "G3",
+  "BRAND": "alps",
+  "PRODUCT": "rtech72_we_72_kk",
+  "DEVICE": "rtech72_we_72_kk",
+  "FINGERPRINT": "alps/rtech72_we_72_kk/rtech72_we_72_kk:4.4.2/KOT49H/1428653266:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.sw02.1428653266",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

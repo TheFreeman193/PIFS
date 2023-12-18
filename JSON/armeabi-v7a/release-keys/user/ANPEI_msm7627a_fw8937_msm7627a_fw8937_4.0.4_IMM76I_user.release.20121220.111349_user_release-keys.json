@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "manufacturer",
+  "MODEL": "N10",
+  "BRAND": "ANPEI",
+  "PRODUCT": "msm7627a_fw8937",
+  "DEVICE": "msm7627a_fw8937",
+  "FINGERPRINT": "ANPEI/msm7627a_fw8937/msm7627a_fw8937:4.0.4/IMM76I/user.release.20121220.111349:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "IMM76I",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "user.release.20121220.111349",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

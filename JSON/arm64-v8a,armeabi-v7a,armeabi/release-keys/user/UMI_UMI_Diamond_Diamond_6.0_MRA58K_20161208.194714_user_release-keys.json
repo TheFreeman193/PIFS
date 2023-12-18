@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "UMI_Diamond",
+  "MODEL": "UMI_Diamond",
+  "BRAND": "UMI",
+  "PRODUCT": "UMI_Diamond",
+  "DEVICE": "Diamond",
+  "FINGERPRINT": "UMI/UMI_Diamond/Diamond:6.0/MRA58K/20161208.194714:user/release-keys",
+  "SECURITY_PATCH": "2016-11-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1481197093",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

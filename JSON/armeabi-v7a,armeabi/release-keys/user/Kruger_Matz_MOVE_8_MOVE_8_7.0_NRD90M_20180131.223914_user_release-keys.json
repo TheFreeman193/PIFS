@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "KM",
+  "MODEL": "MOVE_8",
+  "BRAND": "Kruger_Matz",
+  "PRODUCT": "MOVE_8",
+  "DEVICE": "MOVE_8",
+  "FINGERPRINT": "Kruger_Matz/MOVE_8/MOVE_8:7.0/NRD90M/20180131.223914:user/release-keys",
+  "SECURITY_PATCH": "2018-12-05",
+  "FIRST_API_LEVEL": "24",
+  "BUILD_ID": "NRD90M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1517408928",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

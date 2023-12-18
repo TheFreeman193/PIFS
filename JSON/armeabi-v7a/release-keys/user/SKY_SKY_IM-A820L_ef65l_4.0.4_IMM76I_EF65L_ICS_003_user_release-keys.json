@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "PANTECH",
+  "MODEL": "IM-A820L",
+  "BRAND": "SKY",
+  "PRODUCT": "SKY_IM-A820L",
+  "DEVICE": "ef65l",
+  "FINGERPRINT": "SKY/SKY_IM-A820L/ef65l:4.0.4/IMM76I/EF65L_ICS_003:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "IMM76I",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "EF65L_ICS_003",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

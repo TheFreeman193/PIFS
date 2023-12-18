@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-T713",
+  "BRAND": "samsung",
+  "PRODUCT": "gts28vewifixx",
+  "DEVICE": "gts28vewifi",
+  "FINGERPRINT": "samsung/gts28vewifixx/gts28vewifi:7.0/NRD90M/T713XXU2BQD3:user/release-keys",
+  "SECURITY_PATCH": "2017-04-01",
+  "FIRST_API_LEVEL": "23",
+  "BUILD_ID": "NRD90M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "T713XXU2BQD3",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

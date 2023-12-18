@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Archos",
+  "MODEL": "ARCHOS 40d Titanium",
+  "BRAND": "Archos",
+  "PRODUCT": "SCAC40DTI",
+  "DEVICE": "ac40dti",
+  "FINGERPRINT": "Archos/SCAC40DTI/ac40dti:4.4.2/KOT49H/20150803.093631:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20150803.093631",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

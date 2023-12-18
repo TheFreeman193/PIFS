@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-S550TL",
+  "BRAND": "samsung",
+  "PRODUCT": "on5ltetfntmo",
+  "DEVICE": "on5ltetfntmo",
+  "FINGERPRINT": "samsung/on5ltetfntmo/on5ltetfntmo:6.0.1/MMB29K/S550TLUDU1APG1:user/release-keys",
+  "SECURITY_PATCH": "2016-07-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MMB29K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "S550TLUDU1APG1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

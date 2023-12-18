@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LENOVO",
+  "MODEL": "Lenovo P770",
+  "BRAND": "Lenovo",
+  "PRODUCT": "P770",
+  "DEVICE": "P770",
+  "FINGERPRINT": "Lenovo/P770/P770:4.1.1/JRO03C/P770_ROW_S113_130424:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JRO03C",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "P770_ROW_S113_130424",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

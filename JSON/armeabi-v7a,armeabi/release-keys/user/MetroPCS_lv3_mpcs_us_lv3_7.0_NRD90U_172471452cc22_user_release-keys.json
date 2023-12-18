@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LGMS210",
+  "BRAND": "MetroPCS",
+  "PRODUCT": "lv3_mpcs_us",
+  "DEVICE": "lv3",
+  "FINGERPRINT": "MetroPCS/lv3_mpcs_us/lv3:7.0/NRD90U/172471452cc22:user/release-keys",
+  "SECURITY_PATCH": "2017-09-01",
+  "FIRST_API_LEVEL": "24",
+  "BUILD_ID": "NRD90U",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "172471452cc22",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

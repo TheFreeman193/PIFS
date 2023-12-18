@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "motorola",
+  "MODEL": "XT1031",
+  "BRAND": "motorola",
+  "PRODUCT": "falcon_boost",
+  "DEVICE": "falcon_cdma",
+  "FINGERPRINT": "motorola/falcon_boost/falcon_cdma:4.4.2/KXB20.9-1.10-1.18-1.1/1:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KXB20.9-1.10-1.18-1.1",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Fairphone",
+  "MODEL": "FP3",
+  "BRAND": "Fairphone",
+  "PRODUCT": "FP3",
+  "DEVICE": "FP3",
+  "FINGERPRINT": "Fairphone/FP3/FP3:10/8901.3.A.0054.20200929/09290922:user/release-keys",
+  "SECURITY_PATCH": "2020-10-05",
+  "FIRST_API_LEVEL": "29",
+  "BUILD_ID": "8901.3.A.0054.20200929",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "09290922",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HUAWEI",
+  "MODEL": "MSM8916 for arm64",
+  "BRAND": "HONOR",
+  "PRODUCT": "msm8916_64",
+  "DEVICE": "HNKIW-Q",
+  "FINGERPRINT": "HONOR/KIW-L22/HNKIW-Q:5.1.1/HONORKIW-L22/C636B130:user/release-keys",
+  "SECURITY_PATCH": "2015-12-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47V",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "C636B130",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

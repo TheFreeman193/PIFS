@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "FIH",
+  "MODEL": "InFocus M530",
+  "BRAND": "InFocus",
+  "PRODUCT": "M530_00WW",
+  "DEVICE": "G20",
+  "FINGERPRINT": "InFocus/M530_00WW/G20:4.4.2/KOT49H/00WW_4_32E:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "00WW_4_32E",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

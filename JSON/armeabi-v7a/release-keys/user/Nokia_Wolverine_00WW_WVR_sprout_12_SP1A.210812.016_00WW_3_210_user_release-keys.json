@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HMD Global",
+  "MODEL": "Nokia 2.4",
+  "BRAND": "Nokia",
+  "PRODUCT": "Wolverine_00WW",
+  "DEVICE": "WVR_sprout",
+  "FINGERPRINT": "Nokia/Wolverine_00WW/WVR_sprout:12/SP1A.210812.016/00WW_3_210:user/release-keys",
+  "SECURITY_PATCH": "2022-04-05",
+  "FIRST_API_LEVEL": "29",
+  "BUILD_ID": "SP1A.210812.016",
+  "VNDK_VERSION": "31",
+  "INCREMENTAL": "00WW_3_210",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "GT-I9500",
+  "BRAND": "samsung",
+  "PRODUCT": "ja3gzs",
+  "DEVICE": "ja3g",
+  "FINGERPRINT": "samsung/ja3gzs/ja3g:4.2.2/JDQ39/I9500ZSUBMG1:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.1386861530",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

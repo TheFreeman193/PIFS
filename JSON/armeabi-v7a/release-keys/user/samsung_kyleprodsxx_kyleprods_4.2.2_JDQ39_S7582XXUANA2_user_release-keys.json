@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "GT-S7582",
+  "BRAND": "samsung",
+  "PRODUCT": "kyleprodsxx",
+  "DEVICE": "kyleprods",
+  "FINGERPRINT": "samsung/kyleprodsxx/kyleprods:4.2.2/JDQ39/S7582XXUANA2:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "S7582XXUANA2",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

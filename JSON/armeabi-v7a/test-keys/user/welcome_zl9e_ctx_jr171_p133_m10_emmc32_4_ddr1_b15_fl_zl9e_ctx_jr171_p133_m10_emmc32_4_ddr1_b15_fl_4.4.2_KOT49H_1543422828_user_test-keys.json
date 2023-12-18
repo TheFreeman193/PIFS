@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "M10 plus",
+  "BRAND": "welcome",
+  "PRODUCT": "M10 plus",
+  "DEVICE": "zl9e_ctx_jr171_p133_m10_emmc32_4_ddr1_b15_fl",
+  "FINGERPRINT": "welcome/zl9e_ctx_jr171_p133_m10_emmc32_4_ddr1_b15_fl/zl9e_ctx_jr171_p133_m10_emmc32_4_ddr1_b15_fl:4.4.2/KOT49H/1543422828:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.daiweiping.1543422828",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

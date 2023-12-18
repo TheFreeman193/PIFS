@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HUAWEI",
+  "MODEL": "MediaPad 10 FHD",
+  "BRAND": "Huawei",
+  "PRODUCT": "MediaPad",
+  "DEVICE": "hws10101w",
+  "FINGERPRINT": "Huawei/MediaPad/hws10101w:4.1.2/HuaweiMediaPad/UNKNOW:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "HuaweiMediaPad",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "UNKNOW",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

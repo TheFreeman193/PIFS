@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "GIGABYTE",
+  "MODEL": "NS-15AT10",
+  "BRAND": "Insignia",
+  "PRODUCT": "NS-15AT10",
+  "DEVICE": "TA120",
+  "FINGERPRINT": "Insignia/NS-15AT10/TA120:4.4.2/KOT49H/V01.00.00:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "V01.00.00",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

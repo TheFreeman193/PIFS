@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "TCT",
+  "MODEL": "MTC 960",
+  "BRAND": "TCT",
+  "PRODUCT": "MTC_960_MSRU",
+  "DEVICE": "MTC_960_gsm",
+  "FINGERPRINT": "TCT/MTC_960_MSRU/MTC_960_gsm:2.3.6/GRK39F/v9FB-0:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "GRK39F",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "v9FB-0",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

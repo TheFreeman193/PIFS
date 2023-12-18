@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "vivo",
+  "MODEL": "Z6530V",
+  "BRAND": "vivo",
+  "PRODUCT": "PD1603",
+  "DEVICE": "PD1603",
+  "FINGERPRINT": "vivo/PD1603/PD1603:5.1.1/LMY47V/compiler08221507:user/release-keys",
+  "SECURITY_PATCH": "2018-03-01",
+  "FIRST_API_LEVEL": "22",
+  "BUILD_ID": "LMY47V",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.compiler.20190822.150400",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

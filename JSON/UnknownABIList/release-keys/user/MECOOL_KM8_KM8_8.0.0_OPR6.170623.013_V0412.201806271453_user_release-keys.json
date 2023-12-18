@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Mecool",
+  "MODEL": "KM8",
+  "BRAND": "MECOOL",
+  "PRODUCT": "KM8",
+  "DEVICE": "KM8",
+  "FINGERPRINT": "MECOOL/KM8/KM8:8.0.0/OPR6.170623.013/V0412.201806271453:user/release-keys",
+  "SECURITY_PATCH": "2018-05-05",
+  "FIRST_API_LEVEL": "26",
+  "BUILD_ID": "OPR6.170623.013",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "V0412.201806271453",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

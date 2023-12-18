@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "brcm",
+  "MODEL": "ZTE V768",
+  "BRAND": "ZTE",
+  "PRODUCT": "V768",
+  "DEVICE": "V768",
+  "FINGERPRINT": "ZTE/V768/V768:2.3.7/GINGERBREAD/20121028.184152:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "GINGERBREAD",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20121028.184152",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

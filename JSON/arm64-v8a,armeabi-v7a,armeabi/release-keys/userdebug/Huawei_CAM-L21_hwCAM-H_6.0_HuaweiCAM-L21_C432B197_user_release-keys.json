@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HUAWEI",
+  "MODEL": "CAM-L21",
+  "BRAND": "Huawei",
+  "PRODUCT": "Cam-L21",
+  "DEVICE": "hi6210sft",
+  "FINGERPRINT": "Huawei/CAM-L21/hwCAM-H:6.0/HuaweiCAM-L21/C432B197:user/release-keys",
+  "SECURITY_PATCH": "2017-08-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "C432B197",
+  "TYPE": "userdebug",
+  "TAGS": "release-keys"
+}

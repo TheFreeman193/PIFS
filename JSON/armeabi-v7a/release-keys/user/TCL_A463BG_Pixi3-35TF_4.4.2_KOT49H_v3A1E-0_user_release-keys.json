@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "TCL",
+  "MODEL": "A463BG",
+  "BRAND": "TCL",
+  "PRODUCT": "A463BG",
+  "DEVICE": "Pixi3-35TF",
+  "FINGERPRINT": "TCL/A463BG/Pixi3-35TF:4.4.2/KOT49H/v3A1E-0:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "v3A1E-0",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

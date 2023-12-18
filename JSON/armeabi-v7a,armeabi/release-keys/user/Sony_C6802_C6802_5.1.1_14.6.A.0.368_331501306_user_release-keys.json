@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Sony",
+  "MODEL": "C6802",
+  "BRAND": "Sony",
+  "PRODUCT": "C6802",
+  "DEVICE": "C6802",
+  "FINGERPRINT": "Sony/C6802/C6802:5.1.1/14.6.A.0.368/331501306:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "14.6.A.0.368",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "331501306",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

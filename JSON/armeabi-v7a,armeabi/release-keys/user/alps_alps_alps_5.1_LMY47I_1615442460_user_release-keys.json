@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Android",
+  "MODEL": "Android",
+  "BRAND": "Android",
+  "PRODUCT": "Android",
+  "DEVICE": "Android",
+  "FINGERPRINT": "alps/alps/alps:5.1/LMY47I/1615442460:user/release-keys",
+  "SECURITY_PATCH": "2015-11-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47I",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1615442460",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

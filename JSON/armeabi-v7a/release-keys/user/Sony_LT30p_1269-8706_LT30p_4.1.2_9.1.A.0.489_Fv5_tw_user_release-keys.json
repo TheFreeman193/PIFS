@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Sony",
+  "MODEL": "LT30p",
+  "BRAND": "Sony",
+  "PRODUCT": "LT30p_1269-8706",
+  "DEVICE": "LT30p",
+  "FINGERPRINT": "Sony/LT30p_1269-8706/LT30p:4.1.2/9.1.A.0.489/Fv5_tw:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "9.1.A.0.489",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "Fv5_tw",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

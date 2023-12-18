@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "unknown",
+  "MODEL": "AOSP on ARM64",
+  "BRAND": "Android",
+  "PRODUCT": "aosp_arm64_ab",
+  "DEVICE": "generic_arm64_ab",
+  "FINGERPRINT": "Android/aosp_arm64_ab/generic_arm64_ab:10/QP1A.190711.020/5800535:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "NULL",
+  "BUILD_ID": "QP1A.190711.020",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "5800535",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

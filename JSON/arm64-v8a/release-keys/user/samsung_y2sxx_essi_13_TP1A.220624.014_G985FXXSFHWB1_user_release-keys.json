@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-G985F",
+  "BRAND": "samsung",
+  "PRODUCT": "y2sxx",
+  "DEVICE": "essi",
+  "FINGERPRINT": "samsung/y2sxx/essi:13/TP1A.220624.014/G985FXXSFHWB1:user/release-keys",
+  "SECURITY_PATCH": "2023-03-01",
+  "FIRST_API_LEVEL": "29",
+  "BUILD_ID": "TP1A.220624.014",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "G985FXXSFHWB1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

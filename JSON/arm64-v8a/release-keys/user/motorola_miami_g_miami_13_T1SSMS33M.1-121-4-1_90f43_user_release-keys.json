@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "motorola",
+  "MODEL": "motorola edge 30 neo",
+  "BRAND": "motorola",
+  "PRODUCT": "miami_g",
+  "DEVICE": "miami",
+  "FINGERPRINT": "motorola/miami_g/miami:13/T1SSMS33M.1-121-4-1/90f43:user/release-keys",
+  "SECURITY_PATCH": "2023-07-01",
+  "FIRST_API_LEVEL": "31",
+  "BUILD_ID": "T1SSMS33.1-121-4-1",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "90f43",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

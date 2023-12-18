@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Asus",
+  "MODEL": "Nexus Player",
+  "BRAND": "google",
+  "PRODUCT": "fugu",
+  "DEVICE": "fugu",
+  "FINGERPRINT": "google/fugu/fugu:7.1.1/NMF27D/3783773:user/release-keys",
+  "SECURITY_PATCH": "2016-12-01",
+  "FIRST_API_LEVEL": "21",
+  "BUILD_ID": "NMF27D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "3783773",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

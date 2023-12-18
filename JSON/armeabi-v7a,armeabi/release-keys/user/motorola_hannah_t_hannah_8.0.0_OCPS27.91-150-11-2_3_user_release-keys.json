@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "motorola",
+  "MODEL": "moto e5 plus",
+  "BRAND": "motorola",
+  "PRODUCT": "hannah_t",
+  "DEVICE": "hannah",
+  "FINGERPRINT": "motorola/hannah_t/hannah:8.0.0/OCPS27.91-150-11-2/3:user/release-keys",
+  "SECURITY_PATCH": "2019-11-01",
+  "FIRST_API_LEVEL": "26",
+  "BUILD_ID": "OCPS27.91-150-11-2",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "3",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

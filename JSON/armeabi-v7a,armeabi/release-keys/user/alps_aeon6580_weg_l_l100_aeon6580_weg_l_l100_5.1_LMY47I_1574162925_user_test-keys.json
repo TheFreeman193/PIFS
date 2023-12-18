@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "leimin",
+  "MODEL": "S18+",
+  "BRAND": "Android",
+  "PRODUCT": "S18+",
+  "DEVICE": "S18+",
+  "FINGERPRINT": "alps/aeon6580_weg_l_l100/aeon6580_weg_l_l100:5.1/LMY47I/1574162925:user/test-keys",
+  "SECURITY_PATCH": "2017-03-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47I",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1574162925",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

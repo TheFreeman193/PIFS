@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Sony",
+  "MODEL": "ST25i",
+  "BRAND": "SEMC",
+  "PRODUCT": "ST25i_1262-1120",
+  "DEVICE": "ST25i",
+  "FINGERPRINT": "SEMC/ST25i_1262-1120/ST25i:4.0.4/6.1.1.B.1.10/9bt3zw:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "6.1.1.B.1.10",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "9bt3zw",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

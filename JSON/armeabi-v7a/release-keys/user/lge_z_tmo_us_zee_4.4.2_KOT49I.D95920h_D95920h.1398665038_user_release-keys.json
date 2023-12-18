@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LG-D959",
+  "BRAND": "lge",
+  "PRODUCT": "z_tmo_us",
+  "DEVICE": "zee",
+  "FINGERPRINT": "lge/z_tmo_us/zee:4.4.2/KOT49I.D95920h/D95920h.1398665038:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49I.D95920h",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "D95920h.1398665038",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "TCT",
+  "MODEL": "ONE TOUCH 4015D",
+  "BRAND": "TCT",
+  "PRODUCT": "Yaris35",
+  "DEVICE": "Yaris35_GSM",
+  "FINGERPRINT": "TCT/Yaris35/Yaris35_GSM:4.2.2/JDQ39/v6CG3-0:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "v6CG3-0",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

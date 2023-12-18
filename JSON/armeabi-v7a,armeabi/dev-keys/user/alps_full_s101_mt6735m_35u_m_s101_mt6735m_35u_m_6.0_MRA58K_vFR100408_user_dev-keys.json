@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "s101_mt6735m_35u_m",
+  "BRAND": "alps",
+  "PRODUCT": "full_s101_mt6735m_35u_m",
+  "DEVICE": "s101_mt6735m_35u_m",
+  "FINGERPRINT": "alps/full_s101_mt6735m_35u_m/s101_mt6735m_35u_m:6.0/MRA58K/vFR100408:user/dev-keys",
+  "SECURITY_PATCH": "2016-05-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "vFR100408",
+  "TYPE": "user",
+  "TAGS": "dev-keys"
+}

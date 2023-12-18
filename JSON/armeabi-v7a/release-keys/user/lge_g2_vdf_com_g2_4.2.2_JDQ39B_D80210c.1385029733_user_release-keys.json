@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LG-D802",
+  "BRAND": "lge",
+  "PRODUCT": "g2_vdf_com",
+  "DEVICE": "g2",
+  "FINGERPRINT": "lge/g2_vdf_com/g2:4.2.2/JDQ39B/D80210c.1385029733:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39B",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "D80210c.1385029733",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

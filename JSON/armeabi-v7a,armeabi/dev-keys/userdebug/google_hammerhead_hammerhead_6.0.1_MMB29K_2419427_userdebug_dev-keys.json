@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "Nexus 5",
+  "BRAND": "google",
+  "PRODUCT": "hammerhead",
+  "DEVICE": "hammerhead",
+  "FINGERPRINT": "google/hammerhead/hammerhead:6.0.1/MMB29K/2419427:userdebug/dev-keys",
+  "SECURITY_PATCH": "2015-12-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MMB29K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "2419427",
+  "TYPE": "userdebug",
+  "TAGS": "dev-keys"
+}

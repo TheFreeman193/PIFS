@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "QUALCOMM",
+  "MODEL": "qssi system image for arm64",
+  "BRAND": "qti",
+  "PRODUCT": "LenovoTB-J706F_PRC",
+  "DEVICE": "qssi",
+  "FINGERPRINT": "Lenovo/LenovoTB-J706F_PRC/J706F:12/SKQ1.220213.001/14.0.193_230403:user/release-keys",
+  "SECURITY_PATCH": "2023-02-01",
+  "FIRST_API_LEVEL": "29",
+  "BUILD_ID": "SKQ1.220213.001",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "14.0.193_230403",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

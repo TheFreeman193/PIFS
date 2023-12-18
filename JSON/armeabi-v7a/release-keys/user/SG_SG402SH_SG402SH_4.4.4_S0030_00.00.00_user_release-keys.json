@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "SHARP",
+  "MODEL": "402SH",
+  "BRAND": "SG",
+  "PRODUCT": "SG402SH",
+  "DEVICE": "SG402SH",
+  "FINGERPRINT": "SG/SG402SH/SG402SH:4.4.4/S0030/00.00.00:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "S0030",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "00.00.00",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

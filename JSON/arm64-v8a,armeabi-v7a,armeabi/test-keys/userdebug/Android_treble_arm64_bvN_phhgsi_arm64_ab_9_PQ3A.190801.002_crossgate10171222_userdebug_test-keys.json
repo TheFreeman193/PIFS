@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "unknown",
+  "MODEL": "Phh-Treble vanilla",
+  "BRAND": "Android",
+  "PRODUCT": "treble_arm64_bvN",
+  "DEVICE": "phhgsi_arm64_ab",
+  "FINGERPRINT": "Android/treble_arm64_bvN/phhgsi_arm64_ab:9/PQ3A.190801.002/crossgate10171222:userdebug/test-keys",
+  "SECURITY_PATCH": "2019-10-05",
+  "FIRST_API_LEVEL": "NULL",
+  "BUILD_ID": "PQ3A.190801.002",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.crossg.20191017.122410",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

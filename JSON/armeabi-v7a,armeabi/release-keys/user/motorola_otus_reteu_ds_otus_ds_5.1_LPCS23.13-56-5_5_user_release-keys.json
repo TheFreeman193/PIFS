@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "motorola",
+  "MODEL": "MotoE2",
+  "BRAND": "motorola",
+  "PRODUCT": "otus_reteu_ds",
+  "DEVICE": "otus_ds",
+  "FINGERPRINT": "motorola/otus_reteu_ds/otus_ds:5.1/LPCS23.13-56-5/5:user/release-keys",
+  "SECURITY_PATCH": "2016-08-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LPCS23.13-56-5",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "5",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

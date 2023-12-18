@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "mizo",
+  "MODEL": "N9100",
+  "BRAND": "MIZO",
+  "PRODUCT": "mizo",
+  "DEVICE": "mizo",
+  "FINGERPRINT": "MIZO/mizo/mizo:5.0.0/KOT49H/1421903077:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.root.1421903077",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

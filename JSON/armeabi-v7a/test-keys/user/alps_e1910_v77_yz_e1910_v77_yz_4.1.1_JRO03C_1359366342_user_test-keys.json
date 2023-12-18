@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "e1910_v77_yz",
+  "BRAND": "alps",
+  "PRODUCT": "e1910_v77_yz",
+  "DEVICE": "e1910_v77_yz",
+  "FINGERPRINT": "alps/e1910_v77_yz/e1910_v77_yz:4.1.1/JRO03C/1359366342:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JRO03C",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.root.1359366342",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-G900R4",
+  "BRAND": "samsung",
+  "PRODUCT": "klteusc",
+  "DEVICE": "klteusc",
+  "FINGERPRINT": "samsung/klteusc/klteusc:4.4.2/KOT49H/G900R4VXU1ANK1:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "G900R4VXU1ANK1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

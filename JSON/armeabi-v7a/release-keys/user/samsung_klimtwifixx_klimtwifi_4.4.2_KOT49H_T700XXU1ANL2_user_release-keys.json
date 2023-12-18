@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-T700",
+  "BRAND": "samsung",
+  "PRODUCT": "klimtwifixx",
+  "DEVICE": "klimtwifi",
+  "FINGERPRINT": "samsung/klimtwifixx/klimtwifi:4.4.2/KOT49H/T700XXU1ANL2:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "T700XXU1ANL2",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-M325F",
+  "BRAND": "samsung",
+  "PRODUCT": "m32dd",
+  "DEVICE": "m32",
+  "FINGERPRINT": "samsung/m32dd/m32:11/RP1A.200720.012/M325FXXU3AUK1:user/release-keys",
+  "SECURITY_PATCH": "2021-11-01",
+  "FIRST_API_LEVEL": "30",
+  "BUILD_ID": "RP1A.200720.012",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "M325FXXU3AUK1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

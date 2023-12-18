@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "sprd",
+  "MODEL": "SPHS on Hsdroid",
+  "BRAND": "sprd",
+  "PRODUCT": "sprdroid_base",
+  "DEVICE": "hsdroid",
+  "FINGERPRINT": "sprd/sprdroid_base/hsdroid:4.1.2/MocorDroid2.3.5/W12.20_P20.01:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MocorDroid2.3.5",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "W12.20_P20.01",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

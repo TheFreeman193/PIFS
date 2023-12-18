@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "OUKITEL",
+  "MODEL": "K10000",
+  "BRAND": "OUKITEL",
+  "PRODUCT": "K10000",
+  "DEVICE": "K10000",
+  "FINGERPRINT": "OUKITEL/full_hct6735m_35gu_m0/hct6735m_35gu_m0:6.0/MRA58K/1471575410:user/test-keys",
+  "SECURITY_PATCH": "2016-08-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1471575410",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

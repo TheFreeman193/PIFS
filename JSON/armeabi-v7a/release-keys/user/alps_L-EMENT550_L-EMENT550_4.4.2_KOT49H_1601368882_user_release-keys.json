@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "P48 Pro",
+  "MODEL": "P48 Pro",
+  "BRAND": "P48 Pro",
+  "PRODUCT": "P48 Pro",
+  "DEVICE": "P48 Pro",
+  "FINGERPRINT": "alps/L-EMENT550/L-EMENT550:4.4.2/KOT49H/1601368882:user/release-keys",
+  "SECURITY_PATCH": "2016-01-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.yuchun.1601368882",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

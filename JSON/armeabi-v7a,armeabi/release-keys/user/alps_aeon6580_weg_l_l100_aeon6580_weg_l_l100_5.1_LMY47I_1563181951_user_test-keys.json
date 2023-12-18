@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Android",
+  "MODEL": "M30",
+  "BRAND": "Android",
+  "PRODUCT": "M30",
+  "DEVICE": "M30",
+  "FINGERPRINT": "alps/aeon6580_weg_l_l100/aeon6580_weg_l_l100:5.1/LMY47I/1563181951:user/test-keys",
+  "SECURITY_PATCH": "2017-03-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47I",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1563181951",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

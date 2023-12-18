@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-N910F",
+  "BRAND": "samsung",
+  "PRODUCT": "trltexx",
+  "DEVICE": "trlte",
+  "FINGERPRINT": "samsung/trltexx/trlte:4.4.4/KTU84P/N910FXXU1ANK6:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84P",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "N910FXXU1ANK6",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

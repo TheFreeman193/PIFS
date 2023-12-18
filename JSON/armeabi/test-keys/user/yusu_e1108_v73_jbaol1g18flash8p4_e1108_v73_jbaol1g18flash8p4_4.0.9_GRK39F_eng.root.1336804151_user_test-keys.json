@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "unknown",
+  "MODEL": "e1108_v73_jbaol1g18flash8p4",
+  "BRAND": "yusu",
+  "PRODUCT": "e1108_v73_jbaol1g18flash8p4",
+  "DEVICE": "e1108_v73_jbaol1g18flash8p4",
+  "FINGERPRINT": "yusu/e1108_v73_jbaol1g18flash8p4/e1108_v73_jbaol1g18flash8p4:4.0.9/GRK39F/eng.root.1336804151:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "GRK39F",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.root.1336804151",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

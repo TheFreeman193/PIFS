@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Google",
+  "MODEL": "Pixel",
+  "BRAND": "google",
+  "PRODUCT": "sailfish",
+  "DEVICE": "sailfish",
+  "FINGERPRINT": "google/sailfish/sailfish:9/PQ3A.190801.002/5670241:user/release-keys",
+  "SECURITY_PATCH": "2019-08-01",
+  "FIRST_API_LEVEL": "25",
+  "BUILD_ID": "PQ3A.190801.002",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "5670241",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

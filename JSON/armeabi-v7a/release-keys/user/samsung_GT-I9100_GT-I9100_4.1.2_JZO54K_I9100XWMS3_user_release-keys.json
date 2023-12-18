@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "GT-I9100",
+  "BRAND": "samsung",
+  "PRODUCT": "GT-I9100",
+  "DEVICE": "GT-I9100",
+  "FINGERPRINT": "samsung/GT-I9100/GT-I9100:4.1.2/JZO54K/I9100XWMS3:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JZO54K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "I9100XWMS3",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

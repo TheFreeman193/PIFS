@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "GT-S7270",
+  "BRAND": "samsung",
+  "PRODUCT": "cm_logan",
+  "DEVICE": "logan",
+  "FINGERPRINT": "samsung/cm_logan/logan:5.1.1/LMY48Y/f4d04b7f78:userdebug/test-keys",
+  "SECURITY_PATCH": "2015-12-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY48Y",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "f4d04b7f78",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

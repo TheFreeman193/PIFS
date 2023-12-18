@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "SPA Condor Electronics",
+  "MODEL": "Griffe T6",
+  "BRAND": "Condor",
+  "PRODUCT": "Griffe_T6",
+  "DEVICE": "Griffe_T6",
+  "FINGERPRINT": "Condor/Griffe_T6/Griffe_T6:8.1.0/OPM2.171019.012/26309:user/release-keys",
+  "SECURITY_PATCH": "2018-07-05",
+  "FIRST_API_LEVEL": "26",
+  "BUILD_ID": "OPM2.171019.012",
+  "VNDK_VERSION": "1",
+  "INCREMENTAL": "0725",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

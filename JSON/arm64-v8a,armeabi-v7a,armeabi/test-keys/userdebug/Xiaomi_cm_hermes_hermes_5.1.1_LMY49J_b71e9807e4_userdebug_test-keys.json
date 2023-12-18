@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "Redmi Note 2",
+  "BRAND": "Xiaomi",
+  "PRODUCT": "cm_hermes",
+  "DEVICE": "hermes",
+  "FINGERPRINT": "Xiaomi/cm_hermes/hermes:5.1.1/LMY49J/b71e9807e4:userdebug/test-keys",
+  "SECURITY_PATCH": "2016-05-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY49J",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "b71e9807e4",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

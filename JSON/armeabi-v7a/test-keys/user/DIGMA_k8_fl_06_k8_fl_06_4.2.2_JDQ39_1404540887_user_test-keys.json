@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "DIGMA",
+  "MODEL": "Plane 7.3 3G PS7003MG",
+  "BRAND": "DIGMA",
+  "PRODUCT": "Plane 7.3 3G",
+  "DEVICE": "PS7003MG",
+  "FINGERPRINT": "DIGMA/k8_fl_06/k8_fl_06:4.2.2/JDQ39/1404540887:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.yl.1404540887",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

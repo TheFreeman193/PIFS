@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-T595",
+  "BRAND": "samsung",
+  "PRODUCT": "gta2xllteub",
+  "DEVICE": "gta2xllte",
+  "FINGERPRINT": "samsung/gta2xllteub/gta2xllte:9/PPR1.180610.011/T595UBU4BSK1:user/release-keys",
+  "SECURITY_PATCH": "2019-11-01",
+  "FIRST_API_LEVEL": "27",
+  "BUILD_ID": "PPR1.180610.011",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "T595UBU4BSK1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

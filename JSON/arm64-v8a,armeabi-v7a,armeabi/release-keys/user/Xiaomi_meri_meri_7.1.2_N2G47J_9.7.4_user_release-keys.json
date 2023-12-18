@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "song",
+  "BRAND": "Xiaomi",
+  "PRODUCT": "song",
+  "DEVICE": "song",
+  "FINGERPRINT": "Xiaomi/meri/meri:7.1.2/N2G47J/9.7.4:user/release-keys",
+  "SECURITY_PATCH": "2019-04-01",
+  "FIRST_API_LEVEL": "23",
+  "BUILD_ID": "N2G47J",
+  "VNDK_VERSION": "31",
+  "INCREMENTAL": "9.7.4",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

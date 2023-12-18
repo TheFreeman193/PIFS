@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Micromax",
+  "MODEL": "Micromax A108",
+  "BRAND": "Micromax",
+  "PRODUCT": "A108",
+  "DEVICE": "A108",
+  "FINGERPRINT": "Micromax/A108/A108:4.4.2/KOT49H/1402642027:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.zhangzhao.1404476274",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

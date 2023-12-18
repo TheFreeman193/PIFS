@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LENOVO",
+  "MODEL": "Lenovo P70-A",
+  "BRAND": "Lenovo",
+  "PRODUCT": "P70-A",
+  "DEVICE": "P70-A",
+  "FINGERPRINT": "Lenovo/P70-A/P70-A:4.4.4/KOT49H/P70-A_S134_150729_16G_ROW:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "P70-A_S134_150729_16G_ROW",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

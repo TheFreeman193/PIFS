@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Haier",
+  "MODEL": "W818",
+  "BRAND": "Smartfren",
+  "PRODUCT": "msm8610_s1_w818_ru",
+  "DEVICE": "W818",
+  "FINGERPRINT": "qcom/msm8610_s1_w818_ru/msm8610_s1_w818_ru:4.4.2/KVT49L/eng.root.20141023.092650:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KVT49L",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.root.20141023.092650",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

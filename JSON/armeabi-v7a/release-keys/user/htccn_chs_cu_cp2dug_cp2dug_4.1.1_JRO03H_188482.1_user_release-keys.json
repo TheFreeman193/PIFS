@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "htc",
+  "MODEL": "HTC CP2DUG",
+  "BRAND": "htccn_chs_cu",
+  "PRODUCT": "cp2dug",
+  "DEVICE": "cp2dug",
+  "FINGERPRINT": "htccn_chs_cu/cp2dug/cp2dug:4.1.1/JRO03H/188482.1:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JRO03H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "188482.1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

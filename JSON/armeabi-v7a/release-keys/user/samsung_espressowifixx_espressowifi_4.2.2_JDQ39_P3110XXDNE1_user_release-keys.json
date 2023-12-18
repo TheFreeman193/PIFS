@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "GT-P3110",
+  "BRAND": "samsung",
+  "PRODUCT": "espressowifixx",
+  "DEVICE": "espressowifi",
+  "FINGERPRINT": "samsung/espressowifixx/espressowifi:4.2.2/JDQ39/P3110XXDNE1:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "P3110XXDNE1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

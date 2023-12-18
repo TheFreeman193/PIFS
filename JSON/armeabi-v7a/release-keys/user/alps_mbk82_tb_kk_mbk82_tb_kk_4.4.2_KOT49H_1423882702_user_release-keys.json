@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "WEXLER",
+  "MODEL": "TAB 8iQ",
+  "BRAND": "WEXLER",
+  "PRODUCT": "8iQ",
+  "DEVICE": "8iQ",
+  "FINGERPRINT": "alps/mbk82_tb_kk/mbk82_tb_kk:4.4.2/KOT49H/1423882702:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.root.1423882702",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

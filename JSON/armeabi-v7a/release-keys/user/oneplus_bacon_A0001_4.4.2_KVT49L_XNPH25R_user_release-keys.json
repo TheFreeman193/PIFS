@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "OnePlus",
+  "MODEL": "One",
+  "BRAND": "oneplus",
+  "PRODUCT": "bacon",
+  "DEVICE": "A0001",
+  "FINGERPRINT": "oneplus/bacon/A0001:4.4.2/KVT49L/XNPH25R:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KVT49L",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "ee8b63c489",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

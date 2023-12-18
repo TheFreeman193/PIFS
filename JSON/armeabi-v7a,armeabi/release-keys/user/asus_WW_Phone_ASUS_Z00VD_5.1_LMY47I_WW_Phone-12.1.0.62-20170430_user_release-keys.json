@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "asus",
+  "MODEL": "ASUS_Z00VD",
+  "BRAND": "asus",
+  "PRODUCT": "WW_Phone",
+  "DEVICE": "ASUS_Z00VD",
+  "FINGERPRINT": "asus/WW_Phone/ASUS_Z00VD:5.1/LMY47I/WW_Phone-12.1.0.62-20170430:user/release-keys",
+  "SECURITY_PATCH": "2017-03-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47I",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "WW_Phone-12.1.0.62-20170430",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

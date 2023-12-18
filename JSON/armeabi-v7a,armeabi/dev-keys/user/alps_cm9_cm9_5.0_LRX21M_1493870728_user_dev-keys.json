@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "cm9",
+  "BRAND": "alps",
+  "PRODUCT": "cm9",
+  "DEVICE": "cm9",
+  "FINGERPRINT": "alps/cm9/cm9:5.0/LRX21M/1493870728:user/dev-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LRX21M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1493870728",
+  "TYPE": "user",
+  "TAGS": "dev-keys"
+}

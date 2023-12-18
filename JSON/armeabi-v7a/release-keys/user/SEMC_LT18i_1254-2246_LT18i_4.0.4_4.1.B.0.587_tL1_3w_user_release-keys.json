@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Sony Ericsson",
+  "MODEL": "LT18i",
+  "BRAND": "SEMC",
+  "PRODUCT": "LT18i_1254-2246",
+  "DEVICE": "LT18i",
+  "FINGERPRINT": "SEMC/LT18i_1254-2246/LT18i:4.0.4/4.1.B.0.587/tL1_3w:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "4.1.B.0.587",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "tL1_3w",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

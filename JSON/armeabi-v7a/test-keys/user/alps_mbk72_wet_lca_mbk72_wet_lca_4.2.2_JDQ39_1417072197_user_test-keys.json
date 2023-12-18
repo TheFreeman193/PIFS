@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "iPhone",
+  "BRAND": "alps",
+  "PRODUCT": "mbk72_wet_lca",
+  "DEVICE": "mbk72_wet_lca",
+  "FINGERPRINT": "alps/mbk72_wet_lca/mbk72_wet_lca:4.2.2/JDQ39/1417072197:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.liuxiuyun.1417072197",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

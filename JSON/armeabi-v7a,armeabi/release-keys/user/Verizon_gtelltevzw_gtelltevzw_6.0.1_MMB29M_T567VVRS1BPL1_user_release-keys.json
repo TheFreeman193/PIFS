@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-T567V",
+  "BRAND": "Verizon",
+  "PRODUCT": "gtelltevzw",
+  "DEVICE": "gtelltevzw",
+  "FINGERPRINT": "Verizon/gtelltevzw/gtelltevzw:6.0.1/MMB29M/T567VVRS1BPL1:user/release-keys",
+  "SECURITY_PATCH": "2016-06-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MMB29M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "T567VVRS1BPL1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

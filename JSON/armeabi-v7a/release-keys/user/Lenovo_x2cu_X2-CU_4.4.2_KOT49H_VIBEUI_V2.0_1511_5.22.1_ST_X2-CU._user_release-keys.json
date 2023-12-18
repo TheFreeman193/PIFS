@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LENOVO",
+  "MODEL": "Lenovo X2-CU",
+  "BRAND": "Lenovo",
+  "PRODUCT": "x2cu",
+  "DEVICE": "X2-CU",
+  "FINGERPRINT": "Lenovo/x2cu/X2-CU:4.4.2/KOT49H/VIBEUI_V2.0_1511_5.22.1_ST_X2-CU.:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "VIBEUI_V2.0_1511_5.22.1_ST_X2-CU",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Android",
+  "MODEL": "lenovoA820s",
+  "BRAND": "lenovo",
+  "PRODUCT": "wm002_emmc",
+  "DEVICE": "Android",
+  "FINGERPRINT": "alps/wm002_emmc/wm002_emmc:4.2.3/JDQ39/1393321021:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.root.1393321021",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

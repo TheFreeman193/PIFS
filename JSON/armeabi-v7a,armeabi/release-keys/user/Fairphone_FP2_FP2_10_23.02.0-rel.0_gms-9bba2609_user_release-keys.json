@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Fairphone",
+  "MODEL": "FP2",
+  "BRAND": "Fairphone",
+  "PRODUCT": "FP2",
+  "DEVICE": "FP2",
+  "FINGERPRINT": "Fairphone/FP2/FP2:10/23.02.0-rel.0/gms-9bba2609:user/release-keys",
+  "SECURITY_PATCH": "2023-02-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "23.02.0-rel.0",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "gms-9bba2609",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

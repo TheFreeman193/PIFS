@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "archos",
+  "MODEL": "Archos 50 Oxygen",
+  "BRAND": "archos",
+  "PRODUCT": "mtka50ox",
+  "DEVICE": "a50ox",
+  "FINGERPRINT": "archos/mtka50ox/a50ox:4.2.2/JDQ39/20140526.192448:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20140526.192448",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-A202K",
+  "BRAND": "samsung",
+  "PRODUCT": "a20ektt",
+  "DEVICE": "a20e",
+  "FINGERPRINT": "samsung/a20ektt/a20e:11/RP1A.200720.012/A202KKKS8CWA1:user/release-keys",
+  "SECURITY_PATCH": "2023-01-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "RP1A.200720.012",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "A202KKKS8CWA1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

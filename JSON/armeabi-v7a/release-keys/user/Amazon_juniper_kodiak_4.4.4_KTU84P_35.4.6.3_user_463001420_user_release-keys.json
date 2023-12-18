@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Amazon",
+  "MODEL": "SD4930UR",
+  "BRAND": "Amazon",
+  "PRODUCT": "juniper",
+  "DEVICE": "kodiak",
+  "FINGERPRINT": "Amazon/juniper/kodiak:4.4.4/KTU84P/35.4.6.3_user_463001420:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84P",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "35.4.6.3_user_463001420",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

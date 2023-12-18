@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Micromax",
+  "MODEL": "Micromax D305",
+  "BRAND": "Micromax",
+  "PRODUCT": "D305",
+  "DEVICE": "D305",
+  "FINGERPRINT": "Micromax/D305/D305:5.1/LMY47I/1441954463:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47I",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1442490920",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

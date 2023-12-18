@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "BOZHIXING",
+  "BRAND": "博智星",
+  "PRODUCT": "BOZHIXING",
+  "DEVICE": "BOZHIXING",
+  "FINGERPRINT": "alps/b906_800x1280/b906_800x1280:4.4.2/KOT49H/1562913273:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.user001.1562913273",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

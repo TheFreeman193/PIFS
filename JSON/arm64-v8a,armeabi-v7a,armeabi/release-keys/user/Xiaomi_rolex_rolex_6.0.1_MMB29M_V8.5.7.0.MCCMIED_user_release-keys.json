@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "Redmi 4A",
+  "BRAND": "Xiaomi",
+  "PRODUCT": "rolex",
+  "DEVICE": "rolex",
+  "FINGERPRINT": "Xiaomi/rolex/rolex:6.0.1/MMB29M/V8.5.7.0.MCCMIED:user/release-keys",
+  "SECURITY_PATCH": "2017-09-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MMB29M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "V8.5.7.0.MCCMIED",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

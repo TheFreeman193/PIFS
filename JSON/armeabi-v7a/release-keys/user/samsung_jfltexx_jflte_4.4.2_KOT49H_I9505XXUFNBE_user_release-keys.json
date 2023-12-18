@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "GT-I9505",
+  "BRAND": "samsung",
+  "PRODUCT": "jfltexx",
+  "DEVICE": "jflte",
+  "FINGERPRINT": "samsung/jfltexx/jflte:4.4.2/KOT49H/I9505XXUFNBE:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "I9505XXUFNBE",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-A605FN",
+  "BRAND": "samsung",
+  "PRODUCT": "a6pltexx",
+  "DEVICE": "a6plte",
+  "FINGERPRINT": "samsung/a6pltexx/a6plte:9/PPR1.180610.011/A605FNXXU3BSC6:user/release-keys",
+  "SECURITY_PATCH": "2019-03-01",
+  "FIRST_API_LEVEL": "26",
+  "BUILD_ID": "PPR1.180610.011",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "A605FNXXU3BSC6",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

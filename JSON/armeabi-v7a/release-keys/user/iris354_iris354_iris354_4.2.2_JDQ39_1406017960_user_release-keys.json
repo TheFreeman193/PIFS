@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "iris354",
+  "MODEL": "iris354",
+  "BRAND": "iris354",
+  "PRODUCT": "iris354",
+  "DEVICE": "iris354",
+  "FINGERPRINT": "iris354/iris354/iris354:4.2.2/JDQ39/1406017960:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "iris354",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.lavasw2.1406017960",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

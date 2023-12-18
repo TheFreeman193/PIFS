@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "ODYS",
+  "MODEL": "PLUTO7",
+  "BRAND": "qcom",
+  "PRODUCT": "bigHand_v2",
+  "DEVICE": "bigHand_v2",
+  "FINGERPRINT": "qcom/bigHand_v2/bigHand_v2:6.0.1/MMB29M/liangjp10191634:user/test-keys",
+  "SECURITY_PATCH": "2016-02-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MMB29M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.liangjp.20161019.163018",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

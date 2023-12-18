@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Sony",
+  "MODEL": "SGP771",
+  "BRAND": "Sony",
+  "PRODUCT": "karin",
+  "DEVICE": "karin",
+  "FINGERPRINT": "Sony/karin/karin:5.0.2/KITAKAMI-1.0.0-150609-0221/1:user/dev-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "28.0.A.7.24",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1",
+  "TYPE": "user",
+  "TAGS": "dev-keys"
+}

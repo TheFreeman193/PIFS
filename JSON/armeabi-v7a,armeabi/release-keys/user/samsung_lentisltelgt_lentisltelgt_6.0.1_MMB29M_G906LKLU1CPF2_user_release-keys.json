@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-G906L",
+  "BRAND": "samsung",
+  "PRODUCT": "lentisltelgt",
+  "DEVICE": "lentisltelgt",
+  "FINGERPRINT": "samsung/lentisltelgt/lentisltelgt:6.0.1/MMB29M/G906LKLU1CPF2:user/release-keys",
+  "SECURITY_PATCH": "2016-06-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MMB29M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "G906LKLU1CPF2",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

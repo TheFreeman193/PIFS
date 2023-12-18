@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "DEXP",
+  "MODEL": "Ixion X LTE 4.5\"",
+  "BRAND": "DEXP",
+  "PRODUCT": "DEXP",
+  "DEVICE": "DEXP",
+  "FINGERPRINT": "DEXP/M34T_DEXP/M34T_DEXP:4.4.4/KTU84P/eng.android.20150619:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84P",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.android.20150619",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

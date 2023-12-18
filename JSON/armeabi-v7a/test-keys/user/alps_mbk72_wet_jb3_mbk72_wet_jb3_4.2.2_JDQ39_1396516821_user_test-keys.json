@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "GT-I9008",
+  "MODEL": "GT-I9008",
+  "BRAND": "samsung",
+  "PRODUCT": "GT-I9008",
+  "DEVICE": "GT-I9008",
+  "FINGERPRINT": "alps/mbk72_wet_jb3/mbk72_wet_jb3:4.2.2/JDQ39/1396516821:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.root.1396516821",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

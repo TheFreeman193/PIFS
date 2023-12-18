@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "android",
+  "MODEL": "NT-3702M",
+  "BRAND": "Android",
+  "PRODUCT": "ha9_sd_nt3702m_mul",
+  "DEVICE": "A9",
+  "FINGERPRINT": "Android/ha9_sd_nt3702m_mul/ha9_sd_nt3702m_mul:4.1.1/JRO03C/1366731643:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JRO03C",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.rd1-sw1-server3.1366731643",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

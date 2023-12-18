@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-G530H",
+  "BRAND": "samsung",
+  "PRODUCT": "fortunave3gxx",
+  "DEVICE": "fortunave3g",
+  "FINGERPRINT": "samsung/fortunave3gxx/fortunave3g:4.4.4/KTU84P/G530HXCU1AOE2:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84P",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "G530HXCU1AOE2",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

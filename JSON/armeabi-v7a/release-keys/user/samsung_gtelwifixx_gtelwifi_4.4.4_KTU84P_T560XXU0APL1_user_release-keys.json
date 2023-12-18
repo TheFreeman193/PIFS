@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-T560",
+  "BRAND": "samsung",
+  "PRODUCT": "gtelwifixx",
+  "DEVICE": "gtelwifi",
+  "FINGERPRINT": "samsung/gtelwifixx/gtelwifi:4.4.4/KTU84P/T560XXU0APL1:user/release-keys",
+  "SECURITY_PATCH": "2016-12-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84P",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "T560XXU0APL1",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

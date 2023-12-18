@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "P40 Pro+",
+  "BRAND": "alps",
+  "PRODUCT": "P40_Pro+",
+  "DEVICE": "P40_Pro+",
+  "FINGERPRINT": "alps/full_hct6580_weg_a_l/hct6580_weg_a_l:5.1/LMY47I/1602312168:user/test-keys",
+  "SECURITY_PATCH": "2016-06-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY47I",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1602312168",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

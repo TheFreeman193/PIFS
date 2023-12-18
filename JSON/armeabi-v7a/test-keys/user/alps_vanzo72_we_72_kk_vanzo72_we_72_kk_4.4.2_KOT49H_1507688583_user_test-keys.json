@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "DM98",
+  "BRAND": "alps",
+  "PRODUCT": "DM98",
+  "DEVICE": "DM98",
+  "FINGERPRINT": "alps/vanzo72_we_72_kk/vanzo72_we_72_kk:4.4.2/KOT49H/1507688583:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.daiwenhai.1507688583",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

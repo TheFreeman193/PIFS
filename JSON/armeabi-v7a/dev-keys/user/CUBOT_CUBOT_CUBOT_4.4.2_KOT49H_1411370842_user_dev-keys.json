@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "CUBOT",
+  "MODEL": "S308",
+  "BRAND": "CUBOT",
+  "PRODUCT": "CUBOT",
+  "DEVICE": "CUBOT",
+  "FINGERPRINT": "CUBOT/CUBOT/CUBOT:4.4.2/KOT49H/1411370842:user/dev-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.rgk-bu2-04.1411370842",
+  "TYPE": "user",
+  "TAGS": "dev-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Android",
+  "MODEL": "HT7",
+  "BRAND": "Android",
+  "PRODUCT": "ht7_lyh_zx",
+  "DEVICE": "HT7",
+  "FINGERPRINT": "alps/ht7_lyh_zx/ht7_lyh_zx:4.4.2/KOT49H/1405407213:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.sh021tydsw8.1405407213",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

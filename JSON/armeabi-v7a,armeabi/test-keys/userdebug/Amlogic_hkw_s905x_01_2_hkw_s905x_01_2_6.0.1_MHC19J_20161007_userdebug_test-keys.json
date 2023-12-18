@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Amlogic",
+  "MODEL": "C96X",
+  "BRAND": "Amlogic",
+  "PRODUCT": "hkw_s905x_01_2",
+  "DEVICE": "hkw_s905x_01_2",
+  "FINGERPRINT": "Amlogic/hkw_s905x_01_2/hkw_s905x_01_2:6.0.1/MHC19J/20161007:userdebug/test-keys",
+  "SECURITY_PATCH": "2016-08-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MHC19J",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20161007",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

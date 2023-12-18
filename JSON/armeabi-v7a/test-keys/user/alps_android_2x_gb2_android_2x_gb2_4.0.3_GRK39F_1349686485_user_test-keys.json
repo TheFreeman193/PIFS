@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "mini i9300",
+  "BRAND": "alps",
+  "PRODUCT": "android_2x_gb2",
+  "DEVICE": "android_2x_gb2",
+  "FINGERPRINT": "alps/android_2x_gb2/android_2x_gb2:4.0.3/GRK39F/1349686485:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "GRK39F",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.linux-build3.1349686485",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

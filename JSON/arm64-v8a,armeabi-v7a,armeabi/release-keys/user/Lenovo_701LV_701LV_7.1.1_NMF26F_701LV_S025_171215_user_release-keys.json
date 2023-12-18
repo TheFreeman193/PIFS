@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Lenovo",
+  "MODEL": "701LV",
+  "BRAND": "Lenovo",
+  "PRODUCT": "701LV",
+  "DEVICE": "701LV",
+  "FINGERPRINT": "Lenovo/701LV/701LV:7.1.1/NMF26F/701LV_S025_171215:user/release-keys",
+  "SECURITY_PATCH": "2017-12-01",
+  "FIRST_API_LEVEL": "24",
+  "BUILD_ID": "NMF26F",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "701LV_S025_171215",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

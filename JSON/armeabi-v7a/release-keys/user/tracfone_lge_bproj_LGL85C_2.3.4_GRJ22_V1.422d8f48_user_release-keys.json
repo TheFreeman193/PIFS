@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LGL85C",
+  "BRAND": "tracfone",
+  "PRODUCT": "lge_bproj",
+  "DEVICE": "LGL85C",
+  "FINGERPRINT": "tracfone/lge_bproj/LGL85C:2.3.4/GRJ22/V1.422d8f48:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "GRJ22",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "V1.422d8f48",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

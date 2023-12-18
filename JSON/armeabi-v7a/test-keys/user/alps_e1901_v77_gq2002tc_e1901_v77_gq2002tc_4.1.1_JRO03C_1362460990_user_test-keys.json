@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "e1901_v77_gq2002tc",
+  "BRAND": "alps",
+  "PRODUCT": "e1901_v77_gq2002tc",
+  "DEVICE": "e1901_v77_gq2002tc",
+  "FINGERPRINT": "alps/e1901_v77_gq2002tc/e1901_v77_gq2002tc:4.1.1/JRO03C/1362460990:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JRO03C",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.root.1362460990",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

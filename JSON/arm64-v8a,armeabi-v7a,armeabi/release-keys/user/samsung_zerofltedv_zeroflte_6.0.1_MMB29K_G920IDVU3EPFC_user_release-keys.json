@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-G920I",
+  "BRAND": "samsung",
+  "PRODUCT": "zerofltedv",
+  "DEVICE": "zeroflte",
+  "FINGERPRINT": "samsung/zerofltedv/zeroflte:6.0.1/MMB29K/G920IDVU3EPFC:user/release-keys",
+  "SECURITY_PATCH": "2016-06-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MMB29K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "G920IDVU3EPFC",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

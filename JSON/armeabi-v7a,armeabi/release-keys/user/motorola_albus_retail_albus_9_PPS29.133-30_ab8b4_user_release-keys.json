@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "motorola",
+  "MODEL": "Moto Z2 Play",
+  "BRAND": "motorola",
+  "PRODUCT": "albus_retail",
+  "DEVICE": "albus",
+  "FINGERPRINT": "motorola/albus_retail/albus:9/PPS29.133-30/ab8b4:user/release-keys",
+  "SECURITY_PATCH": "2019-09-01",
+  "FIRST_API_LEVEL": "25",
+  "BUILD_ID": "PPS29.133-30",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "ab8b4",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-N950F",
+  "BRAND": "samsung",
+  "PRODUCT": "greatltexx",
+  "DEVICE": "greatlte",
+  "FINGERPRINT": "samsung/greatltexx/greatlte:7.1.1/NMF26X/N950FXXU3BRA8:user/release-keys",
+  "SECURITY_PATCH": "2018-01-01",
+  "FIRST_API_LEVEL": "25",
+  "BUILD_ID": "NMF26X",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "N950FXXU3BRA8",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

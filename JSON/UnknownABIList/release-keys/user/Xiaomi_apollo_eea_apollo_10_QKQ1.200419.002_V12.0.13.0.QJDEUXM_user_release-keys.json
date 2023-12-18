@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "M2007J3SY",
+  "BRAND": "Xiaomi",
+  "PRODUCT": "apollo_eea",
+  "DEVICE": "apollo",
+  "FINGERPRINT": "Xiaomi/apollo_eea/apollo:10/QKQ1.200419.002/V12.0.13.0.QJDEUXM:user/release-keys",
+  "SECURITY_PATCH": "2020-11-01",
+  "FIRST_API_LEVEL": "29",
+  "BUILD_ID": "QKQ1.200419.002",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "V12.0.13.0.QJDEUXM",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

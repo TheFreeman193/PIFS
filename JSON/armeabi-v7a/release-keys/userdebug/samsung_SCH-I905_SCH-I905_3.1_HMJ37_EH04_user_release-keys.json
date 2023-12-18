@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SCH-I905",
+  "BRAND": "samsung",
+  "PRODUCT": "SCH-I905",
+  "DEVICE": "p4vzw",
+  "FINGERPRINT": "samsung/SCH-I905/SCH-I905:3.1/HMJ37/EH04:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "IML74K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.roman.20120307.212644",
+  "TYPE": "userdebug",
+  "TAGS": "release-keys"
+}

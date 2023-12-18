@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-A546S",
+  "BRAND": "samsung",
+  "PRODUCT": "a54xskt",
+  "DEVICE": "essi",
+  "FINGERPRINT": "samsung/a54xskt/essi:13/TP1A.220624.014/A546SKSU1AWE2:user/release-keys",
+  "SECURITY_PATCH": "2023-06-01",
+  "FIRST_API_LEVEL": "33",
+  "BUILD_ID": "TP1A.220624.014",
+  "VNDK_VERSION": "33",
+  "INCREMENTAL": "A546SKSU1AWE2",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

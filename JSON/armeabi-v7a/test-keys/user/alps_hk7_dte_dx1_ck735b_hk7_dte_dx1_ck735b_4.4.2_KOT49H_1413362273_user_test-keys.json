@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "CHUWI",
+  "MODEL": "DX1",
+  "BRAND": "CHUWI",
+  "PRODUCT": "hk7_dte_dx1_ck735b",
+  "DEVICE": "DX1",
+  "FINGERPRINT": "alps/hk7_dte_dx1_ck735b/hk7_dte_dx1_ck735b:4.4.2/KOT49H/1413362273:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.sh021tydsw6.1413362273",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

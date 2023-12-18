@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "HUAWEI",
+  "MODEL": "HUAWEI MediaPad",
+  "BRAND": "Huawei",
+  "PRODUCT": "MediaPad",
+  "DEVICE": "hws7300u",
+  "FINGERPRINT": "Huawei/MediaPad/hws7300u:4.0.3/HuaweiMediaPad/C002B010SP30:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "HuaweiMediaPad",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "C002B010SP30",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

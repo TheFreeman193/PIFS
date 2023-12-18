@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "709_v82_jbla858",
+  "BRAND": "alps",
+  "PRODUCT": "709_v82_jbla858",
+  "DEVICE": "709_v82_jbla858",
+  "FINGERPRINT": "alps/709_v82_jbla858/709_v82_jbla858:4.2.2/JDQ39/1398826071:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.root.1398826071",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

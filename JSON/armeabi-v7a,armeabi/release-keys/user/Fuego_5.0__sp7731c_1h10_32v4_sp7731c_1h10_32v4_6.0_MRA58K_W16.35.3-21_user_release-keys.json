@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "SKY",
+  "MODEL": "Fuego 5.0+",
+  "BRAND": "Fuego_5.0+",
+  "PRODUCT": "sp7731c_1h10_32v4_oversea",
+  "DEVICE": "sp7731c_1h10_32v4",
+  "FINGERPRINT": "Fuego_5.0+/sp7731c_1h10_32v4/sp7731c_1h10_32v4:6.0/MRA58K/W16.35.3-21:user/release-keys",
+  "SECURITY_PATCH": "2016-08-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.releasesj.20160831.210053",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

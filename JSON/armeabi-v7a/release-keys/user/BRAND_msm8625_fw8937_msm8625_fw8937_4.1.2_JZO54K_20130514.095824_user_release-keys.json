@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Manufacturer",
+  "MODEL": "8937",
+  "BRAND": "BRAND",
+  "PRODUCT": "msm8625_fw8937",
+  "DEVICE": "msm8625_fw8937",
+  "FINGERPRINT": "BRAND/msm8625_fw8937/msm8625_fw8937:4.1.2/JZO54K/20130514.095824:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JZO54K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20130514.095824",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

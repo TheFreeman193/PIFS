@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Ritmix",
+  "MODEL": "RMD-757",
+  "BRAND": "RMD-757",
+  "PRODUCT": "RMD-757",
+  "DEVICE": "RMD-757",
+  "FINGERPRINT": "alps/hedy77_cu_emmc_ics2/hedy77_cu_emmc_ics2\\:4.0.4/IMM76D/1361868708\\:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "IMM76D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.huxiangyang.1361868708",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

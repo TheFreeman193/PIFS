@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "VS985 4G",
+  "BRAND": "lge",
+  "PRODUCT": "g3_vzw",
+  "DEVICE": "g3",
+  "FINGERPRINT": "lge/g3_vzw/g3:4.4.2/KVT49L.VS98511C/VS98511C.1413432500:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KVT49L.VS98511C",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "VS98511C.1413432500",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

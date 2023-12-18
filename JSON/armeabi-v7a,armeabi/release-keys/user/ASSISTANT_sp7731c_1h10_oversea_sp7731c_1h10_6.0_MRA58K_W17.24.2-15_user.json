@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "ASSISTANT",
+  "MODEL": "AS-5412 max",
+  "BRAND": "ASSISTANT",
+  "PRODUCT": "VSBL_Z6530V",
+  "DEVICE": "sp7731c_1h10",
+  "FINGERPRINT": "ASSISTANT/sp7731c_1h10_oversea/sp7731c_1h10:6.0/MRA58K/W17.24.2-15:user",
+  "SECURITY_PATCH": "2016-05-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.lxt183.20170613.154409",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

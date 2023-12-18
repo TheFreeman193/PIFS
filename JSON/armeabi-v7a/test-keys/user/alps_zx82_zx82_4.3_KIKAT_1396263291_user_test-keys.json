@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-N900",
+  "BRAND": "samsung",
+  "PRODUCT": "SM-N900",
+  "DEVICE": "SM-N900",
+  "FINGERPRINT": "alps/zx82/zx82:4.3/KIKAT/1396263291:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JSS15J.N900UBUBMJ2",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.zhanghongqiang.1396263291",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

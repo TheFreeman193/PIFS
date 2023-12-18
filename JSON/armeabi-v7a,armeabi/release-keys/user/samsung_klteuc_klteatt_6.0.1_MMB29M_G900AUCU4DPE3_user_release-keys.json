@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SAMSUNG-SM-G900A",
+  "BRAND": "samsung",
+  "PRODUCT": "klteuc",
+  "DEVICE": "klteatt",
+  "FINGERPRINT": "samsung/klteuc/klteatt:6.0.1/MMB29M/G900AUCU4DPE3:user/release-keys",
+  "SECURITY_PATCH": "2016-05-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MMB29M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "G900AUCU4DPE3",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "alps",
+  "MODEL": "Bluboo Maya Max",
+  "BRAND": "Bluboo",
+  "PRODUCT": "Bluboo Maya Max",
+  "DEVICE": "pri6750_66t_m",
+  "FINGERPRINT": "alps/full_pri6750_66t_m/pri6750_66t_m:6.0/MRA58K/1492583041:user/release-keys",
+  "SECURITY_PATCH": "2016-05-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "1492583041",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

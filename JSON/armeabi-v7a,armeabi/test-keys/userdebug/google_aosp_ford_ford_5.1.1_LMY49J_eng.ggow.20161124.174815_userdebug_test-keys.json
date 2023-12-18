@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "amzn",
+  "MODEL": "Fire",
+  "BRAND": "google",
+  "PRODUCT": "aosp_ford",
+  "DEVICE": "ford",
+  "FINGERPRINT": "google/aosp_ford/ford:5.1.1/LMY49J/eng.ggow.20161124.174815:userdebug/test-keys",
+  "SECURITY_PATCH": "2016-11-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY49J",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.ggow.20161124.174815",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

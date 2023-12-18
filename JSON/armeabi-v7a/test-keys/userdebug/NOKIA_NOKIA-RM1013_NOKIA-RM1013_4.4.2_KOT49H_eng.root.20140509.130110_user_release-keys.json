@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Nokia",
+  "MODEL": "ara",
+  "BRAND": "Nokia",
+  "PRODUCT": "cm_ara",
+  "DEVICE": "ara",
+  "FINGERPRINT": "NOKIA/NOKIA-RM1013/NOKIA-RM1013:4.4.2/KOT49H/eng.root.20140509.130110:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84Q",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "a092b4f8c8",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys"
+}

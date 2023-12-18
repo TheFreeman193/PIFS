@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-A710F",
+  "BRAND": "samsung",
+  "PRODUCT": "a7xeltexx",
+  "DEVICE": "a7xelte",
+  "FINGERPRINT": "samsung/a7xeltexx/a7xelte:6.0.1/MMB29K/A710FXXU2BQA2:user/release-keys",
+  "SECURITY_PATCH": "2017-01-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MMB29K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "A710FXXU2BQA2",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

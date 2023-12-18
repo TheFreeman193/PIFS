@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Foxconn International Holdings Limited",
+  "MODEL": "C9660",
+  "BRAND": "YotaPhone",
+  "PRODUCT": "yotaphone",
+  "DEVICE": "yotaphone",
+  "FINGERPRINT": "YotaPhone/yotaphone/yotaphone:4.2.2/JDQ39/4.2.2.A.0.2.39:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JDQ39",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "4.2.2.A.0.2.39",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

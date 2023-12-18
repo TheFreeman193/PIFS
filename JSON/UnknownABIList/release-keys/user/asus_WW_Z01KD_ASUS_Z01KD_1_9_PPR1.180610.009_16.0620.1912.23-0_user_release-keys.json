@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Asus",
+  "MODEL": "ASUS_Z01KD",
+  "BRAND": "asus",
+  "PRODUCT": "WW_Z01KD",
+  "DEVICE": "ASUS_Z01KD_1",
+  "FINGERPRINT": "asus/WW_Z01KD/ASUS_Z01KD_1:9/PPR1.180610.009/16.0620.1912.23-0:user/release-keys",
+  "SECURITY_PATCH": "2019-12-01",
+  "FIRST_API_LEVEL": "26",
+  "BUILD_ID": "PPR1.180610.009",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "16.0620.1912.23-0",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

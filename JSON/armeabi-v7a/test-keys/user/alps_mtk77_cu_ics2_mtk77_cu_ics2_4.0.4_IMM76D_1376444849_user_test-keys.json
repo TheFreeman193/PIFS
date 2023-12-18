@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "GT-I9500",
+  "MODEL": "GT-I9500",
+  "BRAND": "samsung",
+  "PRODUCT": "GT-I9500",
+  "DEVICE": "GT-I9500",
+  "FINGERPRINT": "alps/mtk77_cu_ics2/mtk77_cu_ics2:4.0.4/IMM76D/1376444849:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "IMM76D",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.root.1376444849",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

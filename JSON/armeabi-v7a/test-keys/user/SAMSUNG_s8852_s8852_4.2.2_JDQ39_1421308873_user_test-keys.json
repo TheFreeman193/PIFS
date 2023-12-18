@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Samsung",
+  "MODEL": "GT-I9082",
+  "BRAND": "samsung",
+  "PRODUCT": "baffinzt",
+  "DEVICE": "baffin",
+  "FINGERPRINT": "SAMSUNG/s8852/s8852:4.2.2/JDQ39/1421308873:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "JZO54K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.wlb.1421308873",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

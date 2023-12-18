@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "YUMEFone",
+  "MODEL": "M12pro",
+  "BRAND": "YUMEFone",
+  "PRODUCT": "sp7731g_fs066_project",
+  "DEVICE": "sp7731g_fs066",
+  "FINGERPRINT": "alps/full_magc6580_we_c_m/magc6580_we_c_m:6.0/MRA58K/1624894474:user/release-keys",
+  "SECURITY_PATCH": "2017-03-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "MRA58K",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.android.20210628.233402",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

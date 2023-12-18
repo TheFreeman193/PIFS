@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Micromax",
+  "MODEL": "Micromax Q333",
+  "BRAND": "Micromax",
+  "PRODUCT": "Q333",
+  "DEVICE": "Q333",
+  "FINGERPRINT": "Micromax/Q333/Q333:4.4.3/KOT49H/MMX_Q333_RUS_SW_1.0.0_HW_4.0.0_270614:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20160202",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

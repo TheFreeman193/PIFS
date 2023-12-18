@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "samsung",
+  "MODEL": "SM-G900H",
+  "BRAND": "samsung",
+  "PRODUCT": "k3gxx",
+  "DEVICE": "k3g",
+  "FINGERPRINT": "samsung/k3gxx/k3g:4.4.2/KOT49H/G900HXXU1ANCD:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "G900HXXU1ANCD",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

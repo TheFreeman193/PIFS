@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Sony Ericsson",
+  "MODEL": "ST25i",
+  "BRAND": "SEMC",
+  "PRODUCT": "ST25i_1261-5359",
+  "DEVICE": "ST25i",
+  "FINGERPRINT": "SEMC/ST25i_1261-5359/ST25i:2.3.7/6.0.B.3.184/R7P_zw:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "6.0.B.3.184",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "R7P_zw",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

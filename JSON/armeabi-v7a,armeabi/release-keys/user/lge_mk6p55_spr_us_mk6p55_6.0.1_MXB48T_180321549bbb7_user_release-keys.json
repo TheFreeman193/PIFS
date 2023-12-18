@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "LGE",
+  "MODEL": "LGLS755",
+  "BRAND": "lge",
+  "PRODUCT": "mk6p55_spr_us",
+  "DEVICE": "mk6p55",
+  "FINGERPRINT": "lge/mk6p55_spr_us/mk6p55:6.0.1/MXB48T/180321549bbb7:user/release-keys",
+  "SECURITY_PATCH": "2018-02-01",
+  "FIRST_API_LEVEL": "23",
+  "BUILD_ID": "MXB48T",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "180321549bbb7",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

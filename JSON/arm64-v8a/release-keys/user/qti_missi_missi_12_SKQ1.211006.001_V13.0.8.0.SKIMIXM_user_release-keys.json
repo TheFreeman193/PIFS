@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "missi system image for arm64",
+  "BRAND": "qti",
+  "PRODUCT": "missi",
+  "DEVICE": "missi",
+  "FINGERPRINT": "qti/missi/missi:12/SKQ1.211006.001/V13.0.8.0.SKIMIXM:user/release-keys",
+  "SECURITY_PATCH": "2022-09-01",
+  "FIRST_API_LEVEL": "30",
+  "BUILD_ID": "SKQ1.211006.001",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "V13.0.8.0.SKIMIXM",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

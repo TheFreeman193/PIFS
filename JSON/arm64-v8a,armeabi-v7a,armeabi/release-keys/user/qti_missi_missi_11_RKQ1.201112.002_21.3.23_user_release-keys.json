@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "missi system image for arm64",
+  "BRAND": "qti",
+  "PRODUCT": "missi",
+  "DEVICE": "missi",
+  "FINGERPRINT": "qti/missi/missi:11/RKQ1.201112.002/21.3.23:user/release-keys",
+  "SECURITY_PATCH": "2021-03-01",
+  "FIRST_API_LEVEL": "30",
+  "BUILD_ID": "RKQ1.201112.002",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "21.3.23",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

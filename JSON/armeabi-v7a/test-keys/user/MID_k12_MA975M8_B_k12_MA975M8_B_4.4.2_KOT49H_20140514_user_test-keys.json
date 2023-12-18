@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "MID",
+  "MODEL": "ONDA A9 Core4",
+  "BRAND": "MID",
+  "PRODUCT": "k12_MA975M8_B",
+  "DEVICE": "k12_MA975M8_B",
+  "FINGERPRINT": "MID/k12_MA975M8_B/k12_MA975M8_B:4.4.2/KOT49H/20140514:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KOT49H",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "20140514",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

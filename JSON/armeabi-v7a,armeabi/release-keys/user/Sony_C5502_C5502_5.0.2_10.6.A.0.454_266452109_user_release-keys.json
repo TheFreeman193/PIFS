@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Sony",
+  "MODEL": "C5502",
+  "BRAND": "Sony",
+  "PRODUCT": "C5502",
+  "DEVICE": "C5502",
+  "FINGERPRINT": "Sony/C5502/C5502:5.0.2/10.6.A.0.454/266452109:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "10.6.A.0.454",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "266452109",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

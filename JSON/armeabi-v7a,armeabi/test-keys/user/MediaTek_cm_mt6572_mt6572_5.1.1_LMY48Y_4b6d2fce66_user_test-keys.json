@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Impression",
+  "MODEL": "ImSmart A401",
+  "BRAND": "Impression",
+  "PRODUCT": "ImSmart A401",
+  "DEVICE": "ImSmart A401",
+  "FINGERPRINT": "MediaTek/cm_mt6572/mt6572:5.1.1/LMY48Y/4b6d2fce66:user/test-keys",
+  "SECURITY_PATCH": "2015-12-01",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "LMY48Y",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "4b6d2fce66",
+  "TYPE": "user",
+  "TAGS": "test-keys"
+}

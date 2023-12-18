@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "IUNI",
+  "MODEL": "U3",
+  "BRAND": "IUNI",
+  "PRODUCT": "IUNI",
+  "DEVICE": "IUNI",
+  "FINGERPRINT": "qcom/msm8974/msm8974:4.4.4/KTU84P/eng.jenkins.20150417.023812:userdebug/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28",
+  "BUILD_ID": "KTU84P",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "eng.jenkins.20150417.023812",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

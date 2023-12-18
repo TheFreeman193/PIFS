@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "Max2",
+  "BRAND": "Xiaomi",
+  "PRODUCT": "oxygen",
+  "DEVICE": "oxygen",
+  "FINGERPRINT": "Xiaomi/oxygen/oxygen:7.1.1/NMF26F/V9.2.1.0.NDDMIEK:user/release-keys",
+  "SECURITY_PATCH": "2018-08-01",
+  "FIRST_API_LEVEL": "25",
+  "BUILD_ID": "NMF26F",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "8.9.20",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}

@@ -1,0 +1,15 @@
+{
+  "MANUFACTURER": "BMXC",
+  "MODEL": "Y801",
+  "BRAND": "BMXC",
+  "PRODUCT": "Y801",
+  "DEVICE": "Y801",
+  "FINGERPRINT": "BMXC/Y801/Y801:7.0/NRD90M/vKA100208:user/release-keys",
+  "SECURITY_PATCH": "2017-02-05",
+  "FIRST_API_LEVEL": "24",
+  "BUILD_ID": "NRD90M",
+  "VNDK_VERSION": "NULL",
+  "INCREMENTAL": "vKA100208",
+  "TYPE": "user",
+  "TAGS": "release-keys"
+}
