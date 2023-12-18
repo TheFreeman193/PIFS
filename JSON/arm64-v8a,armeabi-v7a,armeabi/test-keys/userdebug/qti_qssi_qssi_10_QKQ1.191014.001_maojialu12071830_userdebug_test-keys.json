@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2019-09-05",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "QKQ1.191014.001",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "eng.maojia.20191207.183034",
   "TYPE": "userdebug",
   "TAGS": "test-keys"

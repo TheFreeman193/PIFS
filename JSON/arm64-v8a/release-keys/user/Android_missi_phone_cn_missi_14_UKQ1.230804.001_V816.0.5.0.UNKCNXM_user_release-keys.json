@@ -6,7 +6,7 @@
   "DEVICE": "generic",
   "FINGERPRINT": "Android/missi_phone_cn/missi:14/UKQ1.230804.001/V816.0.5.0.UNKCNXM:user/release-keys",
   "SECURITY_PATCH": "2023-11-01",
-  "FIRST_API_LEVEL": "NULL",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "UKQ1.230804.001",
   "VNDK_VERSION": "33",
   "INCREMENTAL": "V816.0.5.0.UNKCNXM",

@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2021-11-05",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "RD2A.211001.002",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "eng.zeesha.20211104.221026",
   "TYPE": "userdebug",
   "TAGS": "release-keys"

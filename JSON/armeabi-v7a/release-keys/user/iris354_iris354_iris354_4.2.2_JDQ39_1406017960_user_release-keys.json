@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2019-09-05",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "iris354",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "eng.lavasw2.1406017960",
   "TYPE": "user",
   "TAGS": "release-keys"

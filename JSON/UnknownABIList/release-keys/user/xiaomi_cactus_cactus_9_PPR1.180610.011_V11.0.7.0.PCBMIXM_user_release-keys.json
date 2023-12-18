@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2020-03-01",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "PPR1.180610.011",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "V11.0.7.0.PCBMIXM",
   "TYPE": "user",
   "TAGS": "release-keys"

@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2016-08-01",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "LMY47V",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "X553-W82918A2-L-160913V4",
   "TYPE": "user",
   "TAGS": "release-keys"

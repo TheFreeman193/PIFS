@@ -6,9 +6,9 @@
   "DEVICE": "LEMX",
   "FINGERPRINT": "alps/full_dmn640_36_n1/dmn640_36_n1:7.1.1/N6F26Q/1539046524:user/test-keys",
   "SECURITY_PATCH": "2018-05-05",
-  "FIRST_API_LEVEL": "NULL",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "N6F26Q",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "1539046524",
   "TYPE": "user",
   "TAGS": "test-keys"

@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2016-10-01",
   "FIRST_API_LEVEL": "23",
   "BUILD_ID": "MXC89L",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "MV6.20171209",
   "TYPE": "userdebug",
   "TAGS": "test-keys"

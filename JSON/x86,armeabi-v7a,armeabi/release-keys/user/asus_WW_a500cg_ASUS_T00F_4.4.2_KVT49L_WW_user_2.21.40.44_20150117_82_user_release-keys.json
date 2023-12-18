@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2019-09-05",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "KVT49L",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "WW_a500cg-WW_user_2.21.40.44_20150117_82-user-20150117",
   "TYPE": "user",
   "TAGS": "release-keys"

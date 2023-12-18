@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2019-10-01",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "QKQ1.190825.002",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "V11.0.1.0.QFKMIXM",
   "TYPE": "user",
   "TAGS": "release-keys"

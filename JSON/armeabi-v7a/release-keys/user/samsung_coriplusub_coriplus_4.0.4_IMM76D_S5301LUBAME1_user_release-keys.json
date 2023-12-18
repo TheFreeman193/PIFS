@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2019-09-05",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "IMM76D",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "S5301LUBAME1",
   "TYPE": "user",
   "TAGS": "release-keys"

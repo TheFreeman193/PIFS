@@ -6,9 +6,9 @@
   "DEVICE": "B2N",
   "FINGERPRINT": "Nokia/Crystal_00WW/CTL_sprout:10/QKQ1.190828.002/00WW_4_08B:user/release-keys",
   "SECURITY_PATCH": "2019-11-01",
-  "FIRST_API_LEVEL": "NULL",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "QKQ1.190828.002",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "00WW_4_08B",
   "TYPE": "user",
   "TAGS": "release-keys"

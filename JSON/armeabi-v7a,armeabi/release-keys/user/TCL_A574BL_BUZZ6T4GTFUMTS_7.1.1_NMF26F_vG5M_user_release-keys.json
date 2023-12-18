@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2018-09-05",
   "FIRST_API_LEVEL": "25",
   "BUILD_ID": "NMF26F",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "vG5M-UTM0",
   "TYPE": "user",
   "TAGS": "release-keys"

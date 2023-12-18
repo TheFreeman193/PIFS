@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2018-11-01",
   "FIRST_API_LEVEL": "27",
   "BUILD_ID": "OPM1.171019.019",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "V9.6.11.0.ODLMIFF",
   "TYPE": "user",
   "TAGS": "release-keys"

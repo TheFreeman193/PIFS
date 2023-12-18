@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2020-12-05",
   "FIRST_API_LEVEL": "29",
   "BUILD_ID": "QOM30.255-12",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "a2748",
   "TYPE": "user",
   "TAGS": "release-keys"

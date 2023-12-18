@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2015-11-01",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "LMY48B",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "G531HXXU0AOK2",
   "TYPE": "user",
   "TAGS": "release-keys"

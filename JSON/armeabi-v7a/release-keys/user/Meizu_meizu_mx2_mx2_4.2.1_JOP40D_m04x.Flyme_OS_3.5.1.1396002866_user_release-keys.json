@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2019-09-05",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "JOP40D",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "m04x.Flyme_OS_3.5.1.1396002866",
   "TYPE": "user",
   "TAGS": "release-keys"

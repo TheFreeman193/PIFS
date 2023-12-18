@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2017-03-01",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "ZIXOSOP5801803011S",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "0001832",
   "TYPE": "user",
   "TAGS": "release-keys"

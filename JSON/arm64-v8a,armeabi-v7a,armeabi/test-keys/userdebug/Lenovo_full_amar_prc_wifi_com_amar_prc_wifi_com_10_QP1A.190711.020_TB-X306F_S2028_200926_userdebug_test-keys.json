@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2020-04-05",
   "FIRST_API_LEVEL": "29",
   "BUILD_ID": "QP1A.190711.020",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "TB-X306F_S2028_200926",
   "TYPE": "userdebug",
   "TAGS": "test-keys"

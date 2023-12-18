@@ -6,9 +6,9 @@
   "DEVICE": "generic_arm64_ab",
   "FINGERPRINT": "Android/aosp_arm64_ab/generic_arm64_ab:10/QP1A.190711.020/5800535:user/release-keys",
   "SECURITY_PATCH": "2019-09-05",
-  "FIRST_API_LEVEL": "NULL",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "QP1A.190711.020",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "5800535",
   "TYPE": "user",
   "TAGS": "release-keys"

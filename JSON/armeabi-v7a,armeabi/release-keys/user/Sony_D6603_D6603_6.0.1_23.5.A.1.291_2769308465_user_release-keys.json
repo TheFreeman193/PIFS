@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2016-05-01",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "23.5.A.1.291",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "2769308465",
   "TYPE": "user",
   "TAGS": "release-keys"

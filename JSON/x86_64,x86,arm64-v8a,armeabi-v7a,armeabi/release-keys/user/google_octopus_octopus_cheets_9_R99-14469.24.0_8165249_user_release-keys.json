@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2022-02-05",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "R99-14469.24.0",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "8165249",
   "TYPE": "user",
   "TAGS": "release-keys"

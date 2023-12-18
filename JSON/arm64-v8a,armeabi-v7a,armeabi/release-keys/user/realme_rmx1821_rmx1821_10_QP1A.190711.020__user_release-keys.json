@@ -8,8 +8,8 @@
   "SECURITY_PATCH": "2021-05-05",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "QP1A.190711.020",
-  "VNDK_VERSION": "NULL",
-  "INCREMENTAL": "NULL",
+  "VNDK_VERSION": "",
+  "INCREMENTAL": "",
   "TYPE": "user",
   "TAGS": "release-keys"
 }

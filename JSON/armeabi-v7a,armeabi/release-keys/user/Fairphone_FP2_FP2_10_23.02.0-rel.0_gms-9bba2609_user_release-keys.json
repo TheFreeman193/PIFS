@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2023-02-05",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "23.02.0-rel.0",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "gms-9bba2609",
   "TYPE": "user",
   "TAGS": "release-keys"

@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2019-11-01",
   "FIRST_API_LEVEL": "24",
   "BUILD_ID": "PPR1.180610.011",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "J701FDDU8CSK4",
   "TYPE": "user",
   "TAGS": "release-keys"

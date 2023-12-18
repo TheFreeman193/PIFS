@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2016-05-01",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "MMB29K",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "G903FXXU1BPD3",
   "TYPE": "user",
   "TAGS": "release-keys"

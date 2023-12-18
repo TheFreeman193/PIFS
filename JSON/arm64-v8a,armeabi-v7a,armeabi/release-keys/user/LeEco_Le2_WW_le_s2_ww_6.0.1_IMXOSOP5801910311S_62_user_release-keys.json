@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2016-10-01",
   "FIRST_API_LEVEL": "23",
   "BUILD_ID": "IMXOSOP5801910311S",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "62",
   "TYPE": "user",
   "TAGS": "release-keys"

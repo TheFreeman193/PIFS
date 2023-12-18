@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2021-01-01",
   "FIRST_API_LEVEL": "26",
   "BUILD_ID": "QP1A.190711.020",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "G9650ZHS7FUA1",
   "TYPE": "user",
   "TAGS": "release-keys"

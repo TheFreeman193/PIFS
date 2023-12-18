@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2019-09-05",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "BCM21654AndroidTK_SystemRel_1.3.2P.05",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "eng.root.20121226.202606",
   "TYPE": "user",
   "TAGS": "release-keys"

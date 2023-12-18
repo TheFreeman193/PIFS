@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2016-03-01",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "iOS11.0",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "iOS11.0",
   "TYPE": "user",
   "TAGS": "test-keys"

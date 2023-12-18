@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2017-12-01",
   "FIRST_API_LEVEL": "23",
   "BUILD_ID": "MXB48T",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "1734018021f59",
   "TYPE": "user",
   "TAGS": "release-keys"

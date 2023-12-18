@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2019-09-05",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "JRO03H",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "WW_me172v-WW_user_4.5.4.16599690_20130326-user-20130326",
   "TYPE": "user",
   "TAGS": "release-keys"

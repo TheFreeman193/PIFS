@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2017-08-01",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "NEXBOX-A95X",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "20171030",
   "TYPE": "userdebug",
   "TAGS": "test-keys"

@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2019-09-05",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "KVT49L.LS990ZV4",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "LS990ZV4.1403169216",
   "TYPE": "user",
   "TAGS": "release-keys"

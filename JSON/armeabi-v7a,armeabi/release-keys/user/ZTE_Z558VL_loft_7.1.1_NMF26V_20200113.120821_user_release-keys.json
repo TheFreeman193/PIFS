@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2020-02-01",
   "FIRST_API_LEVEL": "24",
   "BUILD_ID": "NMF26V",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "20200113.120821",
   "TYPE": "user",
   "TAGS": "release-keys"

@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2016-05-01",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "MMB29M",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "G900AUCU4DPE3",
   "TYPE": "user",
   "TAGS": "release-keys"

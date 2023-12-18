@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2017-12-01",
   "FIRST_API_LEVEL": "24",
   "BUILD_ID": "NRD90M",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "G950FXXU1AQL5",
   "TYPE": "user",
   "TAGS": "release-keys"

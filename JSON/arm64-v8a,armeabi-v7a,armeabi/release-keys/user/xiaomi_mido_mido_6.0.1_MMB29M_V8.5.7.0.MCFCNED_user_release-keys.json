@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2018.10.01",
   "FIRST_API_LEVEL": "23",
   "BUILD_ID": "Masik",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "MDB",
   "TYPE": "user",
   "TAGS": "release-keys"

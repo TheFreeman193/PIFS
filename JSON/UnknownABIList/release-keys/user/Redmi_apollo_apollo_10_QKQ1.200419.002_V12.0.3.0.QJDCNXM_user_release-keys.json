@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2020-09-01",
   "FIRST_API_LEVEL": "29",
   "BUILD_ID": "QKQ1.200419.002",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "V12.0.3.0.QJDCNXM",
   "TYPE": "user",
   "TAGS": "release-keys"

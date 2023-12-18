@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2020-04-01",
   "FIRST_API_LEVEL": "29",
   "BUILD_ID": "QPL30.62-23-2",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "f7942",
   "TYPE": "user",
   "TAGS": "release-keys"

@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2017-02-05",
   "FIRST_API_LEVEL": "23",
   "BUILD_ID": "01-16-04-MG-00-PATCH004",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "9",
   "TYPE": "user",
   "TAGS": "release-keys"

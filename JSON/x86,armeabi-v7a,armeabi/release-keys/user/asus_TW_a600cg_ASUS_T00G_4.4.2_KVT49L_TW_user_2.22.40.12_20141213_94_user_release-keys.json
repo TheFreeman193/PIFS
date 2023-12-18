@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2019-09-05",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "KVT49L",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "TW_a600cg-TW_user_2.22.40.12_20141213_94-user-20141213",
   "TYPE": "user",
   "TAGS": "release-keys"

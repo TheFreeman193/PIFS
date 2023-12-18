@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2016-09-01",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "MRA58K",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "TVOS-04.14.030.02.05",
   "TYPE": "userdebug",
   "TAGS": "dev-keys"

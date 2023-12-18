@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2022-09-01",
   "FIRST_API_LEVEL": "29",
   "BUILD_ID": "RPAS31.Q2-59-17-4-5-5",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "af8e3",
   "TYPE": "user",
   "TAGS": "release-keys"

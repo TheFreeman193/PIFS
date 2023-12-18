@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2015-12-01",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "LMY47I",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "GSmart_Classic_Pro_W900_M01_S10_160111",
   "TYPE": "user",
   "TAGS": "test-keys"

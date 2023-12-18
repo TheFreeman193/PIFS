@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2019-08-05",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "PKQ1.180929.001",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "eng.nubia.20190929.101618",
   "TYPE": "user",
   "TAGS": "release-keys"

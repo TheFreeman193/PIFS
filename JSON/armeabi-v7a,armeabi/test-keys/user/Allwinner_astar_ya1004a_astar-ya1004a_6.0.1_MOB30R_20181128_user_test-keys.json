@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2016-07-05",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "MOB30R",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "20181128",
   "TYPE": "user",
   "TAGS": "test-keys"

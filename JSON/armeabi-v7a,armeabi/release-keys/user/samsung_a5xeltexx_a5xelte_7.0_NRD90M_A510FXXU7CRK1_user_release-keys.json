@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2018-11-01",
   "FIRST_API_LEVEL": "22",
   "BUILD_ID": "NRD90M",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "A510FXXU7CRK1",
   "TYPE": "user",
   "TAGS": "release-keys"

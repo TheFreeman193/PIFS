@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2022-06-01",
   "FIRST_API_LEVEL": "29",
   "BUILD_ID": "SKQ1.210908.001",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "V13.0.2.1.37.DEV",
   "TYPE": "user",
   "TAGS": "release-keys"

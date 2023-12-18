@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2016-06-01",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "MMB29M",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "G9350ZCU2APD1",
   "TYPE": "user",
   "TAGS": "test-keys"

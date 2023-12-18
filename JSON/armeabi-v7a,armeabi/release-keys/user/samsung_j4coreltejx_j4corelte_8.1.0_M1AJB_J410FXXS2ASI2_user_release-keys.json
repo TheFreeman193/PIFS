@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2019-09-01",
   "FIRST_API_LEVEL": "27",
   "BUILD_ID": "M1AJB",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "J410FXXS2ASI2",
   "TYPE": "user",
   "TAGS": "release-keys"

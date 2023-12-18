@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2023-08-01",
   "FIRST_API_LEVEL": "31",
   "BUILD_ID": "TKQ1.220807.001",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "V14.0.6.0.TLIMIXM",
   "TYPE": "user",
   "TAGS": "release-keys"

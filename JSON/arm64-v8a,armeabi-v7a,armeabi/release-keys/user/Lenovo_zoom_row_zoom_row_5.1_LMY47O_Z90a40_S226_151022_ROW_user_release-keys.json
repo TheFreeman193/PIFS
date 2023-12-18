@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2015-11-01",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "LMY47O",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "Z90a40_S226_151022_ROW",
   "TYPE": "user",
   "TAGS": "release-keys"

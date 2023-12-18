@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2020-05-22",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "MRA58K",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "1607684106",
   "TYPE": "user",
   "TAGS": "release-keys"

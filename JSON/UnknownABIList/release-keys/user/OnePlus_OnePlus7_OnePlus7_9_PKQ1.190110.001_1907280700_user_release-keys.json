@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2019-08-01",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "PKQ1.190110.001",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "1907280700",
   "TYPE": "user",
   "TAGS": "release-keys"

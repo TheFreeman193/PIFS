@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2017-03-05",
   "FIRST_API_LEVEL": "24",
   "BUILD_ID": "NMF27D",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "20220105",
   "TYPE": "user",
   "TAGS": "test-keys"

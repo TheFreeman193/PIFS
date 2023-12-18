@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2018-03-05",
   "FIRST_API_LEVEL": "22",
   "BUILD_ID": "HUAWEILUA-L21",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "C328B108",
   "TYPE": "user",
   "TAGS": "release-keys"

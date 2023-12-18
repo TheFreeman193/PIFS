@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2017-01-01",
   "FIRST_API_LEVEL": "21",
   "BUILD_ID": "MMB29P",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "WW_Z00T-WW_user_21.40.1220.1998_20161230-user-20161230",
   "TYPE": "user",
   "TAGS": "release-keys"

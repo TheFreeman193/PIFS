@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2018-08-01",
   "FIRST_API_LEVEL": "23",
   "BUILD_ID": "MMB29T",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "G532FXXU1ARL1",
   "TYPE": "user",
   "TAGS": "release-keys"

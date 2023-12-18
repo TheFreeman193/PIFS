@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2017-03-01",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "MMB29M",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "eng.nubia.20180618.175011",
   "TYPE": "user",
   "TAGS": "release-keys"

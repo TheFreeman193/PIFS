@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2017-06-01",
   "FIRST_API_LEVEL": "19",
   "BUILD_ID": "MMB29M",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "V10.1.1.0.MXDCNFI",
   "TYPE": "user",
   "TAGS": "release-keys"

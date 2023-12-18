@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2017-06-05",
   "FIRST_API_LEVEL": "24",
   "BUILD_ID": "NRD90M",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "vNF11000E",
   "TYPE": "user",
   "TAGS": "test-keys"

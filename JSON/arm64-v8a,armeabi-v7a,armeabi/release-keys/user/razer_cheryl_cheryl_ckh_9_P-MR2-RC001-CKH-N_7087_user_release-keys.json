@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2019-11-05",
   "FIRST_API_LEVEL": "25",
   "BUILD_ID": "P-MR2-RC001-CKH-N",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "7087",
   "TYPE": "user",
   "TAGS": "release-keys"

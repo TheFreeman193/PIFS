@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2019-02-01",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "3310A.SPRINT.190213.0S",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "farmlnj05-1106",
   "TYPE": "user",
   "TAGS": "release-keys"

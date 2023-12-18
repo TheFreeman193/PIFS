@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2021-07-01",
   "FIRST_API_LEVEL": "30",
   "BUILD_ID": "RPRS31.Q4U-20-36",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "f72e82",
   "TYPE": "user",
   "TAGS": "release-keys"

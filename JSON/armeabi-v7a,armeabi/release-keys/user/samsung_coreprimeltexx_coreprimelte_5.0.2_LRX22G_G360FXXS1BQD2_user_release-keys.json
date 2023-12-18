@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2017-04-01",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "LRX22G",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "G360FXXS1BQD2",
   "TYPE": "user",
   "TAGS": "release-keys"

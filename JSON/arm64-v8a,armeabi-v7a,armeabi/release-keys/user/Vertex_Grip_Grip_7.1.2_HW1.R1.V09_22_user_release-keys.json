@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2018-03-01",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "HW1.R1.V09",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "22",
   "TYPE": "user",
   "TAGS": "release-keys"

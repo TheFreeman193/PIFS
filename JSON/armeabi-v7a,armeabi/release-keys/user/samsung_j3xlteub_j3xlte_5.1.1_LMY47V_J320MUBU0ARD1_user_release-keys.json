@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2018-03-01",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "LMY47V",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "J320MUBU0ARD1",
   "TYPE": "user",
   "TAGS": "release-keys"

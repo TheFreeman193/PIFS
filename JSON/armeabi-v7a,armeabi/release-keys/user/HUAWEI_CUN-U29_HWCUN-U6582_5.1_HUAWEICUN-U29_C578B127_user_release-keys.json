@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2017-03-05",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "HUAWEICUN-U29",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "C578B127",
   "TYPE": "user",
   "TAGS": "release-keys"

@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2017-08-05",
   "FIRST_API_LEVEL": "24",
   "BUILD_ID": "OPR1.170623.032",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "V9.6.1.0.OADCNFD",
   "TYPE": "user",
   "TAGS": "release-keys"

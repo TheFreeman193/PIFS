@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2018-08-05",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "PKQ1.180916.001",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "eng.lnxbui.20181005.014402",
   "TYPE": "userdebug",
   "TAGS": "test-keys"

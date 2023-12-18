@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2017-04-01",
   "FIRST_API_LEVEL": "21",
   "BUILD_ID": "NPK25.200-12",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "11",
   "TYPE": "user",
   "TAGS": "release-keys"

@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2015-11-01",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "LRX21T",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "G900PVPU3BOK4",
   "TYPE": "user",
   "TAGS": "release-keys"

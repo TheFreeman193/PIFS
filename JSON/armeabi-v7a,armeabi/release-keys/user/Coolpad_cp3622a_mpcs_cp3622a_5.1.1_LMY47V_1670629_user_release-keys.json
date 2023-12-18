@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2016-11-01",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "LMY47V",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "1670629",
   "TYPE": "user",
   "TAGS": "release-keys"

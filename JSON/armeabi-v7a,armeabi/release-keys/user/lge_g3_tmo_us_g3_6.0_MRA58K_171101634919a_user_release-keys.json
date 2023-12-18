@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2017-04-01",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "MRA58K",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "171101634919a",
   "TYPE": "user",
   "TAGS": "release-keys"

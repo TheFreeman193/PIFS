@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2022-06-05",
   "FIRST_API_LEVEL": "29",
   "BUILD_ID": "RKQ1.210924.001",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "LTE_S02111.11_N_S62_1.009.04",
   "TYPE": "user",
   "TAGS": "release-keys"

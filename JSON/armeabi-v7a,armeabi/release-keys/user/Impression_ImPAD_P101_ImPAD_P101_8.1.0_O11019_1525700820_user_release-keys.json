@@ -6,9 +6,9 @@
   "DEVICE": "ImPAD_P101",
   "FINGERPRINT": "Impression/ImPAD_P101/ImPAD_P101:8.1.0/O11019/1525700820:user/release-keys",
   "SECURITY_PATCH": "2018-06-05",
-  "FIRST_API_LEVEL": "NULL",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "O11019",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "1525700820",
   "TYPE": "user",
   "TAGS": "release-keys"

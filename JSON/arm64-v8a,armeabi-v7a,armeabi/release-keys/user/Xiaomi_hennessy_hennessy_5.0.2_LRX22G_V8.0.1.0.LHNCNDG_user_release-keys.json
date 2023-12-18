@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2016-08-01",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "LRX22G",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "V8.0.1.0.LHNCNDG",
   "TYPE": "user",
   "TAGS": "release-keys"

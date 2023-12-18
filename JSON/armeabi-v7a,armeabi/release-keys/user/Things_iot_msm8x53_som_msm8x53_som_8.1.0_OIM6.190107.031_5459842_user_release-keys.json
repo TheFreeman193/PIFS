@@ -6,9 +6,9 @@
   "DEVICE": "msm8x53_som",
   "FINGERPRINT": "Things/iot_msm8x53_som/msm8x53_som:8.1.0/OIM6.190107.031/5459842:user/release-keys",
   "SECURITY_PATCH": "2019-02-05",
-  "FIRST_API_LEVEL": "NULL",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "OIM6.190107.031",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "5459842",
   "TYPE": "user",
   "TAGS": "release-keys"

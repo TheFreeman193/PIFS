@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2017-10-01",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "KTU84P",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "20180228.152609.24933",
   "TYPE": "user",
   "TAGS": "release-keys"

@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2018-10-01",
   "FIRST_API_LEVEL": "27",
   "BUILD_ID": "OPM1.171019.026",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "1267",
   "TYPE": "user",
   "TAGS": "release-keys"

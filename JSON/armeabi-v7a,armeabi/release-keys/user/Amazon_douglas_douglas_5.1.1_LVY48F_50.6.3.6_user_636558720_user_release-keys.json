@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2018-03-01",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "LVY48F",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "50.6.3.6_user_636558720",
   "TYPE": "user",
   "TAGS": "release-keys"

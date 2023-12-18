@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2023-05-05",
   "FIRST_API_LEVEL": "30",
   "BUILD_ID": "RWDA.230114.013",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "9804098",
   "TYPE": "user",
   "TAGS": "release-keys"

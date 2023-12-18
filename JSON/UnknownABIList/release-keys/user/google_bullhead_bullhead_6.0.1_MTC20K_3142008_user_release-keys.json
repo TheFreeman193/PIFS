@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2015-12-01",
   "FIRST_API_LEVEL": "23",
   "BUILD_ID": "MTC20K",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "3142008",
   "TYPE": "user",
   "TAGS": "release-keys"

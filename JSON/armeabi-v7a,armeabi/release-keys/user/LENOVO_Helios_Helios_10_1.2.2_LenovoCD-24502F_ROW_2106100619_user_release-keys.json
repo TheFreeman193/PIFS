@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2020-10-05",
   "FIRST_API_LEVEL": "29",
   "BUILD_ID": "QP1A.190711.020",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "LenovoCD-24502F_ROW_1.2.2.464_210610",
   "TYPE": "user",
   "TAGS": "release-keys"

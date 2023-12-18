@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2022-01-01",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "RKQ1.200710.002",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "18.0210.2201.215-0",
   "TYPE": "user",
   "TAGS": "release-keys"

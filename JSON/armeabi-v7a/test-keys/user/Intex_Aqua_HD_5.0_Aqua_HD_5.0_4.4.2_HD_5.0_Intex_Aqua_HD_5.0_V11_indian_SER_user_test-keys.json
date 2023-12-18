@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2019-09-05",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "HD_5.0",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "Intex_Aqua_HD_5.0_V11_indian_SER",
   "TYPE": "user",
   "TAGS": "test-keys"

@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2016-05-01",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "MRA58K",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "A7000-a_S228_160621_ROW",
   "TYPE": "user",
   "TAGS": "release-keys"

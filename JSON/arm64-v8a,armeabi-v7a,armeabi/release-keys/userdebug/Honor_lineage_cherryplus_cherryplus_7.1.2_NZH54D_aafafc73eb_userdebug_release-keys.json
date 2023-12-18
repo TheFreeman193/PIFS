@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2017-10-05",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "NZH54D",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "aafafc73eb",
   "TYPE": "userdebug",
   "TAGS": "release-keys"

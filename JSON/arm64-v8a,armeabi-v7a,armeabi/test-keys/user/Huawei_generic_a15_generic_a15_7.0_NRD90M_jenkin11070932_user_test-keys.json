@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2017-11-06",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "NRD90M",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "eng.jenkin.20171107.093222",
   "TYPE": "user",
   "TAGS": "test-keys"

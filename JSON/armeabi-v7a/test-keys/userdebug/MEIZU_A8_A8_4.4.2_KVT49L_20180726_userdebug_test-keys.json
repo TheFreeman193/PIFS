@@ -5,10 +5,10 @@
   "PRODUCT": "A8",
   "DEVICE": "A8",
   "FINGERPRINT": "MEIZU/A8/A8:4.4.2/KVT49L/20180726:userdebug/test-keys",
-  "SECURITY_PATCH": "NULL",
+  "SECURITY_PATCH": "",
   "FIRST_API_LEVEL": "27",
   "BUILD_ID": "KVT49L",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "20180726",
   "TYPE": "userdebug",
   "TAGS": "test-keys"

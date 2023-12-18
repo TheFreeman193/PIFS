@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2019-09-05",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "KTU84P",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "m04x.Flyme_OS_4.2.8.2.20150514204150",
   "TYPE": "user",
   "TAGS": "release-keys"

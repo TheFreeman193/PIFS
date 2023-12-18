@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2016-11-01",
   "FIRST_API_LEVEL": "23",
   "BUILD_ID": "39.2.A.0.327",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "1",
   "TYPE": "user",
   "TAGS": "dev-keys"

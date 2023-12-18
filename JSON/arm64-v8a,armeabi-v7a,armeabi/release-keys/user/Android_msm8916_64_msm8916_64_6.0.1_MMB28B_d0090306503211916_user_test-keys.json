@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2017-03-01",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "MMB28B",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "eng.d00903065.20170321.191451",
   "TYPE": "user",
   "TAGS": "release-keys"

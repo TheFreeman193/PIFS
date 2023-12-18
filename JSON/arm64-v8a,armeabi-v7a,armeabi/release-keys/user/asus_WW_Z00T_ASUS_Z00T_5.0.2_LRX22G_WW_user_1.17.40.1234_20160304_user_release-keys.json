@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2019-09-05",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "LRX22G",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "WW_Z00T-WW_user_1.17.40.1234_20160304-user-20160304",
   "TYPE": "user",
   "TAGS": "release-keys"

@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2020-03-01",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "PQ2A.190205.003",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "1109191.2",
   "TYPE": "user",
   "TAGS": "release-keys"

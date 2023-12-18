@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2019-09-05",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "KOT49I.LGL15G10f",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "LGL15G10f.1419269528",
   "TYPE": "user",
   "TAGS": "release-keys"

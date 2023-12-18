@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2019-12-01",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "PKQ1.190319.001",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "V11.0.7.0.PCNCNXM",
   "TYPE": "user",
   "TAGS": "release-keys"

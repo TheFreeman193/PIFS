@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2021-07-01",
   "FIRST_API_LEVEL": "29",
   "BUILD_ID": "RKQ1.200826.002",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "V12.5.3.0.RJITWXM",
   "TYPE": "user",
   "TAGS": "release-keys"

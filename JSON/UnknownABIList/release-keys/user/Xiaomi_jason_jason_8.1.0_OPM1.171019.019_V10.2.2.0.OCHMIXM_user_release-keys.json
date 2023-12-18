@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2018-12-01",
   "FIRST_API_LEVEL": "27",
   "BUILD_ID": "OPM1.171019.019",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "V10.2.2.0.OCHMIXM",
   "TYPE": "user",
   "TAGS": "release-keys"

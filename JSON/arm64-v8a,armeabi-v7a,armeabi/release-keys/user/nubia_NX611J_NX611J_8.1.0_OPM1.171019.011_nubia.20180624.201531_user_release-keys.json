@@ -6,9 +6,9 @@
   "DEVICE": "NX611J",
   "FINGERPRINT": "nubia/NX611J/NX611J:8.1.0/OPM1.171019.011/nubia.20180624.201531:user/release-keys",
   "SECURITY_PATCH": "2018-02-05",
-  "FIRST_API_LEVEL": "NULL",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "OPM1.171019.011",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "eng.nubia.20180624.201531",
   "TYPE": "user",
   "TAGS": "release-keys"

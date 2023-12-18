@@ -6,7 +6,7 @@
   "DEVICE": "le_ares",
   "FINGERPRINT": "Coolpad/Ares/le_ares:6.0.1/VDXCNCM5810105230S/buildfarm05232047:user/release-keys",
   "SECURITY_PATCH": "2017-04-01",
-  "FIRST_API_LEVEL": "NULL",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "VDXCNCM5810105230S",
   "VNDK_VERSION": "1",
   "INCREMENTAL": "eng.buildfarm.20170523.204421",

@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2019-03-01",
   "FIRST_API_LEVEL": "25",
   "BUILD_ID": "NMF26F",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "V11.0.2.0.NDDMIXM",
   "TYPE": "user",
   "TAGS": "release-keys"

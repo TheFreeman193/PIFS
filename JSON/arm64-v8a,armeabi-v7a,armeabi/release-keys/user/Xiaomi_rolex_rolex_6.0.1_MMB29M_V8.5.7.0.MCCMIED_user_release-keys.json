@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2017-09-01",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "MMB29M",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "V8.5.7.0.MCCMIED",
   "TYPE": "user",
   "TAGS": "release-keys"

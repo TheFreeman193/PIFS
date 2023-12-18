@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2018-03-01",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "MMB29M",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "S327VLUDU3ARC1",
   "TYPE": "user",
   "TAGS": "release-keys"

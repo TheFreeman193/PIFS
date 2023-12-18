@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2020-09-01",
   "FIRST_API_LEVEL": "23",
   "BUILD_ID": "R16NW",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "A320FXXS7CTI1",
   "TYPE": "user",
   "TAGS": "release-keys"

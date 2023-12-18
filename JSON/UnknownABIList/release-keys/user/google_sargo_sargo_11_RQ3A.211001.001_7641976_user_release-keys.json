@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2021-10-01",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "RQ3A.211001.001",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "7641976",
   "TYPE": "user",
   "TAGS": "release-keys"

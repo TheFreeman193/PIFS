@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2023-06-01",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "SP1A.210812.016",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "A908BXXU9EWF1",
   "TYPE": "user",
   "TAGS": "release-keys"

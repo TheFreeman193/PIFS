@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2019-09-05",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "JDQ39",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "VIBEROM_V1.0_1411_3_ST_S930",
   "TYPE": "user",
   "TAGS": "release-keys"

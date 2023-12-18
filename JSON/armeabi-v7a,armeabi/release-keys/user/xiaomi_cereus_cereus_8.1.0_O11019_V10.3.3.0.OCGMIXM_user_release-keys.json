@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2019-05-01",
   "FIRST_API_LEVEL": "27",
   "BUILD_ID": "O11019",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "V10.3.3.0.OCGMIXM",
   "TYPE": "user",
   "TAGS": "release-keys"

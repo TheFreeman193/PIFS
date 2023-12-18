@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2016-08-01",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "ABOX-III",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "20170117",
   "TYPE": "userdebug",
   "TAGS": "test-keys"

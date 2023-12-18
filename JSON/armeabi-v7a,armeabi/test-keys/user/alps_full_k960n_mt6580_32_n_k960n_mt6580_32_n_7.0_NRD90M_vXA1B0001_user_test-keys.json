@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2019-08-26",
   "FIRST_API_LEVEL": "24",
   "BUILD_ID": "NRD90M",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "vXA1B0001",
   "TYPE": "user",
   "TAGS": "test-keys"

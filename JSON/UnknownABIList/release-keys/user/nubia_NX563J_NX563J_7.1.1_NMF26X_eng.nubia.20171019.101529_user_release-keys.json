@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2016-12-01",
   "FIRST_API_LEVEL": "25",
   "BUILD_ID": "NMF26X",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "eng.nubia.20171019.101529",
   "TYPE": "user",
   "TAGS": "release-keys"

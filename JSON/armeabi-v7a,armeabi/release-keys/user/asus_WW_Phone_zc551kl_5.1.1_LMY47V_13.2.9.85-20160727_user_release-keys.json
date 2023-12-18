@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2016-06-01",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "LMY47V",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "WW_Phone-13.2.9.85-20160727",
   "TYPE": "user",
   "TAGS": "release-keys"

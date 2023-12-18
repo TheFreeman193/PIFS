@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2019-12-01",
   "FIRST_API_LEVEL": "29",
   "BUILD_ID": "QPJ30.53-16",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "23451",
   "TYPE": "user",
   "TAGS": "release-keys"

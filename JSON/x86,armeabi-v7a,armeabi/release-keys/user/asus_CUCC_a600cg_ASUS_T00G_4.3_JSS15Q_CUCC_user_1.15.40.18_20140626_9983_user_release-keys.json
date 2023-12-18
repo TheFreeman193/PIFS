@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2019-09-05",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "JSS15Q",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "CUCC_a600cg-CUCC_user_1.15.40.18_20140626_9983-user-20140626",
   "TYPE": "user",
   "TAGS": "release-keys"

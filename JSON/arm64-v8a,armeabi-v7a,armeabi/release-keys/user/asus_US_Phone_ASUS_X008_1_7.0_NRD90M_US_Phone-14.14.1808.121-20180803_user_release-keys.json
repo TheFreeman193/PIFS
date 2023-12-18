@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2018-07-05",
   "FIRST_API_LEVEL": "23",
   "BUILD_ID": "NRD90M",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "US_Phone-14.14.1808.121-20180803",
   "TYPE": "user",
   "TAGS": "release-keys"

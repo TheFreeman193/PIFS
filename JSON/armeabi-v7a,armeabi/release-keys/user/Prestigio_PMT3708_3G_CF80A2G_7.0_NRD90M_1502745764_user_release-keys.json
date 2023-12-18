@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2017-08-05",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "NRD90M",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "1502745764",
   "TYPE": "user",
   "TAGS": "release-keys"

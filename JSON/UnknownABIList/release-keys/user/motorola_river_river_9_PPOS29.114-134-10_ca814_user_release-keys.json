@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2020-02-01",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "PPOS29.114-134-10",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "ca814",
   "TYPE": "user",
   "TAGS": "release-keys"

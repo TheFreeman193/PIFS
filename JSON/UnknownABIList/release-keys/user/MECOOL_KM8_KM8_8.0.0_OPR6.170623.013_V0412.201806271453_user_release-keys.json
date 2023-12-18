@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2018-05-05",
   "FIRST_API_LEVEL": "26",
   "BUILD_ID": "OPR6.170623.013",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "V0412.201806271453",
   "TYPE": "user",
   "TAGS": "release-keys"

@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2017-08-05",
   "FIRST_API_LEVEL": "26",
   "BUILD_ID": "HONORBLN-AL10",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "528(C00)",
   "TYPE": "user",
   "TAGS": "release-keys"

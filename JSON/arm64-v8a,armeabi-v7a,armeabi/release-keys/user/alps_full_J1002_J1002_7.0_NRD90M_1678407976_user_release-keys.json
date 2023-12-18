@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2019-08-05",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "NRD90M",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "MKA1_20230310",
   "TYPE": "user",
   "TAGS": "release-keys"

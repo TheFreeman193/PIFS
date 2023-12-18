@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2018-04-01",
   "FIRST_API_LEVEL": "22",
   "BUILD_ID": "MMB29K",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "J700FXXU4BRL2",
   "TYPE": "user",
   "TAGS": "release-keys"

@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2020-06-01",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "PAG1.200504.001",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "eng.tpratt.20200621.151218",
   "TYPE": "user",
   "TAGS": "release-keys"

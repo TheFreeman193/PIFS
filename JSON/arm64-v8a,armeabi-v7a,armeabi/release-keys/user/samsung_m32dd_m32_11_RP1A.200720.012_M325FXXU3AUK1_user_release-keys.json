@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2021-11-01",
   "FIRST_API_LEVEL": "30",
   "BUILD_ID": "RP1A.200720.012",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "M325FXXU3AUK1",
   "TYPE": "user",
   "TAGS": "release-keys"

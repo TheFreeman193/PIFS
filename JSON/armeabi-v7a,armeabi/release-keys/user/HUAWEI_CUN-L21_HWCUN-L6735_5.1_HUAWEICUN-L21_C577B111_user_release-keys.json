@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2016-07-05",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "HUAWEICUN-L21",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "C577B111",
   "TYPE": "user",
   "TAGS": "release-keys"

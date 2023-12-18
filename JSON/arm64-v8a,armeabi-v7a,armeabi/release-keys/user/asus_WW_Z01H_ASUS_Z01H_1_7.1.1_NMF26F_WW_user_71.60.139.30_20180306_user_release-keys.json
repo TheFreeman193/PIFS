@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2018-02-05",
   "FIRST_API_LEVEL": "23",
   "BUILD_ID": "NMF26F",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "WW_Z01H-WW_user_71.60.139.30_20180306-user-20180306",
   "TYPE": "user",
   "TAGS": "release-keys"

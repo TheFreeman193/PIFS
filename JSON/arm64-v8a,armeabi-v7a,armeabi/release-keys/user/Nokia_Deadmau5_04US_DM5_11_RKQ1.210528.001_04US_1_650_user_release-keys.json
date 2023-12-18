@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2023-07-05",
   "FIRST_API_LEVEL": "30",
   "BUILD_ID": "RKQ1.210528.001",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "04US_1_650",
   "TYPE": "user",
   "TAGS": "release-keys"

@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2018-01-01",
   "FIRST_API_LEVEL": "21",
   "BUILD_ID": "NRD90M",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "T710XXU2DRB1",
   "TYPE": "user",
   "TAGS": "release-keys"

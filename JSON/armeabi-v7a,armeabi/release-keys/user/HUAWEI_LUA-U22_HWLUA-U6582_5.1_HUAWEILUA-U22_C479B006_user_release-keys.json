@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2017-05-05",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "HUAWEILUA-U22",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "C479B006",
   "TYPE": "user",
   "TAGS": "release-keys"

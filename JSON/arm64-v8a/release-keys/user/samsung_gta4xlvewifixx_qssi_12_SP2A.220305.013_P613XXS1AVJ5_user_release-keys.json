@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2022-10-01",
   "FIRST_API_LEVEL": "30",
   "BUILD_ID": "SP2A.220305.013",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "P613XXS1AVJ5",
   "TYPE": "user",
   "TAGS": "release-keys"

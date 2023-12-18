@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2017-07-05",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "NJH47D",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "b224afa51c",
   "TYPE": "userdebug",
   "TAGS": "release-keys"

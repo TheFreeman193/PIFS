@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2019-10-01",
   "FIRST_API_LEVEL": "26",
   "BUILD_ID": "PCPS29.118-63-2",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "e943",
   "TYPE": "user",
   "TAGS": "release-keys"

@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2016-04-02",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "MMB29X.Z1",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "3582-somc",
   "TYPE": "user",
   "TAGS": "release-keys"

@@ -6,9 +6,9 @@
   "DEVICE": "PNX",
   "FINGERPRINT": "Nokia/Phoenix_00WW/PNX_sprout:10/QKQ1.190725.002/00WW_4_15B:user/release-keys",
   "SECURITY_PATCH": "2019-09-05",
-  "FIRST_API_LEVEL": "NULL",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "QKQ1.190725.002",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "00WW_4_15B",
   "TYPE": "user",
   "TAGS": "release-keys"

@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2019-09-05",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "JSS15Q",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "WW_a500cg-WW_user_1.13.40.51_20140601_562815-user-20140601",
   "TYPE": "user",
   "TAGS": "release-keys"

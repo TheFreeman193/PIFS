@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2016-07-01",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "MMB28B",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "C432B380",
   "TYPE": "user",
   "TAGS": "release-keys"

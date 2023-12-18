@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2023-07-01",
   "FIRST_API_LEVEL": "31",
   "BUILD_ID": "T1SSMS33.1-121-4-1",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "90f43",
   "TYPE": "user",
   "TAGS": "release-keys"

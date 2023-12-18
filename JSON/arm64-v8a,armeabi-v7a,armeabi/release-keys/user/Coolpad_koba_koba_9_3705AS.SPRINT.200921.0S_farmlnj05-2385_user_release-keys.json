@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2020-09-01",
   "FIRST_API_LEVEL": "28",
   "BUILD_ID": "3705AS.SPRINT.200921.0S",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "farmlnj05-2385",
   "TYPE": "user",
   "TAGS": "release-keys"

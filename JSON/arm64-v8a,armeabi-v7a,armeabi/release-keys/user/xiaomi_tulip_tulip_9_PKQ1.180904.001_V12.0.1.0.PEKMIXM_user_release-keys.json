@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2020-11-05",
   "FIRST_API_LEVEL": "27",
   "BUILD_ID": "PKQ1.180904.001",
-  "VNDK_VERSION": "NULL",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "V12.0.1.0.PEKMIXM",
   "TYPE": "user",
   "TAGS": "release-keys"
