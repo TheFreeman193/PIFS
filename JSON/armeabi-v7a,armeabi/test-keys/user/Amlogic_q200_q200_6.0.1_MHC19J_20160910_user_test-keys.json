@@ -6,7 +6,7 @@
   "DEVICE": "q200",
   "FINGERPRINT": "Amlogic/q200/q200:6.0.1/MHC19J/20160910:user/test-keys",
   "SECURITY_PATCH": "2016-06-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MHC19J",
   "VNDK_VERSION": "",
   "INCREMENTAL": "20160910",

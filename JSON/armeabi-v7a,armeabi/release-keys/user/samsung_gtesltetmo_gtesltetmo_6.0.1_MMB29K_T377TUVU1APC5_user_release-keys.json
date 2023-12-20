@@ -6,7 +6,7 @@
   "DEVICE": "gtesltetmo",
   "FINGERPRINT": "samsung/gtesltetmo/gtesltetmo:6.0.1/MMB29K/T377TUVU1APC5:user/release-keys",
   "SECURITY_PATCH": "2016-03-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MMB29K",
   "VNDK_VERSION": "",
   "INCREMENTAL": "T377TUVU1APC5",

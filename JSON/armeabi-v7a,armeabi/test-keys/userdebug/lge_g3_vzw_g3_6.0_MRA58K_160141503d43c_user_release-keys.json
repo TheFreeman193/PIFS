@@ -6,7 +6,7 @@
   "DEVICE": "vs985",
   "FINGERPRINT": "lge/g3_vzw/g3:6.0/MRA58K/160141503d43c:user/release-keys",
   "SECURITY_PATCH": "2016-05-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MOB30J",
   "VNDK_VERSION": "",
   "INCREMENTAL": "354dbf4414",

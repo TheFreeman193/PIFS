@@ -1,9 +1,9 @@
 {
   "MANUFACTURER": "Google",
-  "MODEL": "mainline",
+  "MODEL": "gsi_arm64",
   "BRAND": "google",
-  "PRODUCT": "mainline",
-  "DEVICE": "generic",
+  "PRODUCT": "gsi_gms_arm64",
+  "DEVICE": "gsi_arm64",
   "FINGERPRINT": "google/gsi_gms_arm64/gsi_arm64:14/UPB4.230623.005/10442412:user/release-keys",
   "SECURITY_PATCH": "2023-07-05",
   "FIRST_API_LEVEL": "",

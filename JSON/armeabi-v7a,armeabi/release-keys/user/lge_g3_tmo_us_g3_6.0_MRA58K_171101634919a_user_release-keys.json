@@ -6,7 +6,7 @@
   "DEVICE": "g3",
   "FINGERPRINT": "lge/g3_tmo_us/g3:6.0/MRA58K/171101634919a:user/release-keys",
   "SECURITY_PATCH": "2017-04-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MRA58K",
   "VNDK_VERSION": "",
   "INCREMENTAL": "171101634919a",

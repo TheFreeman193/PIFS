@@ -6,7 +6,7 @@
   "DEVICE": "generic_a15",
   "FINGERPRINT": "Huawei/generic_a15/generic_a15:7.0/NRD90M/jenkin11070932:user/test-keys",
   "SECURITY_PATCH": "2017-11-06",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "NRD90M",
   "VNDK_VERSION": "",
   "INCREMENTAL": "eng.jenkin.20171107.093222",

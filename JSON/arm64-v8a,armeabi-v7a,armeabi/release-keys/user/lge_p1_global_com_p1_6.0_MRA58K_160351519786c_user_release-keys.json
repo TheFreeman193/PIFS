@@ -6,7 +6,7 @@
   "DEVICE": "p1",
   "FINGERPRINT": "lge/p1_global_com/p1:6.0/MRA58K/160351519786c:user/release-keys",
   "SECURITY_PATCH": "2015-11-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MRA58K",
   "VNDK_VERSION": "",
   "INCREMENTAL": "160351519786c",

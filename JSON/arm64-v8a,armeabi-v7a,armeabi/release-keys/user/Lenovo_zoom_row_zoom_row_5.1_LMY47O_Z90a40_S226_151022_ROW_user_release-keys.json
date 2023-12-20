@@ -6,7 +6,7 @@
   "DEVICE": "zoom_row",
   "FINGERPRINT": "Lenovo/zoom_row/zoom_row:5.1/LMY47O/Z90a40_S226_151022_ROW:user/release-keys",
   "SECURITY_PATCH": "2015-11-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "LMY47O",
   "VNDK_VERSION": "",
   "INCREMENTAL": "Z90a40_S226_151022_ROW",

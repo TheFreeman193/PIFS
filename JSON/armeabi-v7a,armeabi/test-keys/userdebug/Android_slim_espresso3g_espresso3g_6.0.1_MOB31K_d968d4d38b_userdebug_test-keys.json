@@ -6,7 +6,7 @@
   "DEVICE": "espresso3g",
   "FINGERPRINT": "Android/slim_espresso3g/espresso3g:6.0.1/MOB31K/d968d4d38b:userdebug/test-keys",
   "SECURITY_PATCH": "2016-11-05",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MOB31K",
   "VNDK_VERSION": "",
   "INCREMENTAL": "d968d4d38b",

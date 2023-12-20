@@ -6,7 +6,7 @@
   "DEVICE": "jflteatt",
   "FINGERPRINT": "samsung/jflteuc/jflteatt:5.0.1/LRX22C/I337UCUGOK2:user/release-keys",
   "SECURITY_PATCH": "2015-11-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "LRX22C",
   "VNDK_VERSION": "",
   "INCREMENTAL": "I337UCUGOK2",

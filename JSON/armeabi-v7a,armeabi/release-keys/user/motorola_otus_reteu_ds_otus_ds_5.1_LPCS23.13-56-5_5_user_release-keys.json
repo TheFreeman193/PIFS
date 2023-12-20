@@ -6,7 +6,7 @@
   "DEVICE": "otus_ds",
   "FINGERPRINT": "motorola/otus_reteu_ds/otus_ds:5.1/LPCS23.13-56-5/5:user/release-keys",
   "SECURITY_PATCH": "2016-08-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "LPCS23.13-56-5",
   "VNDK_VERSION": "",
   "INCREMENTAL": "5",

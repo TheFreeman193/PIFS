@@ -6,7 +6,7 @@
   "DEVICE": "a8elte",
   "FINGERPRINT": "samsung/a8eltejv/a8elte:6.0.1/MMB29K/A800FXXS1BPK1:user/release-keys",
   "SECURITY_PATCH": "2016-11-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MMB29K",
   "VNDK_VERSION": "",
   "INCREMENTAL": "A800FXXS1BPK1",

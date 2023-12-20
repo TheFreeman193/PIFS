@@ -6,7 +6,7 @@
   "DEVICE": "inoco8163_tb_jz_m",
   "FINGERPRINT": "128",
   "SECURITY_PATCH": "2016-05-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MRA58K",
   "VNDK_VERSION": "",
   "INCREMENTAL": "KA11-RTI-6.0-X.1.1.8",

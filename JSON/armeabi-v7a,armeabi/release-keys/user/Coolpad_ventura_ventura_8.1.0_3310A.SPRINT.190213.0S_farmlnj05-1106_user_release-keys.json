@@ -6,7 +6,7 @@
   "DEVICE": "ventura",
   "FINGERPRINT": "Coolpad/ventura/ventura:8.1.0/3310A.SPRINT.190213.0S/farmlnj05-1106:user/release-keys",
   "SECURITY_PATCH": "2019-02-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "3310A.SPRINT.190213.0S",
   "VNDK_VERSION": "",
   "INCREMENTAL": "farmlnj05-1106",

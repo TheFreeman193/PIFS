@@ -6,7 +6,7 @@
   "DEVICE": "Q415",
   "FINGERPRINT": "Micromax/Q415/Q415:6.0.1/LMY49G/C577B040:user/release-keys",
   "SECURITY_PATCH": "2016-08-05",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MOB30Z",
   "VNDK_VERSION": "",
   "INCREMENTAL": "d8485a4747",

@@ -6,7 +6,7 @@
   "DEVICE": "p281",
   "FINGERPRINT": "Amlogic/p281/p281:10/NHG47L/20210304:userdebug/test-keys",
   "SECURITY_PATCH": "2019-12-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "NHG47L",
   "VNDK_VERSION": "",
   "INCREMENTAL": "20210304",

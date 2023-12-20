@@ -6,7 +6,7 @@
   "DEVICE": "noblelte",
   "FINGERPRINT": "samsung/nobleltejv/noblelte:6.0.1/MMB29K/N920CXXU2BPBA:user/release-keys",
   "SECURITY_PATCH": "2016-03-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MMB29K",
   "VNDK_VERSION": "",
   "INCREMENTAL": "N920CXXU2BPBA",

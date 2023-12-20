@@ -6,7 +6,7 @@
   "DEVICE": "trltevzw",
   "FINGERPRINT": "Verizon/trltevzw/trltevzw:6.0.1/MMB29M/N910VVRU2CPF3:user/release-keys",
   "SECURITY_PATCH": "2016-06-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MMB29M",
   "VNDK_VERSION": "",
   "INCREMENTAL": "N910VVRU2CPF3",

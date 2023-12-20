@@ -6,7 +6,7 @@
   "DEVICE": "hermes",
   "FINGERPRINT": "Xiaomi/cm_hermes/hermes:5.1.1/LMY49J/b71e9807e4:userdebug/test-keys",
   "SECURITY_PATCH": "2016-05-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "LMY49J",
   "VNDK_VERSION": "",
   "INCREMENTAL": "b71e9807e4",

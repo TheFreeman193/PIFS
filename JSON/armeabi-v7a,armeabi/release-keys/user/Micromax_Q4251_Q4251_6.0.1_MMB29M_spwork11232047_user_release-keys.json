@@ -6,7 +6,7 @@
   "DEVICE": "Q4251",
   "FINGERPRINT": "Micromax/Q4251/Q4251:6.0.1/MMB29M/spwork11232047:user/release-keys",
   "SECURITY_PATCH": "2016-11-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MMB29M",
   "VNDK_VERSION": "",
   "INCREMENTAL": "eng.spwork.20170119.215011",

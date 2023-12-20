@@ -6,7 +6,7 @@
   "DEVICE": "j1qltevzw",
   "FINGERPRINT": "Verizon/j1qltevzw/j1qltevzw:5.1.1/LMY48B/J100VPPVRU4APH5:user/release-keys",
   "SECURITY_PATCH": "2016-09-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "LMY48B",
   "VNDK_VERSION": "",
   "INCREMENTAL": "J100VPPVRU4APH5",

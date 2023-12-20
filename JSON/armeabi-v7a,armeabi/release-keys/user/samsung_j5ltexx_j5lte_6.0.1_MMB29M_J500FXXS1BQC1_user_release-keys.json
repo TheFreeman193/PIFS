@@ -6,7 +6,7 @@
   "DEVICE": "j5lte",
   "FINGERPRINT": "samsung/j5ltexx/j5lte:6.0.1/MMB29M/J500FXXS1BQC1:user/release-keys",
   "SECURITY_PATCH": "2017-03-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MMB29M",
   "VNDK_VERSION": "",
   "INCREMENTAL": "J500FXXS1BQC1",

@@ -6,7 +6,7 @@
   "DEVICE": "vivalto3mveml3g",
   "FINGERPRINT": "samsung/vivalto3mveml3gxx/vivalto3mveml3g:4.4.4/KTU84P/G318HXXS0AQC1:user/release-keys",
   "SECURITY_PATCH": "2017-03-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "KTU84P",
   "VNDK_VERSION": "",
   "INCREMENTAL": "G318HXXS0AQC1",

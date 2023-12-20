@@ -6,7 +6,7 @@
   "DEVICE": "grandprimeve3g",
   "FINGERPRINT": "samsung/grandprimeve3gxx/grandprimeve3g:5.1.1/LMY48B/G531HXXU0AOK2:user/release-keys",
   "SECURITY_PATCH": "2015-11-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "LMY48B",
   "VNDK_VERSION": "",
   "INCREMENTAL": "G531HXXU0AOK2",

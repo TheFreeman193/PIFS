@@ -6,7 +6,7 @@
   "DEVICE": "Aqua_Freedom",
   "FINGERPRINT": "intex/Aqua_Freedom/Aqua_Freedom:5.1/LMY47I/1453219789:user/release-keys",
   "SECURITY_PATCH": "2015-12-01",
-  "FIRST_API_LEVEL": "27",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "LMY47I",
   "VNDK_VERSION": "",
   "INCREMENTAL": "1453219789",

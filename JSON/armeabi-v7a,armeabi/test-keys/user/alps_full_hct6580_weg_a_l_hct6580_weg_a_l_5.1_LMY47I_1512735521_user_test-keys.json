@@ -6,7 +6,7 @@
   "DEVICE": "R10",
   "FINGERPRINT": "alps/full_hct6580_weg_a_l/hct6580_weg_a_l:5.1/LMY47I/1512735521:user/test-keys",
   "SECURITY_PATCH": "2016-06-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "LMY47I",
   "VNDK_VERSION": "",
   "INCREMENTAL": "1512735521",

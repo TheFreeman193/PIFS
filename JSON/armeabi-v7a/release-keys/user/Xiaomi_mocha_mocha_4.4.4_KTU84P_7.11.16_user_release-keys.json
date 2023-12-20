@@ -6,7 +6,7 @@
   "DEVICE": "mocha",
   "FINGERPRINT": "Xiaomi/mocha/mocha:4.4.4/KTU84P/7.11.16:user/release-keys",
   "SECURITY_PATCH": "2016-12-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "KTU84P",
   "VNDK_VERSION": "",
   "INCREMENTAL": "7.11.16",

@@ -6,7 +6,7 @@
   "DEVICE": "dior",
   "FINGERPRINT": "Xiaomi/dior/dior:4.4.4/KTU84P/V7.2.3.0.KHIMIDA:user/release-keys",
   "SECURITY_PATCH": "2016-02-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "KTU84P",
   "VNDK_VERSION": "",
   "INCREMENTAL": "V7.2.3.0.KHIMIDA",

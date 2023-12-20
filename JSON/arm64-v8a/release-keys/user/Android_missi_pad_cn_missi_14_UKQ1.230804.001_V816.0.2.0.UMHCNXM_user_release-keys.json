@@ -1,9 +1,9 @@
 {
   "MANUFACTURER": "Xiaomi",
-  "MODEL": "mainline",
+  "MODEL": "missi",
   "BRAND": "Android",
-  "PRODUCT": "mainline",
-  "DEVICE": "generic",
+  "PRODUCT": "missi_pad_cn",
+  "DEVICE": "missi",
   "FINGERPRINT": "Android/missi_pad_cn/missi:14/UKQ1.230804.001/V816.0.2.0.UMHCNXM:user/release-keys",
   "SECURITY_PATCH": "2023-11-01",
   "FIRST_API_LEVEL": "33",

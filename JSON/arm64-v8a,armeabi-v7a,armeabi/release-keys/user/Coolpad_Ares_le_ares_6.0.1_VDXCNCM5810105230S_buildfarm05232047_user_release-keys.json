@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2017-04-01",
   "FIRST_API_LEVEL": "",
   "BUILD_ID": "VDXCNCM5810105230S",
-  "VNDK_VERSION": "1",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "eng.buildfarm.20170523.204421",
   "TYPE": "user",
   "TAGS": "release-keys"

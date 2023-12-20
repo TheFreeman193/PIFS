@@ -6,7 +6,7 @@
   "DEVICE": "jfvelte",
   "FINGERPRINT": "samsung/jfveltexx/jfvelte:5.0.1/LRX22C/I9515XXU1BQD2:user/release-keys",
   "SECURITY_PATCH": "2017-04-01",
-  "FIRST_API_LEVEL": "25",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "LRX22C",
   "VNDK_VERSION": "",
   "INCREMENTAL": "I9515XXU1BQD2",

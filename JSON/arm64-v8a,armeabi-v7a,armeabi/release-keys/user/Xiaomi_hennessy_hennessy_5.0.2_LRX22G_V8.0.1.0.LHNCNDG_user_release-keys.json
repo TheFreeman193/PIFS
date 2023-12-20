@@ -6,7 +6,7 @@
   "DEVICE": "hennessy",
   "FINGERPRINT": "Xiaomi/hennessy/hennessy:5.0.2/LRX22G/V8.0.1.0.LHNCNDG:user/release-keys",
   "SECURITY_PATCH": "2016-08-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "LRX22G",
   "VNDK_VERSION": "",
   "INCREMENTAL": "V8.0.1.0.LHNCNDG",

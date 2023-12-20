@@ -6,7 +6,7 @@
   "DEVICE": "Pixi445Cricket",
   "FINGERPRINT": "TCL/Alcatel_4060O/Pixi445Cricket:6.0.1/MMB29M/vYA45-0:user/release-keys",
   "SECURITY_PATCH": "2016-06-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MMB29M",
   "VNDK_VERSION": "",
   "INCREMENTAL": "vYA45-UC50",

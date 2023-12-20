@@ -6,7 +6,7 @@
   "DEVICE": "lavender",
   "FINGERPRINT": "ZTE/Z717VL/lavender:5.1.1/LMY47V/20160816.052426:user/release-keys",
   "SECURITY_PATCH": "2016-08-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "LMY47V",
   "VNDK_VERSION": "",
   "INCREMENTAL": "20160816.052426",

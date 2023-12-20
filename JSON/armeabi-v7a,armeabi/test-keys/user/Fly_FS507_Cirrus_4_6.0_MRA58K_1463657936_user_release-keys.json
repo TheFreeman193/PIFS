@@ -6,7 +6,7 @@
   "DEVICE": "Cirrus_4",
   "FINGERPRINT": "Fly/FS507/Cirrus_4:6.0/MRA58K/1463657936:user/release-keys",
   "SECURITY_PATCH": "2016-09-05",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MRA58K",
   "VNDK_VERSION": "",
   "INCREMENTAL": "1478311594",

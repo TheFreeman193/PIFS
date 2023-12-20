@@ -6,7 +6,7 @@
   "DEVICE": "Philips_X598",
   "FINGERPRINT": "Philips/Philips_X598/Philips_X598:7.0/NRD90M/1512454531:user/release-keys",
   "SECURITY_PATCH": "2017-11-05",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "NRD90M",
   "VNDK_VERSION": "",
   "INCREMENTAL": "1512454531",

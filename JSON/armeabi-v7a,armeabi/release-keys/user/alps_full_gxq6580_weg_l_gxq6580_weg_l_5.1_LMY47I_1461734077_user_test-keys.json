@@ -6,7 +6,7 @@
   "DEVICE": "gxq6580_weg_l",
   "FINGERPRINT": "alps/full_gxq6580_weg_l/gxq6580_weg_l:5.1/LMY47I/1461734077:user/test-keys",
   "SECURITY_PATCH": "2016-01-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "LMY47I",
   "VNDK_VERSION": "",
   "INCREMENTAL": "1461734077",

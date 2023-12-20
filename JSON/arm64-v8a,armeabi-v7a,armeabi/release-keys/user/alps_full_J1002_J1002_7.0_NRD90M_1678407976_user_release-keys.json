@@ -6,7 +6,7 @@
   "DEVICE": "argon",
   "FINGERPRINT": "alps/full_J1002/J1002:7.0/NRD90M/1678407976:user/release-keys",
   "SECURITY_PATCH": "2019-08-05",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "NRD90M",
   "VNDK_VERSION": "",
   "INCREMENTAL": "MKA1_20230310",

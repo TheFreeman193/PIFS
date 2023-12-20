@@ -6,7 +6,7 @@
   "DEVICE": "j1acelte",
   "FINGERPRINT": "samsung/j1aceltedx/j1acelte:4.4.4/KTU84P/J110GDXU0APB1:user/release-keys",
   "SECURITY_PATCH": "2016-02-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "KTU84P",
   "VNDK_VERSION": "",
   "INCREMENTAL": "J110GDXU0APB1",

@@ -6,7 +6,7 @@
   "DEVICE": "br6580_weg_emmc_m",
   "FINGERPRINT": "DOOGEE/full_br6580_weg_emmc_m/br6580_weg_emmc_m:6.0/MRA58K/1482385179:user/test-keys",
   "SECURITY_PATCH": "2016-10-05",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MRA58K",
   "VNDK_VERSION": "",
   "INCREMENTAL": "1482385179",

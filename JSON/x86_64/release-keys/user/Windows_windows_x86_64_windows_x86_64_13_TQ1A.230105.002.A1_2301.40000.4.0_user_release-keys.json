@@ -1,9 +1,9 @@
 {
-  "MANUFACTURER": "Android",
-  "MODEL": "mainline",
+  "MANUFACTURER": "Windows",
+  "MODEL": "windows_x86_64",
   "BRAND": "Android",
-  "PRODUCT": "mainline",
-  "DEVICE": "generic",
+  "PRODUCT": "windows_x86_64",
+  "DEVICE": "windows_x86_64",
   "FINGERPRINT": "Windows/windows_x86_64/windows_x86_64:13/TQ1A.230105.002.A1/2301.40000.4.0:user/release-keys",
   "SECURITY_PATCH": "2023-01-05",
   "FIRST_API_LEVEL": "30",

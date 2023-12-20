@@ -6,7 +6,7 @@
   "DEVICE": "hi6210sft",
   "FINGERPRINT": "hi6210sft/hi6210sft/hi6210sft:5.0/LRX21M/jenkins09051417:user/test-keys",
   "SECURITY_PATCH": "2016-08-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "LRX21M",
   "VNDK_VERSION": "",
   "INCREMENTAL": "eng.jenkins.20160905.141529",

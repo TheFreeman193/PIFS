@@ -6,7 +6,7 @@
   "DEVICE": "cprimeltemtr",
   "FINGERPRINT": "samsung/cprimeltemtr/cprimeltemtr:5.1.1/LMY47X/G360T1UVS2APK3:user/release-keys",
   "SECURITY_PATCH": "2016-11-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "LMY47X",
   "VNDK_VERSION": "",
   "INCREMENTAL": "G360T1UVS2APK3",

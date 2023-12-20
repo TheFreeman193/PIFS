@@ -6,7 +6,7 @@
   "DEVICE": "ja3g",
   "FINGERPRINT": "samsung/ja3gxx/ja3g:5.0.1/LRX22C/I9500XXUHPH3:user/release-keys",
   "SECURITY_PATCH": "2016-09-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "LRX22C",
   "VNDK_VERSION": "",
   "INCREMENTAL": "I9500XXUHPH3",

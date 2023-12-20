@@ -6,7 +6,7 @@
   "DEVICE": "HL-1088A3",
   "FINGERPRINT": "Allwinner/astar_ya1004a/astar-ya1004a:6.0.1/MOB30R/20181128:user/test-keys",
   "SECURITY_PATCH": "2016-07-05",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MOB30R",
   "VNDK_VERSION": "",
   "INCREMENTAL": "20181128",

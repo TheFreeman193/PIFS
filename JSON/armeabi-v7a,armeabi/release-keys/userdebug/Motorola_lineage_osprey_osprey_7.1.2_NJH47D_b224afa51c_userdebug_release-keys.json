@@ -6,7 +6,7 @@
   "DEVICE": "osprey",
   "FINGERPRINT": "Motorola/lineage_osprey/osprey:7.1.2/NJH47D/b224afa51c:userdebug/release-keys",
   "SECURITY_PATCH": "2017-07-05",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "NJH47D",
   "VNDK_VERSION": "",
   "INCREMENTAL": "b224afa51c",

@@ -6,7 +6,7 @@
   "DEVICE": "hltetmo",
   "FINGERPRINT": "samsung/hltetmo/hltetmo:5.0/LRX21V/N900TUVSFPH3:user/release-keys",
   "SECURITY_PATCH": "2016-09-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "LRX21V",
   "VNDK_VERSION": "",
   "INCREMENTAL": "N900TUVSFPH3",

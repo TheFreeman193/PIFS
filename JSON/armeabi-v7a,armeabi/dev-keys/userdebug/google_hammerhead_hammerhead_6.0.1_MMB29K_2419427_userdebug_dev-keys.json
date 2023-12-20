@@ -6,7 +6,7 @@
   "DEVICE": "hammerhead",
   "FINGERPRINT": "google/hammerhead/hammerhead:6.0.1/MMB29K/2419427:userdebug/dev-keys",
   "SECURITY_PATCH": "2015-12-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MMB29K",
   "VNDK_VERSION": "",
   "INCREMENTAL": "2419427",

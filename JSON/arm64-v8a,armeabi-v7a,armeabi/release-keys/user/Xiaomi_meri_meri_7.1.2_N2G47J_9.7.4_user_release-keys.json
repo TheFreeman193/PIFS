@@ -8,7 +8,7 @@
   "SECURITY_PATCH": "2019-04-01",
   "FIRST_API_LEVEL": "23",
   "BUILD_ID": "N2G47J",
-  "VNDK_VERSION": "31",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "9.7.4",
   "TYPE": "user",
   "TAGS": "release-keys"

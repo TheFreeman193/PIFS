@@ -6,7 +6,7 @@
   "DEVICE": "aqua",
   "FINGERPRINT": "Xiaomi/aqua/aqua:5.1.1/LMY47V/V7.2.3.0.LAJCNDA:user/release-keys",
   "SECURITY_PATCH": "2016-02-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "LMY47V",
   "VNDK_VERSION": "",
   "INCREMENTAL": "V7.2.3.0.0.LAJCNDA",

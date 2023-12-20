@@ -6,7 +6,7 @@
   "DEVICE": "SM-G930F",
   "FINGERPRINT": "alps/full_len6735m_35t_m0/len6735m_35t_m0:6.0/MRA58K/1470912553:user/test-keys",
   "SECURITY_PATCH": "2016-02-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MRA58K",
   "VNDK_VERSION": "",
   "INCREMENTAL": "1470912553",

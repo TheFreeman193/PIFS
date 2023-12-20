@@ -6,7 +6,7 @@
   "DEVICE": "rtd289x_tv001",
   "FINGERPRINT": "Android/rtd289x_tv001/rtd289x_tv001:6.0/MRA58K/common01201043:userdebug/test-keys",
   "SECURITY_PATCH": "2016-07-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MRA58K",
   "VNDK_VERSION": "",
   "INCREMENTAL": "eng.common.20190120.104114",

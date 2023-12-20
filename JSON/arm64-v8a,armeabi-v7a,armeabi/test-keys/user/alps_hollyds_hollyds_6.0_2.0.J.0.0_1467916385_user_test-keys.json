@@ -6,7 +6,7 @@
   "DEVICE": "hollyds",
   "FINGERPRINT": "alps/hollyds/hollyds:6.0/2.0.J.0.0/1467916385:user/test-keys",
   "SECURITY_PATCH": "2016-06-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "30.2.B.0.100",
   "VNDK_VERSION": "",
   "INCREMENTAL": "1467916385",

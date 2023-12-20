@@ -6,7 +6,7 @@
   "DEVICE": "Classic_Pro",
   "FINGERPRINT": "GSmart/Classic_Pro/Classic_Pro:5.1/LMY47I/20160111.194510:user/release-keys",
   "SECURITY_PATCH": "2015-12-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "LMY47I",
   "VNDK_VERSION": "",
   "INCREMENTAL": "GSmart_Classic_Pro_W900_M01_S10_160111",

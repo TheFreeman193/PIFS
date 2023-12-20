@@ -6,7 +6,7 @@
   "DEVICE": "j3xlte",
   "FINGERPRINT": "samsung/j3xlteub/j3xlte:5.1.1/LMY47V/J320MUBU0ARD1:user/release-keys",
   "SECURITY_PATCH": "2018-03-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "LMY47V",
   "VNDK_VERSION": "",
   "INCREMENTAL": "J320MUBU0ARD1",

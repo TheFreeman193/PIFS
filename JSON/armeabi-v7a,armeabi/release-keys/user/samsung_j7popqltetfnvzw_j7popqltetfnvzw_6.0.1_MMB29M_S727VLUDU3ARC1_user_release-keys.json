@@ -6,7 +6,7 @@
   "DEVICE": "j7popqltetfnvzw",
   "FINGERPRINT": "samsung/j7popqltetfnvzw/j7popqltetfnvzw:6.0.1/MMB29M/S727VLUDU3ARC1:user/release-keys",
   "SECURITY_PATCH": "2018-03-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MMB29M",
   "VNDK_VERSION": "",
   "INCREMENTAL": "S727VLUDU3ARC1",

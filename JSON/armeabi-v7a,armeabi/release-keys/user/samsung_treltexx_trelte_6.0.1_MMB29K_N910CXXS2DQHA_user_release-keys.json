@@ -6,7 +6,7 @@
   "DEVICE": "trelte",
   "FINGERPRINT": "samsung/treltexx/trelte:6.0.1/MMB29K/N910CXXS2DQHA:user/release-keys",
   "SECURITY_PATCH": "2017-08-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MMB29K",
   "VNDK_VERSION": "",
   "INCREMENTAL": "N910CXXS2DQHA",

@@ -6,7 +6,7 @@
   "DEVICE": "cherryplus",
   "FINGERPRINT": "Honor/lineage_cherryplus/cherryplus:7.1.2/NZH54D/aafafc73eb:userdebug/release-keys",
   "SECURITY_PATCH": "2017-10-05",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "NZH54D",
   "VNDK_VERSION": "",
   "INCREMENTAL": "aafafc73eb",

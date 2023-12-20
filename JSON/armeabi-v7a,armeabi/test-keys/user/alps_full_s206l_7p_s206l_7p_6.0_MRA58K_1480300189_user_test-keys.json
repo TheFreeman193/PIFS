@@ -6,7 +6,7 @@
   "DEVICE": "7 Plus",
   "FINGERPRINT": "alps/full_s206l_7p/s206l_7p:6.0/MRA58K/1480300189:user/test-keys",
   "SECURITY_PATCH": "2016-02-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "iOS10.0",
   "VNDK_VERSION": "",
   "INCREMENTAL": "iOS10.0",

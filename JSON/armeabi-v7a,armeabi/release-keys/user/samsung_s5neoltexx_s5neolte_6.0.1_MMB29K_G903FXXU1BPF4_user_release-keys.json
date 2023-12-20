@@ -6,7 +6,7 @@
   "DEVICE": "s5neolte",
   "FINGERPRINT": "samsung/s5neoltexx/s5neolte:6.0.1/MMB29K/G903FXXU1BPF4:user/release-keys",
   "SECURITY_PATCH": "2016-06-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MMB29K",
   "VNDK_VERSION": "",
   "INCREMENTAL": "G903FXXU1BPF4",

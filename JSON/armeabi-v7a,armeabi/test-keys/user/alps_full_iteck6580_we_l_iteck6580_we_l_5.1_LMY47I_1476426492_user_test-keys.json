@@ -6,7 +6,7 @@
   "DEVICE": "V19",
   "FINGERPRINT": "alps/full_iteck6580_we_l/iteck6580_we_l:5.1/LMY47I/1476426492:user/test-keys",
   "SECURITY_PATCH": "2016-03-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "LMY47I",
   "VNDK_VERSION": "",
   "INCREMENTAL": "1476426492",

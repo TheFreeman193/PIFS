@@ -6,7 +6,7 @@
   "DEVICE": "m1",
   "FINGERPRINT": "lge/m1_tmo_us/m1:5.1.1/LMY47V/1709601364994:user/release-keys",
   "SECURITY_PATCH": "2017-04-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "LMY47V",
   "VNDK_VERSION": "",
   "INCREMENTAL": "1709601364994",

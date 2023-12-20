@@ -6,7 +6,7 @@
   "DEVICE": "w825_648_aw_loq_s01",
   "FINGERPRINT": "OUKITEL/teksun/teksun:5.1/LMY47I/1460109278:user/test-keys",
   "SECURITY_PATCH": "2016-01-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "LMY47I",
   "VNDK_VERSION": "",
   "INCREMENTAL": "1460109278",

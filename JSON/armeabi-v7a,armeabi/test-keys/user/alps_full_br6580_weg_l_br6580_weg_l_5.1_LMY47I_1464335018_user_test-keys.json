@@ -6,7 +6,7 @@
   "DEVICE": "ERGO A500 Best",
   "FINGERPRINT": "alps/full_br6580_weg_l/br6580_weg_l:5.1/LMY47I/1464335018:user/test-keys",
   "SECURITY_PATCH": "2015-12-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "LMY47I",
   "VNDK_VERSION": "",
   "INCREMENTAL": "1464335018",

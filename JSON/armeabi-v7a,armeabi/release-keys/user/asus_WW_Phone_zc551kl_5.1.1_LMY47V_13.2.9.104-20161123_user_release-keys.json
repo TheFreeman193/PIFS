@@ -1,9 +1,9 @@
 {
   "MANUFACTURER": "asus",
-  "MODEL": "Z6530V",
+  "MODEL": "zc551kl",
   "BRAND": "asus",
   "PRODUCT": "WW_Phone",
-  "DEVICE": "k71v1_64_bsp",
+  "DEVICE": "zc551kl",
   "FINGERPRINT": "asus/WW_Phone/zc551kl:5.1.1/LMY47V/13.2.9.104-20161123:user/release-keys",
   "SECURITY_PATCH": "2016-11-01",
   "FIRST_API_LEVEL": "22",

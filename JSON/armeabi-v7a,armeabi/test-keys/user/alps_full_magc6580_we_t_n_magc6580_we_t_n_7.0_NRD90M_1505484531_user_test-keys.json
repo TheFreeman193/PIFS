@@ -6,7 +6,7 @@
   "DEVICE": "Impress_Luck",
   "FINGERPRINT": "alps/full_magc6580_we_t_n/magc6580_we_t_n:7.0/NRD90M/1505484531:user/test-keys",
   "SECURITY_PATCH": "2017-08-05",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "NRD90M",
   "VNDK_VERSION": "",
   "INCREMENTAL": "1505484531",

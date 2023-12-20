@@ -6,7 +6,7 @@
   "DEVICE": "U10",
   "FINGERPRINT": "Meizu/meizu_U10/U10:6.0/MRA58K/1501601621:user/release-keys",
   "SECURITY_PATCH": "2017-04-05",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MRA58K",
   "VNDK_VERSION": "",
   "INCREMENTAL": "1501601621",

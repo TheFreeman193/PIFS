@@ -6,7 +6,7 @@
   "DEVICE": "coreprimeve3g",
   "FINGERPRINT": "samsung/coreprimeve3gxx/coreprimeve3g:5.1.1/LMY48B/G361HXXU0APA5:user/release-keys",
   "SECURITY_PATCH": "2016-02-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "LMY48B",
   "VNDK_VERSION": "",
   "INCREMENTAL": "G361HXXU0APA5",

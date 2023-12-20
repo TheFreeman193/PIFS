@@ -6,7 +6,7 @@
   "DEVICE": "m209n",
   "FINGERPRINT": "MetroPCS/m209n_mpcs_us/m209n:6.0.1/MMB29M/163580920a8dd:user/release-keys",
   "SECURITY_PATCH": "2016-12-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MMB29M",
   "VNDK_VERSION": "",
   "INCREMENTAL": "163580920a8dd",

@@ -6,7 +6,7 @@
   "DEVICE": "K960",
   "FINGERPRINT": "alps/full_K960/K960:5.1/LMY47I/vKB003I:user/dev-keys",
   "SECURITY_PATCH": "2015-11-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "LMY47I",
   "VNDK_VERSION": "",
   "INCREMENTAL": "vKB003I",

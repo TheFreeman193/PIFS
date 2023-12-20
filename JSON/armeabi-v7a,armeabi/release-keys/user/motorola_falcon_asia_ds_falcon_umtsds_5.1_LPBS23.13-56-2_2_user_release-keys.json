@@ -6,7 +6,7 @@
   "DEVICE": "falcon_umtsds",
   "FINGERPRINT": "motorola/falcon_asia_ds/falcon_umtsds:5.1/LPBS23.13-56-2/2:user/release-keys",
   "SECURITY_PATCH": "2016-03-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "LPBS23.13-56-2",
   "VNDK_VERSION": "",
   "INCREMENTAL": "2",

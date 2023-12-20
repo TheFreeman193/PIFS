@@ -6,7 +6,7 @@
   "DEVICE": "Diamond",
   "FINGERPRINT": "UMI/UMI_Diamond/Diamond:6.0/MRA58K/20161208.194714:user/release-keys",
   "SECURITY_PATCH": "2016-11-05",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MRA58K",
   "VNDK_VERSION": "",
   "INCREMENTAL": "1481197093",

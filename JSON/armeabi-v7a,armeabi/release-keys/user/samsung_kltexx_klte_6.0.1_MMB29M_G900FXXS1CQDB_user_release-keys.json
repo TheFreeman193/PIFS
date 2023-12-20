@@ -6,7 +6,7 @@
   "DEVICE": "klte",
   "FINGERPRINT": "samsung/kltexx/klte:6.0.1/MMB29M/G900FXXS1CQDB:user/release-keys",
   "SECURITY_PATCH": "2017-04-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MMB29M",
   "VNDK_VERSION": "",
   "INCREMENTAL": "G900FXXS1CQDB",

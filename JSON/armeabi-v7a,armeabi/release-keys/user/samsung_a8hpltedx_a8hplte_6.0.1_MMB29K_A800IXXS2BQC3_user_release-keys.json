@@ -6,7 +6,7 @@
   "DEVICE": "a8hplte",
   "FINGERPRINT": "samsung/a8hpltedx/a8hplte:6.0.1/MMB29K/A800IXXS2BQC3:user/release-keys",
   "SECURITY_PATCH": "2016-10-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MMB29K",
   "VNDK_VERSION": "",
   "INCREMENTAL": "A800IXXS2BQC3",

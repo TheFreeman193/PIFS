@@ -6,7 +6,7 @@
   "DEVICE": "sp7731c_1h10",
   "FINGERPRINT": "SPRD/sp7731c_1h10_oversea/sp7731c_1h10:6.0/MRA58K/W17.21.1-18:user/release-keys",
   "SECURITY_PATCH": "2016-12-05",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MRA58K",
   "VNDK_VERSION": "",
   "INCREMENTAL": "eng.gst_sw.20170522.185523",

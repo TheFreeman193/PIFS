@@ -6,7 +6,7 @@
   "DEVICE": "j13g",
   "FINGERPRINT": "samsung/j13gxx/j13g:4.4.4/KTU84P/J100HXCS0AQC2:user/release-keys",
   "SECURITY_PATCH": "2017-03-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "KTU84P",
   "VNDK_VERSION": "",
   "INCREMENTAL": "J100HXCS0AQC2",

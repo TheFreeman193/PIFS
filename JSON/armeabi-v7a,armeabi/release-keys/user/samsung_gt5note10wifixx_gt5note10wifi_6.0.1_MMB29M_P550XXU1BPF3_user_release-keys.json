@@ -6,7 +6,7 @@
   "DEVICE": "gt5note10wifi",
   "FINGERPRINT": "samsung/gt5note10wifixx/gt5note10wifi:6.0.1/MMB29M/P550XXU1BPF3:user/release-keys",
   "SECURITY_PATCH": "2016-06-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MMB29M",
   "VNDK_VERSION": "",
   "INCREMENTAL": "P550XXU1BPF3",

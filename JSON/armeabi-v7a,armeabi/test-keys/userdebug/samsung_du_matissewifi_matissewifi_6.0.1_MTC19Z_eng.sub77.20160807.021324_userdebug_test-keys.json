@@ -6,7 +6,7 @@
   "DEVICE": "matissewifi",
   "FINGERPRINT": "samsung/du_matissewifi/matissewifi:6.0.1/MTC19Z/eng.sub77.20160807.021324:userdebug/test-keys",
   "SECURITY_PATCH": "2016-07-05",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MTC19Z",
   "VNDK_VERSION": "",
   "INCREMENTAL": "eng.sub77.20160807.021324",

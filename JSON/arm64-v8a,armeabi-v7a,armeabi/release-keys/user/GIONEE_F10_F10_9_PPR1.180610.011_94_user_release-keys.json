@@ -6,9 +6,9 @@
   "DEVICE": "F10",
   "FINGERPRINT": "GIONEE/F10/F10:9/PPR1.180610.011/94:user/release-keys",
   "SECURITY_PATCH": "2019-09-05",
-  "FIRST_API_LEVEL": "30",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "PPR1.180610.011",
-  "VNDK_VERSION": "31",
+  "VNDK_VERSION": "",
   "INCREMENTAL": "94",
   "TYPE": "user",
   "TAGS": "release-keys"

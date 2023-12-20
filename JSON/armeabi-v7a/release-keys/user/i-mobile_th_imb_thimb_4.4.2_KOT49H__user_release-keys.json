@@ -1,15 +1,15 @@
 {
   "MANUFACTURER": "i-mobile",
-  "MODEL": "i-mobile i-STYLE 710",
-  "BRAND": "i-mobile",
-  "PRODUCT": "i-mobile",
-  "DEVICE": "i-mobile",
+  "MODEL": "i-mobile i-STYLE 8.6 DTV",
+  "BRAND": "imobile",
+  "PRODUCT": "imobile_i_STYLE_8_6_DTV",
+  "DEVICE": "imobile_i_STYLE_8_6_DTV",
   "FINGERPRINT": "i-mobile/th_imb/thimb:4.4.2/KOT49H/:user/release-keys",
-  "SECURITY_PATCH": "2019-09-05",
-  "FIRST_API_LEVEL": "28",
+  "SECURITY_PATCH": "",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "KOT49H",
   "VNDK_VERSION": "",
-  "INCREMENTAL": "40",
+  "INCREMENTAL": "3",
   "TYPE": "user",
   "TAGS": "release-keys"
 }

@@ -6,7 +6,7 @@
   "DEVICE": "S10",
   "FINGERPRINT": "alps/full_fq5c62wt_xwp_nomu/fq5c62wt_xwp_nomu:6.0/MRA58K/1475985952:user/test-keys",
   "SECURITY_PATCH": "2016-09-05",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MRA58K",
   "VNDK_VERSION": "",
   "INCREMENTAL": "1475985952",

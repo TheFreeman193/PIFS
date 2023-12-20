@@ -6,7 +6,7 @@
   "DEVICE": "hwSCC-Q",
   "FINGERPRINT": "Huawei/SCC-U21/hwSCC-Q:5.1.1/HuaweiSCC-U21/C900B150:user/release-keys",
   "SECURITY_PATCH": "2016-02-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "LMY47V",
   "VNDK_VERSION": "",
   "INCREMENTAL": "C900B150",

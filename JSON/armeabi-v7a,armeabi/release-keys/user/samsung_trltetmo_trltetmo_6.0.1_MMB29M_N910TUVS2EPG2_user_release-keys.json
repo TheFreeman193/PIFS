@@ -6,7 +6,7 @@
   "DEVICE": "trltetmo",
   "FINGERPRINT": "samsung/trltetmo/trltetmo:6.0.1/MMB29M/N910TUVS2EPG2:user/release-keys",
   "SECURITY_PATCH": "2016-07-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MMB29M",
   "VNDK_VERSION": "",
   "INCREMENTAL": "N910TUVS2EPG2",

@@ -6,7 +6,7 @@
   "DEVICE": "elsa6_na",
   "FINGERPRINT": "TCL/Alcatel_5085C/elsa6_na:7.0/NRD90M/v4F7V-0:user/release-keys",
   "SECURITY_PATCH": "2018-02-05",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "NRD90M",
   "VNDK_VERSION": "",
   "INCREMENTAL": "v4F7V-0",

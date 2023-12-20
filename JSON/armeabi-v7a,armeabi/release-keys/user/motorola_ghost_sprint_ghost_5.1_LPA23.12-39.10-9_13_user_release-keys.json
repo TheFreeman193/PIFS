@@ -6,7 +6,7 @@
   "DEVICE": "ghost",
   "FINGERPRINT": "motorola/ghost_sprint/ghost:5.1/LPA23.12-39.10-9/13:user/release-keys",
   "SECURITY_PATCH": "2016-08-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "LPA23.12-39.10-9",
   "VNDK_VERSION": "",
   "INCREMENTAL": "13",

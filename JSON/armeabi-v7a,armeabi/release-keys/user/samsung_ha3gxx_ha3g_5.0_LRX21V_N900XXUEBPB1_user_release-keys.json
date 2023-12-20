@@ -6,7 +6,7 @@
   "DEVICE": "ha3g",
   "FINGERPRINT": "samsung/ha3gxx/ha3g:5.0/LRX21V/N900XXUEBPB1:user/release-keys",
   "SECURITY_PATCH": "2016-01-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "LRX21V",
   "VNDK_VERSION": "",
   "INCREMENTAL": "N900XXUEBPB1",

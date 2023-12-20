@@ -6,7 +6,7 @@
   "DEVICE": "on5xfltechn",
   "FINGERPRINT": "samsung/on5xfltezm/on5xfltechn:6.0.1/MMB29M/G5528ZME1AQE1:eng/test-keys",
   "SECURITY_PATCH": "2017-05-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MMB29M",
   "VNDK_VERSION": "",
   "INCREMENTAL": "G5528ZME1AQE1",

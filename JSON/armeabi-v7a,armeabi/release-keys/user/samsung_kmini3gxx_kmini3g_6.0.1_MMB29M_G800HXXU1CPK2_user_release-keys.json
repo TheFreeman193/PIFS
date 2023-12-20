@@ -6,7 +6,7 @@
   "DEVICE": "kmini3g",
   "FINGERPRINT": "samsung/kmini3gxx/kmini3g:6.0.1/MMB29M/G800HXXU1CPK2:user/release-keys",
   "SECURITY_PATCH": "2016-11-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MMB29M",
   "VNDK_VERSION": "",
   "INCREMENTAL": "G800HXXU1CPK2",

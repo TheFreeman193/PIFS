@@ -6,7 +6,7 @@
   "DEVICE": "s3ve3gds",
   "FINGERPRINT": "samsung/s3ve3gdsxx/s3ve3gds:4.4.4/KTU84P/I9300IXWSBQB1:user/release-keys",
   "SECURITY_PATCH": "2016-05-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "KTU84P",
   "VNDK_VERSION": "",
   "INCREMENTAL": "I9300IXWSBQB1",

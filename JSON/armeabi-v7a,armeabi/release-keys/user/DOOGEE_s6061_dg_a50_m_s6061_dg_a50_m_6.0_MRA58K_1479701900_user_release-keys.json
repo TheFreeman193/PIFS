@@ -6,7 +6,7 @@
   "DEVICE": "s6061_dg_a50_m",
   "FINGERPRINT": "DOOGEE/s6061_dg_a50_m/s6061_dg_a50_m:6.0/MRA58K/1479701900:user/release-keys",
   "SECURITY_PATCH": "2016-10-05",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MRA58K",
   "VNDK_VERSION": "",
   "INCREMENTAL": "1479701900",

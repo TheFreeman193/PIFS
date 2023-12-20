@@ -6,7 +6,7 @@
   "DEVICE": "m1v",
   "FINGERPRINT": "lge/m1v_pp_vzw/m1v:6.0.1/MMB29M/1811519213e5e:user/release-keys",
   "SECURITY_PATCH": "2018-04-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MMB29M",
   "VNDK_VERSION": "",
   "INCREMENTAL": "1811519213e5e",

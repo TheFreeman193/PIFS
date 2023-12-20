@@ -6,7 +6,7 @@
   "DEVICE": "clark",
   "FINGERPRINT": "motorola/clark_reteu/clark:6.0/MPHS24.49-18-8/4:user/release-keys",
   "SECURITY_PATCH": "2016-09-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MPHS24.49-18-8",
   "VNDK_VERSION": "",
   "INCREMENTAL": "4",

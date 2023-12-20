@@ -6,7 +6,7 @@
   "DEVICE": "klte",
   "FINGERPRINT": "samsung/kltezh/klte:5.0/LRX21T/G900FZHS1BPC2:user/release-keys",
   "SECURITY_PATCH": "2016-03-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "LRX21T",
   "VNDK_VERSION": "",
   "INCREMENTAL": "G900FZHS1BPC2",

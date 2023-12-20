@@ -6,7 +6,7 @@
   "DEVICE": "surnia_cdma",
   "FINGERPRINT": "motorola/surnia_verizon/surnia_cdma:5.1/LPIS23.29-17.5-2/2:user/release-keys",
   "SECURITY_PATCH": "2016-04-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "LPIS23.29-17.5-2",
   "VNDK_VERSION": "",
   "INCREMENTAL": "2",

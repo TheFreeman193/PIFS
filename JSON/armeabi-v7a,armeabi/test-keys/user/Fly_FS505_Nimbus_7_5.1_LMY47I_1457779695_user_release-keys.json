@@ -6,7 +6,7 @@
   "DEVICE": "Nimbus_7",
   "FINGERPRINT": "Fly/FS505/Nimbus_7:5.1/LMY47I/1457779695:user/release-keys",
   "SECURITY_PATCH": "2016-03-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "LMY47I",
   "VNDK_VERSION": "",
   "INCREMENTAL": "1463639892",

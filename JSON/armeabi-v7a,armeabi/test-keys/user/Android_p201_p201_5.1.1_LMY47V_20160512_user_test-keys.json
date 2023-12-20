@@ -6,7 +6,7 @@
   "DEVICE": "p201",
   "FINGERPRINT": "Android/p201/p201:5.1.1/LMY47V/20160512:user/test-keys",
   "SECURITY_PATCH": "2015-11-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "LMY47V",
   "VNDK_VERSION": "",
   "INCREMENTAL": "20160512",

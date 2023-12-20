@@ -6,7 +6,7 @@
   "DEVICE": "Beeline_Pro_6",
   "FINGERPRINT": "Beeline/Beeline_Pro_6/Beeline_Pro_6:7.0/NRD90M/1499697838:user/release-keys",
   "SECURITY_PATCH": "2017-06-05",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "NRD90M",
   "VNDK_VERSION": "",
   "INCREMENTAL": "1499697838",

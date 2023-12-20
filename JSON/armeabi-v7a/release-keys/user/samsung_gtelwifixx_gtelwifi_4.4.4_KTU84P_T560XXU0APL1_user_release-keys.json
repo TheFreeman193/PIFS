@@ -6,7 +6,7 @@
   "DEVICE": "gtelwifi",
   "FINGERPRINT": "samsung/gtelwifixx/gtelwifi:4.4.4/KTU84P/T560XXU0APL1:user/release-keys",
   "SECURITY_PATCH": "2016-12-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "KTU84P",
   "VNDK_VERSION": "",
   "INCREMENTAL": "T560XXU0APL1",

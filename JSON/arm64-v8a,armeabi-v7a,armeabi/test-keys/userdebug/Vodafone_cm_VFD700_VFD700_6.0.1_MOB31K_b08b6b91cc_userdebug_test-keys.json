@@ -6,7 +6,7 @@
   "DEVICE": "VFD700",
   "FINGERPRINT": "Vodafone/cm_VFD700/VFD700:6.0.1/MOB31K/b08b6b91cc:userdebug/test-keys",
   "SECURITY_PATCH": "2016-11-16",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MOB31K",
   "VNDK_VERSION": "",
   "INCREMENTAL": "b08b6b91cc",

@@ -6,7 +6,7 @@
   "DEVICE": "koba",
   "FINGERPRINT": "Coolpad/koba/koba:9/3705AS.SPRINT.200921.0S/farmlnj05-2385:user/release-keys",
   "SECURITY_PATCH": "2020-09-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "3705AS.SPRINT.200921.0S",
   "VNDK_VERSION": "",
   "INCREMENTAL": "farmlnj05-2385",

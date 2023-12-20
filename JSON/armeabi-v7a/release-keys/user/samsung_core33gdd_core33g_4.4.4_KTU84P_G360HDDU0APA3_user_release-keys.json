@@ -6,7 +6,7 @@
   "DEVICE": "core33g",
   "FINGERPRINT": "samsung/core33gdd/core33g:4.4.4/KTU84P/G360HDDU0APA3:user/release-keys",
   "SECURITY_PATCH": "2016-01-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "KTU84P",
   "VNDK_VERSION": "",
   "INCREMENTAL": "G360HDDU0APA3",

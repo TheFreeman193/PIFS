@@ -6,7 +6,7 @@
   "DEVICE": "t3-k2001-nwd",
   "FINGERPRINT": "Allwinner/t3_k2001_nwd/t3-k2001-nwd:6.0.1/MMB29M/20170707:user/test-keys",
   "SECURITY_PATCH": "2015-12-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MMB29M",
   "VNDK_VERSION": "",
   "INCREMENTAL": "20170707",

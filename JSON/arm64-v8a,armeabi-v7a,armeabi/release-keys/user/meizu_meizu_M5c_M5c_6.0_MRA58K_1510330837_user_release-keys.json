@@ -6,7 +6,7 @@
   "DEVICE": "M5c",
   "FINGERPRINT": "meizu/meizu_M5c/M5c:6.0/MRA58K/1510330837:user/release-keys",
   "SECURITY_PATCH": "2017-03-05",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MRA58K",
   "VNDK_VERSION": "",
   "INCREMENTAL": "1510330837",

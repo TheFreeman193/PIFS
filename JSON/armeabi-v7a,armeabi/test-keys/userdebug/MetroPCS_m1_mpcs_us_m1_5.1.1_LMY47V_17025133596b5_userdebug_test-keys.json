@@ -6,7 +6,7 @@
   "DEVICE": "m1",
   "FINGERPRINT": "MetroPCS/m1_mpcs_us/m1:5.1.1/LMY47V/17025133596b5:userdebug/test-keys",
   "SECURITY_PATCH": "2017-02-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "LMY47V",
   "VNDK_VERSION": "",
   "INCREMENTAL": "17025133596b5",

@@ -6,7 +6,7 @@
   "DEVICE": "greatlte",
   "FINGERPRINT": "samsung/greatltexx/greatlte:9/PPR1.180610.011/N950FXXU5ZSAB:user/release-keys",
   "SECURITY_PATCH": "2019-01-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "PPR1.180610.011",
   "VNDK_VERSION": "",
   "INCREMENTAL": "N950FXXU5ZSAB",

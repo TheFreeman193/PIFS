@@ -6,7 +6,7 @@
   "DEVICE": "ph2n",
   "FINGERPRINT": "MetroPCS/ph2n_mpcs_us/ph2n:6.0.1/MXB48T/170120946dc98:user/release-keys",
   "SECURITY_PATCH": "2017-01-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MXB48T",
   "VNDK_VERSION": "",
   "INCREMENTAL": "170120946dc98",

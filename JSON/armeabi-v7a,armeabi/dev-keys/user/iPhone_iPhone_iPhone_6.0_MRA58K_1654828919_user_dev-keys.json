@@ -6,7 +6,7 @@
   "DEVICE": "iPhone",
   "FINGERPRINT": "iPhone/iPhone/iPhone:6.0/MRA58K/1654828919:user/dev-keys",
   "SECURITY_PATCH": "2021-02-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MRA58K",
   "VNDK_VERSION": "",
   "INCREMENTAL": "1654828919",

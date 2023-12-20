@@ -6,7 +6,7 @@
   "DEVICE": "poseidonlteatt",
   "FINGERPRINT": "samsung/poseidonlteuc/poseidonlteatt:6.0.1/MMB29M/G891AUCS2API2:user/release-keys",
   "SECURITY_PATCH": "2016-09-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MMB29M",
   "VNDK_VERSION": "",
   "INCREMENTAL": "G891AUCS2API2",

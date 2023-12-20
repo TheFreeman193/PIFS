@@ -6,7 +6,7 @@
   "DEVICE": "mido",
   "FINGERPRINT": "xiaomi/mido/mido:6.0.1/MMB29M/V8.2.5.0.MCFMIDL:user/release-keys",
   "SECURITY_PATCH": "2017-04-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "MMB29M",
   "VNDK_VERSION": "",
   "INCREMENTAL": "V8.2.5.0.MCFMIDL",

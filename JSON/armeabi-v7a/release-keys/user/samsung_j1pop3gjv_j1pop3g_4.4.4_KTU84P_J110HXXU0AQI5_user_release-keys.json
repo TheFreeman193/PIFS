@@ -6,7 +6,7 @@
   "DEVICE": "j1pop3g",
   "FINGERPRINT": "samsung/j1pop3gjv/j1pop3g:4.4.4/KTU84P/J110HXXU0AQI5:user/release-keys",
   "SECURITY_PATCH": "2017-08-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "KTU84P",
   "VNDK_VERSION": "",
   "INCREMENTAL": "J110HXXU0AQI5",

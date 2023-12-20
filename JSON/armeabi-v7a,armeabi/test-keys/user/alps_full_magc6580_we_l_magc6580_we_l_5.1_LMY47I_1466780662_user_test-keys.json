@@ -6,7 +6,7 @@
   "DEVICE": "magc6580_we_l",
   "FINGERPRINT": "alps/full_magc6580_we_l/magc6580_we_l:5.1/LMY47I/1466780662:user/test-keys",
   "SECURITY_PATCH": "2016-03-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "LMY47I",
   "VNDK_VERSION": "",
   "INCREMENTAL": "1466780662",

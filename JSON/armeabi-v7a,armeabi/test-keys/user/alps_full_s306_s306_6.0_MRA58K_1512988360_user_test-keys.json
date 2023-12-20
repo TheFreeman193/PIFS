@@ -6,7 +6,7 @@
   "DEVICE": "X",
   "FINGERPRINT": "alps/full_s306/s306:6.0/MRA58K/1512988360:user/test-keys",
   "SECURITY_PATCH": "2016-03-01",
-  "FIRST_API_LEVEL": "28",
+  "FIRST_API_LEVEL": "",
   "BUILD_ID": "iOS11.2",
   "VNDK_VERSION": "",
   "INCREMENTAL": "iOS11.2",
