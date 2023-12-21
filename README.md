@@ -29,6 +29,18 @@ cd /storage/emulated/0 # Choose a place to download the collection
 curl "https://raw.githubusercontent.com/TheFreeman193/PIFS/main/pickaprint.sh" | sh
 ```
 
+Or in Termux:
+
+```sh
+/data/data/com.termux/files/usr/bin/curl "https://raw.githubusercontent.com/TheFreeman193/PIFS/main/pickaprint.sh" | sh
+```
+
+Or using Magisk's busybox:
+
+```sh
+/data/adb/magisk/busybox wget -O - "https://raw.githubusercontent.com/TheFreeman193/PIFS/main/pickaprint.sh" | sh
+```
+
 > **NOTE**: Please don't just run random scripts from the internet, especially as root.
 > I strongly urge you to look at the script first and get a basic idea of what it does.
 
@@ -116,6 +128,33 @@ If too many people choose the same one (we're talking thousands, which is less l
 In this case, choose another!
 There are plenty to go around.
 
+## `curl` not found or inaccessible
+
+Some users have reported `curl` not working in the root shell.
+
+If you're using Termux as your terminal emulator, you can run the following command (as root):
+
+```sh
+/data/data/com.termux/files/usr/bin/curl "https://raw.githubusercontent.com/TheFreeman193/PIFS/main/pickaprint.sh" | sh
+```
+
+If your build has `wget`, you can use this command instead (as root):
+
+```sh
+wget -O - "https://raw.githubusercontent.com/TheFreeman193/PIFS/main/pickaprint.sh" | sh
+```
+
+If you're using Magisk for root, you can try using the included busybox `wget`:
+
+```sh
+/data/adb/magisk/busybox wget -O - "https://raw.githubusercontent.com/TheFreeman193/PIFS/main/pickaprint.sh" | sh
+```
+
+Or call it directly - it's usually found in one of:
+
+- `/debug_ramdisk/.magisk/busybox/wget`
+- `/sbin/.magisk/busybox/wget`
+
 ## The script detects the wrong ABI list on my device
 
 If this occurs, you can override the directory the script chooses for fingerprints by setting `$FORCEABI` in the environment.
@@ -127,6 +166,26 @@ cd /storage/emulated/0 # Choose the download location where you ran curl
 export FORCEABI="armeabi-v7a,armeabi" # Force a different ABI list
 cat ./pickaprint.sh | sh # Run the script again
 ```
+
+If you find fingerprints from another directory work, you can make the `$FORCEABI` variable persistent in Termux.
+For example:
+
+```sh
+echo 'export FORCEABI="armeabi-v7a,armeabi"' > /data/data/com.termux/files/home/.bashrc
+```
+
+## What is the ABI list?
+
+> You can skip the first paragraph if you aren't interested in the technical explanation.
+
+ABIs (application binary interfaces) are low-level interfaces that allow binary processes to interact independent of hardware architecture.
+You can think of ABIs as the machine-code counterpart to APIs (application programming interfaces).
+ABIs allow Android components and applications to run on a variety of architectures and instruction sets, like x86 and ARM.
+List of ABIs supported are stored in a build properties such as `ro.product.cpu.abilist`.
+
+The ABI list is a device property, like the _model_ or _fingerpint_, and appears to affect Play Integrity verdicts.
+Using a fingerprint/profile from a device with a different ABI list fails more often that it works in my testing.
+This is why the profiles in the repository are divided by supported ABIs - you're much more like to find a profile that works by using a fingerprint from right directory for your device.
 
 ## How was this created?
 
