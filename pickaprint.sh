@@ -12,7 +12,34 @@ fi
 if [ ! -d "./JSON" ]; then
     if [ ! -f "./PIFS.zip" ]; then
         echo "Downloading profile/fingerprint repo from GitHub..."
-        curl -o PIFS.zip "https://codeload.github.com/TheFreeman193/PIFS/zip/refs/heads/main"
+        dUrl="https://codeload.github.com/TheFreeman193/PIFS/zip/refs/heads/main"
+        dTarget="PIFS.zip"
+        if [ $(command -v curl) ]; then
+            curl -o "$dTarget" "$dUrl"
+        elif [ $(command -v wget) ]; then
+            wget -O "$dTarget" "$dUrl"
+        elif [ $(command -v /system/bin/curl) ]; then
+            /system/bin/curl -o "$dTarget" "$dUrl"
+        elif [ $(command -v /system/bin/wget) ]; then
+            /system/bin/wget -O "$dTarget" "$dUrl"
+        elif [ $(command -v /data/data/com.termux/files/usr/bin/curl) ]; then
+            /data/data/com.termux/files/usr/bin/curl -o "$dTarget" "$dUrl"
+        elif [ $(command -v /data/data/com.termux/files/usr/include/curl) ]; then
+            /data/data/com.termux/files/usr/include/curl -o "$dTarget" "$dUrl"
+        elif [ $(command -v /data/adb/magisk/busybox) ]; then
+            /data/adb/magisk/busybox wget -O "$dTarget" "$dUrl"
+        elif [ $(command -v /debug_ramdisk/.magisk/busybox/wget) ]; then
+            /debug_ramdisk/.magisk/busybox/wget -O "$dTarget" "$dUrl"
+        elif [ $(command -v /sbin/.magisk/busybox/wget) ]; then
+            /sbin/.magisk/busybox/wget -O "$dTarget" "$dUrl"
+        elif [ $(command -v /system/xbin/wget) ]; then
+            /system/xbin/wget -O "$dTarget" "$dUrl"
+        elif [ $(command -v /system/xbin/curl) ]; then
+            /system/xbin/curl -o "$dTarget" "$dUrl"
+        else
+            echo "Couldn't find wget or curl to download the repository.\nYou'll have to download it manually."
+            exit 1
+        fi
     fi
     echo "Extracting profiles/fingerprints from PIFS.zip..."
     unzip -o PIFS.zip -x .git* -x README.md -x LICENSE
