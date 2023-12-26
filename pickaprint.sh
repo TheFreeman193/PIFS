@@ -42,7 +42,7 @@ if [ ! -d "./JSON" ]; then
         fi
     fi
     echo "Extracting profiles/fingerprints from PIFS.zip..."
-    unzip -o PIFS.zip -x .git* -x README.md -x LICENSE
+    /data/adb/magisk/busybox unzip -o PIFS.zip -x .git* -x README.md -x LICENSE
     mv ./PIFS-main/JSON .
     mv ./PIFS-main/pickaprint.sh .
     rm -r ./PIFS-main
