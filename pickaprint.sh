@@ -57,9 +57,9 @@ if [ -v FORCEABI ]; then
     fi
 else
     echo "Detecting device ABI list..."
-    ABIList=$(getprop | grep -E '\[ro\.product\.cpu\.abilist\]: \[' | sed -r 's/\[[^]]+\]: \[(.+)\]/\1/')
+    ABIList=$(getprop | /system/bin/grep -E '\[ro\.product\.cpu\.abilist\]: \[' | sed -r 's/\[[^]]+\]: \[(.+)\]/\1/')
     if [ -z "$ABIList" ]; then # Old devices had single string prop for this
-        ABIList=$(getprop | grep -E '\[ro\.product\.cpu\.abi\]: \[' | sed -r 's/\[[^]]+\]: \[(.+)\]/\1/')
+        ABIList=$(getprop | /system/bin/grep -E '\[ro\.product\.cpu\.abi\]: \[' | sed -r 's/\[[^]]+\]: \[(.+)\]/\1/')
     fi
     if [ -n "$ABIList" ]; then
         echo "Will use profile/fingerprint with ABI list '${ABIList}'"
@@ -93,7 +93,7 @@ echo "\nRandom profile/fingerprint file: '${RandFP/ /}'\n"
 echo "Looking for installed PIF module..."
 
 # Check which module installed
-Author=$(cat /data/adb/modules/playintegrityfix/module.prop | grep "author=" | sed -r 's/author=([^ ]+) ?.*/\1/g')
+Author=$(cat /data/adb/modules/playintegrityfix/module.prop | /system/bin/grep "author=" | sed -r 's/author=([^ ]+) ?.*/\1/g')
 if [ -z "$Author" ]; then
     echo "Can't detect an installed PIF module! Will use /data/adb/pif.json"
     Target="/data/adb/pif.json"
