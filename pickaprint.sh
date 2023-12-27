@@ -48,7 +48,7 @@ if [ ! -d "./JSON" ]; then
     rm -r ./PIFS-main
 fi
 
-if [ -n FORCEABI ]; then
+if [ ! -z "$FORCEABI" ]; then
     echo "\$FORCEABI is set, will only pick profile from '${FORCEABI}'"
     FList=$(find "./JSON/${FORCEABI}" -type f)
     if [ -z "$FList" ]; then
