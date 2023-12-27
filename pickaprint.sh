@@ -48,7 +48,7 @@ if [ ! -d "./JSON" ]; then
     rm -r ./PIFS-main
 fi
 
-if [ -v FORCEABI ]; then
+if [ -n FORCEABI ]; then
     echo "\$FORCEABI is set, will only pick profile from '${FORCEABI}'"
     FList=$(find "./JSON/${FORCEABI}" -type f)
     if [ -z "$FList" ]; then
@@ -79,7 +79,7 @@ else
 fi
 
 FCount=$(echo "$FList" | wc -l)
-if [ $FCount == 0 ]; then
+if [ "$FCount" -eq 0 ]; then
     echo "Couldn't parse JSON file list!"
     exit 4
 fi
