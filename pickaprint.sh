@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/system/bin/sh
 cd "$(dirname "$0")"
 
 (
@@ -65,6 +65,10 @@ else
     if [ -n "$ABIList" ]; then
         echo "Will use profile/fingerprint with ABI list '${ABIList}'"
         FList=$(find "./JSON/${ABIList}" -type f -maxdepth 3)
+    fi
+    if [ -z "$FList" ]; then
+        echo "Couldn't detect ABI list. Fallback to find profile/fingerprint from similar paths."
+        FList=$(find ./JSON -type f -maxdepth 4 -path "*${ABIList}*")
     else
         echo "Couldn't detect ABI list. Will use profile/fingerprint from anywhere."
         FList=$(find ./JSON -type f -maxdepth 4)
