@@ -87,7 +87,6 @@ fi
 echo "Picking a random profile/fingerprint..."
 RandFPNum=$((1 + ($RANDOM * 2) % $FCount)) # Get a random index from the list
 RandFP=$(echo "$FList" | sed -r "${RandFPNum}q;d") # Get path of random index
-RandFPFolder=$(dirname "${RandFP}") # Get folder of path
 
 echo "\nRandom profile/fingerprint file: '${RandFP/ /}'\n"
 
