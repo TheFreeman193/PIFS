@@ -63,14 +63,14 @@ else
     fi
     if [ -n "$ABIList" ]; then
         echo "Will use profile/fingerprint with ABI list '${ABIList}'"
-        FList=$(find "./JSON/${ABIList}" -type f)
+        FList=$(find "./JSON/${ABIList}" -type f -maxdepth 3)
     else
         echo "Couldn't detect ABI list. Will use profile/fingerprint from anywhere."
-        FList=$(find ./JSON -type f)
+        FList=$(find ./JSON -type f -maxdepth 4)
     fi
     if [ -z "$FList" ]; then
         echo "No profiles/fingerprints found for ABI list: '${ABIList}'. Will use profile/fingerprint from anywhere."
-        FList=$(find ./JSON -type f)
+        FList=$(find ./JSON -type f -maxdepth 4)
         if [ -z "$FList" ]; then
             echo "Couldn't find any profiles/fingerprints. Is the $PWD/JSON directory empty?"
             exit 3
@@ -87,6 +87,7 @@ fi
 echo "Picking a random profile/fingerprint..."
 RandFPNum=$((1 + ($RANDOM * 2) % $FCount)) # Get a random index from the list
 RandFP=$(echo "$FList" | sed -r "${RandFPNum}q;d") # Get path of random index
+RandFPFolder=$(dirname "${RandFP}") # Get folder of path
 
 echo "\nRandom profile/fingerprint file: '${RandFP/ /}'\n"
 
@@ -120,6 +121,14 @@ fi
 
 echo "Copying JSON to ${Target}..."
 cp "${RandFP}" "${Target}"
+
+# Flag tested profiles
+RandFPFolder=$(dirname "${RandFP}") # Get folder of RandFP
+RandFPFolderTested="${RandFPFolder}/tested"
+if [ ! -d "${RandFPFolderTested}" ]; then
+		mkdir "${RandFPFolderTested}"
+fi
+mv "${RandFP}" "${RandFPFolderTested}"
 
 echo "Killing GMS unstable process..."
 killall com.google.android.gms.unstable
