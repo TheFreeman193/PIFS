@@ -1,4 +1,5 @@
 #!/bin/sh
+cd "$(dirname "$0")"
 
 (
 # Copyright (C) MIT License 2023 Nicholas Bissell (TheFreeman193)
@@ -125,8 +126,9 @@ cp "${RandFP}" "${Target}"
 RandFPFolder=$(dirname "${RandFP}") # Get folder of RandFP
 RandFPFolderTested="${RandFPFolder}/tested"
 if [ ! -d "${RandFPFolderTested}" ]; then
-		mkdir "${RandFPFolderTested}"
+    mkdir "${RandFPFolderTested}"
 fi
+echo "Moving JSON to ${RandFPFolderTested}..."
 mv "${RandFP}" "${RandFPFolderTested}"
 
 echo "Killing GMS unstable process..."
