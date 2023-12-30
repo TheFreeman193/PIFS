@@ -6,3 +6,4 @@ Forked from [TheFreeman193's repo](https://github.com/TheFreeman193/PIFS) with a
   - x86_64,**arm64-v8a**,x86,armeabi-v7a,armeabi
   - x86_64,x86,**arm64-v8a**,armeabi-v7a,armeabi
   - x86_64,x86,armeabi-v7a,armeabi,**arm64-v8a**
+- Once you have collected your own list of working prints, put them in the `works_for_me` folder and run `pickaworkingprint.sh` to shuffle between working prints.
