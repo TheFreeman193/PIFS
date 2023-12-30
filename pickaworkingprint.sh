@@ -60,4 +60,5 @@ killall com.google.android.gms.unstable
 
 echo "\n===== Done. Test your Play Integrity now! ====="
 
+)&  # Wrap for safety if piped from curl
 exit 0
