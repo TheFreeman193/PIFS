@@ -16,40 +16,75 @@ Both the original PIF module and its major fork support this using a JSON file c
 
 ## How do I choose a JSON file?
 
-### Option 1: Using `pickaprint.sh`
+### Option 1: Using `pickaprint.sh` {#option1}
+
+> **NOTE**: It's now recommended to download and run the script as below as this permits the interactive mode where you can mark profiles as working or not working.
+> If you pipe the script directly from `curl` or `wget`, the interactive mode is disabled and you'll need to manually mark the current profile using the commands shown when the script exits.
 
 This repository includes `pickaprint.sh` which automates the random selection of a profile with the same ABI compatibility as your device.
-If piped directly from `curl`, it will download the PIFS repository, extract the JSON files, and pick one from the relevant folder at random.
+It will download the PIFS repository, extract the JSON files, and pick one from the relevant directory at random.
 
-In your favourite terminal emulator:
+First, enter a root shell and choose your desired download location (it must allow execution):
 
 ```sh
 su # The script needs to be run as root in order to copy a profile to /data/adb
-cd /storage/emulated/0 # Choose a place to download the collection
-curl "https://raw.githubusercontent.com/TheFreeman193/PIFS/main/pickaprint.sh" | sh
+cd /data/local/tmp # Choose a place where execution is permitted
 ```
 
-Or in Termux:
+Then, if you're using Magisk for root:
 
 ```sh
-/data/data/com.termux/files/usr/bin/curl "https://raw.githubusercontent.com/TheFreeman193/PIFS/main/pickaprint.sh" | sh
+/data/adb/magisk/busybox wget -O pickaprint.sh "https://raw.githubusercontent.com/TheFreeman193/PIFS/main/pickaprint.sh"
 ```
 
-Or using Magisk's busybox:
+Or if you use KernelSU (KSU):
 
 ```sh
-/data/adb/magisk/busybox wget -O - "https://raw.githubusercontent.com/TheFreeman193/PIFS/main/pickaprint.sh" | sh
+/data/adb/ksu/bin/busybox wget -O pickaprint.sh "https://raw.githubusercontent.com/TheFreeman193/PIFS/main/pickaprint.sh"
+```
+
+Once downloaded, make the script executable and run it:
+
+```sh
+chmod 755 ./pickaprint.sh
+./pickaprint.sh
 ```
 
 > **NOTE**: Please don't just run random scripts from the internet, especially as root.
 > I strongly urge you to look at the script first and get a basic idea of what it does.
 
-Once a subdirectory called `JSON` exists, the script will search for JSON profiles there instead of downloading the repository all over again.
-This means you can either run the `curl` command above again, or run the script directly and the collection won't be re-downloaded.
+If you haven't run the script before, it will download this repository from GitHub and extract the JSON profiles.
 
-To update the collection, delete the `JSON` directory that the script created and run the script again.
+Once a subdirectory called `JSON` exists, the script will search for JSON profiles there instead of downloading the repository all over again.
+If the script version is newer than the version in the `JSON` directory, it will download the latest version.
+
+Therefore, to update the collection, run the `wget` command above to get the latest `pickaprint.sh` script, and this will update the collection when next run.
 
 Alternatively, you could download/clone the repository and run the `pickaprint.sh` script directly from the download location.
+
+### Excluding Profiles and Using Tested Profiles
+
+When you select _no_ for a profile that doesn't pass integrity, the script adds it automatically to a list of exclusions, and moves it to `/data/adb/pifs/failed/`.
+The script will not attempt to use this profile again.
+
+To exclude the existing profile in the `pif.json` or `custom.pif.json`, run the script with the `-x` argument:
+
+```sh
+./pickaprint.sh -x
+```
+
+The exclusions list is stored at `/data/adb/failedpifs.lst`.
+This list ensures you can update the collection without having to try all your previously failed profiles.
+
+When you select _yes_ for a profile that passes integrity, the script copies it to `/data/adb/confirmedpifs/`.
+
+To use **only** profiles from this directory, run the script with the `-c` argument:
+
+```sh
+./pickaprint.sh -c
+```
+
+You can copy your own working profiles to the `confirmedpifs` directory and the script will use them when run with `-c`.
 
 ### Option 2: Manually Selecting a File
 
@@ -88,6 +123,24 @@ You should get a result that looks something like this:
 In this instance, the value to note is `arm64-v8a,armeabi-v7a,armeabi`.
 
 The repository is divided by common ABI list values, so please pick a random JSON file from the relevant folder.
+In the example above the directory would be `JSON/arm64-v8a,armeabi-v7a,armeabi`.
+
+The profile filenames are labelled with the _build tags_ and _build type_.
+`user` build types are more likely to work than `userdebug` ones, and `release-keys` tagged profiles are more likely to work than `dev-keys` or `test-keys` ones.
+
+Assuming the ABI list you got was `arm64-v8a,armeabi-v7a,armeabi`, you should first look in:
+
+```text
+JSON/arm64-v8a,armeabi-v7a,armeabi
+```
+
+for a JSON file that ends with:
+
+```text
+_user_release-keys.json
+```
+
+and copy this to the correct location (see below).
 
 ## Where do I put the JSON file?
 
@@ -105,73 +158,79 @@ And for the [osm0sis](https://github.com/osm0sis) fork (PlayIntegrityFork):
 /data/adb/modules/playintegrityfix/custom.pif.json
 ```
 
-An example command in your terminal emulator might be:
+An example command in your terminal emulator, for an `arm64-v8a,armeabi-v7a,armeabi` device running the `chiteroman` module might be:
 
 ```sh
-su -c cp /storage/emulated/0/Download/JSON/arm64-v8a/release-keys/user/Sony_qssi_qssi_13_TKQ1.220807.001_1_user_release-keys.json /data/adb/pif.json
+su -c cp /data/local/tmp/JSON/arm64-v8a,armeabi-v7a,armeabi/Xiaomi_polaris_polaris_9_PKQ1.180729.001_V10.3.3.0.PDGMIXM_user_release-keys.json /data/adb/pif.json
 ```
 
 Or with ADB in root mode:
 
 ```batch
-adb push "C:\Users\<User>\Downloads\PIFS\JSON\arm64-v8a\release-keys\user\Sony_qssi_qssi_13_TKQ1.220807.001_1_user_release-keys.json" /data/adb/pif.json
+adb push "C:\Users\<User>\Downloads\PIFS\JSON\arm64-v8a,armeabi-v7a,armeabi\Xiaomi_polaris_polaris_9_PKQ1.180729.001_V10.3.3.0.PDGMIXM_user_release-keys.json" /data/adb/pif.json
 ```
 
 ## The JSON file I tried doesn't work
 
 This is expected.
 The profiles in this repository haven't been tested and, even if they had, it's possible each will only work for a subset of devices.
+
+Depending on your device, you can expect ~7-24% of the profiles to work at the time of writing, based on my testing.
+
 Keep trying **random** profiles from the relevant folder until one passes the integrity level you want.
+
+Some newer `arm64-v8a`-only devices like the Pixel 7 don't appear to work with `arm64-v8a` profiles when using beta builds of Android 14.
+In these cases, try using `arm64-v8a,armeabi-v7a,armeabi` profiles (see the [wrong ABI list](#wrong-abi) section.)
 
 Ideally, you'll be able to use your tested profile going forward.
 If too many people choose the same one (we're talking thousands, which is less likely if everyone picks at random) it may get blocked for software attestations.
 In this case, choose another!
 There are plenty to go around.
 
-## `curl` not found or inaccessible
+## `curl` or `wget` not found or inaccessible
 
-Some users have reported `curl` not working in the root shell.
+There may be edge cases where you're unable to download the script using the methods described above.
 
 If you're using Termux as your terminal emulator, you can run the following command (as root):
 
 ```sh
-/data/data/com.termux/files/usr/bin/curl "https://raw.githubusercontent.com/TheFreeman193/PIFS/main/pickaprint.sh" | sh
+/data/data/com.termux/files/usr/bin/curl -o pickaprint.sh "https://raw.githubusercontent.com/TheFreeman193/PIFS/main/pickaprint.sh"
 ```
 
-If your build has `wget`, you can use this command instead (as root):
+Then proceed as discussed [above](#option1).
 
-```sh
-wget -O - "https://raw.githubusercontent.com/TheFreeman193/PIFS/main/pickaprint.sh" | sh
-```
-
-If you're using Magisk for root, you can try using the included busybox `wget`:
-
-```sh
-/data/adb/magisk/busybox wget -O - "https://raw.githubusercontent.com/TheFreeman193/PIFS/main/pickaprint.sh" | sh
-```
-
-Or call it directly - it's usually found in one of:
-
-- `/debug_ramdisk/.magisk/busybox/wget`
-- `/sbin/.magisk/busybox/wget`
-
-## The script detects the wrong ABI list on my device
+## The script detects the wrong ABI list on my device {#wrong-abi}
 
 If this occurs, you can override the directory the script chooses for fingerprints by setting `$FORCEABI` in the environment.
 In your favourite terminal emulator:
 
 ```sh
 su # Run as root
-cd /storage/emulated/0 # Choose the download location where you ran curl
-export FORCEABI="armeabi-v7a,armeabi" # Force a different ABI list
-cat ./pickaprint.sh | sh # Run the script again
+cd /data/local/tmp # Choose the location where you downloaded the script
+export FORCEABI="arm64-v8a,armeabi-v7a,armeabi" # Force a different ABI list
+./pickaprint.sh # Run the script again
 ```
 
 If you find fingerprints from another directory work, you can make the `$FORCEABI` variable persistent in Termux.
 For example:
 
 ```sh
-echo 'export FORCEABI="armeabi-v7a,armeabi"' > /data/data/com.termux/files/home/.bashrc
+echo 'export FORCEABI="arm64-v8a,armeabi-v7a,armeabi"' > /data/data/com.termux/files/home/.bashrc
+```
+
+This forces the script to always use `arm64-v8a,armeabi-v7a,armeabi` profiles.
+
+To remove this override immediately, you can use:
+
+```sh
+unset FORCEABI
+```
+
+If added to your emulator's `bashrc` file, you'll need to remove that line.
+For Termux, this file can be found at:
+
+```text
+/data/data/com.termux/files/home/.bashrc
 ```
 
 ## What is the ABI list?
@@ -181,11 +240,31 @@ echo 'export FORCEABI="armeabi-v7a,armeabi"' > /data/data/com.termux/files/home/
 ABIs (application binary interfaces) are low-level interfaces that allow binary processes to interact independent of hardware architecture.
 You can think of ABIs as the machine-code counterpart to APIs (application programming interfaces).
 ABIs allow Android components and applications to run on a variety of architectures and instruction sets, like x86 and ARM.
-List of ABIs supported are stored in a build properties such as `ro.product.cpu.abilist`.
+Lists of supported ABIs are stored in build properties such as `ro.product.cpu.abilist`.
 
 The ABI list is a device property, like the _model_ or _fingerpint_, and appears to affect Play Integrity verdicts.
 Using a fingerprint/profile from a device with a different ABI list fails more often that it works in my testing.
 This is why the profiles in the repository are divided by supported ABIs - you're much more like to find a profile that works by using a fingerprint from right directory for your device.
+
+## Updates
+
+The `JSON` directory now includes a `VERSION` file which documents the collection version.
+The `pickaprint.sh` script checks for this and re-downloads the collection if an updated one is available.
+
+If you don't want to receive updates, set the `PIFSNOUPDATE` environment variable:
+
+```sh
+export PIFSNOUPDATE=1 # Disable updates
+
+unset PIFSNOUPDATE # Re-enable updates
+```
+
+Make this persistent by adding such a line to the `bashrc` script of your favourite emulator:
+For example:
+
+```sh
+echo 'export PIFSNOUPDATE=1' > /data/data/com.termux/files/home/.bashrc
+```
 
 ## How was this created?
 
@@ -206,6 +285,8 @@ I may publish raw build property files at a later date for sources from which I 
     Try using root detectors such as [RootBeerFresh](https://github.com/KimChangYoun/rootbeerFresh/) to check your environment and look at the logs for any Magisk/KernelSU modules you have installed.
 - If you're getting timeouts or _too many requests_ errors, the app you're using to check Play Integrity verdicts has hit its API limit.
     Use the checker within Google Play Store instead.
+- If you make too many integrity requests, even in Play Store, you may see a `Retry with an exponential backoff` response.
+    In this case, stop testing for a couple of minutes and retry at a slower rate.
 
 ## Play Store Integrity Check
 
