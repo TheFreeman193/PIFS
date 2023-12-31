@@ -4,12 +4,17 @@
   "BRAND": "lge",
   "PRODUCT": "y25_trf_us",
   "DEVICE": "y25",
-  "FINGERPRINT": "lge/y25_trf_us/y25:4.4.2/KOT49I.LGL15G10f/LGL15G10f.1419269528:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "KOT49I.LGL15G10f",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.4.2",
+  "RELEASE_OR_CODENAME": "4.4.2",
+  "ID": "KOT49I.LGL15G10f",
   "INCREMENTAL": "LGL15G10f.1419269528",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "lge/y25_trf_us/y25:4.4.2/KOT49I.LGL15G10f/LGL15G10f.1419269528:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "KOT49I.LGL15G10f",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

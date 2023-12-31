@@ -4,12 +4,17 @@
   "BRAND": "SEMC",
   "PRODUCT": "LT26i_1257-8629",
   "DEVICE": "LT26i",
-  "FINGERPRINT": "SEMC/LT26i_1257-8629/LT26i:4.0.4/6.1.A.2.55/yPd_zw:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "6.1.A.2.55",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.0.4",
+  "RELEASE_OR_CODENAME": "4.0.4",
+  "ID": "6.1.A.2.55",
   "INCREMENTAL": "yPd_zw",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "SEMC/LT26i_1257-8629/LT26i:4.0.4/6.1.A.2.55/yPd_zw:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 15,
+  "*.build.id": "6.1.A.2.55",
+  "*.security_patch": "",
+  "*.build.version.sdk": "15"
 }

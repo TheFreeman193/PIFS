@@ -4,12 +4,17 @@
   "BRAND": "htc",
   "PRODUCT": "htc_la_amx_spa",
   "DEVICE": "m7",
-  "FINGERPRINT": "htc/htc_la_amx_spa/m7:4.3/JSS15J/256941.2:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JSS15J",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.3",
+  "RELEASE_OR_CODENAME": "4.3",
+  "ID": "JSS15J",
   "INCREMENTAL": "256941.2",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "htc/htc_la_amx_spa/m7:4.3/JSS15J/256941.2:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 18,
+  "*.build.id": "JSS15J",
+  "*.security_patch": "",
+  "*.build.version.sdk": "18"
 }

@@ -4,12 +4,17 @@
   "BRAND": "lge",
   "PRODUCT": "full_mfh505glm",
   "DEVICE": "mfh505glm",
-  "FINGERPRINT": "lge/full_mfh505glm/mfh505glm:11/RP1A.200720.011/45:userdebug/test-keys",
-  "SECURITY_PATCH": "2020-12-05",
-  "FIRST_API_LEVEL": "30",
-  "BUILD_ID": "RP1A.200720.011",
-  "VNDK_VERSION": "",
+  "RELEASE": "11",
+  "RELEASE_OR_CODENAME": "11",
+  "ID": "RP1A.200720.011",
   "INCREMENTAL": "45",
   "TYPE": "userdebug",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "lge/full_mfh505glm/mfh505glm:11/RP1A.200720.011/45:userdebug/test-keys",
+  "SECURITY_PATCH": "2020-12-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 30,
+  "*.build.id": "RP1A.200720.011",
+  "*.security_patch": "2020-12-05",
+  "*.build.version.sdk": "30"
 }

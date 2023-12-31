@@ -4,12 +4,17 @@
   "BRAND": "Verizon",
   "PRODUCT": "jfltevzwpp",
   "DEVICE": "jfltevzwpp",
-  "FINGERPRINT": "Verizon/jfltevzwpp/jfltevzwpp:5.0.1/LRX22C/I545PPVRUAOH7:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "LRX22C",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.0.1",
+  "RELEASE_OR_CODENAME": "5.0.1",
+  "ID": "LRX22C",
   "INCREMENTAL": "I545PPVRUAOH7",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Verizon/jfltevzwpp/jfltevzwpp:5.0.1/LRX22C/I545PPVRUAOH7:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 21,
+  "*.build.id": "LRX22C",
+  "*.security_patch": "",
+  "*.build.version.sdk": "21"
 }

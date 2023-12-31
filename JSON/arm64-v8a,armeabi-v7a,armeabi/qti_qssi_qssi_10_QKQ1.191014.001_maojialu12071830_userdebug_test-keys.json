@@ -4,12 +4,17 @@
   "BRAND": "qti",
   "PRODUCT": "qssi",
   "DEVICE": "qssi",
-  "FINGERPRINT": "qti/qssi/qssi:10/QKQ1.191014.001/maojialu12071830:userdebug/test-keys",
-  "SECURITY_PATCH": "2019-09-05",
-  "FIRST_API_LEVEL": "28",
-  "BUILD_ID": "QKQ1.191014.001",
-  "VNDK_VERSION": "",
+  "RELEASE": "10",
+  "RELEASE_OR_CODENAME": "10",
+  "ID": "QKQ1.191014.001",
   "INCREMENTAL": "eng.maojia.20191207.183034",
   "TYPE": "userdebug",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "qti/qssi/qssi:10/QKQ1.191014.001/maojialu12071830:userdebug/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 29,
+  "*.build.id": "QKQ1.191014.001",
+  "*.security_patch": "2019-09-05",
+  "*.build.version.sdk": "29"
 }

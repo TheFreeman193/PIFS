@@ -4,12 +4,17 @@
   "BRAND": "motorola",
   "PRODUCT": "kinzie_verizon",
   "DEVICE": "kinzie",
-  "FINGERPRINT": "motorola/kinzie_verizon/kinzie:7.0/NCK25.118-10/10:user/release-keys",
-  "SECURITY_PATCH": "2016-12-01",
-  "FIRST_API_LEVEL": "21",
-  "BUILD_ID": "NCK25.118-10",
-  "VNDK_VERSION": "",
+  "RELEASE": "7.0",
+  "RELEASE_OR_CODENAME": "7.0",
+  "ID": "NCK25.118-10",
   "INCREMENTAL": "10",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "motorola/kinzie_verizon/kinzie:7.0/NCK25.118-10/10:user/release-keys",
+  "SECURITY_PATCH": "2016-12-01",
+  "DEVICE_INITIAL_SDK_INT": 21,
+  "SDK_INT": 24,
+  "*.build.id": "NCK25.118-10",
+  "*.security_patch": "2016-12-01",
+  "*.build.version.sdk": "24"
 }

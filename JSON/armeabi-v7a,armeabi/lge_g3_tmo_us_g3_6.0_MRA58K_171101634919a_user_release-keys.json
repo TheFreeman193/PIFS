@@ -4,12 +4,17 @@
   "BRAND": "lge",
   "PRODUCT": "g3_tmo_us",
   "DEVICE": "g3",
-  "FINGERPRINT": "lge/g3_tmo_us/g3:6.0/MRA58K/171101634919a:user/release-keys",
-  "SECURITY_PATCH": "2017-04-01",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "MRA58K",
-  "VNDK_VERSION": "",
+  "RELEASE": "6.0",
+  "RELEASE_OR_CODENAME": "6.0",
+  "ID": "MRA58K",
   "INCREMENTAL": "171101634919a",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "lge/g3_tmo_us/g3:6.0/MRA58K/171101634919a:user/release-keys",
+  "SECURITY_PATCH": "2017-04-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 23,
+  "*.build.id": "MRA58K",
+  "*.security_patch": "2017-04-01",
+  "*.build.version.sdk": "23"
 }

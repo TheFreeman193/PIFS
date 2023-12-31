@@ -4,12 +4,17 @@
   "BRAND": "alps",
   "PRODUCT": "mtk6589_e_lca",
   "DEVICE": "mtk6589_e_lca",
-  "FINGERPRINT": "alps/mtk6589_e_lca/mtk6589_e_lca:4.4.4/JDQ39/1410429758:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JDQ39",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.4.4",
+  "RELEASE_OR_CODENAME": "4.4.4",
+  "ID": "JDQ39",
   "INCREMENTAL": "eng.whl.1410429758",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "alps/mtk6589_e_lca/mtk6589_e_lca:4.4.4/JDQ39/1410429758:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 17,
+  "*.build.id": "JDQ39",
+  "*.security_patch": "",
+  "*.build.version.sdk": "17"
 }

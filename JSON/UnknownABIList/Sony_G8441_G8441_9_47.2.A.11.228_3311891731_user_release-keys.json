@@ -4,12 +4,17 @@
   "BRAND": "Sony",
   "PRODUCT": "G8441",
   "DEVICE": "G8441",
-  "FINGERPRINT": "Sony/G8441/G8441:9/47.2.A.11.228/3311891731:user/release-keys",
-  "SECURITY_PATCH": "2019-09-01",
-  "FIRST_API_LEVEL": "26",
-  "BUILD_ID": "47.2.A.11.228",
-  "VNDK_VERSION": "",
+  "RELEASE": "9",
+  "RELEASE_OR_CODENAME": "9",
+  "ID": "47.2.A.11.228",
   "INCREMENTAL": "3311891731",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Sony/G8441/G8441:9/47.2.A.11.228/3311891731:user/release-keys",
+  "SECURITY_PATCH": "2019-09-01",
+  "DEVICE_INITIAL_SDK_INT": 26,
+  "SDK_INT": 28,
+  "*.build.id": "47.2.A.11.228",
+  "*.security_patch": "2019-09-01",
+  "*.build.version.sdk": "28"
 }

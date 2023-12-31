@@ -4,12 +4,17 @@
   "BRAND": "ZTE",
   "PRODUCT": "P752D20_RO",
   "DEVICE": "nice",
-  "FINGERPRINT": "ZTE/P752D20_RO/nice:4.1.1/JRO03C/20130617.035457.26400:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JRO03C",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.1.1",
+  "RELEASE_OR_CODENAME": "4.1.1",
+  "ID": "JRO03C",
   "INCREMENTAL": "20130617.035457.26400",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "ZTE/P752D20_RO/nice:4.1.1/JRO03C/20130617.035457.26400:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 16,
+  "*.build.id": "JRO03C",
+  "*.security_patch": "",
+  "*.build.version.sdk": "16"
 }

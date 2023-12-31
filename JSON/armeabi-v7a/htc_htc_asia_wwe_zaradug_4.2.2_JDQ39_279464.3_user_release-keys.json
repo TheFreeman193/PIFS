@@ -4,12 +4,17 @@
   "BRAND": "htc",
   "PRODUCT": "htc_asia_wwe",
   "DEVICE": "zaradug",
-  "FINGERPRINT": "htc/htc_asia_wwe/zaradug:4.2.2/JDQ39/279464.3:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JDQ39",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.2.2",
+  "RELEASE_OR_CODENAME": "4.2.2",
+  "ID": "JDQ39",
   "INCREMENTAL": "279464.3",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "htc/htc_asia_wwe/zaradug:4.2.2/JDQ39/279464.3:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 17,
+  "*.build.id": "JDQ39",
+  "*.security_patch": "",
+  "*.build.version.sdk": "17"
 }

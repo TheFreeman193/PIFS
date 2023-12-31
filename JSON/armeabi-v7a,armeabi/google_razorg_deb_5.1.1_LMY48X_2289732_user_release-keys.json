@@ -4,12 +4,17 @@
   "BRAND": "google",
   "PRODUCT": "razorg",
   "DEVICE": "deb",
-  "FINGERPRINT": "google/razorg/deb:5.1.1/LMY48X/2289732:user/release-keys",
-  "SECURITY_PATCH": "2015-11-01",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "LMY48X",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.1.1",
+  "RELEASE_OR_CODENAME": "5.1.1",
+  "ID": "LMY48X",
   "INCREMENTAL": "2289732",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "google/razorg/deb:5.1.1/LMY48X/2289732:user/release-keys",
+  "SECURITY_PATCH": "2015-11-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 22,
+  "*.build.id": "LMY48X",
+  "*.security_patch": "2015-11-01",
+  "*.build.version.sdk": "22"
 }

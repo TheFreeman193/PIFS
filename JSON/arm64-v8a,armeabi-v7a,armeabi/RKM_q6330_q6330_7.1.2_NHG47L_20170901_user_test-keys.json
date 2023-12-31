@@ -4,12 +4,17 @@
   "BRAND": "Amlogic",
   "PRODUCT": "q201",
   "DEVICE": "q201",
-  "FINGERPRINT": "RKM/q6330/q6330:7.1.2/NHG47L/20170901:user/test-keys",
-  "SECURITY_PATCH": "2017-05-05",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "NHG47L",
-  "VNDK_VERSION": "",
+  "RELEASE": "7.1.2",
+  "RELEASE_OR_CODENAME": "7.1.2",
+  "ID": "NHG47L",
   "INCREMENTAL": "20170901",
   "TYPE": "userdebug",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "RKM/q6330/q6330:7.1.2/NHG47L/20170901:user/test-keys",
+  "SECURITY_PATCH": "2017-05-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 25,
+  "*.build.id": "NHG47L",
+  "*.security_patch": "2017-05-05",
+  "*.build.version.sdk": "25"
 }

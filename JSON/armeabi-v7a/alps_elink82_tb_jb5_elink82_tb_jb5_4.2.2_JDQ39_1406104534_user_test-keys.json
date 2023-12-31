@@ -4,12 +4,17 @@
   "BRAND": "Torex",
   "PRODUCT": "elink82_tb_jb5",
   "DEVICE": "elink82_tb_jb5",
-  "FINGERPRINT": "alps/elink82_tb_jb5/elink82_tb_jb5:4.2.2/JDQ39/1406104534:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JDQ39",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.2.2",
+  "RELEASE_OR_CODENAME": "4.2.2",
+  "ID": "JDQ39",
   "INCREMENTAL": "eng.xuzq.1406104534",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "alps/elink82_tb_jb5/elink82_tb_jb5:4.2.2/JDQ39/1406104534:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 17,
+  "*.build.id": "JDQ39",
+  "*.security_patch": "",
+  "*.build.version.sdk": "17"
 }

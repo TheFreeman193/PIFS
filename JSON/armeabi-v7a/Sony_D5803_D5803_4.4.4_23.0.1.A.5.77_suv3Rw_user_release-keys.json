@@ -4,12 +4,17 @@
   "BRAND": "Sony",
   "PRODUCT": "D5803",
   "DEVICE": "D5803",
-  "FINGERPRINT": "Sony/D5803/D5803:4.4.4/23.0.1.A.5.77/suv3Rw:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "23.0.1.A.5.77",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.4.4",
+  "RELEASE_OR_CODENAME": "4.4.4",
+  "ID": "23.0.1.A.5.77",
   "INCREMENTAL": "suv3Rw",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Sony/D5803/D5803:4.4.4/23.0.1.A.5.77/suv3Rw:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "23.0.1.A.5.77",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

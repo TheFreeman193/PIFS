@@ -4,12 +4,17 @@
   "BRAND": "Impression",
   "PRODUCT": "lineage_ImSmart_A401",
   "DEVICE": "ImSmart_A401",
-  "FINGERPRINT": "Impression/lineage_ImSmart_A401/ImSmart_A401:7.1.2/NJH47F/404ac4cfc1:userdebug/release-keys",
-  "SECURITY_PATCH": "2017-11-06",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "NJH47F",
-  "VNDK_VERSION": "",
+  "RELEASE": "7.1.2",
+  "RELEASE_OR_CODENAME": "7.1.2",
+  "ID": "NJH47F",
   "INCREMENTAL": "404ac4cfc1",
   "TYPE": "userdebug",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Impression/lineage_ImSmart_A401/ImSmart_A401:7.1.2/NJH47F/404ac4cfc1:userdebug/release-keys",
+  "SECURITY_PATCH": "2017-11-06",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 25,
+  "*.build.id": "NJH47F",
+  "*.security_patch": "2017-11-06",
+  "*.build.version.sdk": "25"
 }

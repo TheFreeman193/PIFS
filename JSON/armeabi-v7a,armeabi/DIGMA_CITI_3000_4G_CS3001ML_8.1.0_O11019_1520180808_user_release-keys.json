@@ -4,12 +4,17 @@
   "BRAND": "DIGMA",
   "PRODUCT": "CITI_3000_4G",
   "DEVICE": "CS3001ML",
-  "FINGERPRINT": "DIGMA/CITI_3000_4G/CS3001ML:8.1.0/O11019/1520180808:user/release-keys",
-  "SECURITY_PATCH": "2018-07-05",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "O11019",
-  "VNDK_VERSION": "",
+  "RELEASE": "8.1.0",
+  "RELEASE_OR_CODENAME": "8.1.0",
+  "ID": "O11019",
   "INCREMENTAL": "1520180808",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "DIGMA/CITI_3000_4G/CS3001ML:8.1.0/O11019/1520180808:user/release-keys",
+  "SECURITY_PATCH": "2018-07-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 27,
+  "*.build.id": "O11019",
+  "*.security_patch": "2018-07-05",
+  "*.build.version.sdk": "27"
 }

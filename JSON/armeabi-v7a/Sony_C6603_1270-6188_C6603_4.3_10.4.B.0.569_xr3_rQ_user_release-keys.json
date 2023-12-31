@@ -4,12 +4,17 @@
   "BRAND": "Sony",
   "PRODUCT": "C6603_1270-6188",
   "DEVICE": "C6603",
-  "FINGERPRINT": "Sony/C6603_1270-6188/C6603:4.3/10.4.B.0.569/xr3_rQ:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "10.4.B.0.569",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.3",
+  "RELEASE_OR_CODENAME": "4.3",
+  "ID": "10.4.B.0.569",
   "INCREMENTAL": "xr3_rQ",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Sony/C6603_1270-6188/C6603:4.3/10.4.B.0.569/xr3_rQ:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 18,
+  "*.build.id": "10.4.B.0.569",
+  "*.security_patch": "",
+  "*.build.version.sdk": "18"
 }

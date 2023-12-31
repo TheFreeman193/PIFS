@@ -4,12 +4,17 @@
   "BRAND": "Letv",
   "PRODUCT": "LeMax_WW",
   "DEVICE": "max1_in",
-  "FINGERPRINT": "Letv/LeMax_WW/max1_in:5.0.2/CHXOSOP5000812091S/78:user/release-keys",
-  "SECURITY_PATCH": "2015-12-01",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "CHXOSOP5000812091S",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.0.2",
+  "RELEASE_OR_CODENAME": "5.0.2",
+  "ID": "CHXOSOP5000812091S",
   "INCREMENTAL": "78",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Letv/LeMax_WW/max1_in:5.0.2/CHXOSOP5000812091S/78:user/release-keys",
+  "SECURITY_PATCH": "2015-12-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 21,
+  "*.build.id": "CHXOSOP5000812091S",
+  "*.security_patch": "2015-12-01",
+  "*.build.version.sdk": "21"
 }

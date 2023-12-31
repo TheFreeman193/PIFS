@@ -4,12 +4,17 @@
   "BRAND": "qti",
   "PRODUCT": "missi",
   "DEVICE": "missi",
-  "FINGERPRINT": "qti/missi/missi:13/TKQ1.221114.001/V14.0.25.0.TMRCNXM:user/release-keys",
-  "SECURITY_PATCH": "2023-10-01",
-  "FIRST_API_LEVEL": "33",
-  "BUILD_ID": "TKQ1.221114.001",
-  "VNDK_VERSION": "32",
+  "RELEASE": "13",
+  "RELEASE_OR_CODENAME": "13",
+  "ID": "TKQ1.221114.001",
   "INCREMENTAL": "V14.0.25.0.TMRCNXM",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "qti/missi/missi:13/TKQ1.221114.001/V14.0.25.0.TMRCNXM:user/release-keys",
+  "SECURITY_PATCH": "2023-10-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 33,
+  "*.build.id": "TKQ1.221114.001",
+  "*.security_patch": "2023-10-01",
+  "*.build.version.sdk": "33"
 }

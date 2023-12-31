@@ -4,12 +4,17 @@
   "BRAND": "Xiaomi",
   "PRODUCT": "apollo_eea",
   "DEVICE": "apollo",
-  "FINGERPRINT": "Xiaomi/apollo_eea/apollo:10/QKQ1.200419.002/V12.0.13.0.QJDEUXM:user/release-keys",
-  "SECURITY_PATCH": "2020-11-01",
-  "FIRST_API_LEVEL": "29",
-  "BUILD_ID": "QKQ1.200419.002",
-  "VNDK_VERSION": "",
+  "RELEASE": "10",
+  "RELEASE_OR_CODENAME": "10",
+  "ID": "QKQ1.200419.002",
   "INCREMENTAL": "V12.0.13.0.QJDEUXM",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Xiaomi/apollo_eea/apollo:10/QKQ1.200419.002/V12.0.13.0.QJDEUXM:user/release-keys",
+  "SECURITY_PATCH": "2020-11-01",
+  "DEVICE_INITIAL_SDK_INT": 29,
+  "SDK_INT": 29,
+  "*.build.id": "QKQ1.200419.002",
+  "*.security_patch": "2020-11-01",
+  "*.build.version.sdk": "29"
 }

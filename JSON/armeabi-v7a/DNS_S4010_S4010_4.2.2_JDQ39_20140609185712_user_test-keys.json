@@ -4,12 +4,17 @@
   "BRAND": "DNS",
   "PRODUCT": "S4010",
   "DEVICE": "mbk72_wet_jb3",
-  "FINGERPRINT": "DNS/S4010/S4010:4.2.2/JDQ39/20140609185712:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JDQ39",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.2.2",
+  "RELEASE_OR_CODENAME": "4.2.2",
+  "ID": "JDQ39",
   "INCREMENTAL": "eng.vsun.20140609185712",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "DNS/S4010/S4010:4.2.2/JDQ39/20140609185712:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 17,
+  "*.build.id": "JDQ39",
+  "*.security_patch": "",
+  "*.build.version.sdk": "17"
 }

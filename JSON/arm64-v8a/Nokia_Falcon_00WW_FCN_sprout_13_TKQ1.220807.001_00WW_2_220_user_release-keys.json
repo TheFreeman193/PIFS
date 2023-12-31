@@ -4,12 +4,17 @@
   "BRAND": "Nokia",
   "PRODUCT": "Falcon_00WW",
   "DEVICE": "FCN_sprout",
-  "FINGERPRINT": "Nokia/Falcon_00WW/FCN_sprout:13/TKQ1.220807.001/00WW_2_220:user/release-keys",
-  "SECURITY_PATCH": "2023-03-05",
-  "FIRST_API_LEVEL": "31",
-  "BUILD_ID": "TKQ1.220807.001",
-  "VNDK_VERSION": "",
+  "RELEASE": "13",
+  "RELEASE_OR_CODENAME": "13",
+  "ID": "TKQ1.220807.001",
   "INCREMENTAL": "00WW_2_220",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Nokia/Falcon_00WW/FCN_sprout:13/TKQ1.220807.001/00WW_2_220:user/release-keys",
+  "SECURITY_PATCH": "2023-03-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 33,
+  "*.build.id": "TKQ1.220807.001",
+  "*.security_patch": "2023-03-05",
+  "*.build.version.sdk": "33"
 }

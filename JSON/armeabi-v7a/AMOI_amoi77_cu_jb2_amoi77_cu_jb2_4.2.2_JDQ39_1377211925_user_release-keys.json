@@ -4,12 +4,17 @@
   "BRAND": "Lenovo",
   "PRODUCT": "amoi77_cu_jb2",
   "DEVICE": "amoi77_cu_jb2",
-  "FINGERPRINT": "AMOI/amoi77_cu_jb2/amoi77_cu_jb2:4.2.2/JDQ39/1377211925:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JDQ39",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.2.2",
+  "RELEASE_OR_CODENAME": "4.2.2",
+  "ID": "JDQ39",
   "INCREMENTAL": "3.12.27",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "AMOI/amoi77_cu_jb2/amoi77_cu_jb2:4.2.2/JDQ39/1377211925:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 17,
+  "*.build.id": "JDQ39",
+  "*.security_patch": "",
+  "*.build.version.sdk": "17"
 }

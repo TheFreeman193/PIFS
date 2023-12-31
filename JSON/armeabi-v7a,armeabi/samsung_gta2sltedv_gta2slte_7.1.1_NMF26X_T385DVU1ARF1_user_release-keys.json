@@ -4,12 +4,17 @@
   "BRAND": "samsung",
   "PRODUCT": "gta2sltedv",
   "DEVICE": "gta2slte",
-  "FINGERPRINT": "samsung/gta2sltedv/gta2slte:7.1.1/NMF26X/T385DVU1ARF1:user/release-keys",
-  "SECURITY_PATCH": "2018-05-01",
-  "FIRST_API_LEVEL": "25",
-  "BUILD_ID": "NMF26X",
-  "VNDK_VERSION": "",
+  "RELEASE": "7.1.1",
+  "RELEASE_OR_CODENAME": "7.1.1",
+  "ID": "NMF26X",
   "INCREMENTAL": "T385DVU1ARF1",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "samsung/gta2sltedv/gta2slte:7.1.1/NMF26X/T385DVU1ARF1:user/release-keys",
+  "SECURITY_PATCH": "2018-05-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 25,
+  "*.build.id": "NMF26X",
+  "*.security_patch": "2018-05-01",
+  "*.build.version.sdk": "25"
 }

@@ -4,12 +4,17 @@
   "BRAND": "verizon",
   "PRODUCT": "SCH-I405",
   "DEVICE": "SCH-I405",
-  "FINGERPRINT": "verizon/SCH-I405/SCH-I405:2.3.6/GINGERBREAD/GC1:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "GINGERBREAD",
-  "VNDK_VERSION": "",
+  "RELEASE": "2.3.6",
+  "RELEASE_OR_CODENAME": "2.3.6",
+  "ID": "GINGERBREAD",
   "INCREMENTAL": "GC1",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "verizon/SCH-I405/SCH-I405:2.3.6/GINGERBREAD/GC1:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 10,
+  "*.build.id": "GINGERBREAD",
+  "*.security_patch": "",
+  "*.build.version.sdk": "10"
 }

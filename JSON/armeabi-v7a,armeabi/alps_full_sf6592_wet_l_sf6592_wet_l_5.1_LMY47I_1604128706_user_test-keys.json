@@ -4,12 +4,17 @@
   "BRAND": "TAB910",
   "PRODUCT": "TAB910",
   "DEVICE": "TAB910",
-  "FINGERPRINT": "alps/full_sf6592_wet_l/sf6592_wet_l:5.1/LMY47I/1604128706:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "LMY47I",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.1",
+  "RELEASE_OR_CODENAME": "5.1",
+  "ID": "LMY47I",
   "INCREMENTAL": "1604128706",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "alps/full_sf6592_wet_l/sf6592_wet_l:5.1/LMY47I/1604128706:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 22,
+  "*.build.id": "LMY47I",
+  "*.security_patch": "",
+  "*.build.version.sdk": "22"
 }

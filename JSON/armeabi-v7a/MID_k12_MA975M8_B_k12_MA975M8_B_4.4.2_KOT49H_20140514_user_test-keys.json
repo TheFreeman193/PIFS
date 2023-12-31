@@ -4,12 +4,17 @@
   "BRAND": "MID",
   "PRODUCT": "k12_MA975M8_B",
   "DEVICE": "k12_MA975M8_B",
-  "FINGERPRINT": "MID/k12_MA975M8_B/k12_MA975M8_B:4.4.2/KOT49H/20140514:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "KOT49H",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.4.2",
+  "RELEASE_OR_CODENAME": "4.4.2",
+  "ID": "KOT49H",
   "INCREMENTAL": "20140514",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "MID/k12_MA975M8_B/k12_MA975M8_B:4.4.2/KOT49H/20140514:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "KOT49H",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

@@ -4,12 +4,17 @@
   "BRAND": "htc_wwe",
   "PRODUCT": "htc_bravo",
   "DEVICE": "bravo",
-  "FINGERPRINT": "htc_wwe/htc_bravo/bravo/bravo:2.2.2/FRG83G/345208.14:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "FRG83G",
-  "VNDK_VERSION": "",
+  "RELEASE": "2.2.2",
+  "RELEASE_OR_CODENAME": "2.2.2",
+  "ID": "FRG83G",
   "INCREMENTAL": "345208.14",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "htc_wwe/htc_bravo/bravo/bravo:2.2.2/FRG83G/345208.14:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 8,
+  "*.build.id": "FRG83G",
+  "*.security_patch": "",
+  "*.build.version.sdk": "8"
 }

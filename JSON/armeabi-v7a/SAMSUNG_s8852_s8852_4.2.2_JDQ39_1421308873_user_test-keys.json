@@ -4,12 +4,17 @@
   "BRAND": "samsung",
   "PRODUCT": "baffinzt",
   "DEVICE": "baffin",
-  "FINGERPRINT": "SAMSUNG/s8852/s8852:4.2.2/JDQ39/1421308873:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JZO54K",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.2.2",
+  "RELEASE_OR_CODENAME": "4.2.2",
+  "ID": "JZO54K",
   "INCREMENTAL": "eng.wlb.1421308873",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "SAMSUNG/s8852/s8852:4.2.2/JDQ39/1421308873:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 17,
+  "*.build.id": "JZO54K",
+  "*.security_patch": "",
+  "*.build.version.sdk": "17"
 }

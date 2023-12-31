@@ -4,12 +4,17 @@
   "BRAND": "xiaomi",
   "PRODUCT": "cereus",
   "DEVICE": "cereus",
-  "FINGERPRINT": "xiaomi/cereus/cereus:8.1.0/O11019/V10.3.3.0.OCGMIXM:user/release-keys",
-  "SECURITY_PATCH": "2019-05-01",
-  "FIRST_API_LEVEL": "27",
-  "BUILD_ID": "O11019",
-  "VNDK_VERSION": "",
+  "RELEASE": "8.1.0",
+  "RELEASE_OR_CODENAME": "8.1.0",
+  "ID": "O11019",
   "INCREMENTAL": "V10.3.3.0.OCGMIXM",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "xiaomi/cereus/cereus:8.1.0/O11019/V10.3.3.0.OCGMIXM:user/release-keys",
+  "SECURITY_PATCH": "2019-05-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 27,
+  "*.build.id": "O11019",
+  "*.security_patch": "2019-05-01",
+  "*.build.version.sdk": "27"
 }

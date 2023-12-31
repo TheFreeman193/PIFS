@@ -4,12 +4,17 @@
   "BRAND": "razer",
   "PRODUCT": "cheryl",
   "DEVICE": "cheryl_ckh",
-  "FINGERPRINT": "razer/cheryl/cheryl_ckh:9/P-MR2-RC001-CKH-N/7087:user/release-keys",
-  "SECURITY_PATCH": "2019-11-05",
-  "FIRST_API_LEVEL": "25",
-  "BUILD_ID": "P-MR2-RC001-CKH-N",
-  "VNDK_VERSION": "",
+  "RELEASE": "9",
+  "RELEASE_OR_CODENAME": "9",
+  "ID": "P-MR2-RC001-CKH-N",
   "INCREMENTAL": "7087",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "razer/cheryl/cheryl_ckh:9/P-MR2-RC001-CKH-N/7087:user/release-keys",
+  "SECURITY_PATCH": "2019-11-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 28,
+  "*.build.id": "P-MR2-RC001-CKH-N",
+  "*.security_patch": "2019-11-05",
+  "*.build.version.sdk": "28"
 }

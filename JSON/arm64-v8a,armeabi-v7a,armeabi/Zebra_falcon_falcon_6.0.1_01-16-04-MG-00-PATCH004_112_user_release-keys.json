@@ -4,12 +4,17 @@
   "BRAND": "Zebra",
   "PRODUCT": "falcon",
   "DEVICE": "falcon",
-  "FINGERPRINT": "Zebra/falcon/falcon:6.0.1/01-16-04-MG-00-PATCH004/112:user/release-keys",
-  "SECURITY_PATCH": "2017-02-05",
-  "FIRST_API_LEVEL": "23",
-  "BUILD_ID": "01-16-04-MG-00-PATCH004",
-  "VNDK_VERSION": "",
+  "RELEASE": "6.0.1",
+  "RELEASE_OR_CODENAME": "6.0.1",
+  "ID": "01-16-04-MG-00-PATCH004",
   "INCREMENTAL": "9",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Zebra/falcon/falcon:6.0.1/01-16-04-MG-00-PATCH004/112:user/release-keys",
+  "SECURITY_PATCH": "2017-02-05",
+  "DEVICE_INITIAL_SDK_INT": 23,
+  "SDK_INT": 23,
+  "*.build.id": "01-16-04-MG-00-PATCH004",
+  "*.security_patch": "2017-02-05",
+  "*.build.version.sdk": "23"
 }

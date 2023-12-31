@@ -4,12 +4,17 @@
   "BRAND": "SEMC",
   "PRODUCT": "LT18i_1255-2998",
   "DEVICE": "LT18i",
-  "FINGERPRINT": "SEMC/LT18i_1255-2998/LT18i:2.3.4/4.0.2.A.0.62/wf_v3w:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "4.0.2.A.0.62",
-  "VNDK_VERSION": "",
+  "RELEASE": "2.3.4",
+  "RELEASE_OR_CODENAME": "2.3.4",
+  "ID": "4.0.2.A.0.62",
   "INCREMENTAL": "wf_v3w",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "SEMC/LT18i_1255-2998/LT18i:2.3.4/4.0.2.A.0.62/wf_v3w:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 10,
+  "*.build.id": "4.0.2.A.0.62",
+  "*.security_patch": "",
+  "*.build.version.sdk": "10"
 }

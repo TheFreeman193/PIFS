@@ -4,12 +4,17 @@
   "BRAND": "Hisense",
   "PRODUCT": "F12",
   "DEVICE": "F12",
-  "FINGERPRINT": "Hisense/F12/F12:7.0/NRD90M/1476847460:userdebug/test-keys",
-  "SECURITY_PATCH": "2016-10-05",
-  "FIRST_API_LEVEL": "24",
-  "BUILD_ID": "NRD90M",
-  "VNDK_VERSION": "",
+  "RELEASE": "7.0",
+  "RELEASE_OR_CODENAME": "7.0",
+  "ID": "NRD90M",
   "INCREMENTAL": "1476847460",
   "TYPE": "userdebug",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "Hisense/F12/F12:7.0/NRD90M/1476847460:userdebug/test-keys",
+  "SECURITY_PATCH": "2016-10-05",
+  "DEVICE_INITIAL_SDK_INT": 24,
+  "SDK_INT": 24,
+  "*.build.id": "NRD90M",
+  "*.security_patch": "2016-10-05",
+  "*.build.version.sdk": "24"
 }

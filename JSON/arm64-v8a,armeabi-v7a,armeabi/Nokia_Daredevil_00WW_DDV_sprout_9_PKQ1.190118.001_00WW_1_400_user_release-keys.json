@@ -4,12 +4,17 @@
   "BRAND": "Nokia",
   "PRODUCT": "Daredevil_00WW",
   "DEVICE": "DDV_sprout",
-  "FINGERPRINT": "Nokia/Daredevil_00WW/DDV_sprout:9/PKQ1.190118.001/00WW_1_400:user/release-keys",
-  "SECURITY_PATCH": "2020-01-05",
-  "FIRST_API_LEVEL": "28",
-  "BUILD_ID": "PKQ1.190118.001",
-  "VNDK_VERSION": "",
+  "RELEASE": "9",
+  "RELEASE_OR_CODENAME": "9",
+  "ID": "PKQ1.190118.001",
   "INCREMENTAL": "00WW_1_400",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Nokia/Daredevil_00WW/DDV_sprout:9/PKQ1.190118.001/00WW_1_400:user/release-keys",
+  "SECURITY_PATCH": "2020-01-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 28,
+  "*.build.id": "PKQ1.190118.001",
+  "*.security_patch": "2020-01-05",
+  "*.build.version.sdk": "28"
 }

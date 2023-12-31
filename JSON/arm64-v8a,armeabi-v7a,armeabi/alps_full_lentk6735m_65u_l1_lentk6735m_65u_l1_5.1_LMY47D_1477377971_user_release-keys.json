@@ -4,12 +4,17 @@
   "BRAND": "JTY",
   "PRODUCT": "JTY",
   "DEVICE": "JTY",
-  "FINGERPRINT": "alps/full_lentk6735m_65u_l1/lentk6735m_65u_l1:5.1/LMY47D/1477377971:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "LMY47D",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.1",
+  "RELEASE_OR_CODENAME": "5.1",
+  "ID": "LMY47D",
   "INCREMENTAL": "1477377971",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "alps/full_lentk6735m_65u_l1/lentk6735m_65u_l1:5.1/LMY47D/1477377971:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 22,
+  "*.build.id": "LMY47D",
+  "*.security_patch": "",
+  "*.build.version.sdk": "22"
 }

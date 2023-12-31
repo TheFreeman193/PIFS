@@ -4,12 +4,17 @@
   "BRAND": "Nokia",
   "PRODUCT": "Deadmau5_04US",
   "DEVICE": "DM5",
-  "FINGERPRINT": "Nokia/Deadmau5_04US/DM5:11/RKQ1.210528.001/04US_1_650:user/release-keys",
-  "SECURITY_PATCH": "2023-07-05",
-  "FIRST_API_LEVEL": "30",
-  "BUILD_ID": "RKQ1.210528.001",
-  "VNDK_VERSION": "",
+  "RELEASE": "11",
+  "RELEASE_OR_CODENAME": "11",
+  "ID": "RKQ1.210528.001",
   "INCREMENTAL": "04US_1_650",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Nokia/Deadmau5_04US/DM5:11/RKQ1.210528.001/04US_1_650:user/release-keys",
+  "SECURITY_PATCH": "2023-07-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 30,
+  "*.build.id": "RKQ1.210528.001",
+  "*.security_patch": "2023-07-05",
+  "*.build.version.sdk": "30"
 }

@@ -4,12 +4,17 @@
   "BRAND": "acer",
   "PRODUCT": "full_a500",
   "DEVICE": "a500",
-  "FINGERPRINT": "acer/a500_ww_gen1/picasso:4.2.2/JDQ39E/1333032611:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JDQ39E",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.2.2",
+  "RELEASE_OR_CODENAME": "4.2.2",
+  "ID": "JDQ39E",
   "INCREMENTAL": "eng.thor2002ro.20130425.081703",
   "TYPE": "userdebug",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "acer/a500_ww_gen1/picasso:4.2.2/JDQ39E/1333032611:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 17,
+  "*.build.id": "JDQ39E",
+  "*.security_patch": "",
+  "*.build.version.sdk": "17"
 }

@@ -4,12 +4,17 @@
   "BRAND": "samsung",
   "PRODUCT": "y2sxx",
   "DEVICE": "essi",
-  "FINGERPRINT": "samsung/y2sxx/essi:13/TP1A.220624.014/G985FXXSFHWB1:user/release-keys",
-  "SECURITY_PATCH": "2023-03-01",
-  "FIRST_API_LEVEL": "29",
-  "BUILD_ID": "TP1A.220624.014",
-  "VNDK_VERSION": "",
+  "RELEASE": "13",
+  "RELEASE_OR_CODENAME": "13",
+  "ID": "TP1A.220624.014",
   "INCREMENTAL": "G985FXXSFHWB1",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "samsung/y2sxx/essi:13/TP1A.220624.014/G985FXXSFHWB1:user/release-keys",
+  "SECURITY_PATCH": "2023-03-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 33,
+  "*.build.id": "TP1A.220624.014",
+  "*.security_patch": "2023-03-01",
+  "*.build.version.sdk": "33"
 }

@@ -4,12 +4,17 @@
   "BRAND": "samsung",
   "PRODUCT": "k3gxx",
   "DEVICE": "k3g",
-  "FINGERPRINT": "samsung/k3gxx/k3g:5.0/LRX21T/G900HXXS1BPC4:user/release-keys",
-  "SECURITY_PATCH": "2016-03-01",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "LRX21T",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.0",
+  "RELEASE_OR_CODENAME": "5.0",
+  "ID": "LRX21T",
   "INCREMENTAL": "G900HXXS1BPC4",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "samsung/k3gxx/k3g:5.0/LRX21T/G900HXXS1BPC4:user/release-keys",
+  "SECURITY_PATCH": "2016-03-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 21,
+  "*.build.id": "LRX21T",
+  "*.security_patch": "2016-03-01",
+  "*.build.version.sdk": "21"
 }

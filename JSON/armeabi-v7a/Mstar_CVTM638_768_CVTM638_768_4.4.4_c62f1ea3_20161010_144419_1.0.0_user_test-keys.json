@@ -4,12 +4,17 @@
   "BRAND": "Mstar",
   "PRODUCT": "CVTM638_768",
   "DEVICE": "CVTM638_768",
-  "FINGERPRINT": "Mstar/CVTM638_768/CVTM638_768:4.4.4/c62f1ea3_20161010_144419/1.0.0:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "c62f1ea3_20161010_144419",
-  "VNDK_VERSION": "",
+  "RELEASE": "2.1.0-R-20161010.1447",
+  "RELEASE_OR_CODENAME": "2.1.0-R-20161010.1447",
+  "ID": "c62f1ea3_20161010_144419",
   "INCREMENTAL": "1.0.0",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "Mstar/CVTM638_768/CVTM638_768:4.4.4/c62f1ea3_20161010_144419/1.0.0:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "c62f1ea3_20161010_144419",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

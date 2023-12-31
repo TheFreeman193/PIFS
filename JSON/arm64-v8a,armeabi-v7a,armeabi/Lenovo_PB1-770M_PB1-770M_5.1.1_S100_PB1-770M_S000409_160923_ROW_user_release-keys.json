@@ -4,12 +4,17 @@
   "BRAND": "Lenovo",
   "PRODUCT": "PB1-770M",
   "DEVICE": "PB1-770M",
-  "FINGERPRINT": "Lenovo/PB1-770M/PB1-770M:5.1.1/S100/PB1-770M_S000409_160923_ROW:user/release-keys",
-  "SECURITY_PATCH": "2016-02-01",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "S100",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.1.1",
+  "RELEASE_OR_CODENAME": "5.1.1",
+  "ID": "S100",
   "INCREMENTAL": "PB1-770M_S000409_160923_ROW",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Lenovo/PB1-770M/PB1-770M:5.1.1/S100/PB1-770M_S000409_160923_ROW:user/release-keys",
+  "SECURITY_PATCH": "2016-02-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 22,
+  "*.build.id": "S100",
+  "*.security_patch": "2016-02-01",
+  "*.build.version.sdk": "22"
 }

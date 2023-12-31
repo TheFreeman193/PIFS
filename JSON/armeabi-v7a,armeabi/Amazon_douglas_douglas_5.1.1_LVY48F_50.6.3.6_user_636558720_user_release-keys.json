@@ -4,12 +4,17 @@
   "BRAND": "Amazon",
   "PRODUCT": "douglas",
   "DEVICE": "douglas",
-  "FINGERPRINT": "Amazon/douglas/douglas:5.1.1/LVY48F/50.6.3.6_user_636558720:user/release-keys",
-  "SECURITY_PATCH": "2018-03-01",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "LVY48F",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.1.1",
+  "RELEASE_OR_CODENAME": "5.1.1",
+  "ID": "LVY48F",
   "INCREMENTAL": "50.6.3.6_user_636558720",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Amazon/douglas/douglas:5.1.1/LVY48F/50.6.3.6_user_636558720:user/release-keys",
+  "SECURITY_PATCH": "2018-03-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 22,
+  "*.build.id": "LVY48F",
+  "*.security_patch": "2018-03-01",
+  "*.build.version.sdk": "22"
 }

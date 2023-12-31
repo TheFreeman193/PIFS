@@ -4,12 +4,17 @@
   "BRAND": "samsung",
   "PRODUCT": "I968",
   "DEVICE": "simcom77_twn_cu_ics2",
-  "FINGERPRINT": "alps/simcom77_twn_cu_ics2/simcom77_twn_cu_ics2:4.0.4/IMM76D/1355384249:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "IMM76D",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.1.9",
+  "RELEASE_OR_CODENAME": "4.1.9",
+  "ID": "IMM76D",
   "INCREMENTAL": "eng.qiang.wang.1355384249",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "alps/simcom77_twn_cu_ics2/simcom77_twn_cu_ics2:4.0.4/IMM76D/1355384249:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 15,
+  "*.build.id": "IMM76D",
+  "*.security_patch": "",
+  "*.build.version.sdk": "15"
 }

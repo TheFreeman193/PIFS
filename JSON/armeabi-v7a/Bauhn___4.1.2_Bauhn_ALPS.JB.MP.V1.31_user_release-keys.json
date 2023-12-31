@@ -4,12 +4,17 @@
   "BRAND": "Bauhn",
   "PRODUCT": "HDC-08",
   "DEVICE": "HDC-08",
-  "FINGERPRINT": "Bauhn//:4.1.2/Bauhn/ALPS.JB.MP.V1.31:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "Bauhn",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.1.2",
+  "RELEASE_OR_CODENAME": "4.1.2",
+  "ID": "Bauhn",
   "INCREMENTAL": "eng.root.1373474728",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Bauhn//:4.1.2/Bauhn/ALPS.JB.MP.V1.31:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 16,
+  "*.build.id": "Bauhn",
+  "*.security_patch": "",
+  "*.build.version.sdk": "16"
 }

@@ -4,12 +4,17 @@
   "BRAND": "highscreen",
   "PRODUCT": "Zera S",
   "DEVICE": "Zera S",
-  "FINGERPRINT": "highscreen/ckt82_we_kk/ckt82_we_kk:4.4.2/KOT49H/:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "KOT49H",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.4.2",
+  "RELEASE_OR_CODENAME": "4.4.2",
+  "ID": "KOT49H",
   "INCREMENTAL": "aa8ab0e",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "highscreen/ckt82_we_kk/ckt82_we_kk:4.4.2/KOT49H/:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "KOT49H",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

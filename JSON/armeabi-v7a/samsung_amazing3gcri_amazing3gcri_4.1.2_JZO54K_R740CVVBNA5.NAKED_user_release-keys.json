@@ -4,12 +4,17 @@
   "BRAND": "samsung",
   "PRODUCT": "amazing3gcri",
   "DEVICE": "amazing3gcri",
-  "FINGERPRINT": "samsung/amazing3gcri/amazing3gcri:4.1.2/JZO54K/R740CVVBNA5.NAKED:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JZO54K",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.1.2",
+  "RELEASE_OR_CODENAME": "4.1.2",
+  "ID": "JZO54K",
   "INCREMENTAL": "R740CVVBNA5.NAKED",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "samsung/amazing3gcri/amazing3gcri:4.1.2/JZO54K/R740CVVBNA5.NAKED:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 16,
+  "*.build.id": "JZO54K",
+  "*.security_patch": "",
+  "*.build.version.sdk": "16"
 }

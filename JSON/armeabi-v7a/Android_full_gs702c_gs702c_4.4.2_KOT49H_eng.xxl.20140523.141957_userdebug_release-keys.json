@@ -4,12 +4,17 @@
   "BRAND": "SMART",
   "PRODUCT": "full_gs702c",
   "DEVICE": "gs702c",
-  "FINGERPRINT": "Android/full_gs702c/gs702c:4.4.2/KOT49H/eng.xxl.20140523.141957:userdebug/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "KOT49H",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.4.2",
+  "RELEASE_OR_CODENAME": "4.4.2",
+  "ID": "KOT49H",
   "INCREMENTAL": "eng.xxl.20140523.141957",
   "TYPE": "userdebug",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Android/full_gs702c/gs702c:4.4.2/KOT49H/eng.xxl.20140523.141957:userdebug/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "KOT49H",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

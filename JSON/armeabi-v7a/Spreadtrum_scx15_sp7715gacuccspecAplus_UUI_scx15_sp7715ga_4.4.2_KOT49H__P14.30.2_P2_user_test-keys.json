@@ -4,12 +4,17 @@
   "BRAND": "Spreadtrum",
   "PRODUCT": "scx15_sp7715gacuccspecAplus_UUI",
   "DEVICE": "scx15_sp7715ga",
-  "FINGERPRINT": "Spreadtrum/scx15_sp7715gacuccspecAplus_UUI/scx15_sp7715ga:4.4.2/KOT49H/_P14.30.2_P2:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "KOT49H",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.4.2",
+  "RELEASE_OR_CODENAME": "4.4.2",
+  "ID": "KOT49H",
   "INCREMENTAL": "_P14.30.2_P2",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "Spreadtrum/scx15_sp7715gacuccspecAplus_UUI/scx15_sp7715ga:4.4.2/KOT49H/_P14.30.2_P2:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "KOT49H",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

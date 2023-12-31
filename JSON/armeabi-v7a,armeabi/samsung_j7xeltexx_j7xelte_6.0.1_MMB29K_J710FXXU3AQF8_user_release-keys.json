@@ -4,12 +4,17 @@
   "BRAND": "samsung",
   "PRODUCT": "j7xeltexx",
   "DEVICE": "j7xelte",
-  "FINGERPRINT": "samsung/j7xeltexx/j7xelte:6.0.1/MMB29K/J710FXXU3AQF8:user/release-keys",
-  "SECURITY_PATCH": "2017-06-01",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "MMB29K",
-  "VNDK_VERSION": "",
+  "RELEASE": "6.0.1",
+  "RELEASE_OR_CODENAME": "6.0.1",
+  "ID": "MMB29K",
   "INCREMENTAL": "J710FXXU3AQF8",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "samsung/j7xeltexx/j7xelte:6.0.1/MMB29K/J710FXXU3AQF8:user/release-keys",
+  "SECURITY_PATCH": "2017-06-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 23,
+  "*.build.id": "MMB29K",
+  "*.security_patch": "2017-06-01",
+  "*.build.version.sdk": "23"
 }

@@ -4,12 +4,17 @@
   "BRAND": "xiaomi",
   "PRODUCT": "mido",
   "DEVICE": "mido",
-  "FINGERPRINT": "xiaomi/mido/mido:6.0.1/MMB29M/V8.5.7.0.MCFCNED:user/release-keys",
-  "SECURITY_PATCH": "2018.10.01",
-  "FIRST_API_LEVEL": "23",
-  "BUILD_ID": "Masik",
-  "VNDK_VERSION": "",
+  "RELEASE": "7.0",
+  "RELEASE_OR_CODENAME": "7.0",
+  "ID": "Masik",
   "INCREMENTAL": "MDB",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "xiaomi/mido/mido:6.0.1/MMB29M/V8.5.7.0.MCFCNED:user/release-keys",
+  "SECURITY_PATCH": "2018.10.01",
+  "DEVICE_INITIAL_SDK_INT": 23,
+  "SDK_INT": 24,
+  "*.build.id": "Masik",
+  "*.security_patch": "2018.10.01",
+  "*.build.version.sdk": "24"
 }

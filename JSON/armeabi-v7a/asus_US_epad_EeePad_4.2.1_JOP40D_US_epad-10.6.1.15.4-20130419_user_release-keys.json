@@ -4,12 +4,17 @@
   "BRAND": "asus",
   "PRODUCT": "US_epad",
   "DEVICE": "EeePad",
-  "FINGERPRINT": "asus/US_epad/EeePad:4.2.1/JOP40D/US_epad-10.6.1.15.4-20130419:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JOP40D",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.2.1",
+  "RELEASE_OR_CODENAME": "4.2.1",
+  "ID": "JOP40D",
   "INCREMENTAL": "US_epad-10.6.1.15.4-20130419",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "asus/US_epad/EeePad:4.2.1/JOP40D/US_epad-10.6.1.15.4-20130419:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 17,
+  "*.build.id": "JOP40D",
+  "*.security_patch": "",
+  "*.build.version.sdk": "17"
 }

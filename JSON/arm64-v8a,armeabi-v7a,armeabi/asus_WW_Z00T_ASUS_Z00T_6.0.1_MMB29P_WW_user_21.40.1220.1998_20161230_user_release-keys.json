@@ -4,12 +4,17 @@
   "BRAND": "asus",
   "PRODUCT": "WW_Z00T",
   "DEVICE": "ASUS_Z00T",
-  "FINGERPRINT": "asus/WW_Z00T/ASUS_Z00T:6.0.1/MMB29P/WW_user_21.40.1220.1998_20161230:user/release-keys",
-  "SECURITY_PATCH": "2017-01-01",
-  "FIRST_API_LEVEL": "21",
-  "BUILD_ID": "MMB29P",
-  "VNDK_VERSION": "",
+  "RELEASE": "6.0.1",
+  "RELEASE_OR_CODENAME": "6.0.1",
+  "ID": "MMB29P",
   "INCREMENTAL": "WW_Z00T-WW_user_21.40.1220.1998_20161230-user-20161230",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "asus/WW_Z00T/ASUS_Z00T:6.0.1/MMB29P/WW_user_21.40.1220.1998_20161230:user/release-keys",
+  "SECURITY_PATCH": "2017-01-01",
+  "DEVICE_INITIAL_SDK_INT": 21,
+  "SDK_INT": 23,
+  "*.build.id": "MMB29P",
+  "*.security_patch": "2017-01-01",
+  "*.build.version.sdk": "23"
 }

@@ -4,12 +4,17 @@
   "BRAND": "Beeline",
   "PRODUCT": "Beeline_Tab_2",
   "DEVICE": "Tab_2",
-  "FINGERPRINT": "Beeline/Beeline_Tab_2/Tab_2:4.4.2/KOT49H/eng.root.20141215.193239:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "KOT49H",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.4.2",
+  "RELEASE_OR_CODENAME": "4.4.2",
+  "ID": "KOT49H",
   "INCREMENTAL": "eng.root.20141215.193239",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Beeline/Beeline_Tab_2/Tab_2:4.4.2/KOT49H/eng.root.20141215.193239:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "KOT49H",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

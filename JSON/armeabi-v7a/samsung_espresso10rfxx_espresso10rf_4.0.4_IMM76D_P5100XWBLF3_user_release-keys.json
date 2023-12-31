@@ -4,12 +4,17 @@
   "BRAND": "samsung",
   "PRODUCT": "espresso10rfxx",
   "DEVICE": "espresso10rf",
-  "FINGERPRINT": "samsung/espresso10rfxx/espresso10rf:4.0.4/IMM76D/P5100XWBLF3:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "IMM76D",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.0.4",
+  "RELEASE_OR_CODENAME": "4.0.4",
+  "ID": "IMM76D",
   "INCREMENTAL": "P5100XWBLF3",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "samsung/espresso10rfxx/espresso10rf:4.0.4/IMM76D/P5100XWBLF3:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 15,
+  "*.build.id": "IMM76D",
+  "*.security_patch": "",
+  "*.build.version.sdk": "15"
 }

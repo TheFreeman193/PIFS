@@ -4,12 +4,17 @@
   "BRAND": "samsung",
   "PRODUCT": "k3gxx",
   "DEVICE": "k3g",
-  "FINGERPRINT": "samsung/k3gxx/k3g:4.4.2/KOT49H/G900HXXU1ANCD:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "KOT49H",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.4.2",
+  "RELEASE_OR_CODENAME": "4.4.2",
+  "ID": "KOT49H",
   "INCREMENTAL": "G900HXXU1ANCD",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "samsung/k3gxx/k3g:4.4.2/KOT49H/G900HXXU1ANCD:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "KOT49H",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

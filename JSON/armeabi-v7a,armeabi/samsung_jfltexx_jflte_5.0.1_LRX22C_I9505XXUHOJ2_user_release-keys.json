@@ -4,12 +4,17 @@
   "BRAND": "samsung",
   "PRODUCT": "jfltexx",
   "DEVICE": "jflte",
-  "FINGERPRINT": "samsung/jfltexx/jflte:5.0.1/LRX22C/I9505XXUHOJ2:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "LRX22C",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.0.1",
+  "RELEASE_OR_CODENAME": "5.0.1",
+  "ID": "LRX22C",
   "INCREMENTAL": "I9505XXUHOJ2",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "samsung/jfltexx/jflte:5.0.1/LRX22C/I9505XXUHOJ2:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 21,
+  "*.build.id": "LRX22C",
+  "*.security_patch": "",
+  "*.build.version.sdk": "21"
 }

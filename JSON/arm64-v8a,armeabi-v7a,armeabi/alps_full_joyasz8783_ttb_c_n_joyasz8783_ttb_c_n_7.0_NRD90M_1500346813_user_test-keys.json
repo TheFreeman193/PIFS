@@ -4,12 +4,17 @@
   "BRAND": "cube",
   "PRODUCT": "X5",
   "DEVICE": "X5",
-  "FINGERPRINT": "alps/full_joyasz8783_ttb_c_n/joyasz8783_ttb_c_n:7.0/NRD90M/1500346813:user/test-keys",
-  "SECURITY_PATCH": "2016-11-05",
-  "FIRST_API_LEVEL": "21",
-  "BUILD_ID": "NRD90M",
-  "VNDK_VERSION": "",
+  "RELEASE": "7.0",
+  "RELEASE_OR_CODENAME": "7.0",
+  "ID": "NRD90M",
   "INCREMENTAL": "1500346813",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "alps/full_joyasz8783_ttb_c_n/joyasz8783_ttb_c_n:7.0/NRD90M/1500346813:user/test-keys",
+  "SECURITY_PATCH": "2016-11-05",
+  "DEVICE_INITIAL_SDK_INT": 21,
+  "SDK_INT": 24,
+  "*.build.id": "NRD90M",
+  "*.security_patch": "2016-11-05",
+  "*.build.version.sdk": "24"
 }

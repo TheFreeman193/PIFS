@@ -4,12 +4,17 @@
   "BRAND": "lge",
   "PRODUCT": "vu2kt_KT_KR",
   "DEVICE": "vu2kt",
-  "FINGERPRINT": "lge/vu2kt_KT_KR/vu2kt:4.1.2/JZO54K/F200K20d.1369059307:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JZO54K",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.1.2",
+  "RELEASE_OR_CODENAME": "4.1.2",
+  "ID": "JZO54K",
   "INCREMENTAL": "F200K20d.1369059307",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "lge/vu2kt_KT_KR/vu2kt:4.1.2/JZO54K/F200K20d.1369059307:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 16,
+  "*.build.id": "JZO54K",
+  "*.security_patch": "",
+  "*.build.version.sdk": "16"
 }

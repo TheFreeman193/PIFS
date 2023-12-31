@@ -4,12 +4,17 @@
   "BRAND": "qti",
   "PRODUCT": "qssi",
   "DEVICE": "qssi",
-  "FINGERPRINT": "qti/qssi/qssi:11/RKQ1.200826.002/21.9.22:user/release-keys",
-  "SECURITY_PATCH": "2021-09-01",
-  "FIRST_API_LEVEL": "30",
-  "BUILD_ID": "RKQ1.200826.002",
-  "VNDK_VERSION": "",
+  "RELEASE": "11",
+  "RELEASE_OR_CODENAME": "11",
+  "ID": "RKQ1.200826.002",
   "INCREMENTAL": "21.9.22",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "qti/qssi/qssi:11/RKQ1.200826.002/21.9.22:user/release-keys",
+  "SECURITY_PATCH": "2021-09-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 30,
+  "*.build.id": "RKQ1.200826.002",
+  "*.security_patch": "2021-09-01",
+  "*.build.version.sdk": "30"
 }

@@ -4,12 +4,17 @@
   "BRAND": "HUAWEI",
   "PRODUCT": "EML-L09",
   "DEVICE": "HWEML",
-  "FINGERPRINT": "HUAWEI/EML-L09/HWEML:9/HUAWEIEML-L09/9.1.0.381C109:user/release-keys",
-  "SECURITY_PATCH": "2020-01-01",
-  "FIRST_API_LEVEL": "28",
-  "BUILD_ID": "HUAWEIEML-L09",
-  "VNDK_VERSION": "",
+  "RELEASE": "9",
+  "RELEASE_OR_CODENAME": "9",
+  "ID": "HUAWEIEML-L09",
   "INCREMENTAL": "9.1.0.381C109",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "HUAWEI/EML-L09/HWEML:9/HUAWEIEML-L09/9.1.0.381C109:user/release-keys",
+  "SECURITY_PATCH": "2020-01-01",
+  "DEVICE_INITIAL_SDK_INT": 28,
+  "SDK_INT": 28,
+  "*.build.id": "HUAWEIEML-L09",
+  "*.security_patch": "2020-01-01",
+  "*.build.version.sdk": "28"
 }

@@ -4,12 +4,17 @@
   "BRAND": "motorola",
   "PRODUCT": "ghost_sprint",
   "DEVICE": "ghost",
-  "FINGERPRINT": "motorola/ghost_sprint/ghost:5.1/LPA23.12-39.10-9/13:user/release-keys",
-  "SECURITY_PATCH": "2016-08-01",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "LPA23.12-39.10-9",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.1",
+  "RELEASE_OR_CODENAME": "5.1",
+  "ID": "LPA23.12-39.10-9",
   "INCREMENTAL": "13",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "motorola/ghost_sprint/ghost:5.1/LPA23.12-39.10-9/13:user/release-keys",
+  "SECURITY_PATCH": "2016-08-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 22,
+  "*.build.id": "LPA23.12-39.10-9",
+  "*.security_patch": "2016-08-01",
+  "*.build.version.sdk": "22"
 }

@@ -4,12 +4,17 @@
   "BRAND": "Sony",
   "PRODUCT": "kagura",
   "DEVICE": "kagura",
-  "FINGERPRINT": "Sony/kagura/kagura:7.0/TONE-2.1.0-161121-0615/1:user/dev-keys",
-  "SECURITY_PATCH": "2016-11-01",
-  "FIRST_API_LEVEL": "23",
-  "BUILD_ID": "39.2.A.0.327",
-  "VNDK_VERSION": "",
+  "RELEASE": "7.0",
+  "RELEASE_OR_CODENAME": "7.0",
+  "ID": "39.2.A.0.327",
   "INCREMENTAL": "1",
   "TYPE": "user",
-  "TAGS": "dev-keys"
+  "TAGS": "dev-keys",
+  "FINGERPRINT": "Sony/kagura/kagura:7.0/TONE-2.1.0-161121-0615/1:user/dev-keys",
+  "SECURITY_PATCH": "2016-11-01",
+  "DEVICE_INITIAL_SDK_INT": 23,
+  "SDK_INT": 24,
+  "*.build.id": "39.2.A.0.327",
+  "*.security_patch": "2016-11-01",
+  "*.build.version.sdk": "24"
 }

@@ -4,12 +4,17 @@
   "BRAND": "lge",
   "PRODUCT": "w3ds_global_com",
   "DEVICE": "w3ds",
-  "FINGERPRINT": "lge/w3ds_global_com/w3ds:4.4.2/KOT49I.A1399879955/1399879955:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "KOT49I.A1399879955",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.4.2",
+  "RELEASE_OR_CODENAME": "4.4.2",
+  "ID": "KOT49I.A1399879955",
   "INCREMENTAL": "1399879955",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "lge/w3ds_global_com/w3ds:4.4.2/KOT49I.A1399879955/1399879955:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "KOT49I.A1399879955",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

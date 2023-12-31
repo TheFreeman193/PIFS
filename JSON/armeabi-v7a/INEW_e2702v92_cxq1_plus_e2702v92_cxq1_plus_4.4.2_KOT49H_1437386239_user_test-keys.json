@@ -4,12 +4,17 @@
   "BRAND": "INEW",
   "PRODUCT": "V8 Plus",
   "DEVICE": "702v92_cxq1",
-  "FINGERPRINT": "INEW/e2702v92_cxq1_plus/e2702v92_cxq1_plus:4.4.2/KOT49H/1437386239:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "KOT49H",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.4.2",
+  "RELEASE_OR_CODENAME": "4.4.2",
+  "ID": "KOT49H",
   "INCREMENTAL": "eng.root.1437386239",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "INEW/e2702v92_cxq1_plus/e2702v92_cxq1_plus:4.4.2/KOT49H/1437386239:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "KOT49H",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

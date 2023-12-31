@@ -4,12 +4,17 @@
   "BRAND": "WIKO",
   "PRODUCT": "s4050ap",
   "DEVICE": "s4050ap",
-  "FINGERPRINT": "WIKO/s4050ap/s4050ap:4.4.2/KOT49H/1428935193:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "KOT49H",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.4.2",
+  "RELEASE_OR_CODENAME": "4.4.2",
+  "ID": "KOT49H",
   "INCREMENTAL": "8",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "WIKO/s4050ap/s4050ap:4.4.2/KOT49H/1428935193:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "KOT49H",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

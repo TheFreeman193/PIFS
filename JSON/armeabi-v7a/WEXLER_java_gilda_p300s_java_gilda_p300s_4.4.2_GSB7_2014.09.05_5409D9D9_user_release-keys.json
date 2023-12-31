@@ -4,12 +4,17 @@
   "BRAND": "WEXLER",
   "PRODUCT": "tabA740",
   "DEVICE": "tabA740",
-  "FINGERPRINT": "WEXLER/java_gilda_p300s/java_gilda_p300s:4.4.2/GSB7_2014.09.05/5409D9D9:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "GSB7_2014.09.05",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.4.2",
+  "RELEASE_OR_CODENAME": "4.4.2",
+  "ID": "GSB7_2014.09.05",
   "INCREMENTAL": "eng.gfs.20140905.234202",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "WEXLER/java_gilda_p300s/java_gilda_p300s:4.4.2/GSB7_2014.09.05/5409D9D9:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "GSB7_2014.09.05",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

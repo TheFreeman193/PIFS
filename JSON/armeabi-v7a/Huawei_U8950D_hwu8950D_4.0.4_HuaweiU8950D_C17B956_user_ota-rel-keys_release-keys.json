@@ -4,12 +4,17 @@
   "BRAND": "Huawei",
   "PRODUCT": "U8950D",
   "DEVICE": "hwu8950D",
-  "FINGERPRINT": "Huawei/U8950D/hwu8950D:4.0.4/HuaweiU8950D/C17B956:user/ota-rel-keys,release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "HuaweiU8950D",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.0.4",
+  "RELEASE_OR_CODENAME": "4.0.4",
+  "ID": "HuaweiU8950D",
   "INCREMENTAL": "C17B956",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Huawei/U8950D/hwu8950D:4.0.4/HuaweiU8950D/C17B956:user/ota-rel-keys,release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 15,
+  "*.build.id": "HuaweiU8950D",
+  "*.security_patch": "",
+  "*.build.version.sdk": "15"
 }

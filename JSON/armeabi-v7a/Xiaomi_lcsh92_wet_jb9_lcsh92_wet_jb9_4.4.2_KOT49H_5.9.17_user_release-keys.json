@@ -4,12 +4,17 @@
   "BRAND": "Xiaomi",
   "PRODUCT": "lcsh92_wet_jb9",
   "DEVICE": "lcsh92_wet_jb9",
-  "FINGERPRINT": "Xiaomi/lcsh92_wet_jb9/lcsh92_wet_jb9:4.4.2/KOT49H/5.9.17:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "KOT49H",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.4.2",
+  "RELEASE_OR_CODENAME": "4.4.2",
+  "ID": "KOT49H",
   "INCREMENTAL": "5.9.17",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Xiaomi/lcsh92_wet_jb9/lcsh92_wet_jb9:4.4.2/KOT49H/5.9.17:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "KOT49H",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

@@ -4,12 +4,17 @@
   "BRAND": "Vertex",
   "PRODUCT": "Grip",
   "DEVICE": "Grip",
-  "FINGERPRINT": "Vertex/Grip/Grip:7.1.2/HW1.R1.V09/22:user/release-keys",
-  "SECURITY_PATCH": "2018-03-01",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "HW1.R1.V09",
-  "VNDK_VERSION": "",
+  "RELEASE": "7.1.2",
+  "RELEASE_OR_CODENAME": "7.1.2",
+  "ID": "HW1.R1.V09",
   "INCREMENTAL": "22",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Vertex/Grip/Grip:7.1.2/HW1.R1.V09/22:user/release-keys",
+  "SECURITY_PATCH": "2018-03-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 25,
+  "*.build.id": "HW1.R1.V09",
+  "*.security_patch": "2018-03-01",
+  "*.build.version.sdk": "25"
 }

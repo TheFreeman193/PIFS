@@ -4,12 +4,17 @@
   "BRAND": "Samsung",
   "PRODUCT": "Galaxy S4",
   "DEVICE": "GT-I9500",
-  "FINGERPRINT": "alps/keytak17_jb/keytak17_jb:4.1.2/JZO54K/1373955463:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JZO54K",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.1.2",
+  "RELEASE_OR_CODENAME": "4.1.2",
+  "ID": "JZO54K",
   "INCREMENTAL": "eng.liangss.1373955463",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "alps/keytak17_jb/keytak17_jb:4.1.2/JZO54K/1373955463:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 16,
+  "*.build.id": "JZO54K",
+  "*.security_patch": "",
+  "*.build.version.sdk": "16"
 }

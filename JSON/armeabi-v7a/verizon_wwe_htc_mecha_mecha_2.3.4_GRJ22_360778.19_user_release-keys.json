@@ -4,12 +4,17 @@
   "BRAND": "verizon_wwe",
   "PRODUCT": "htc_mecha",
   "DEVICE": "mecha",
-  "FINGERPRINT": "verizon_wwe/htc_mecha/mecha:2.3.4/GRJ22/360778.19:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "GRJ22",
-  "VNDK_VERSION": "",
+  "RELEASE": "2.3.7",
+  "RELEASE_OR_CODENAME": "2.3.7",
+  "ID": "GRJ22",
   "INCREMENTAL": "eng.teamvicious.20120604.121206",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "verizon_wwe/htc_mecha/mecha:2.3.4/GRJ22/360778.19:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 10,
+  "*.build.id": "GRJ22",
+  "*.security_patch": "",
+  "*.build.version.sdk": "10"
 }

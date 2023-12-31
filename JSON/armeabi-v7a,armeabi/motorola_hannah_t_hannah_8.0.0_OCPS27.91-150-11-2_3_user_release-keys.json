@@ -4,12 +4,17 @@
   "BRAND": "motorola",
   "PRODUCT": "hannah_t",
   "DEVICE": "hannah",
-  "FINGERPRINT": "motorola/hannah_t/hannah:8.0.0/OCPS27.91-150-11-2/3:user/release-keys",
-  "SECURITY_PATCH": "2019-11-01",
-  "FIRST_API_LEVEL": "26",
-  "BUILD_ID": "OCPS27.91-150-11-2",
-  "VNDK_VERSION": "",
+  "RELEASE": "8.0.0",
+  "RELEASE_OR_CODENAME": "8.0.0",
+  "ID": "OCPS27.91-150-11-2",
   "INCREMENTAL": "3",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "motorola/hannah_t/hannah:8.0.0/OCPS27.91-150-11-2/3:user/release-keys",
+  "SECURITY_PATCH": "2019-11-01",
+  "DEVICE_INITIAL_SDK_INT": 26,
+  "SDK_INT": 26,
+  "*.build.id": "OCPS27.91-150-11-2",
+  "*.security_patch": "2019-11-01",
+  "*.build.version.sdk": "26"
 }

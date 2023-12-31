@@ -4,12 +4,17 @@
   "BRAND": "samsung",
   "PRODUCT": "ha3gxx",
   "DEVICE": "ha3g",
-  "FINGERPRINT": "samsung/ha3gxx/ha3g:4.4.2/KOT49H/N900XXUENI1:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "KOT49H",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.4.2",
+  "RELEASE_OR_CODENAME": "4.4.2",
+  "ID": "KOT49H",
   "INCREMENTAL": "N900XXUENI1",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "samsung/ha3gxx/ha3g:4.4.2/KOT49H/N900XXUENI1:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "KOT49H",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

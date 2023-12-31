@@ -4,12 +4,17 @@
   "BRAND": "ERGO",
   "PRODUCT": "ERGO A500 Best",
   "DEVICE": "ERGO A500 Best",
-  "FINGERPRINT": "alps/full_br6580_weg_l/br6580_weg_l:5.1/LMY47I/1464335018:user/test-keys",
-  "SECURITY_PATCH": "2015-12-01",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "LMY47I",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.1",
+  "RELEASE_OR_CODENAME": "5.1",
+  "ID": "LMY47I",
   "INCREMENTAL": "1464335018",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "alps/full_br6580_weg_l/br6580_weg_l:5.1/LMY47I/1464335018:user/test-keys",
+  "SECURITY_PATCH": "2015-12-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 22,
+  "*.build.id": "LMY47I",
+  "*.security_patch": "2015-12-01",
+  "*.build.version.sdk": "22"
 }

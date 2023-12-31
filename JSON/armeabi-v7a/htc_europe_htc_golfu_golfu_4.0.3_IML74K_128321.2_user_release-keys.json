@@ -4,12 +4,17 @@
   "BRAND": "htc_europe",
   "PRODUCT": "htc_golfu",
   "DEVICE": "golfu",
-  "FINGERPRINT": "htc_europe/htc_golfu/golfu:4.0.3/IML74K/128321.2:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "IML74K",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.0.3",
+  "RELEASE_OR_CODENAME": "4.0.3",
+  "ID": "IML74K",
   "INCREMENTAL": "128321.2",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "htc_europe/htc_golfu/golfu:4.0.3/IML74K/128321.2:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 15,
+  "*.build.id": "IML74K",
+  "*.security_patch": "",
+  "*.build.version.sdk": "15"
 }

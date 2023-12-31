@@ -4,12 +4,17 @@
   "BRAND": "Beeline",
   "PRODUCT": "Beeline_Pro_6",
   "DEVICE": "Beeline_Pro_6",
-  "FINGERPRINT": "Beeline/Beeline_Pro_6/Beeline_Pro_6:7.0/NRD90M/1499697838:user/release-keys",
-  "SECURITY_PATCH": "2017-06-05",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "NRD90M",
-  "VNDK_VERSION": "",
+  "RELEASE": "7.0",
+  "RELEASE_OR_CODENAME": "7.0",
+  "ID": "NRD90M",
   "INCREMENTAL": "1499697838",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Beeline/Beeline_Pro_6/Beeline_Pro_6:7.0/NRD90M/1499697838:user/release-keys",
+  "SECURITY_PATCH": "2017-06-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 24,
+  "*.build.id": "NRD90M",
+  "*.security_patch": "2017-06-05",
+  "*.build.version.sdk": "24"
 }

@@ -4,12 +4,17 @@
   "BRAND": "EVERCOSS",
   "PRODUCT": "S45B",
   "DEVICE": "S45B",
-  "FINGERPRINT": "EVERCOSS/S45B/S45B:8.1.0/OPM2.171019.012/37610:user/release-keys",
-  "SECURITY_PATCH": "2018-09-05",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "OPM2.171019.012",
-  "VNDK_VERSION": "1",
+  "RELEASE": "8.1.0",
+  "RELEASE_OR_CODENAME": "8.1.0",
+  "ID": "OPM2.171019.012",
   "INCREMENTAL": "37610",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "EVERCOSS/S45B/S45B:8.1.0/OPM2.171019.012/37610:user/release-keys",
+  "SECURITY_PATCH": "2018-09-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 27,
+  "*.build.id": "OPM2.171019.012",
+  "*.security_patch": "2018-09-05",
+  "*.build.version.sdk": "27"
 }

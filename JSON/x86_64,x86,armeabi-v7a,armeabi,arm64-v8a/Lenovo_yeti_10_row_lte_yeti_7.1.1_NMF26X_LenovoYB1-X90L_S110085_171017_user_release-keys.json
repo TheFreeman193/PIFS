@@ -4,12 +4,17 @@
   "BRAND": "Lenovo",
   "PRODUCT": "yeti_10_row_lte",
   "DEVICE": "yeti",
-  "FINGERPRINT": "Lenovo/yeti_10_row_lte/yeti:7.1.1/NMF26X/LenovoYB1-X90L_S110085_171017:user/release-keys",
-  "SECURITY_PATCH": "2017-08-01",
-  "FIRST_API_LEVEL": "23",
-  "BUILD_ID": "NMF26X",
-  "VNDK_VERSION": "",
+  "RELEASE": "7.1.1",
+  "RELEASE_OR_CODENAME": "7.1.1",
+  "ID": "NMF26X",
   "INCREMENTAL": "YB1-X90L_USR_S110085_1710170829_WW08_EP_ROW",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Lenovo/yeti_10_row_lte/yeti:7.1.1/NMF26X/LenovoYB1-X90L_S110085_171017:user/release-keys",
+  "SECURITY_PATCH": "2017-08-01",
+  "DEVICE_INITIAL_SDK_INT": 23,
+  "SDK_INT": 25,
+  "*.build.id": "NMF26X",
+  "*.security_patch": "2017-08-01",
+  "*.build.version.sdk": "25"
 }

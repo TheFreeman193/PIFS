@@ -4,12 +4,17 @@
   "BRAND": "Xiaomi",
   "PRODUCT": "mocha",
   "DEVICE": "mocha",
-  "FINGERPRINT": "Xiaomi/mocha/mocha:4.4.4/KTU84P/7.11.16:user/release-keys",
-  "SECURITY_PATCH": "2016-12-01",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "KTU84P",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.4.4",
+  "RELEASE_OR_CODENAME": "4.4.4",
+  "ID": "KTU84P",
   "INCREMENTAL": "7.11.16",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Xiaomi/mocha/mocha:4.4.4/KTU84P/7.11.16:user/release-keys",
+  "SECURITY_PATCH": "2016-12-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "KTU84P",
+  "*.security_patch": "2016-12-01",
+  "*.build.version.sdk": "19"
 }

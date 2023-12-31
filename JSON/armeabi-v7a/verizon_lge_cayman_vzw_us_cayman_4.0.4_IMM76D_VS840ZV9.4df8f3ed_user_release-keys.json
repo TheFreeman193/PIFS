@@ -4,12 +4,17 @@
   "BRAND": "verizon_lge",
   "PRODUCT": "cayman_vzw_us",
   "DEVICE": "cayman",
-  "FINGERPRINT": "verizon_lge/cayman_vzw_us/cayman:4.0.4/IMM76D/VS840ZV9.4df8f3ed:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "IMM76D",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.0.4",
+  "RELEASE_OR_CODENAME": "4.0.4",
+  "ID": "IMM76D",
   "INCREMENTAL": "VS840ZV9.4df8f3ed",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "verizon_lge/cayman_vzw_us/cayman:4.0.4/IMM76D/VS840ZV9.4df8f3ed:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 15,
+  "*.build.id": "IMM76D",
+  "*.security_patch": "",
+  "*.build.version.sdk": "15"
 }

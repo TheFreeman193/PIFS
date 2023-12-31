@@ -4,12 +4,17 @@
   "BRAND": "Allwinner",
   "PRODUCT": "K2001M_SL_S211151_105HW",
   "DEVICE": "t3-k2001-nwd",
-  "FINGERPRINT": "Allwinner/t3_k2001_nwd/t3-k2001-nwd:6.0.1/MMB29M/20180507:user/test-keys",
-  "SECURITY_PATCH": "2015-12-01",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "MMB29M",
-  "VNDK_VERSION": "",
+  "RELEASE": "6.0.1",
+  "RELEASE_OR_CODENAME": "6.0.1",
+  "ID": "MMB29M",
   "INCREMENTAL": "20180507",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "Allwinner/t3_k2001_nwd/t3-k2001-nwd:6.0.1/MMB29M/20180507:user/test-keys",
+  "SECURITY_PATCH": "2015-12-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 23,
+  "*.build.id": "MMB29M",
+  "*.security_patch": "2015-12-01",
+  "*.build.version.sdk": "23"
 }

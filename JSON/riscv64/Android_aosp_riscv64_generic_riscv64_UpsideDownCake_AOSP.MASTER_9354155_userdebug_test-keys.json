@@ -4,12 +4,17 @@
   "BRAND": "Android",
   "PRODUCT": "aosp_riscv64",
   "DEVICE": "generic_riscv64",
-  "FINGERPRINT": "Android/aosp_riscv64/generic_riscv64:UpsideDownCake/AOSP.MASTER/9354155:userdebug/test-keys",
-  "SECURITY_PATCH": "2022-11-05",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "AOSP.MASTER",
-  "VNDK_VERSION": "",
+  "RELEASE": "13",
+  "RELEASE_OR_CODENAME": "13",
+  "ID": "AOSP.MASTER",
   "INCREMENTAL": "9354155",
   "TYPE": "userdebug",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "Android/aosp_riscv64/generic_riscv64:UpsideDownCake/AOSP.MASTER/9354155:userdebug/test-keys",
+  "SECURITY_PATCH": "2022-11-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 33,
+  "*.build.id": "AOSP.MASTER",
+  "*.security_patch": "2022-11-05",
+  "*.build.version.sdk": "33"
 }

@@ -4,12 +4,17 @@
   "BRAND": "ZTE",
   "PRODUCT": "ZTE_SAPPHIRELTE",
   "DEVICE": "sapphire4g",
-  "FINGERPRINT": "ZTE/ZTE_SAPPHIRELTE/sapphire4g:7.1.1/NMF26V/20191209.111413:user/release-keys",
-  "SECURITY_PATCH": "2019-12-01",
-  "FIRST_API_LEVEL": "24",
-  "BUILD_ID": "NMF26V",
-  "VNDK_VERSION": "",
+  "RELEASE": "7.1.1",
+  "RELEASE_OR_CODENAME": "7.1.1",
+  "ID": "NMF26V",
   "INCREMENTAL": "20191209.111413",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "ZTE/ZTE_SAPPHIRELTE/sapphire4g:7.1.1/NMF26V/20191209.111413:user/release-keys",
+  "SECURITY_PATCH": "2019-12-01",
+  "DEVICE_INITIAL_SDK_INT": 24,
+  "SDK_INT": 25,
+  "*.build.id": "NMF26V",
+  "*.security_patch": "2019-12-01",
+  "*.build.version.sdk": "25"
 }

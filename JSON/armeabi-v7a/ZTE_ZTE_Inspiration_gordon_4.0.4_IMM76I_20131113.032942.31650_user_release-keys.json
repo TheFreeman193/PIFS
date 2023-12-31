@@ -4,12 +4,17 @@
   "BRAND": "ZTE",
   "PRODUCT": "ZTE_Inspiration",
   "DEVICE": "gordon",
-  "FINGERPRINT": "ZTE/ZTE_Inspiration/gordon:4.0.4/IMM76I/20131113.032942.31650:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "IMM76I",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.0.4",
+  "RELEASE_OR_CODENAME": "4.0.4",
+  "ID": "IMM76I",
   "INCREMENTAL": "20131113.032942.31650",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "ZTE/ZTE_Inspiration/gordon:4.0.4/IMM76I/20131113.032942.31650:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 15,
+  "*.build.id": "IMM76I",
+  "*.security_patch": "",
+  "*.build.version.sdk": "15"
 }

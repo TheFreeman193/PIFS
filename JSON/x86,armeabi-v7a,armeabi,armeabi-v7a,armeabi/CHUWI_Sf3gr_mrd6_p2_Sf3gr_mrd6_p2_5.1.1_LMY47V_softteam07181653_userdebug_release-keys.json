@@ -4,12 +4,17 @@
   "BRAND": "CHUWI",
   "PRODUCT": "Sf3gr_mrd6_p2",
   "DEVICE": "Sf3gr_mrd6_p2",
-  "FINGERPRINT": "CHUWI/Sf3gr_mrd6_p2/Sf3gr_mrd6_p2:5.1.1/LMY47V/softteam07181653:userdebug/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "LMY47V",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.1.1",
+  "RELEASE_OR_CODENAME": "5.1.1",
+  "ID": "LMY47V",
   "INCREMENTAL": "eng.softteam.20150718.165141",
   "TYPE": "userdebug",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "CHUWI/Sf3gr_mrd6_p2/Sf3gr_mrd6_p2:5.1.1/LMY47V/softteam07181653:userdebug/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 22,
+  "*.build.id": "LMY47V",
+  "*.security_patch": "",
+  "*.build.version.sdk": "22"
 }

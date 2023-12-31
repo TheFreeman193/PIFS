@@ -4,12 +4,17 @@
   "BRAND": "Spreadtrum",
   "PRODUCT": "s08_ly_a_2sim",
   "DEVICE": "s08-ly-a",
-  "FINGERPRINT": "Spreadtrum/s08_ly_a_2sim/s08-ly-a:4.0.3/IML74K/eng.xiongyu.20130704.181719:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "IML74K",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.1",
+  "RELEASE_OR_CODENAME": "4.1",
+  "ID": "IML74K",
   "INCREMENTAL": "eng.xiongyu.20130704.181719",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "Spreadtrum/s08_ly_a_2sim/s08-ly-a:4.0.3/IML74K/eng.xiongyu.20130704.181719:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 15,
+  "*.build.id": "IML74K",
+  "*.security_patch": "",
+  "*.build.version.sdk": "15"
 }

@@ -4,12 +4,17 @@
   "BRAND": "htc_europe",
   "PRODUCT": "htc_pyramid",
   "DEVICE": "pyramid",
-  "FINGERPRINT": "htc_europe/htc_pyramid/pyramid:2.3.4/GRJ22/125597.1:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "GRJ22",
-  "VNDK_VERSION": "",
+  "RELEASE": "2.3.4",
+  "RELEASE_OR_CODENAME": "2.3.4",
+  "ID": "GRJ22",
   "INCREMENTAL": "125597.1",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "htc_europe/htc_pyramid/pyramid:2.3.4/GRJ22/125597.1:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 10,
+  "*.build.id": "GRJ22",
+  "*.security_patch": "",
+  "*.build.version.sdk": "10"
 }

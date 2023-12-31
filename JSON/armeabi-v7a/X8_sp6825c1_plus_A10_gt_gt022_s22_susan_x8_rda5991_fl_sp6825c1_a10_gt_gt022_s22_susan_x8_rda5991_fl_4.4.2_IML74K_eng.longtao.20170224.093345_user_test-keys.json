@@ -4,12 +4,17 @@
   "BRAND": "X8",
   "PRODUCT": "sp6825c1_plus_A10_gt_gt022_s22_susan_x8_rda5991_fl",
   "DEVICE": "sp6825c1_a10_gt_gt022_s22_susan_x8_rda5991_fl",
-  "FINGERPRINT": "X8/sp6825c1_plus_A10_gt_gt022_s22_susan_x8_rda5991_fl/sp6825c1_a10_gt_gt022_s22_susan_x8_rda5991_fl:4.4.2/IML74K/eng.longtao.20170224.093345:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "IML74K",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.4.2",
+  "RELEASE_OR_CODENAME": "4.4.2",
+  "ID": "IML74K",
   "INCREMENTAL": "eng.longtao.20170224.093345",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "X8/sp6825c1_plus_A10_gt_gt022_s22_susan_x8_rda5991_fl/sp6825c1_a10_gt_gt022_s22_susan_x8_rda5991_fl:4.4.2/IML74K/eng.longtao.20170224.093345:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 15,
+  "*.build.id": "IML74K",
+  "*.security_patch": "",
+  "*.build.version.sdk": "15"
 }

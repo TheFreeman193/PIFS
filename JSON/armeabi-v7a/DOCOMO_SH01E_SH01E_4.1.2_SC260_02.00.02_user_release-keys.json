@@ -4,12 +4,17 @@
   "BRAND": "DOCOMO",
   "PRODUCT": "SH01E",
   "DEVICE": "SH01E",
-  "FINGERPRINT": "DOCOMO/SH01E/SH01E:4.1.2/SC260/02.00.02:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "SC260",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.1.2",
+  "RELEASE_OR_CODENAME": "4.1.2",
+  "ID": "SC260",
   "INCREMENTAL": "02.00.02",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "DOCOMO/SH01E/SH01E:4.1.2/SC260/02.00.02:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 16,
+  "*.build.id": "SC260",
+  "*.security_patch": "",
+  "*.build.version.sdk": "16"
 }

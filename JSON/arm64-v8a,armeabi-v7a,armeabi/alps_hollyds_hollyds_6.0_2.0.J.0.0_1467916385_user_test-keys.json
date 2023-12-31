@@ -4,12 +4,17 @@
   "BRAND": "alps",
   "PRODUCT": "hollyds",
   "DEVICE": "hollyds",
-  "FINGERPRINT": "alps/hollyds/hollyds:6.0/2.0.J.0.0/1467916385:user/test-keys",
-  "SECURITY_PATCH": "2016-06-01",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "30.2.B.0.100",
-  "VNDK_VERSION": "",
+  "RELEASE": "6.0",
+  "RELEASE_OR_CODENAME": "6.0",
+  "ID": "30.2.B.0.100",
   "INCREMENTAL": "1467916385",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "alps/hollyds/hollyds:6.0/2.0.J.0.0/1467916385:user/test-keys",
+  "SECURITY_PATCH": "2016-06-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 23,
+  "*.build.id": "30.2.B.0.100",
+  "*.security_patch": "2016-06-01",
+  "*.build.version.sdk": "23"
 }

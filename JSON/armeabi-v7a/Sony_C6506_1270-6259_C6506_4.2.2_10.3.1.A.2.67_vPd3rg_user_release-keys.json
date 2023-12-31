@@ -4,12 +4,17 @@
   "BRAND": "Sony",
   "PRODUCT": "C6506_1270-6259",
   "DEVICE": "C6506",
-  "FINGERPRINT": "Sony/C6506_1270-6259/C6506:4.2.2/10.3.1.A.2.67/vPd3rg:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "10.3.1.A.2.67",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.2.2",
+  "RELEASE_OR_CODENAME": "4.2.2",
+  "ID": "10.3.1.A.2.67",
   "INCREMENTAL": "vPd3rg",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Sony/C6506_1270-6259/C6506:4.2.2/10.3.1.A.2.67/vPd3rg:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 17,
+  "*.build.id": "10.3.1.A.2.67",
+  "*.security_patch": "",
+  "*.build.version.sdk": "17"
 }

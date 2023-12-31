@@ -4,12 +4,17 @@
   "BRAND": "alps",
   "PRODUCT": "W109G_1408013",
   "DEVICE": "W109G_1408013",
-  "FINGERPRINT": "alps/W109G_1408013/W109G_1408013:4.4.2/KOT49H/1409201241:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "KOT49H",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.4.2",
+  "RELEASE_OR_CODENAME": "4.4.2",
+  "ID": "KOT49H",
   "INCREMENTAL": "eng.shixiong.1409201241",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "alps/W109G_1408013/W109G_1408013:4.4.2/KOT49H/1409201241:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "KOT49H",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

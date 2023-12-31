@@ -4,12 +4,17 @@
   "BRAND": "motorola",
   "PRODUCT": "malta_64",
   "DEVICE": "malta_64",
-  "FINGERPRINT": "motorola/malta_64/malta:10/QOM30.255-12/a2748:user/release-keys",
-  "SECURITY_PATCH": "2020-12-05",
-  "FIRST_API_LEVEL": "29",
-  "BUILD_ID": "QOM30.255-12",
-  "VNDK_VERSION": "",
+  "RELEASE": "10",
+  "RELEASE_OR_CODENAME": "10",
+  "ID": "QOM30.255-12",
   "INCREMENTAL": "a2748",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "motorola/malta_64/malta:10/QOM30.255-12/a2748:user/release-keys",
+  "SECURITY_PATCH": "2020-12-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 29,
+  "*.build.id": "QOM30.255-12",
+  "*.security_patch": "2020-12-05",
+  "*.build.version.sdk": "29"
 }

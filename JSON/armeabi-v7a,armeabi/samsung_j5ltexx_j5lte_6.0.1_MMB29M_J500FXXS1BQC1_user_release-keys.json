@@ -4,12 +4,17 @@
   "BRAND": "samsung",
   "PRODUCT": "j5ltexx",
   "DEVICE": "j5lte",
-  "FINGERPRINT": "samsung/j5ltexx/j5lte:6.0.1/MMB29M/J500FXXS1BQC1:user/release-keys",
-  "SECURITY_PATCH": "2017-03-01",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "MMB29M",
-  "VNDK_VERSION": "",
+  "RELEASE": "6.0.1",
+  "RELEASE_OR_CODENAME": "6.0.1",
+  "ID": "MMB29M",
   "INCREMENTAL": "J500FXXS1BQC1",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "samsung/j5ltexx/j5lte:6.0.1/MMB29M/J500FXXS1BQC1:user/release-keys",
+  "SECURITY_PATCH": "2017-03-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 23,
+  "*.build.id": "MMB29M",
+  "*.security_patch": "2017-03-01",
+  "*.build.version.sdk": "23"
 }

@@ -4,12 +4,17 @@
   "BRAND": "Xiaomi",
   "PRODUCT": "olive",
   "DEVICE": "olive",
-  "FINGERPRINT": "Xiaomi/olive/olive:9/PKQ1.190319.001/V11.0.7.0.PCNCNXM:user/release-keys",
-  "SECURITY_PATCH": "2019-12-01",
-  "FIRST_API_LEVEL": "28",
-  "BUILD_ID": "PKQ1.190319.001",
-  "VNDK_VERSION": "",
+  "RELEASE": "9",
+  "RELEASE_OR_CODENAME": "9",
+  "ID": "PKQ1.190319.001",
   "INCREMENTAL": "V11.0.7.0.PCNCNXM",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Xiaomi/olive/olive:9/PKQ1.190319.001/V11.0.7.0.PCNCNXM:user/release-keys",
+  "SECURITY_PATCH": "2019-12-01",
+  "DEVICE_INITIAL_SDK_INT": 28,
+  "SDK_INT": 28,
+  "*.build.id": "PKQ1.190319.001",
+  "*.security_patch": "2019-12-01",
+  "*.build.version.sdk": "28"
 }

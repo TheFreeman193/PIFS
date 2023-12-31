@@ -4,12 +4,17 @@
   "BRAND": "Impression",
   "PRODUCT": "ImPAD_P101",
   "DEVICE": "ImPAD_P101",
-  "FINGERPRINT": "Impression/ImPAD_P101/ImPAD_P101:8.1.0/O11019/1525700820:user/release-keys",
-  "SECURITY_PATCH": "2018-06-05",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "O11019",
-  "VNDK_VERSION": "",
+  "RELEASE": "8.1.0",
+  "RELEASE_OR_CODENAME": "8.1.0",
+  "ID": "O11019",
   "INCREMENTAL": "1525700820",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Impression/ImPAD_P101/ImPAD_P101:8.1.0/O11019/1525700820:user/release-keys",
+  "SECURITY_PATCH": "2018-06-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 27,
+  "*.build.id": "O11019",
+  "*.security_patch": "2018-06-05",
+  "*.build.version.sdk": "27"
 }

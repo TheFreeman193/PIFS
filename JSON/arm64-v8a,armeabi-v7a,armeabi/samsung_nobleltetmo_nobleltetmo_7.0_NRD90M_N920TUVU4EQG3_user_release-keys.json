@@ -4,12 +4,17 @@
   "BRAND": "samsung",
   "PRODUCT": "nobleltetmo",
   "DEVICE": "nobleltetmo",
-  "FINGERPRINT": "samsung/nobleltetmo/nobleltetmo:7.0/NRD90M/N920TUVU4EQG3:user/release-keys",
-  "SECURITY_PATCH": "2017-07-01",
-  "FIRST_API_LEVEL": "22",
-  "BUILD_ID": "NRD90M",
-  "VNDK_VERSION": "",
+  "RELEASE": "7.0",
+  "RELEASE_OR_CODENAME": "7.0",
+  "ID": "NRD90M",
   "INCREMENTAL": "N920TUVU4EQG3",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "samsung/nobleltetmo/nobleltetmo:7.0/NRD90M/N920TUVU4EQG3:user/release-keys",
+  "SECURITY_PATCH": "2017-07-01",
+  "DEVICE_INITIAL_SDK_INT": 22,
+  "SDK_INT": 24,
+  "*.build.id": "NRD90M",
+  "*.security_patch": "2017-07-01",
+  "*.build.version.sdk": "24"
 }

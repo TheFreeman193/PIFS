@@ -4,12 +4,17 @@
   "BRAND": "alps",
   "PRODUCT": "n1_jb",
   "DEVICE": "n1_jb",
-  "FINGERPRINT": "alps/n1_jb/n1_jb:4.1.2/JZO54K/1366834945:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JZO54K",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.1.2",
+  "RELEASE_OR_CODENAME": "4.1.2",
+  "ID": "JZO54K",
   "INCREMENTAL": "eng.lewa.1366834945",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "alps/n1_jb/n1_jb:4.1.2/JZO54K/1366834945:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 16,
+  "*.build.id": "JZO54K",
+  "*.security_patch": "",
+  "*.build.version.sdk": "16"
 }

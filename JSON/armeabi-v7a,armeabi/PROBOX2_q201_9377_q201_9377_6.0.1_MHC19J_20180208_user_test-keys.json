@@ -4,12 +4,17 @@
   "BRAND": "PROBOX2",
   "PRODUCT": "q201_9377",
   "DEVICE": "q201_9377",
-  "FINGERPRINT": "PROBOX2/q201_9377/q201_9377:6.0.1/MHC19J/20180208:user/test-keys",
-  "SECURITY_PATCH": "2016-08-01",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "MHC19J",
-  "VNDK_VERSION": "",
+  "RELEASE": "6.0.1",
+  "RELEASE_OR_CODENAME": "6.0.1",
+  "ID": "MHC19J",
   "INCREMENTAL": "20180208",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "PROBOX2/q201_9377/q201_9377:6.0.1/MHC19J/20180208:user/test-keys",
+  "SECURITY_PATCH": "2016-08-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 23,
+  "*.build.id": "MHC19J",
+  "*.security_patch": "2016-08-01",
+  "*.build.version.sdk": "23"
 }

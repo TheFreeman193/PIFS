@@ -4,12 +4,17 @@
   "BRAND": "samsung",
   "PRODUCT": "E952",
   "DEVICE": "E952",
-  "FINGERPRINT": "alps/E952/E952:2.3.3/GRK39F/eng.release-builder.1369456284:eng/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "GRK39F",
-  "VNDK_VERSION": "",
+  "RELEASE": "2.3.3",
+  "RELEASE_OR_CODENAME": "2.3.3",
+  "ID": "GRK39F",
   "INCREMENTAL": "eng.sw03.1369456051",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "alps/E952/E952:2.3.3/GRK39F/eng.release-builder.1369456284:eng/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 10,
+  "*.build.id": "GRK39F",
+  "*.security_patch": "",
+  "*.build.version.sdk": "10"
 }

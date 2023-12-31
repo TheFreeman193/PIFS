@@ -4,12 +4,17 @@
   "BRAND": "lge",
   "PRODUCT": "geehdc_dcm_jp",
   "DEVICE": "geehdc",
-  "FINGERPRINT": "lge/geehdc_dcm_jp/geehdc:4.1.2/JZO54K/L01E20d.1376965582:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JZO54K",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.1.2",
+  "RELEASE_OR_CODENAME": "4.1.2",
+  "ID": "JZO54K",
   "INCREMENTAL": "L01E20d.1376965582",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "lge/geehdc_dcm_jp/geehdc:4.1.2/JZO54K/L01E20d.1376965582:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 16,
+  "*.build.id": "JZO54K",
+  "*.security_patch": "",
+  "*.build.version.sdk": "16"
 }

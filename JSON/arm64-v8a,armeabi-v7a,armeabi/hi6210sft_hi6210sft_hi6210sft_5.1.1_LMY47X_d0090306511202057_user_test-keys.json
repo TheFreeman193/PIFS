@@ -4,12 +4,17 @@
   "BRAND": "hi6210sft",
   "PRODUCT": "hi6210sft",
   "DEVICE": "hi6210sft",
-  "FINGERPRINT": "hi6210sft/hi6210sft/hi6210sft:5.1.1/LMY47X/d0090306511202057:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "LMY47X",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.1.1",
+  "RELEASE_OR_CODENAME": "5.1.1",
+  "ID": "LMY47X",
   "INCREMENTAL": "eng.d00903065.20151120.205503",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "hi6210sft/hi6210sft/hi6210sft:5.1.1/LMY47X/d0090306511202057:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 22,
+  "*.build.id": "LMY47X",
+  "*.security_patch": "",
+  "*.build.version.sdk": "22"
 }

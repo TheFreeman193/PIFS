@@ -4,12 +4,17 @@
   "BRAND": "AirTab",
   "PRODUCT": "DEXP_Ursus_9PV_3G",
   "DEVICE": "AirTab",
-  "FINGERPRINT": "AirTab/DEXP_Ursus_9PV_3G/AirTab:4.2.2/JDQ39/eng.dingming.20140721.143652:userdebug/dev-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JDQ39",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.2.2",
+  "RELEASE_OR_CODENAME": "4.2.2",
+  "ID": "JDQ39",
   "INCREMENTAL": "eng.dingming.20140721.143652",
   "TYPE": "userdebug",
-  "TAGS": "dev-keys"
+  "TAGS": "dev-keys",
+  "FINGERPRINT": "AirTab/DEXP_Ursus_9PV_3G/AirTab:4.2.2/JDQ39/eng.dingming.20140721.143652:userdebug/dev-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 17,
+  "*.build.id": "JDQ39",
+  "*.security_patch": "",
+  "*.build.version.sdk": "17"
 }

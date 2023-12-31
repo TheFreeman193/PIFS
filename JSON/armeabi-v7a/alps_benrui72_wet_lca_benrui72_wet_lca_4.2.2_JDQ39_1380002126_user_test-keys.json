@@ -4,12 +4,17 @@
   "BRAND": "alps",
   "PRODUCT": "mtk89_wet_jb3",
   "DEVICE": "mtk89_wet_jb3",
-  "FINGERPRINT": "alps/benrui72_wet_lca/benrui72_wet_lca:4.2.2/JDQ39/1380002126:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JDQ39",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.2.2",
+  "RELEASE_OR_CODENAME": "4.2.2",
+  "ID": "JDQ39",
   "INCREMENTAL": "eng.lxq.1380002126",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "alps/benrui72_wet_lca/benrui72_wet_lca:4.2.2/JDQ39/1380002126:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 17,
+  "*.build.id": "JDQ39",
+  "*.security_patch": "",
+  "*.build.version.sdk": "17"
 }

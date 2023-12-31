@@ -4,12 +4,17 @@
   "BRAND": "alps",
   "PRODUCT": "P50",
   "DEVICE": "P50",
-  "FINGERPRINT": "alps/full_b906/b906:5.1/LRX21M/1638763786:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "LRX21M",
-  "VNDK_VERSION": "",
+  "RELEASE": "12.0",
+  "RELEASE_OR_CODENAME": "12.0",
+  "ID": "LRX21M",
   "INCREMENTAL": "1638763786",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "alps/full_b906/b906:5.1/LRX21M/1638763786:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 21,
+  "*.build.id": "LRX21M",
+  "*.security_patch": "",
+  "*.build.version.sdk": "21"
 }

@@ -4,12 +4,17 @@
   "BRAND": "samsung",
   "PRODUCT": "dreamqltesq",
   "DEVICE": "dreamqltesq",
-  "FINGERPRINT": "samsung/dreamqltesq/dreamqltesq:7.0/NRD90M/G950USQU1AQDE:user/release-keys",
-  "SECURITY_PATCH": "2017-04-01",
-  "FIRST_API_LEVEL": "24",
-  "BUILD_ID": "NRD90M",
-  "VNDK_VERSION": "",
+  "RELEASE": "7.0",
+  "RELEASE_OR_CODENAME": "7.0",
+  "ID": "NRD90M",
   "INCREMENTAL": "G950USQU1AQDE",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "samsung/dreamqltesq/dreamqltesq:7.0/NRD90M/G950USQU1AQDE:user/release-keys",
+  "SECURITY_PATCH": "2017-04-01",
+  "DEVICE_INITIAL_SDK_INT": 24,
+  "SDK_INT": 24,
+  "*.build.id": "NRD90M",
+  "*.security_patch": "2017-04-01",
+  "*.build.version.sdk": "24"
 }

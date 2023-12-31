@@ -4,12 +4,17 @@
   "BRAND": "Hero-K1",
   "PRODUCT": "LA2-W",
   "DEVICE": "YUSUN_LA2-W",
-  "FINGERPRINT": "Hero-K1/LA2-W/YUSUN_LA2-W:4.2.2/Hero-K1LA2-W/AW839Q-BH725AMD10-0101-V0103:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "Hero-K1LA2-W",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.2.2",
+  "RELEASE_OR_CODENAME": "4.2.2",
+  "ID": "Hero-K1LA2-W",
   "INCREMENTAL": "eng..1405674013",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "Hero-K1/LA2-W/YUSUN_LA2-W:4.2.2/Hero-K1LA2-W/AW839Q-BH725AMD10-0101-V0103:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 17,
+  "*.build.id": "Hero-K1LA2-W",
+  "*.security_patch": "",
+  "*.build.version.sdk": "17"
 }

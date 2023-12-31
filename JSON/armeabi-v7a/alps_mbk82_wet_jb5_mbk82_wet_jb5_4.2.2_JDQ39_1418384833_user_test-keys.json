@@ -4,12 +4,17 @@
   "BRAND": "iPhone",
   "PRODUCT": "iPhone",
   "DEVICE": "mbk82_wet_jb5",
-  "FINGERPRINT": "alps/mbk82_wet_jb5/mbk82_wet_jb5:4.2.2/JDQ39/1418384833:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JDQ39",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.2.2",
+  "RELEASE_OR_CODENAME": "4.2.2",
+  "ID": "JDQ39",
   "INCREMENTAL": "eng.liuxiuyun.1418384833",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "alps/mbk82_wet_jb5/mbk82_wet_jb5:4.2.2/JDQ39/1418384833:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 17,
+  "*.build.id": "JDQ39",
+  "*.security_patch": "",
+  "*.build.version.sdk": "17"
 }

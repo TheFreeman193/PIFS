@@ -4,12 +4,17 @@
   "BRAND": "motorola",
   "PRODUCT": "falcon_amxco",
   "DEVICE": "falcon_umts",
-  "FINGERPRINT": "motorola/falcon_amxco/falcon_umts:4.4.2/KXB20.9-1.10-1.24-1.1/1:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "KXB20.9-1.10-1.24-1.1",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.4.2",
+  "RELEASE_OR_CODENAME": "4.4.2",
+  "ID": "KXB20.9-1.10-1.24-1.1",
   "INCREMENTAL": "1",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "motorola/falcon_amxco/falcon_umts:4.4.2/KXB20.9-1.10-1.24-1.1/1:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "KXB20.9-1.10-1.24-1.1",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

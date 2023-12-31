@@ -4,12 +4,17 @@
   "BRAND": "ZOPO",
   "PRODUCT": "Android",
   "DEVICE": "Android",
-  "FINGERPRINT": "thl/bird92_wet_tdd/bird92_wet_tdd:4.2.2/JDQ39/1392951049:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JDQ39",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.2.2",
+  "RELEASE_OR_CODENAME": "4.2.2",
+  "ID": "JDQ39",
   "INCREMENTAL": "MSB 37_4.10.24",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "thl/bird92_wet_tdd/bird92_wet_tdd:4.2.2/JDQ39/1392951049:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 17,
+  "*.build.id": "JDQ39",
+  "*.security_patch": "",
+  "*.build.version.sdk": "17"
 }

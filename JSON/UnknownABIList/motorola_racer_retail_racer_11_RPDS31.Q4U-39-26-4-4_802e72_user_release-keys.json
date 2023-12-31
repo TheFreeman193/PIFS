@@ -4,12 +4,17 @@
   "BRAND": "motorola",
   "PRODUCT": "racer_retail",
   "DEVICE": "racer",
-  "FINGERPRINT": "motorola/racer_retail/racer:11/RPDS31.Q4U-39-26-4-4/802e72:user/release-keys",
-  "SECURITY_PATCH": "2021-06-01",
-  "FIRST_API_LEVEL": "29",
-  "BUILD_ID": "RPDS31.Q4U-39-26-4-4",
-  "VNDK_VERSION": "",
+  "RELEASE": "11",
+  "RELEASE_OR_CODENAME": "11",
+  "ID": "RPDS31.Q4U-39-26-4-4",
   "INCREMENTAL": "802e72",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "motorola/racer_retail/racer:11/RPDS31.Q4U-39-26-4-4/802e72:user/release-keys",
+  "SECURITY_PATCH": "2021-06-01",
+  "DEVICE_INITIAL_SDK_INT": 29,
+  "SDK_INT": 30,
+  "*.build.id": "RPDS31.Q4U-39-26-4-4",
+  "*.security_patch": "2021-06-01",
+  "*.build.version.sdk": "30"
 }

@@ -4,12 +4,17 @@
   "BRAND": "Smartfren",
   "PRODUCT": "AD682H",
   "DEVICE": "AD682H",
-  "FINGERPRINT": "Smartfren/AD682H/AD682H:4.4.2/KVT49L/eng.builder.20140804.194645:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "KVT49L",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.4.2",
+  "RELEASE_OR_CODENAME": "4.4.2",
+  "ID": "KVT49L",
   "INCREMENTAL": "eng.builder.20140804.194645",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Smartfren/AD682H/AD682H:4.4.2/KVT49L/eng.builder.20140804.194645:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "KVT49L",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

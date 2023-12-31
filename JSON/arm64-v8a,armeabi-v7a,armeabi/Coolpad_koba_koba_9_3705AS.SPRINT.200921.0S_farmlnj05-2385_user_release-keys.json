@@ -4,12 +4,17 @@
   "BRAND": "Coolpad",
   "PRODUCT": "koba",
   "DEVICE": "koba",
-  "FINGERPRINT": "Coolpad/koba/koba:9/3705AS.SPRINT.200921.0S/farmlnj05-2385:user/release-keys",
-  "SECURITY_PATCH": "2020-09-01",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "3705AS.SPRINT.200921.0S",
-  "VNDK_VERSION": "",
+  "RELEASE": "9",
+  "RELEASE_OR_CODENAME": "9",
+  "ID": "3705AS.SPRINT.200921.0S",
   "INCREMENTAL": "farmlnj05-2385",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Coolpad/koba/koba:9/3705AS.SPRINT.200921.0S/farmlnj05-2385:user/release-keys",
+  "SECURITY_PATCH": "2020-09-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 28,
+  "*.build.id": "3705AS.SPRINT.200921.0S",
+  "*.security_patch": "2020-09-01",
+  "*.build.version.sdk": "28"
 }

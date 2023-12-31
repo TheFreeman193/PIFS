@@ -4,12 +4,17 @@
   "BRAND": "lge",
   "PRODUCT": "e8lte_global_com",
   "DEVICE": "e8lte",
-  "FINGERPRINT": "lge/e8lte_global_com/e8lte:5.0.2/LRX22G/1526418012670:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "LRX22G",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.0.2",
+  "RELEASE_OR_CODENAME": "5.0.2",
+  "ID": "LRX22G",
   "INCREMENTAL": "1526418012670",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "lge/e8lte_global_com/e8lte:5.0.2/LRX22G/1526418012670:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 21,
+  "*.build.id": "LRX22G",
+  "*.security_patch": "",
+  "*.build.version.sdk": "21"
 }

@@ -4,12 +4,17 @@
   "BRAND": "alps",
   "PRODUCT": "c799_q29_a11",
   "DEVICE": "c799_q29_a11",
-  "FINGERPRINT": "alps/c799_q29_a11/c799_q29_a11:5.0.1/KOT49H/1495778645:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "KOT49H",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.0.1",
+  "RELEASE_OR_CODENAME": "5.0.1",
+  "ID": "KOT49H",
   "INCREMENTAL": "eng.sw01.1495778645",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "alps/c799_q29_a11/c799_q29_a11:5.0.1/KOT49H/1495778645:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "KOT49H",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

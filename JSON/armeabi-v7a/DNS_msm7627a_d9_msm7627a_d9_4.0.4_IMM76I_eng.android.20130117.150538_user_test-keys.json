@@ -4,12 +4,17 @@
   "BRAND": "DNS",
   "PRODUCT": "msm7627a_d9",
   "DEVICE": "msm7627a_d9",
-  "FINGERPRINT": "DNS/msm7627a_d9/msm7627a_d9:4.0.4/IMM76I/eng.android.20130117.150538:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "IMM76I",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.0.4",
+  "RELEASE_OR_CODENAME": "4.0.4",
+  "ID": "IMM76I",
   "INCREMENTAL": "eng.android.20130117.150538",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "DNS/msm7627a_d9/msm7627a_d9:4.0.4/IMM76I/eng.android.20130117.150538:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 15,
+  "*.build.id": "IMM76I",
+  "*.security_patch": "",
+  "*.build.version.sdk": "15"
 }

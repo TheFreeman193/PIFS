@@ -4,12 +4,17 @@
   "BRAND": "HUAWEI",
   "PRODUCT": "LUA-L21",
   "DEVICE": "HWLUA-L6735",
-  "FINGERPRINT": "HUAWEI/LUA-L21/HWLUA-L6735:5.1/HUAWEILUA-L21/C328B108:user/release-keys",
-  "SECURITY_PATCH": "2018-03-05",
-  "FIRST_API_LEVEL": "22",
-  "BUILD_ID": "HUAWEILUA-L21",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.1",
+  "RELEASE_OR_CODENAME": "5.1",
+  "ID": "HUAWEILUA-L21",
   "INCREMENTAL": "C328B108",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "HUAWEI/LUA-L21/HWLUA-L6735:5.1/HUAWEILUA-L21/C328B108:user/release-keys",
+  "SECURITY_PATCH": "2018-03-05",
+  "DEVICE_INITIAL_SDK_INT": 22,
+  "SDK_INT": 22,
+  "*.build.id": "HUAWEILUA-L21",
+  "*.security_patch": "2018-03-05",
+  "*.build.version.sdk": "22"
 }

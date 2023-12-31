@@ -4,12 +4,17 @@
   "BRAND": "Sony",
   "PRODUCT": "ST21i_1264-5091",
   "DEVICE": "ST21i",
-  "FINGERPRINT": "Sony/ST21i_1264-5091/ST21i:4.0.4/11.0.A.4.22/66N97w:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "11.0.A.4.22",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.0.4",
+  "RELEASE_OR_CODENAME": "4.0.4",
+  "ID": "11.0.A.4.22",
   "INCREMENTAL": "66N97w",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Sony/ST21i_1264-5091/ST21i:4.0.4/11.0.A.4.22/66N97w:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 15,
+  "*.build.id": "11.0.A.4.22",
+  "*.security_patch": "",
+  "*.build.version.sdk": "15"
 }

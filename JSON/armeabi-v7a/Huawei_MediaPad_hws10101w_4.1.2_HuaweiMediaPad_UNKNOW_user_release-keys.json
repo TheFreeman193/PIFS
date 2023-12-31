@@ -4,12 +4,17 @@
   "BRAND": "Huawei",
   "PRODUCT": "MediaPad",
   "DEVICE": "hws10101w",
-  "FINGERPRINT": "Huawei/MediaPad/hws10101w:4.1.2/HuaweiMediaPad/UNKNOW:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "HuaweiMediaPad",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.1.2",
+  "RELEASE_OR_CODENAME": "4.1.2",
+  "ID": "HuaweiMediaPad",
   "INCREMENTAL": "UNKNOW",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Huawei/MediaPad/hws10101w:4.1.2/HuaweiMediaPad/UNKNOW:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 16,
+  "*.build.id": "HuaweiMediaPad",
+  "*.security_patch": "",
+  "*.build.version.sdk": "16"
 }

@@ -4,12 +4,17 @@
   "BRAND": "LEMX",
   "PRODUCT": "LEMX",
   "DEVICE": "LEMX",
-  "FINGERPRINT": "alps/full_dmn640_36_n1/dmn640_36_n1:7.1.1/N6F26Q/1539046524:user/test-keys",
-  "SECURITY_PATCH": "2018-05-05",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "N6F26Q",
-  "VNDK_VERSION": "",
+  "RELEASE": "7.1.1",
+  "RELEASE_OR_CODENAME": "7.1.1",
+  "ID": "N6F26Q",
   "INCREMENTAL": "1539046524",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "alps/full_dmn640_36_n1/dmn640_36_n1:7.1.1/N6F26Q/1539046524:user/test-keys",
+  "SECURITY_PATCH": "2018-05-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 25,
+  "*.build.id": "N6F26Q",
+  "*.security_patch": "2018-05-05",
+  "*.build.version.sdk": "25"
 }

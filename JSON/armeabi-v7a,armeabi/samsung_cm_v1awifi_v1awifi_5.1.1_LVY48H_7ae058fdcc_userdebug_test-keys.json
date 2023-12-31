@@ -4,12 +4,17 @@
   "BRAND": "samsung",
   "PRODUCT": "v1awifi",
   "DEVICE": "v1awifi",
-  "FINGERPRINT": "samsung/cm_v1awifi/v1awifi:5.1.1/LVY48H/7ae058fdcc:userdebug/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "LVY48H",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.1.1",
+  "RELEASE_OR_CODENAME": "5.1.1",
+  "ID": "LVY48H",
   "INCREMENTAL": "7ae058fdcc",
   "TYPE": "userdebug",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "samsung/cm_v1awifi/v1awifi:5.1.1/LVY48H/7ae058fdcc:userdebug/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 22,
+  "*.build.id": "LVY48H",
+  "*.security_patch": "",
+  "*.build.version.sdk": "22"
 }

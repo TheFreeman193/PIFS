@@ -4,12 +4,17 @@
   "BRAND": "HUAWEI",
   "PRODUCT": "LUA-U22",
   "DEVICE": "HWLUA-U6582",
-  "FINGERPRINT": "HUAWEI/LUA-U22/HWLUA-U6582:5.1/HUAWEILUA-U22/C479B006:user/release-keys",
-  "SECURITY_PATCH": "2017-05-05",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "HUAWEILUA-U22",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.1",
+  "RELEASE_OR_CODENAME": "5.1",
+  "ID": "HUAWEILUA-U22",
   "INCREMENTAL": "C479B006",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "HUAWEI/LUA-U22/HWLUA-U6582:5.1/HUAWEILUA-U22/C479B006:user/release-keys",
+  "SECURITY_PATCH": "2017-05-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 22,
+  "*.build.id": "HUAWEILUA-U22",
+  "*.security_patch": "2017-05-05",
+  "*.build.version.sdk": "22"
 }

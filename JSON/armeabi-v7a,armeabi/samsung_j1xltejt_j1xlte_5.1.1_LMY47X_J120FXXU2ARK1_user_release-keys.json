@@ -4,12 +4,17 @@
   "BRAND": "samsung",
   "PRODUCT": "j1xltejt",
   "DEVICE": "j1xlte",
-  "FINGERPRINT": "samsung/j1xltejt/j1xlte:5.1.1/LMY47X/J120FXXU2ARK1:user/release-keys",
-  "SECURITY_PATCH": "2018-03-01",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "LMY47X",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.1.1",
+  "RELEASE_OR_CODENAME": "5.1.1",
+  "ID": "LMY47X",
   "INCREMENTAL": "J120FXXU2ARK1",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "samsung/j1xltejt/j1xlte:5.1.1/LMY47X/J120FXXU2ARK1:user/release-keys",
+  "SECURITY_PATCH": "2018-03-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 22,
+  "*.build.id": "LMY47X",
+  "*.security_patch": "2018-03-01",
+  "*.build.version.sdk": "22"
 }

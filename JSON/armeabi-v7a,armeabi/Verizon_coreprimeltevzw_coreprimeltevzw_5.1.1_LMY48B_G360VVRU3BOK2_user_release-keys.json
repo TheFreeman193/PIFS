@@ -4,12 +4,17 @@
   "BRAND": "Verizon",
   "PRODUCT": "coreprimeltevzw",
   "DEVICE": "coreprimeltevzw",
-  "FINGERPRINT": "Verizon/coreprimeltevzw/coreprimeltevzw:5.1.1/LMY48B/G360VVRU3BOK2:user/release-keys",
-  "SECURITY_PATCH": "2015-11-01",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "LMY48B",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.1.1",
+  "RELEASE_OR_CODENAME": "5.1.1",
+  "ID": "LMY48B",
   "INCREMENTAL": "G360VVRU3BOK2",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Verizon/coreprimeltevzw/coreprimeltevzw:5.1.1/LMY48B/G360VVRU3BOK2:user/release-keys",
+  "SECURITY_PATCH": "2015-11-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 22,
+  "*.build.id": "LMY48B",
+  "*.security_patch": "2015-11-01",
+  "*.build.version.sdk": "22"
 }

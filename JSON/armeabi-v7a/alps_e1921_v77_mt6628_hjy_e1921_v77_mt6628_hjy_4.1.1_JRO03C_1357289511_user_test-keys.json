@@ -4,12 +4,17 @@
   "BRAND": "alps",
   "PRODUCT": "e1921_v77_mt6628_hjy",
   "DEVICE": "e1921_v77_mt6628_hjy",
-  "FINGERPRINT": "alps/e1921_v77_mt6628_hjy/e1921_v77_mt6628_hjy:4.1.1/JRO03C/1357289511:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JRO03C",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.1.1",
+  "RELEASE_OR_CODENAME": "4.1.1",
+  "ID": "JRO03C",
   "INCREMENTAL": "eng.root.1357289511",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "alps/e1921_v77_mt6628_hjy/e1921_v77_mt6628_hjy:4.1.1/JRO03C/1357289511:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 16,
+  "*.build.id": "JRO03C",
+  "*.security_patch": "",
+  "*.build.version.sdk": "16"
 }

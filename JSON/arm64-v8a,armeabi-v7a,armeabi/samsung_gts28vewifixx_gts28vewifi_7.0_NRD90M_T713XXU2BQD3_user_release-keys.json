@@ -4,12 +4,17 @@
   "BRAND": "samsung",
   "PRODUCT": "gts28vewifixx",
   "DEVICE": "gts28vewifi",
-  "FINGERPRINT": "samsung/gts28vewifixx/gts28vewifi:7.0/NRD90M/T713XXU2BQD3:user/release-keys",
-  "SECURITY_PATCH": "2017-04-01",
-  "FIRST_API_LEVEL": "23",
-  "BUILD_ID": "NRD90M",
-  "VNDK_VERSION": "",
+  "RELEASE": "7.0",
+  "RELEASE_OR_CODENAME": "7.0",
+  "ID": "NRD90M",
   "INCREMENTAL": "T713XXU2BQD3",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "samsung/gts28vewifixx/gts28vewifi:7.0/NRD90M/T713XXU2BQD3:user/release-keys",
+  "SECURITY_PATCH": "2017-04-01",
+  "DEVICE_INITIAL_SDK_INT": 23,
+  "SDK_INT": 24,
+  "*.build.id": "NRD90M",
+  "*.security_patch": "2017-04-01",
+  "*.build.version.sdk": "24"
 }

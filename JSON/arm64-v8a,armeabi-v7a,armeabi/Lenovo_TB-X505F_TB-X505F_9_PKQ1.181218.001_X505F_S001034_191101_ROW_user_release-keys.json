@@ -4,12 +4,17 @@
   "BRAND": "Lenovo",
   "PRODUCT": "TB-X505F",
   "DEVICE": "TB-X505F",
-  "FINGERPRINT": "Lenovo/TB-X505F/TB-X505F:9/PKQ1.181218.001/X505F_S001034_191101_ROW:user/release-keys",
-  "SECURITY_PATCH": "2019-10-05",
-  "FIRST_API_LEVEL": "28",
-  "BUILD_ID": "PKQ1.181218.001",
-  "VNDK_VERSION": "",
+  "RELEASE": "9",
+  "RELEASE_OR_CODENAME": "9",
+  "ID": "PKQ1.181218.001",
   "INCREMENTAL": "X505F_S001034_191101_ROW",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Lenovo/TB-X505F/TB-X505F:9/PKQ1.181218.001/X505F_S001034_191101_ROW:user/release-keys",
+  "SECURITY_PATCH": "2019-10-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 28,
+  "*.build.id": "PKQ1.181218.001",
+  "*.security_patch": "2019-10-05",
+  "*.build.version.sdk": "28"
 }

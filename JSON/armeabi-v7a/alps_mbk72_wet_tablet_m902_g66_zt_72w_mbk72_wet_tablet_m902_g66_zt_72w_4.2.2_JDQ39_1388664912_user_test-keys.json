@@ -4,12 +4,17 @@
   "BRAND": "alps",
   "PRODUCT": "mbk72_wet_tablet_m902_g66_zt_72w",
   "DEVICE": "mbk72_wet_tablet_m902_g66_zt_72w",
-  "FINGERPRINT": "alps/mbk72_wet_tablet_m902_g66_zt_72w/mbk72_wet_tablet_m902_g66_zt_72w:4.2.2/JDQ39/1388664912:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JDQ39",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.2.2",
+  "RELEASE_OR_CODENAME": "4.2.2",
+  "ID": "JDQ39",
   "INCREMENTAL": "ZippersXL-V1.0",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "alps/mbk72_wet_tablet_m902_g66_zt_72w/mbk72_wet_tablet_m902_g66_zt_72w:4.2.2/JDQ39/1388664912:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 17,
+  "*.build.id": "JDQ39",
+  "*.security_patch": "",
+  "*.build.version.sdk": "17"
 }

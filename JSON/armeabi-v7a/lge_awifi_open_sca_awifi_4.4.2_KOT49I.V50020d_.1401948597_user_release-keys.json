@@ -4,12 +4,17 @@
   "BRAND": "lge",
   "PRODUCT": "awifi_open_sca",
   "DEVICE": "awifi",
-  "FINGERPRINT": "lge/awifi_open_sca/awifi:4.4.2/KOT49I.V50020d/.1401948597:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "KOT49I.V50020d",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.4.2",
+  "RELEASE_OR_CODENAME": "4.4.2",
+  "ID": "KOT49I.V50020d",
   "INCREMENTAL": ".1401948597",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "lge/awifi_open_sca/awifi:4.4.2/KOT49I.V50020d/.1401948597:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "KOT49I.V50020d",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

@@ -4,12 +4,17 @@
   "BRAND": "DIGMA",
   "PRODUCT": "Linx_Base_4G",
   "DEVICE": "LT5052ML",
-  "FINGERPRINT": "DIGMA/Linx_Base_4G/LT5052ML:8.1.0/O11019/20180905:user/release-keys",
-  "SECURITY_PATCH": "2018-08-05",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "O11019",
-  "VNDK_VERSION": "",
+  "RELEASE": "8.1.0",
+  "RELEASE_OR_CODENAME": "8.1.0",
+  "ID": "O11019",
   "INCREMENTAL": "20180905",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "DIGMA/Linx_Base_4G/LT5052ML:8.1.0/O11019/20180905:user/release-keys",
+  "SECURITY_PATCH": "2018-08-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 27,
+  "*.build.id": "O11019",
+  "*.security_patch": "2018-08-05",
+  "*.build.version.sdk": "27"
 }

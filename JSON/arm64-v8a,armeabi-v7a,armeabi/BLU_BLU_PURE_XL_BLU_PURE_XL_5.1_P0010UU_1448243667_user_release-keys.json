@@ -4,12 +4,17 @@
   "BRAND": "BLU",
   "PRODUCT": "BLU_PURE_XL",
   "DEVICE": "BLU_PURE_XL",
-  "FINGERPRINT": "BLU/BLU_PURE_XL/BLU_PURE_XL:5.1/P0010UU/1448243667:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "P0010UU",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.1",
+  "RELEASE_OR_CODENAME": "5.1",
+  "ID": "P0010UU",
   "INCREMENTAL": "1448243667",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "BLU/BLU_PURE_XL/BLU_PURE_XL:5.1/P0010UU/1448243667:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 22,
+  "*.build.id": "P0010UU",
+  "*.security_patch": "",
+  "*.build.version.sdk": "22"
 }

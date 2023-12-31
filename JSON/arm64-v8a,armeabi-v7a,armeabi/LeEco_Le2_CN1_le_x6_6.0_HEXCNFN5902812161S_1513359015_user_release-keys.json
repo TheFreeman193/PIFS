@@ -4,12 +4,17 @@
   "BRAND": "LeEco",
   "PRODUCT": "Le2_CN1",
   "DEVICE": "le_x6",
-  "FINGERPRINT": "LeEco/Le2_CN1/le_x6:6.0/HEXCNFN5902812161S/1513359015:user/release-keys",
-  "SECURITY_PATCH": "2015-12-01",
-  "FIRST_API_LEVEL": "23",
-  "BUILD_ID": "HEXCNFN5902812161S",
-  "VNDK_VERSION": "",
+  "RELEASE": "6.0",
+  "RELEASE_OR_CODENAME": "6.0",
+  "ID": "HEXCNFN5902812161S",
   "INCREMENTAL": "1513359015",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "LeEco/Le2_CN1/le_x6:6.0/HEXCNFN5902812161S/1513359015:user/release-keys",
+  "SECURITY_PATCH": "2015-12-01",
+  "DEVICE_INITIAL_SDK_INT": 23,
+  "SDK_INT": 23,
+  "*.build.id": "HEXCNFN5902812161S",
+  "*.security_patch": "2015-12-01",
+  "*.build.version.sdk": "23"
 }

@@ -4,12 +4,17 @@
   "BRAND": "Orientphone",
   "PRODUCT": "bird89_wet_a_jb2",
   "DEVICE": "bird89_wet_a_jb2",
-  "FINGERPRINT": "Android/bird89_wet_a_jb2/bird89_wet_a_jb2:4.2.1/JOP40D/1379661116:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JOP40D",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.2.1",
+  "RELEASE_OR_CODENAME": "4.2.1",
+  "ID": "JOP40D",
   "INCREMENTAL": "eng.root.1379661116",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "Android/bird89_wet_a_jb2/bird89_wet_a_jb2:4.2.1/JOP40D/1379661116:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 17,
+  "*.build.id": "JOP40D",
+  "*.security_patch": "",
+  "*.build.version.sdk": "17"
 }

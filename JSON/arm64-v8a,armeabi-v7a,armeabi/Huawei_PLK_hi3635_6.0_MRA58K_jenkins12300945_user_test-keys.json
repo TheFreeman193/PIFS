@@ -4,12 +4,17 @@
   "BRAND": "HONOR",
   "PRODUCT": "PLK-UL00",
   "DEVICE": "HWPLK",
-  "FINGERPRINT": "Huawei/PLK/hi3635:6.0/MRA58K/jenkins12300945:user/test-keys",
-  "SECURITY_PATCH": "2015-12-01",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "HONORPLK-UL00",
-  "VNDK_VERSION": "",
+  "RELEASE": "6.0",
+  "RELEASE_OR_CODENAME": "6.0",
+  "ID": "HONORPLK-UL00",
   "INCREMENTAL": "C17B326",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Huawei/PLK/hi3635:6.0/MRA58K/jenkins12300945:user/test-keys",
+  "SECURITY_PATCH": "2015-12-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 23,
+  "*.build.id": "HONORPLK-UL00",
+  "*.security_patch": "2015-12-01",
+  "*.build.version.sdk": "23"
 }

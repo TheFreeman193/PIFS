@@ -4,12 +4,17 @@
   "BRAND": "AXIOO",
   "PRODUCT": "Venge X (AX5)",
   "DEVICE": "Venge X (AX5)",
-  "FINGERPRINT": "AXIOO/full_bd6753_65u_b_l1/bd6753_65u_b_l1:5.1/LMY47D/1452137758:user/test-keys",
-  "SECURITY_PATCH": "2015-12-01",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "LMY47D",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.1",
+  "RELEASE_OR_CODENAME": "5.1",
+  "ID": "LMY47D",
   "INCREMENTAL": "1452137758",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "AXIOO/full_bd6753_65u_b_l1/bd6753_65u_b_l1:5.1/LMY47D/1452137758:user/test-keys",
+  "SECURITY_PATCH": "2015-12-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 22,
+  "*.build.id": "LMY47D",
+  "*.security_patch": "2015-12-01",
+  "*.build.version.sdk": "22"
 }

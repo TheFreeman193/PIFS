@@ -4,12 +4,17 @@
   "BRAND": "Vobis",
   "PRODUCT": "Explosion",
   "DEVICE": "C8690",
-  "FINGERPRINT": "Vobis/Explosion/C8690:4.1.1/JRO03C/eng.buildsrv.20130411.001022:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JRO03C",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.1.1",
+  "RELEASE_OR_CODENAME": "4.1.1",
+  "ID": "JRO03C",
   "INCREMENTAL": "eng.buildsrv.20130510.181351",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Vobis/Explosion/C8690:4.1.1/JRO03C/eng.buildsrv.20130411.001022:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 16,
+  "*.build.id": "JRO03C",
+  "*.security_patch": "",
+  "*.build.version.sdk": "16"
 }

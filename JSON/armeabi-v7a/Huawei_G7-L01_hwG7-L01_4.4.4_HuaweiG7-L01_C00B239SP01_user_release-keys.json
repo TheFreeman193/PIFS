@@ -4,12 +4,17 @@
   "BRAND": "Huawei",
   "PRODUCT": "G7-L01",
   "DEVICE": "hwG7-L01",
-  "FINGERPRINT": "Huawei/G7-L01/hwG7-L01:4.4.4/HuaweiG7-L01/C00B239SP01:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "HuaweiG7-L01",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.4.4",
+  "RELEASE_OR_CODENAME": "4.4.4",
+  "ID": "HuaweiG7-L01",
   "INCREMENTAL": "C00B239SP01",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Huawei/G7-L01/hwG7-L01:4.4.4/HuaweiG7-L01/C00B239SP01:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "HuaweiG7-L01",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

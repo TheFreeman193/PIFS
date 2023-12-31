@@ -4,12 +4,17 @@
   "BRAND": "Sony",
   "PRODUCT": "leo",
   "DEVICE": "leo",
-  "FINGERPRINT": "Sony/leo/leo:6.0.1/MMB29X.Z1/3582-somc:user/release-keys",
-  "SECURITY_PATCH": "2016-04-02",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "MMB29X.Z1",
-  "VNDK_VERSION": "",
+  "RELEASE": "6.0.1",
+  "RELEASE_OR_CODENAME": "6.0.1",
+  "ID": "MMB29X.Z1",
   "INCREMENTAL": "3582-somc",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Sony/leo/leo:6.0.1/MMB29X.Z1/3582-somc:user/release-keys",
+  "SECURITY_PATCH": "2016-04-02",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 23,
+  "*.build.id": "MMB29X.Z1",
+  "*.security_patch": "2016-04-02",
+  "*.build.version.sdk": "23"
 }

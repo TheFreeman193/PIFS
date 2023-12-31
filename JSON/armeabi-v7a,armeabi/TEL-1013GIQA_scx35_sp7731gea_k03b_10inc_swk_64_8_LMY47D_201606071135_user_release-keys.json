@@ -4,12 +4,17 @@
   "BRAND": "TEL-1013GIQA",
   "PRODUCT": "sp7731geaplus_k03b_10inc_swk_64_8_dt",
   "DEVICE": "scx35_sp7731gea_k03b_10inc_swk_64_8",
-  "FINGERPRINT": "TEL-1013GIQA/scx35_sp7731gea_k03b_10inc_swk_64_8/LMY47D/201606071135:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "LMY47D",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.1",
+  "RELEASE_OR_CODENAME": "5.1",
+  "ID": "LMY47D",
   "INCREMENTAL": "201606071135",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "TEL-1013GIQA/scx35_sp7731gea_k03b_10inc_swk_64_8/LMY47D/201606071135:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 22,
+  "*.build.id": "LMY47D",
+  "*.security_patch": "",
+  "*.build.version.sdk": "22"
 }

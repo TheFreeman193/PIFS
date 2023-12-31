@@ -4,12 +4,17 @@
   "BRAND": "Android",
   "PRODUCT": "full_m805_892xv8",
   "DEVICE": "m805_892x",
-  "FINGERPRINT": "Android/full_m805_892xv8/m805_892x:4.0.4/SXZ-PDX0-01/eng.jzx.20130913.174059:userdebug/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "SXZ-PDX0-01",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.0.4",
+  "RELEASE_OR_CODENAME": "4.0.4",
+  "ID": "SXZ-PDX0-01",
   "INCREMENTAL": "eng.jzx.20130913.174059",
   "TYPE": "userdebug",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "Android/full_m805_892xv8/m805_892x:4.0.4/SXZ-PDX0-01/eng.jzx.20130913.174059:userdebug/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 15,
+  "*.build.id": "SXZ-PDX0-01",
+  "*.security_patch": "",
+  "*.build.version.sdk": "15"
 }

@@ -4,12 +4,17 @@
   "BRAND": "A-tab",
   "PRODUCT": "bestone82_wet_kk",
   "DEVICE": "bestone82_wet_kk",
-  "FINGERPRINT": "alps/bestone82_wet_kk/bestone82_wet_kk:4.4.2/KOT49H/1585812274:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "KOT49H",
-  "VNDK_VERSION": "",
+  "RELEASE": "Marshmallow",
+  "RELEASE_OR_CODENAME": "Marshmallow",
+  "ID": "KOT49H",
   "INCREMENTAL": "eng.soft.1585812274",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "alps/bestone82_wet_kk/bestone82_wet_kk:4.4.2/KOT49H/1585812274:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "KOT49H",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

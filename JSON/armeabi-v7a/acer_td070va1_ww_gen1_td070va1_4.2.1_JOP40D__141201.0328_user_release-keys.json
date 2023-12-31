@@ -4,12 +4,17 @@
   "BRAND": "acer",
   "PRODUCT": "td070va1_ww_gen1",
   "DEVICE": "td070va1",
-  "FINGERPRINT": "acer/td070va1_ww_gen1/td070va1:4.2.1/JOP40D/_141201.0328:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JOP40D",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.2.1",
+  "RELEASE_OR_CODENAME": "4.2.1",
+  "ID": "JOP40D",
   "INCREMENTAL": "_141201.0328",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "acer/td070va1_ww_gen1/td070va1:4.2.1/JOP40D/_141201.0328:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 17,
+  "*.build.id": "JOP40D",
+  "*.security_patch": "",
+  "*.build.version.sdk": "17"
 }

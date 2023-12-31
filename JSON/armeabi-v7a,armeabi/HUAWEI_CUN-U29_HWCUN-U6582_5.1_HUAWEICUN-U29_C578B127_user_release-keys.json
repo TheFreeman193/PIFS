@@ -4,12 +4,17 @@
   "BRAND": "HUAWEI",
   "PRODUCT": "CUN-U29",
   "DEVICE": "HWCUN-U6582",
-  "FINGERPRINT": "HUAWEI/CUN-U29/HWCUN-U6582:5.1/HUAWEICUN-U29/C578B127:user/release-keys",
-  "SECURITY_PATCH": "2017-03-05",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "HUAWEICUN-U29",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.1",
+  "RELEASE_OR_CODENAME": "5.1",
+  "ID": "HUAWEICUN-U29",
   "INCREMENTAL": "C578B127",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "HUAWEI/CUN-U29/HWCUN-U6582:5.1/HUAWEICUN-U29/C578B127:user/release-keys",
+  "SECURITY_PATCH": "2017-03-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 22,
+  "*.build.id": "HUAWEICUN-U29",
+  "*.security_patch": "2017-03-05",
+  "*.build.version.sdk": "22"
 }

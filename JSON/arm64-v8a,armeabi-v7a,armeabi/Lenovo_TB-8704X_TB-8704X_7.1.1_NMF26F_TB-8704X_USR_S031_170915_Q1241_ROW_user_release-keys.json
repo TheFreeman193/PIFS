@@ -4,12 +4,17 @@
   "BRAND": "Lenovo",
   "PRODUCT": "TB-8704X",
   "DEVICE": "TB-8704X",
-  "FINGERPRINT": "Lenovo/TB-8704X/TB-8704X:7.1.1/NMF26F/TB-8704X_USR_S031_170915_Q1241_ROW:user/release-keys",
-  "SECURITY_PATCH": "2017-08-01",
-  "FIRST_API_LEVEL": "24",
-  "BUILD_ID": "NMF26F",
-  "VNDK_VERSION": "",
+  "RELEASE": "7.1.1",
+  "RELEASE_OR_CODENAME": "7.1.1",
+  "ID": "NMF26F",
   "INCREMENTAL": "TB-8704X_S000031_170915_ROW",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Lenovo/TB-8704X/TB-8704X:7.1.1/NMF26F/TB-8704X_USR_S031_170915_Q1241_ROW:user/release-keys",
+  "SECURITY_PATCH": "2017-08-01",
+  "DEVICE_INITIAL_SDK_INT": 24,
+  "SDK_INT": 25,
+  "*.build.id": "NMF26F",
+  "*.security_patch": "2017-08-01",
+  "*.build.version.sdk": "25"
 }

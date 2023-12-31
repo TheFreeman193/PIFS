@@ -4,12 +4,17 @@
   "BRAND": "CARLM8001KP",
   "PRODUCT": "CARLM8001KP",
   "DEVICE": "CARLM8001KP",
-  "FINGERPRINT": "CARLM8001KP/CARLM8001KP/CARLM8001KP:4.1.1/JRO03H/20130718.162506:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JRO03H",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.1.1",
+  "RELEASE_OR_CODENAME": "4.1.1",
+  "ID": "JRO03H",
   "INCREMENTAL": "20130718.162506",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "CARLM8001KP/CARLM8001KP/CARLM8001KP:4.1.1/JRO03H/20130718.162506:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 16,
+  "*.build.id": "JRO03H",
+  "*.security_patch": "",
+  "*.build.version.sdk": "16"
 }

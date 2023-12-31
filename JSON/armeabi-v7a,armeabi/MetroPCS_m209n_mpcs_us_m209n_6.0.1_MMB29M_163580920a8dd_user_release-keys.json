@@ -4,12 +4,17 @@
   "BRAND": "MetroPCS",
   "PRODUCT": "m209n_mpcs_us",
   "DEVICE": "m209n",
-  "FINGERPRINT": "MetroPCS/m209n_mpcs_us/m209n:6.0.1/MMB29M/163580920a8dd:user/release-keys",
-  "SECURITY_PATCH": "2016-12-01",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "MMB29M",
-  "VNDK_VERSION": "",
+  "RELEASE": "6.0.1",
+  "RELEASE_OR_CODENAME": "6.0.1",
+  "ID": "MMB29M",
   "INCREMENTAL": "163580920a8dd",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "MetroPCS/m209n_mpcs_us/m209n:6.0.1/MMB29M/163580920a8dd:user/release-keys",
+  "SECURITY_PATCH": "2016-12-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 23,
+  "*.build.id": "MMB29M",
+  "*.security_patch": "2016-12-01",
+  "*.build.version.sdk": "23"
 }

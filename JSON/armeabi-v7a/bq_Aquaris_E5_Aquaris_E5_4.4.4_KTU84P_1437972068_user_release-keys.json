@@ -4,12 +4,17 @@
   "BRAND": "bq",
   "PRODUCT": "Aquaris_E5",
   "DEVICE": "vegetalte",
-  "FINGERPRINT": "bq/Aquaris_E5/Aquaris_E5:4.4.4/KTU84P/1437972068:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "KTU84Q",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.4.4",
+  "RELEASE_OR_CODENAME": "4.4.4",
+  "ID": "KTU84Q",
   "INCREMENTAL": "e135bb1578",
   "TYPE": "userdebug",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "bq/Aquaris_E5/Aquaris_E5:4.4.4/KTU84P/1437972068:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "KTU84Q",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

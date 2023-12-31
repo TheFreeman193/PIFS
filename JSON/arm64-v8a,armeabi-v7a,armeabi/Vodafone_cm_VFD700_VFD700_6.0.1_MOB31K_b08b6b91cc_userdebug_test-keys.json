@@ -4,12 +4,17 @@
   "BRAND": "Vodafone",
   "PRODUCT": "cm_VFD700",
   "DEVICE": "VFD700",
-  "FINGERPRINT": "Vodafone/cm_VFD700/VFD700:6.0.1/MOB31K/b08b6b91cc:userdebug/test-keys",
-  "SECURITY_PATCH": "2016-11-16",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "MOB31K",
-  "VNDK_VERSION": "",
+  "RELEASE": "6.0.1",
+  "RELEASE_OR_CODENAME": "6.0.1",
+  "ID": "MOB31K",
   "INCREMENTAL": "b08b6b91cc",
   "TYPE": "userdebug",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "Vodafone/cm_VFD700/VFD700:6.0.1/MOB31K/b08b6b91cc:userdebug/test-keys",
+  "SECURITY_PATCH": "2016-11-16",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 23,
+  "*.build.id": "MOB31K",
+  "*.security_patch": "2016-11-16",
+  "*.build.version.sdk": "23"
 }

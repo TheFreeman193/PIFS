@@ -4,12 +4,17 @@
   "BRAND": "alps",
   "PRODUCT": "full_flycom6580_we_m",
   "DEVICE": "flycom6580_we_m",
-  "FINGERPRINT": "alps/full_flycom6580_we_m/flycom6580_we_m:6.0/MRA58K/1537528068:user/test-keys",
-  "SECURITY_PATCH": "2019-12-01",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "MRA58K",
-  "VNDK_VERSION": "",
+  "RELEASE": "6.0",
+  "RELEASE_OR_CODENAME": "6.0",
+  "ID": "MRA58K",
   "INCREMENTAL": "1537528068",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "alps/full_flycom6580_we_m/flycom6580_we_m:6.0/MRA58K/1537528068:user/test-keys",
+  "SECURITY_PATCH": "2019-12-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 23,
+  "*.build.id": "MRA58K",
+  "*.security_patch": "2019-12-01",
+  "*.build.version.sdk": "23"
 }

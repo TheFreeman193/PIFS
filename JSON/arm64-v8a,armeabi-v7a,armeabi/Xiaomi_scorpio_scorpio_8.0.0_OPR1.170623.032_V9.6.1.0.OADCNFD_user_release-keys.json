@@ -4,12 +4,17 @@
   "BRAND": "Xiaomi",
   "PRODUCT": "scorpio",
   "DEVICE": "scorpio",
-  "FINGERPRINT": "Xiaomi/scorpio/scorpio:8.0.0/OPR1.170623.032/V9.6.1.0.OADCNFD:user/release-keys",
-  "SECURITY_PATCH": "2017-08-05",
-  "FIRST_API_LEVEL": "24",
-  "BUILD_ID": "OPR1.170623.032",
-  "VNDK_VERSION": "",
+  "RELEASE": "8.0.0",
+  "RELEASE_OR_CODENAME": "8.0.0",
+  "ID": "OPR1.170623.032",
   "INCREMENTAL": "V9.6.1.0.OADCNFD",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Xiaomi/scorpio/scorpio:8.0.0/OPR1.170623.032/V9.6.1.0.OADCNFD:user/release-keys",
+  "SECURITY_PATCH": "2017-08-05",
+  "DEVICE_INITIAL_SDK_INT": 24,
+  "SDK_INT": 26,
+  "*.build.id": "OPR1.170623.032",
+  "*.security_patch": "2017-08-05",
+  "*.build.version.sdk": "26"
 }

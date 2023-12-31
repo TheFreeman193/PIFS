@@ -4,12 +4,17 @@
   "BRAND": "SEMC",
   "PRODUCT": "MK16i_1249-6015",
   "DEVICE": "MK16i",
-  "FINGERPRINT": "SEMC/MK16i_1249-6015/MK16i:4.0.4/4.1.B.0.587/tL1_3w:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "4.1.B.0.587",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.0.4",
+  "RELEASE_OR_CODENAME": "4.0.4",
+  "ID": "4.1.B.0.587",
   "INCREMENTAL": "tL1_3w",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "SEMC/MK16i_1249-6015/MK16i:4.0.4/4.1.B.0.587/tL1_3w:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 15,
+  "*.build.id": "4.1.B.0.587",
+  "*.security_patch": "",
+  "*.build.version.sdk": "15"
 }

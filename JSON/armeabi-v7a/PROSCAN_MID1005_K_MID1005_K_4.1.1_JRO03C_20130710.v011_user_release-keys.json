@@ -4,12 +4,17 @@
   "BRAND": "PROSCAN",
   "PRODUCT": "MID1005_K",
   "DEVICE": "MID1005_K",
-  "FINGERPRINT": "PROSCAN/MID1005_K/MID1005_K:4.1.1/JRO03C/20130710.v011:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JRO03C",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.1.1",
+  "RELEASE_OR_CODENAME": "4.1.1",
+  "ID": "JRO03C",
   "INCREMENTAL": "20130710.v011",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "PROSCAN/MID1005_K/MID1005_K:4.1.1/JRO03C/20130710.v011:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 16,
+  "*.build.id": "JRO03C",
+  "*.security_patch": "",
+  "*.build.version.sdk": "16"
 }

@@ -4,12 +4,17 @@
   "BRAND": "google",
   "PRODUCT": "r11",
   "DEVICE": "r11",
-  "FINGERPRINT": "google/r11/r11:13/TWD4.231005.002/10752801:user/release-keys",
-  "SECURITY_PATCH": "2023-10-05",
-  "FIRST_API_LEVEL": "30",
-  "BUILD_ID": "TWD4.231005.002",
-  "VNDK_VERSION": "33",
+  "RELEASE": "13",
+  "RELEASE_OR_CODENAME": "13",
+  "ID": "TWD4.231005.002",
   "INCREMENTAL": "10752801",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "google/r11/r11:13/TWD4.231005.002/10752801:user/release-keys",
+  "SECURITY_PATCH": "2023-10-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 33,
+  "*.build.id": "TWD4.231005.002",
+  "*.security_patch": "2023-10-05",
+  "*.build.version.sdk": "33"
 }

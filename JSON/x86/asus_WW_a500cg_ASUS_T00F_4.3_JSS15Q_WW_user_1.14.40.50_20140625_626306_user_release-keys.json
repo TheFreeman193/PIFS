@@ -4,12 +4,17 @@
   "BRAND": "asus",
   "PRODUCT": "WW_a500cg",
   "DEVICE": "ASUS_T00F",
-  "FINGERPRINT": "asus/WW_a500cg/ASUS_T00F:4.3/JSS15Q/WW_user_1.14.40.50_20140625_626306:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JSS15Q",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.3",
+  "RELEASE_OR_CODENAME": "4.3",
+  "ID": "JSS15Q",
   "INCREMENTAL": "WW_a500cg-WW_user_1.14.40.50_20140625_626306-user-20140625",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "asus/WW_a500cg/ASUS_T00F:4.3/JSS15Q/WW_user_1.14.40.50_20140625_626306:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 18,
+  "*.build.id": "JSS15Q",
+  "*.security_patch": "",
+  "*.build.version.sdk": "18"
 }

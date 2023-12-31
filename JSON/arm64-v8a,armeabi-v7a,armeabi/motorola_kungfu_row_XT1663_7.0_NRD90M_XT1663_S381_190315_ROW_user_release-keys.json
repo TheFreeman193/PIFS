@@ -4,12 +4,17 @@
   "BRAND": "motorola",
   "PRODUCT": "kungfu_row",
   "DEVICE": "XT1663",
-  "FINGERPRINT": "motorola/kungfu_row/XT1663:7.0/NRD90M/XT1663_S381_190315_ROW:user/release-keys",
-  "SECURITY_PATCH": "2018-08-05",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "NRD90M",
-  "VNDK_VERSION": "",
+  "RELEASE": "7.0",
+  "RELEASE_OR_CODENAME": "7.0",
+  "ID": "NRD90M",
   "INCREMENTAL": "XT1663_S381_190315_ROW",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "motorola/kungfu_row/XT1663:7.0/NRD90M/XT1663_S381_190315_ROW:user/release-keys",
+  "SECURITY_PATCH": "2018-08-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 24,
+  "*.build.id": "NRD90M",
+  "*.security_patch": "2018-08-05",
+  "*.build.version.sdk": "24"
 }

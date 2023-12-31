@@ -4,12 +4,17 @@
   "BRAND": "Android",
   "PRODUCT": "nexbox_a95x",
   "DEVICE": "nexbox_a95x",
-  "FINGERPRINT": "Android/nexbox_a95x/nexbox_a95x:5.1.1/NEXBOX-A95X/20170716:userdebug/test-keys",
-  "SECURITY_PATCH": "2015-11-01",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "NEXBOX-A95X",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.1.1",
+  "RELEASE_OR_CODENAME": "5.1.1",
+  "ID": "NEXBOX-A95X",
   "INCREMENTAL": "20170716",
   "TYPE": "userdebug",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "Android/nexbox_a95x/nexbox_a95x:5.1.1/NEXBOX-A95X/20170716:userdebug/test-keys",
+  "SECURITY_PATCH": "2015-11-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 22,
+  "*.build.id": "NEXBOX-A95X",
+  "*.security_patch": "2015-11-01",
+  "*.build.version.sdk": "22"
 }

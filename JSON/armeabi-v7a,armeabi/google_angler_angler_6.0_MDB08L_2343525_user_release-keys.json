@@ -4,12 +4,17 @@
   "BRAND": "google",
   "PRODUCT": "angler",
   "DEVICE": "angler",
-  "FINGERPRINT": "google/angler/angler:6.0/MDB08L/2343525:user/release-keys",
-  "SECURITY_PATCH": "2015-10-01",
-  "FIRST_API_LEVEL": "23",
-  "BUILD_ID": "MDB08L",
-  "VNDK_VERSION": "",
+  "RELEASE": "6.0",
+  "RELEASE_OR_CODENAME": "6.0",
+  "ID": "MDB08L",
   "INCREMENTAL": "2343525",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "google/angler/angler:6.0/MDB08L/2343525:user/release-keys",
+  "SECURITY_PATCH": "2015-10-01",
+  "DEVICE_INITIAL_SDK_INT": 23,
+  "SDK_INT": 23,
+  "*.build.id": "MDB08L",
+  "*.security_patch": "2015-10-01",
+  "*.build.version.sdk": "23"
 }

@@ -4,12 +4,17 @@
   "BRAND": "zte",
   "PRODUCT": "zte_warp6",
   "DEVICE": "warp6",
-  "FINGERPRINT": "zte/zte_warp6/warp6:5.1/LMY47O/20151124.124750:user/release-keys",
-  "SECURITY_PATCH": "2015-11-01",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "LMY47O",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.1",
+  "RELEASE_OR_CODENAME": "5.1",
+  "ID": "LMY47O",
   "INCREMENTAL": "20151124.124750",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "zte/zte_warp6/warp6:5.1/LMY47O/20151124.124750:user/release-keys",
+  "SECURITY_PATCH": "2015-11-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 22,
+  "*.build.id": "LMY47O",
+  "*.security_patch": "2015-11-01",
+  "*.build.version.sdk": "22"
 }

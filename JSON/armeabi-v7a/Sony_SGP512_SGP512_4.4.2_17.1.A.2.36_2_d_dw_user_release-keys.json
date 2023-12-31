@@ -4,12 +4,17 @@
   "BRAND": "Sony",
   "PRODUCT": "SGP512",
   "DEVICE": "SGP512",
-  "FINGERPRINT": "Sony/SGP512/SGP512:4.4.2/17.1.A.2.36/2_d_dw:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "17.1.A.2.36",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.4.2",
+  "RELEASE_OR_CODENAME": "4.4.2",
+  "ID": "17.1.A.2.36",
   "INCREMENTAL": "2_d_dw",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Sony/SGP512/SGP512:4.4.2/17.1.A.2.36/2_d_dw:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "17.1.A.2.36",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

@@ -4,12 +4,17 @@
   "BRAND": "DOOGEE",
   "PRODUCT": "full_hct6582_wt_l",
   "DEVICE": "hct82_cwet_kk",
-  "FINGERPRINT": "DOOGEE/full_hct6582_wt_l/hct6582_wt_l:5.0/LRX21M/1482811760:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "LRX21M",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.0",
+  "RELEASE_OR_CODENAME": "5.0",
+  "ID": "LRX21M",
   "INCREMENTAL": "1482811760",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "DOOGEE/full_hct6582_wt_l/hct6582_wt_l:5.0/LRX21M/1482811760:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 21,
+  "*.build.id": "LRX21M",
+  "*.security_patch": "",
+  "*.build.version.sdk": "21"
 }

@@ -4,12 +4,17 @@
   "BRAND": "Infinix",
   "PRODUCT": "H6113",
   "DEVICE": "Infinix-X650D",
-  "FINGERPRINT": "Infinix/H6113/Infinix-X650D:9/PPR1.180610.011/KLN-191228V126:user/release-keys",
-  "SECURITY_PATCH": "2020-01-05",
-  "FIRST_API_LEVEL": "28",
-  "BUILD_ID": "PPR1.180610.011",
-  "VNDK_VERSION": "",
+  "RELEASE": "9",
+  "RELEASE_OR_CODENAME": "9",
+  "ID": "PPR1.180610.011",
   "INCREMENTAL": "KLN-191228V126",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Infinix/H6113/Infinix-X650D:9/PPR1.180610.011/KLN-191228V126:user/release-keys",
+  "SECURITY_PATCH": "2020-01-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 28,
+  "*.build.id": "PPR1.180610.011",
+  "*.security_patch": "2020-01-05",
+  "*.build.version.sdk": "28"
 }

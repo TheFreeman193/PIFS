@@ -4,12 +4,17 @@
   "BRAND": "Android",
   "PRODUCT": "M30",
   "DEVICE": "M30",
-  "FINGERPRINT": "alps/aeon6580_weg_l_l100/aeon6580_weg_l_l100:5.1/LMY47I/1563181951:user/test-keys",
-  "SECURITY_PATCH": "2017-03-05",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "LMY47I",
-  "VNDK_VERSION": "",
+  "RELEASE": "9.1",
+  "RELEASE_OR_CODENAME": "9.1",
+  "ID": "LMY47I",
   "INCREMENTAL": "1563181951",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "alps/aeon6580_weg_l_l100/aeon6580_weg_l_l100:5.1/LMY47I/1563181951:user/test-keys",
+  "SECURITY_PATCH": "2017-03-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 22,
+  "*.build.id": "LMY47I",
+  "*.security_patch": "2017-03-05",
+  "*.build.version.sdk": "22"
 }

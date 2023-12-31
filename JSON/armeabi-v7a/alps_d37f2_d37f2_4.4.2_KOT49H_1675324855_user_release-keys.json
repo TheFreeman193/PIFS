@@ -4,12 +4,17 @@
   "BRAND": "alps",
   "PRODUCT": "IP13 Pro Max",
   "DEVICE": "a52a1_dx_l50",
-  "FINGERPRINT": "alps/d37f2/d37f2:4.4.2/KOT49H/1675324855:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "KOT49H",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.4.2",
+  "RELEASE_OR_CODENAME": "4.4.2",
+  "ID": "KOT49H",
   "INCREMENTAL": "eng.mt13.1675324855",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "alps/d37f2/d37f2:4.4.2/KOT49H/1675324855:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "KOT49H",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

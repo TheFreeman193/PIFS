@@ -4,12 +4,17 @@
   "BRAND": "TCL",
   "PRODUCT": "ALCATEL_4015T",
   "DEVICE": "Yaris35_GSM",
-  "FINGERPRINT": "TCL/ALCATEL_4015T/Yaris35_GSM:4.4.2/KOT49H/vC9X-0:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "KOT49H",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.4.2",
+  "RELEASE_OR_CODENAME": "4.4.2",
+  "ID": "KOT49H",
   "INCREMENTAL": "vC9X-0",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "TCL/ALCATEL_4015T/Yaris35_GSM:4.4.2/KOT49H/vC9X-0:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "KOT49H",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

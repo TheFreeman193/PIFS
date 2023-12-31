@@ -4,12 +4,17 @@
   "BRAND": "Huawei",
   "PRODUCT": "MediaPad",
   "DEVICE": "hw7d501l",
-  "FINGERPRINT": "Huawei/mp7charm/hw7d501l:4.2.2/JDQ39/eng.jslave.20140624.024522:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "HuaweiMediaPad",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.2.2",
+  "RELEASE_OR_CODENAME": "4.2.2",
+  "ID": "HuaweiMediaPad",
   "INCREMENTAL": "eng.jslave.20140624.024522",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Huawei/mp7charm/hw7d501l:4.2.2/JDQ39/eng.jslave.20140624.024522:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 17,
+  "*.build.id": "HuaweiMediaPad",
+  "*.security_patch": "",
+  "*.build.version.sdk": "17"
 }

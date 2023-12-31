@@ -4,12 +4,17 @@
   "BRAND": "Jiayu",
   "PRODUCT": "full_s3_h560",
   "DEVICE": "s3_h560",
-  "FINGERPRINT": "Jiayu/full_s3_h560/s3_h560:7.1.2/N2G47O/cm05271109:user/release-keys",
-  "SECURITY_PATCH": "2017-05-05",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "N2G47O",
-  "VNDK_VERSION": "",
+  "RELEASE": "7.1.2",
+  "RELEASE_OR_CODENAME": "7.1.2",
+  "ID": "N2G47O",
   "INCREMENTAL": "eng.cm.20170527.110918",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Jiayu/full_s3_h560/s3_h560:7.1.2/N2G47O/cm05271109:user/release-keys",
+  "SECURITY_PATCH": "2017-05-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 25,
+  "*.build.id": "N2G47O",
+  "*.security_patch": "2017-05-05",
+  "*.build.version.sdk": "25"
 }

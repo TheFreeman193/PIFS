@@ -4,12 +4,17 @@
   "BRAND": "samsung",
   "PRODUCT": "v1awifixx",
   "DEVICE": "v1awifi",
-  "FINGERPRINT": "samsung/v1awifixx/v1awifi:5.0.2/LRX22G/P900XXU0BOI1:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "LRX22G",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.0.2",
+  "RELEASE_OR_CODENAME": "5.0.2",
+  "ID": "LRX22G",
   "INCREMENTAL": "P900XXU0BOI1",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "samsung/v1awifixx/v1awifi:5.0.2/LRX22G/P900XXU0BOI1:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 21,
+  "*.build.id": "LRX22G",
+  "*.security_patch": "",
+  "*.build.version.sdk": "21"
 }

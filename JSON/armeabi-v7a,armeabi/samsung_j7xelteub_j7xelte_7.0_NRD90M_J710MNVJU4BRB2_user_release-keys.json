@@ -4,12 +4,17 @@
   "BRAND": "samsung",
   "PRODUCT": "j7xelteub",
   "DEVICE": "j7xelte",
-  "FINGERPRINT": "samsung/j7xelteub/j7xelte:7.0/NRD90M/J710MNVJU4BRB2:user/release-keys",
-  "SECURITY_PATCH": "2018-01-01",
-  "FIRST_API_LEVEL": "23",
-  "BUILD_ID": "NRD90M",
-  "VNDK_VERSION": "",
+  "RELEASE": "7.0",
+  "RELEASE_OR_CODENAME": "7.0",
+  "ID": "NRD90M",
   "INCREMENTAL": "J710MNVJU4BRB2",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "samsung/j7xelteub/j7xelte:7.0/NRD90M/J710MNVJU4BRB2:user/release-keys",
+  "SECURITY_PATCH": "2018-01-01",
+  "DEVICE_INITIAL_SDK_INT": 23,
+  "SDK_INT": 24,
+  "*.build.id": "NRD90M",
+  "*.security_patch": "2018-01-01",
+  "*.build.version.sdk": "24"
 }

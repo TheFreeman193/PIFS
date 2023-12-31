@@ -4,12 +4,17 @@
   "BRAND": "Blackview",
   "PRODUCT": "full_hct6750_c66_b_m",
   "DEVICE": "hct6750_c66_b_m",
-  "FINGERPRINT": "Blackview/full_hct6750_c66_b_m/hct6750_c66_b_m:6.0/MRA58K/1491901343:user/test-keys",
-  "SECURITY_PATCH": "2017-04-05",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "MRA58K",
-  "VNDK_VERSION": "",
+  "RELEASE": "6.0",
+  "RELEASE_OR_CODENAME": "6.0",
+  "ID": "MRA58K",
   "INCREMENTAL": "1491901343",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "Blackview/full_hct6750_c66_b_m/hct6750_c66_b_m:6.0/MRA58K/1491901343:user/test-keys",
+  "SECURITY_PATCH": "2017-04-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 23,
+  "*.build.id": "MRA58K",
+  "*.security_patch": "2017-04-05",
+  "*.build.version.sdk": "23"
 }

@@ -4,12 +4,17 @@
   "BRAND": "Vertex",
   "PRODUCT": "Impress Tor",
   "DEVICE": "Impress",
-  "FINGERPRINT": "qcom/msm8909/msm8909:6.0.1/MMB29M/user04071508:user/test-keys",
-  "SECURITY_PATCH": "2016-09-06",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "MMB29M",
-  "VNDK_VERSION": "",
+  "RELEASE": "6.0.1",
+  "RELEASE_OR_CODENAME": "6.0.1",
+  "ID": "MMB29M",
   "INCREMENTAL": "eng.user.20170407.150702",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "qcom/msm8909/msm8909:6.0.1/MMB29M/user04071508:user/test-keys",
+  "SECURITY_PATCH": "2016-09-06",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 23,
+  "*.build.id": "MMB29M",
+  "*.security_patch": "2016-09-06",
+  "*.build.version.sdk": "23"
 }

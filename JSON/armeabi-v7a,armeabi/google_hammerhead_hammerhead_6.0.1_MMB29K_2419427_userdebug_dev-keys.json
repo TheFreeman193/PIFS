@@ -4,12 +4,17 @@
   "BRAND": "google",
   "PRODUCT": "hammerhead",
   "DEVICE": "hammerhead",
-  "FINGERPRINT": "google/hammerhead/hammerhead:6.0.1/MMB29K/2419427:userdebug/dev-keys",
-  "SECURITY_PATCH": "2015-12-01",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "MMB29K",
-  "VNDK_VERSION": "",
+  "RELEASE": "6.0.1",
+  "RELEASE_OR_CODENAME": "6.0.1",
+  "ID": "MMB29K",
   "INCREMENTAL": "2419427",
   "TYPE": "userdebug",
-  "TAGS": "dev-keys"
+  "TAGS": "dev-keys",
+  "FINGERPRINT": "google/hammerhead/hammerhead:6.0.1/MMB29K/2419427:userdebug/dev-keys",
+  "SECURITY_PATCH": "2015-12-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 23,
+  "*.build.id": "MMB29K",
+  "*.security_patch": "2015-12-01",
+  "*.build.version.sdk": "23"
 }

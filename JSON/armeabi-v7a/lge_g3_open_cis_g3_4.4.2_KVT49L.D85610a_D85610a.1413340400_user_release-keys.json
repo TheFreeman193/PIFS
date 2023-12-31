@@ -4,12 +4,17 @@
   "BRAND": "lge",
   "PRODUCT": "g3_open_cis",
   "DEVICE": "g3",
-  "FINGERPRINT": "lge/g3_open_cis/g3:4.4.2/KVT49L.D85610a/D85610a.1413340400:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "KVT49L.D85610a",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.4.2",
+  "RELEASE_OR_CODENAME": "4.4.2",
+  "ID": "KVT49L.D85610a",
   "INCREMENTAL": "D85610a.1413340400",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "lge/g3_open_cis/g3:4.4.2/KVT49L.D85610a/D85610a.1413340400:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "KVT49L.D85610a",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

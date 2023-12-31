@@ -4,12 +4,17 @@
   "BRAND": "htc_europe",
   "PRODUCT": "htc_pyramid",
   "DEVICE": "pyramid",
-  "FINGERPRINT": "htc_europe/htc_pyramid/pyramid:4.0.3/IML74K/391535.154:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "IML74K",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.0.3",
+  "RELEASE_OR_CODENAME": "4.0.3",
+  "ID": "IML74K",
   "INCREMENTAL": "391535.154",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "htc_europe/htc_pyramid/pyramid:4.0.3/IML74K/391535.154:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 15,
+  "*.build.id": "IML74K",
+  "*.security_patch": "",
+  "*.build.version.sdk": "15"
 }

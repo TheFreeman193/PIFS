@@ -4,12 +4,17 @@
   "BRAND": "Verizon",
   "PRODUCT": "j1qltevzw",
   "DEVICE": "j1qltevzw",
-  "FINGERPRINT": "Verizon/j1qltevzw/j1qltevzw:5.1.1/LMY48B/J100VPPVRU4APH5:user/release-keys",
-  "SECURITY_PATCH": "2016-09-01",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "LMY48B",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.1.1",
+  "RELEASE_OR_CODENAME": "5.1.1",
+  "ID": "LMY48B",
   "INCREMENTAL": "J100VPPVRU4APH5",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Verizon/j1qltevzw/j1qltevzw:5.1.1/LMY48B/J100VPPVRU4APH5:user/release-keys",
+  "SECURITY_PATCH": "2016-09-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 22,
+  "*.build.id": "LMY48B",
+  "*.security_patch": "2016-09-01",
+  "*.build.version.sdk": "22"
 }

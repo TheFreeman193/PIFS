@@ -4,12 +4,17 @@
   "BRAND": "motorola",
   "PRODUCT": "surnia_verizon",
   "DEVICE": "surnia_cdma",
-  "FINGERPRINT": "motorola/surnia_verizon/surnia_cdma:5.1/LPIS23.29-17.5-2/2:user/release-keys",
-  "SECURITY_PATCH": "2016-04-01",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "LPIS23.29-17.5-2",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.1",
+  "RELEASE_OR_CODENAME": "5.1",
+  "ID": "LPIS23.29-17.5-2",
   "INCREMENTAL": "2",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "motorola/surnia_verizon/surnia_cdma:5.1/LPIS23.29-17.5-2/2:user/release-keys",
+  "SECURITY_PATCH": "2016-04-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 22,
+  "*.build.id": "LPIS23.29-17.5-2",
+  "*.security_patch": "2016-04-01",
+  "*.build.version.sdk": "22"
 }

@@ -4,12 +4,17 @@
   "BRAND": "DNS",
   "PRODUCT": "DNS_S5008",
   "DEVICE": "DNS_S5008",
-  "FINGERPRINT": "DNS/bird92_wet_jb9/bird92_wet_jb9:4.2.2/JDQ39/1399585223:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JDQ39",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.2.2",
+  "RELEASE_OR_CODENAME": "4.2.2",
+  "ID": "JDQ39",
   "INCREMENTAL": "eng.ywj.1399585223",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "DNS/bird92_wet_jb9/bird92_wet_jb9:4.2.2/JDQ39/1399585223:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 17,
+  "*.build.id": "JDQ39",
+  "*.security_patch": "",
+  "*.build.version.sdk": "17"
 }

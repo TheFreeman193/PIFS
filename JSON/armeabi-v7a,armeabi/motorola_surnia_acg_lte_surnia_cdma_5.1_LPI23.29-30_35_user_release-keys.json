@@ -4,12 +4,17 @@
   "BRAND": "motorola",
   "PRODUCT": "surnia_acg_lte",
   "DEVICE": "surnia_cdma",
-  "FINGERPRINT": "motorola/surnia_acg_lte/surnia_cdma:5.1/LPI23.29-30/35:user/release-keys",
-  "SECURITY_PATCH": "2016-01-01",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "LPI23.29-30",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.1",
+  "RELEASE_OR_CODENAME": "5.1",
+  "ID": "LPI23.29-30",
   "INCREMENTAL": "35",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "motorola/surnia_acg_lte/surnia_cdma:5.1/LPI23.29-30/35:user/release-keys",
+  "SECURITY_PATCH": "2016-01-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 22,
+  "*.build.id": "LPI23.29-30",
+  "*.security_patch": "2016-01-01",
+  "*.build.version.sdk": "22"
 }

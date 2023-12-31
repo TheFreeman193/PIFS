@@ -4,12 +4,17 @@
   "BRAND": "SHIFT4.2",
   "PRODUCT": "SHIFT4.2",
   "DEVICE": "SHIFT4.2",
-  "FINGERPRINT": "SHIFT4.2/full_joyasz6582_we_l1/joyasz6582_we_l1:5.1.1/LMY47I/1495699920:user/test-keys",
-  "SECURITY_PATCH": "2017-03-05",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "LMY47I",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.1.1",
+  "RELEASE_OR_CODENAME": "5.1.1",
+  "ID": "LMY47I",
   "INCREMENTAL": "1495699920",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "SHIFT4.2/full_joyasz6582_we_l1/joyasz6582_we_l1:5.1.1/LMY47I/1495699920:user/test-keys",
+  "SECURITY_PATCH": "2017-03-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 22,
+  "*.build.id": "LMY47I",
+  "*.security_patch": "2017-03-05",
+  "*.build.version.sdk": "22"
 }

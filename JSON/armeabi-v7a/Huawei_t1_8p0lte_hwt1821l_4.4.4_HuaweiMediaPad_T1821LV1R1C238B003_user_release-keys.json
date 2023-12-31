@@ -4,12 +4,17 @@
   "BRAND": "Huawei",
   "PRODUCT": "t1_8p0lte",
   "DEVICE": "hwt1821l",
-  "FINGERPRINT": "Huawei/t1_8p0lte/hwt1821l:4.4.4/HuaweiMediaPad/T1821LV1R1C238B003:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "HuaweiMediaPad",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.4.4",
+  "RELEASE_OR_CODENAME": "4.4.4",
+  "ID": "HuaweiMediaPad",
   "INCREMENTAL": "C238B003",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Huawei/t1_8p0lte/hwt1821l:4.4.4/HuaweiMediaPad/T1821LV1R1C238B003:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "HuaweiMediaPad",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

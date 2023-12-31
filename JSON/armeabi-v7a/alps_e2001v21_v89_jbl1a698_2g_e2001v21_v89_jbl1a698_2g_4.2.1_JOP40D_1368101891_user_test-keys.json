@@ -4,12 +4,17 @@
   "BRAND": "alps",
   "PRODUCT": "e2001v21_v89_jbl1a698_2g",
   "DEVICE": "e2001v21_v89_jbl1a698_2g",
-  "FINGERPRINT": "alps/e2001v21_v89_jbl1a698_2g/e2001v21_v89_jbl1a698_2g:4.2.1/JOP40D/1368101891:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JOP40D",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.2.1",
+  "RELEASE_OR_CODENAME": "4.2.1",
+  "ID": "JOP40D",
   "INCREMENTAL": "eng.root.1368101891",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "alps/e2001v21_v89_jbl1a698_2g/e2001v21_v89_jbl1a698_2g:4.2.1/JOP40D/1368101891:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 17,
+  "*.build.id": "JOP40D",
+  "*.security_patch": "",
+  "*.build.version.sdk": "17"
 }

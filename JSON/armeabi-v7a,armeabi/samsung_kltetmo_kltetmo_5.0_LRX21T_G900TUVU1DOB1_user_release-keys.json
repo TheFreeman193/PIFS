@@ -4,12 +4,17 @@
   "BRAND": "samsung",
   "PRODUCT": "kltetmo",
   "DEVICE": "kltetmo",
-  "FINGERPRINT": "samsung/kltetmo/kltetmo:5.0/LRX21T/G900TUVU1DOB1:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "LRX21T",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.0",
+  "RELEASE_OR_CODENAME": "5.0",
+  "ID": "LRX21T",
   "INCREMENTAL": "G900TUVU1DOB1",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "samsung/kltetmo/kltetmo:5.0/LRX21T/G900TUVU1DOB1:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 21,
+  "*.build.id": "LRX21T",
+  "*.security_patch": "",
+  "*.build.version.sdk": "21"
 }

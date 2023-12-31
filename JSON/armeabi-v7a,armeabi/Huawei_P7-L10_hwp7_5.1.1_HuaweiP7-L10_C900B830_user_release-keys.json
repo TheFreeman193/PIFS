@@ -4,12 +4,17 @@
   "BRAND": "Huawei",
   "PRODUCT": "P7-L10",
   "DEVICE": "hwp7",
-  "FINGERPRINT": "Huawei/P7-L10/hwp7:5.1.1/HuaweiP7-L10/C900B830:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "HuaweiP7-L10",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.1.1",
+  "RELEASE_OR_CODENAME": "5.1.1",
+  "ID": "HuaweiP7-L10",
   "INCREMENTAL": "C900B830",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Huawei/P7-L10/hwp7:5.1.1/HuaweiP7-L10/C900B830:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 22,
+  "*.build.id": "HuaweiP7-L10",
+  "*.security_patch": "",
+  "*.build.version.sdk": "22"
 }

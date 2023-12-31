@@ -4,12 +4,17 @@
   "BRAND": "RMD-757",
   "PRODUCT": "RMD-757",
   "DEVICE": "RMD-757",
-  "FINGERPRINT": "alps/hedy77_cu_emmc_ics2/hedy77_cu_emmc_ics2\\:4.0.4/IMM76D/1361868708\\:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "IMM76D",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.5.8.",
+  "RELEASE_OR_CODENAME": "5.5.8.",
+  "ID": "IMM76D",
   "INCREMENTAL": "eng.huxiangyang.1361868708",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "alps/hedy77_cu_emmc_ics2/hedy77_cu_emmc_ics2\\:4.0.4/IMM76D/1361868708\\:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 15,
+  "*.build.id": "IMM76D",
+  "*.security_patch": "",
+  "*.build.version.sdk": "15"
 }

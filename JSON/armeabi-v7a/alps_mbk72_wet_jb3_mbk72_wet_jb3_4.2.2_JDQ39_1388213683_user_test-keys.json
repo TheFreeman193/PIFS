@@ -4,12 +4,17 @@
   "BRAND": "samsung",
   "PRODUCT": "SM-N9006",
   "DEVICE": "SM-N9006",
-  "FINGERPRINT": "alps/mbk72_wet_jb3/mbk72_wet_jb3:4.2.2/JDQ39/1388213683:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JDQ39",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.3",
+  "RELEASE_OR_CODENAME": "4.3",
+  "ID": "JDQ39",
   "INCREMENTAL": "eng.root.1388213683",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "alps/mbk72_wet_jb3/mbk72_wet_jb3:4.2.2/JDQ39/1388213683:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 17,
+  "*.build.id": "JDQ39",
+  "*.security_patch": "",
+  "*.build.version.sdk": "17"
 }

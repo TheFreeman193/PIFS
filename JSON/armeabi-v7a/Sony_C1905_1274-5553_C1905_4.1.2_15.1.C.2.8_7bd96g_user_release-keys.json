@@ -4,12 +4,17 @@
   "BRAND": "Sony",
   "PRODUCT": "C1905_1274-5553",
   "DEVICE": "C1905",
-  "FINGERPRINT": "Sony/C1905_1274-5553/C1905:4.1.2/15.1.C.2.8/7bd96g:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "15.1.C.2.8",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.1.2",
+  "RELEASE_OR_CODENAME": "4.1.2",
+  "ID": "15.1.C.2.8",
   "INCREMENTAL": "7bd96g",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Sony/C1905_1274-5553/C1905:4.1.2/15.1.C.2.8/7bd96g:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 16,
+  "*.build.id": "15.1.C.2.8",
+  "*.security_patch": "",
+  "*.build.version.sdk": "16"
 }

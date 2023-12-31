@@ -4,12 +4,17 @@
   "BRAND": "Sony",
   "PRODUCT": "ST26i_1271-1970",
   "DEVICE": "ST26i",
-  "FINGERPRINT": "Sony/ST26i_1271-1970/ST26i:4.1.2/11.2.A.0.33/z7_96g:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "11.2.A.0.33",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.1.2",
+  "RELEASE_OR_CODENAME": "4.1.2",
+  "ID": "11.2.A.0.33",
   "INCREMENTAL": "z7_96g",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Sony/ST26i_1271-1970/ST26i:4.1.2/11.2.A.0.33/z7_96g:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 16,
+  "*.build.id": "11.2.A.0.33",
+  "*.security_patch": "",
+  "*.build.version.sdk": "16"
 }

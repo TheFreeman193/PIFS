@@ -4,12 +4,17 @@
   "BRAND": "ZOJI",
   "PRODUCT": "Z7",
   "DEVICE": "Z7",
-  "FINGERPRINT": "ZOJI/full_leq6737m_65_m0/leq6737m_65_m0:6.0/MRA58K/1515643064:user/test-keys",
-  "SECURITY_PATCH": "2017-07-05",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "MRA58K",
-  "VNDK_VERSION": "",
+  "RELEASE": "6.0",
+  "RELEASE_OR_CODENAME": "6.0",
+  "ID": "MRA58K",
   "INCREMENTAL": "1515643064",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "ZOJI/full_leq6737m_65_m0/leq6737m_65_m0:6.0/MRA58K/1515643064:user/test-keys",
+  "SECURITY_PATCH": "2017-07-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 23,
+  "*.build.id": "MRA58K",
+  "*.security_patch": "2017-07-05",
+  "*.build.version.sdk": "23"
 }

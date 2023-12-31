@@ -4,12 +4,17 @@
   "BRAND": "qcom",
   "PRODUCT": "msm8974",
   "DEVICE": "msm8974",
-  "FINGERPRINT": "qcom/msm8974/msm8974:4.4.2/KVT49L/eng.lnxbuild.20140529.034957:userdebug/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "KVT49L",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.4.2",
+  "RELEASE_OR_CODENAME": "4.4.2",
+  "ID": "KVT49L",
   "INCREMENTAL": "eng.lnxbuild.20140529.034957",
   "TYPE": "userdebug",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "qcom/msm8974/msm8974:4.4.2/KVT49L/eng.lnxbuild.20140529.034957:userdebug/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "KVT49L",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

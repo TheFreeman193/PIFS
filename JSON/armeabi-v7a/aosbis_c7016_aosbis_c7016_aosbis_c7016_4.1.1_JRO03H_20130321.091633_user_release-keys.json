@@ -4,12 +4,17 @@
   "BRAND": "aosbis_c7016",
   "PRODUCT": "aosbis_c7016",
   "DEVICE": "aosbis_c7016",
-  "FINGERPRINT": "aosbis_c7016/aosbis_c7016/aosbis_c7016:4.1.1/JRO03H/20130321.091633:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JRO03H",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.1.1",
+  "RELEASE_OR_CODENAME": "4.1.1",
+  "ID": "JRO03H",
   "INCREMENTAL": "20130321.091633",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "aosbis_c7016/aosbis_c7016/aosbis_c7016:4.1.1/JRO03H/20130321.091633:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 16,
+  "*.build.id": "JRO03H",
+  "*.security_patch": "",
+  "*.build.version.sdk": "16"
 }

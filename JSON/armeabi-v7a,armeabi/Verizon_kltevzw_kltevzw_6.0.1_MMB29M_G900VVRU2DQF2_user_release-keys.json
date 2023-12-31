@@ -4,12 +4,17 @@
   "BRAND": "Verizon",
   "PRODUCT": "kltevzw",
   "DEVICE": "kltevzw",
-  "FINGERPRINT": "Verizon/kltevzw/kltevzw:6.0.1/MMB29M/G900VVRU2DQF2:user/release-keys",
-  "SECURITY_PATCH": "2017-07-01",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "MMB29M",
-  "VNDK_VERSION": "",
+  "RELEASE": "6.0.1",
+  "RELEASE_OR_CODENAME": "6.0.1",
+  "ID": "MMB29M",
   "INCREMENTAL": "G900VVRU2DQF2",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Verizon/kltevzw/kltevzw:6.0.1/MMB29M/G900VVRU2DQF2:user/release-keys",
+  "SECURITY_PATCH": "2017-07-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 23,
+  "*.build.id": "MMB29M",
+  "*.security_patch": "2017-07-01",
+  "*.build.version.sdk": "23"
 }

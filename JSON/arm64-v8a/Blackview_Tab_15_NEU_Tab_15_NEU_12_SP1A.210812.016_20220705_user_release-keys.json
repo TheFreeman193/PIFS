@@ -4,12 +4,17 @@
   "BRAND": "Blackview",
   "PRODUCT": "Tab_15_NEU",
   "DEVICE": "Tab_15_NEU",
-  "FINGERPRINT": "Blackview/Tab_15_NEU/Tab_15_NEU:12/SP1A.210812.016/20220705:user/release-keys",
-  "SECURITY_PATCH": "2022-05-05",
-  "FIRST_API_LEVEL": "31",
-  "BUILD_ID": "SP1A.210812.016",
-  "VNDK_VERSION": "31",
+  "RELEASE": "12",
+  "RELEASE_OR_CODENAME": "12",
+  "ID": "SP1A.210812.016",
   "INCREMENTAL": "20220705",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Blackview/Tab_15_NEU/Tab_15_NEU:12/SP1A.210812.016/20220705:user/release-keys",
+  "SECURITY_PATCH": "2022-05-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 31,
+  "*.build.id": "SP1A.210812.016",
+  "*.security_patch": "2022-05-05",
+  "*.build.version.sdk": "31"
 }

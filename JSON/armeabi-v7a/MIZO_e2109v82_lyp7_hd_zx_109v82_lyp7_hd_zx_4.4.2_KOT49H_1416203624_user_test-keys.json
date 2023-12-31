@@ -4,12 +4,17 @@
   "BRAND": "MIZO",
   "PRODUCT": "e2109v82_lyp7_hd_zx",
   "DEVICE": "109v82_lyp7_hd_zx",
-  "FINGERPRINT": "MIZO/e2109v82_lyp7_hd_zx/109v82_lyp7_hd_zx:4.4.2/KOT49H/1416203624:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "KOT49H",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.4.2",
+  "RELEASE_OR_CODENAME": "4.4.2",
+  "ID": "KOT49H",
   "INCREMENTAL": "eng.root.1416203624",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "MIZO/e2109v82_lyp7_hd_zx/109v82_lyp7_hd_zx:4.4.2/KOT49H/1416203624:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "KOT49H",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

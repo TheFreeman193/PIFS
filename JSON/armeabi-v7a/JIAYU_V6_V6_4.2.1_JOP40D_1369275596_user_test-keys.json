@@ -4,12 +4,17 @@
   "BRAND": "JIAYU",
   "PRODUCT": "V6",
   "DEVICE": "V6",
-  "FINGERPRINT": "JIAYU/V6/V6:4.2.1/JOP40D/1369275596:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JOP40D",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.2.1",
+  "RELEASE_OR_CODENAME": "4.2.1",
+  "ID": "JOP40D",
   "INCREMENTAL": "eng.scm.1369275596",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "JIAYU/V6/V6:4.2.1/JOP40D/1369275596:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 17,
+  "*.build.id": "JOP40D",
+  "*.security_patch": "",
+  "*.build.version.sdk": "17"
 }

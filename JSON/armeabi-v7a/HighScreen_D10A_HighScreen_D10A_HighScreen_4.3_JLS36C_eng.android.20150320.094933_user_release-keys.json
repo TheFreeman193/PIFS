@@ -4,12 +4,17 @@
   "BRAND": "HighScreen",
   "PRODUCT": "D10A_HighScreen",
   "DEVICE": "D10A_HighScreen",
-  "FINGERPRINT": "HighScreen/D10A_HighScreen/D10A_HighScreen:4.3/JLS36C/eng.android.20150320.094933:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JLS36C",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.3",
+  "RELEASE_OR_CODENAME": "4.3",
+  "ID": "JLS36C",
   "INCREMENTAL": "eng.android.20150320.094933",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "HighScreen/D10A_HighScreen/D10A_HighScreen:4.3/JLS36C/eng.android.20150320.094933:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 18,
+  "*.build.id": "JLS36C",
+  "*.security_patch": "",
+  "*.build.version.sdk": "18"
 }

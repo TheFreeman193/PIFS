@@ -4,12 +4,17 @@
   "BRAND": "HONOR",
   "PRODUCT": "JSN-L21RU",
   "DEVICE": "HWJSN-H",
-  "FINGERPRINT": "HONOR/JSN-L21RU/HWJSN-H:8.1.0/HONORJSN-L21/101(C10):user/release-keys",
-  "SECURITY_PATCH": "2018-10-01",
-  "FIRST_API_LEVEL": "27",
-  "BUILD_ID": "HONORJSN-L21",
-  "VNDK_VERSION": "",
+  "RELEASE": "8.1.0",
+  "RELEASE_OR_CODENAME": "8.1.0",
+  "ID": "HONORJSN-L21",
   "INCREMENTAL": "101(C10)",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "HONOR/JSN-L21RU/HWJSN-H:8.1.0/HONORJSN-L21/101(C10):user/release-keys",
+  "SECURITY_PATCH": "2018-10-01",
+  "DEVICE_INITIAL_SDK_INT": 27,
+  "SDK_INT": 1,
+  "*.build.id": "HONORJSN-L21",
+  "*.security_patch": "2018-10-01",
+  "*.build.version.sdk": "1"
 }

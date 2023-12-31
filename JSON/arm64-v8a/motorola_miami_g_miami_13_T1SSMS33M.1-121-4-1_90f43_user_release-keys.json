@@ -4,12 +4,17 @@
   "BRAND": "motorola",
   "PRODUCT": "miami_g",
   "DEVICE": "miami",
-  "FINGERPRINT": "motorola/miami_g/miami:13/T1SSMS33M.1-121-4-1/90f43:user/release-keys",
-  "SECURITY_PATCH": "2023-07-01",
-  "FIRST_API_LEVEL": "31",
-  "BUILD_ID": "T1SSMS33M.1-121-4-1",
-  "VNDK_VERSION": "",
+  "RELEASE": "13",
+  "RELEASE_OR_CODENAME": "13",
+  "ID": "T1SSMS33M.1-121-4-1",
   "INCREMENTAL": "90f43",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "motorola/miami_g/miami:13/T1SSMS33M.1-121-4-1/90f43:user/release-keys",
+  "SECURITY_PATCH": "2023-07-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 33,
+  "*.build.id": "T1SSMS33M.1-121-4-1",
+  "*.security_patch": "2023-07-01",
+  "*.build.version.sdk": "33"
 }

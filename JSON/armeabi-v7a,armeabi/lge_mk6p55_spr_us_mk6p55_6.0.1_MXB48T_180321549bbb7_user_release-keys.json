@@ -4,12 +4,17 @@
   "BRAND": "lge",
   "PRODUCT": "mk6p55_spr_us",
   "DEVICE": "mk6p55",
-  "FINGERPRINT": "lge/mk6p55_spr_us/mk6p55:6.0.1/MXB48T/180321549bbb7:user/release-keys",
-  "SECURITY_PATCH": "2018-02-01",
-  "FIRST_API_LEVEL": "23",
-  "BUILD_ID": "MXB48T",
-  "VNDK_VERSION": "",
+  "RELEASE": "6.0.1",
+  "RELEASE_OR_CODENAME": "6.0.1",
+  "ID": "MXB48T",
   "INCREMENTAL": "180321549bbb7",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "lge/mk6p55_spr_us/mk6p55:6.0.1/MXB48T/180321549bbb7:user/release-keys",
+  "SECURITY_PATCH": "2018-02-01",
+  "DEVICE_INITIAL_SDK_INT": 23,
+  "SDK_INT": 23,
+  "*.build.id": "MXB48T",
+  "*.security_patch": "2018-02-01",
+  "*.build.version.sdk": "23"
 }

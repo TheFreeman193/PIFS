@@ -4,12 +4,17 @@
   "BRAND": "samsung",
   "PRODUCT": "GT-I9100T",
   "DEVICE": "GT-I9100T",
-  "FINGERPRINT": "samsung/GT-I9100T/GT-I9100T:4.1.2/JZO54K/I9100TJILS8:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JZO54K",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.1.2",
+  "RELEASE_OR_CODENAME": "4.1.2",
+  "ID": "JZO54K",
   "INCREMENTAL": "I9100TJILS8",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "samsung/GT-I9100T/GT-I9100T:4.1.2/JZO54K/I9100TJILS8:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 16,
+  "*.build.id": "JZO54K",
+  "*.security_patch": "",
+  "*.build.version.sdk": "16"
 }

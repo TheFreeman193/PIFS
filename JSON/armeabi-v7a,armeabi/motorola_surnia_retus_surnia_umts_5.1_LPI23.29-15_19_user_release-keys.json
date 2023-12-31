@@ -4,12 +4,17 @@
   "BRAND": "motorola",
   "PRODUCT": "surnia_retus",
   "DEVICE": "surnia_umts",
-  "FINGERPRINT": "motorola/surnia_retus/surnia_umts:5.1/LPI23.29-15/19:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "LPI23.29-15",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.1",
+  "RELEASE_OR_CODENAME": "5.1",
+  "ID": "LPI23.29-15",
   "INCREMENTAL": "19",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "motorola/surnia_retus/surnia_umts:5.1/LPI23.29-15/19:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 22,
+  "*.build.id": "LPI23.29-15",
+  "*.security_patch": "",
+  "*.build.version.sdk": "22"
 }

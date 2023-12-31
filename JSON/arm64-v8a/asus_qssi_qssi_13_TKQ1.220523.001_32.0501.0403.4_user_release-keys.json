@@ -4,12 +4,17 @@
   "BRAND": "asus",
   "PRODUCT": "OPEN_Phone",
   "DEVICE": "qssi",
-  "FINGERPRINT": "asus/qssi/qssi:13/TKQ1.220523.001/32.0501.0403.4:user/release-keys",
-  "SECURITY_PATCH": "2022-06-05",
-  "FIRST_API_LEVEL": "30",
-  "BUILD_ID": "TKQ1.220523.001",
-  "VNDK_VERSION": "",
+  "RELEASE": "13",
+  "RELEASE_OR_CODENAME": "13",
+  "ID": "TKQ1.220523.001",
   "INCREMENTAL": "32.0501.0403.4",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "asus/qssi/qssi:13/TKQ1.220523.001/32.0501.0403.4:user/release-keys",
+  "SECURITY_PATCH": "2022-06-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 33,
+  "*.build.id": "TKQ1.220523.001",
+  "*.security_patch": "2022-06-05",
+  "*.build.version.sdk": "33"
 }

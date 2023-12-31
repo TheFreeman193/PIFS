@@ -4,12 +4,17 @@
   "BRAND": "ZTE",
   "PRODUCT": "Z983",
   "DEVICE": "stollen",
-  "FINGERPRINT": "ZTE/Z983/stollen:7.1.1/NMF26F/20170420.145503:user/release-keys",
-  "SECURITY_PATCH": "2017-03-01",
-  "FIRST_API_LEVEL": "24",
-  "BUILD_ID": "NMF26F",
-  "VNDK_VERSION": "",
+  "RELEASE": "7.1.1",
+  "RELEASE_OR_CODENAME": "7.1.1",
+  "ID": "NMF26F",
   "INCREMENTAL": "20170420.145503",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "ZTE/Z983/stollen:7.1.1/NMF26F/20170420.145503:user/release-keys",
+  "SECURITY_PATCH": "2017-03-01",
+  "DEVICE_INITIAL_SDK_INT": 24,
+  "SDK_INT": 25,
+  "*.build.id": "NMF26F",
+  "*.security_patch": "2017-03-01",
+  "*.build.version.sdk": "25"
 }

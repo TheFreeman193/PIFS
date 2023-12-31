@@ -4,12 +4,17 @@
   "BRAND": "HUAWEI",
   "PRODUCT": "CUN-L22",
   "DEVICE": "HWCUN-L6735",
-  "FINGERPRINT": "HUAWEI/CUN-L22/HWCUN-L6735:5.1/HUAWEICUN-L22/C567B128:user/release-keys",
-  "SECURITY_PATCH": "2016-07-05",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "HUAWEICUN-L22",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.1",
+  "RELEASE_OR_CODENAME": "5.1",
+  "ID": "HUAWEICUN-L22",
   "INCREMENTAL": "C567B128",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "HUAWEI/CUN-L22/HWCUN-L6735:5.1/HUAWEICUN-L22/C567B128:user/release-keys",
+  "SECURITY_PATCH": "2016-07-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 22,
+  "*.build.id": "HUAWEICUN-L22",
+  "*.security_patch": "2016-07-05",
+  "*.build.version.sdk": "22"
 }

@@ -4,12 +4,17 @@
   "BRAND": "samsung",
   "PRODUCT": "j4coreltejx",
   "DEVICE": "j4corelte",
-  "FINGERPRINT": "samsung/j4coreltejx/j4corelte:8.1.0/M1AJB/J410FXXS2ASI2:user/release-keys",
-  "SECURITY_PATCH": "2019-09-01",
-  "FIRST_API_LEVEL": "27",
-  "BUILD_ID": "M1AJB",
-  "VNDK_VERSION": "",
+  "RELEASE": "8.1.0",
+  "RELEASE_OR_CODENAME": "8.1.0",
+  "ID": "M1AJB",
   "INCREMENTAL": "J410FXXS2ASI2",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "samsung/j4coreltejx/j4corelte:8.1.0/M1AJB/J410FXXS2ASI2:user/release-keys",
+  "SECURITY_PATCH": "2019-09-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 27,
+  "*.build.id": "M1AJB",
+  "*.security_patch": "2019-09-01",
+  "*.build.version.sdk": "27"
 }

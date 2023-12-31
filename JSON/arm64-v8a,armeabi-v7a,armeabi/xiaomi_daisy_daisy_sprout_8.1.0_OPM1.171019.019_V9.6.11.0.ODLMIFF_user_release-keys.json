@@ -4,12 +4,17 @@
   "BRAND": "xiaomi",
   "PRODUCT": "daisy",
   "DEVICE": "daisy_sprout",
-  "FINGERPRINT": "xiaomi/daisy/daisy_sprout:8.1.0/OPM1.171019.019/V9.6.11.0.ODLMIFF:user/release-keys",
-  "SECURITY_PATCH": "2018-11-01",
-  "FIRST_API_LEVEL": "27",
-  "BUILD_ID": "OPM1.171019.019",
-  "VNDK_VERSION": "",
+  "RELEASE": "8.1.0",
+  "RELEASE_OR_CODENAME": "8.1.0",
+  "ID": "OPM1.171019.019",
   "INCREMENTAL": "V9.6.11.0.ODLMIFF",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "xiaomi/daisy/daisy_sprout:8.1.0/OPM1.171019.019/V9.6.11.0.ODLMIFF:user/release-keys",
+  "SECURITY_PATCH": "2018-11-01",
+  "DEVICE_INITIAL_SDK_INT": 27,
+  "SDK_INT": 1,
+  "*.build.id": "OPM1.171019.019",
+  "*.security_patch": "2018-11-01",
+  "*.build.version.sdk": "1"
 }

@@ -4,12 +4,17 @@
   "BRAND": "hi6210sft",
   "PRODUCT": "hi6210sft",
   "DEVICE": "hi6210sft",
-  "FINGERPRINT": "hi6210sft/hi6210sft/hi6210sft:6.0/MRA58K/jenkins06162221:user/test-keys",
-  "SECURITY_PATCH": "2016-06-01",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "MRA58K",
-  "VNDK_VERSION": "",
+  "RELEASE": "6.0",
+  "RELEASE_OR_CODENAME": "6.0",
+  "ID": "MRA58K",
   "INCREMENTAL": "eng.jenkins.20160616.221526",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "hi6210sft/hi6210sft/hi6210sft:6.0/MRA58K/jenkins06162221:user/test-keys",
+  "SECURITY_PATCH": "2016-06-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 23,
+  "*.build.id": "MRA58K",
+  "*.security_patch": "2016-06-01",
+  "*.build.version.sdk": "23"
 }

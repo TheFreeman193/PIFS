@@ -4,12 +4,17 @@
   "BRAND": "rockchip",
   "PRODUCT": "rk3368",
   "DEVICE": "rk3368",
-  "FINGERPRINT": "rockchip/rk3368/rk3368:9/PI/000304:user/release-keys",
-  "SECURITY_PATCH": "2019-11-05",
-  "FIRST_API_LEVEL": "23",
-  "BUILD_ID": "PI",
-  "VNDK_VERSION": "",
+  "RELEASE": "9",
+  "RELEASE_OR_CODENAME": "9",
+  "ID": "PI",
   "INCREMENTAL": "000304",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "rockchip/rk3368/rk3368:9/PI/000304:user/release-keys",
+  "SECURITY_PATCH": "2019-11-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 28,
+  "*.build.id": "PI",
+  "*.security_patch": "2019-11-05",
+  "*.build.version.sdk": "28"
 }

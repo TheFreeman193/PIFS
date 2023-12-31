@@ -4,12 +4,17 @@
   "BRAND": "Jide",
   "PRODUCT": "remix_x86_64",
   "DEVICE": "remix_x86_64",
-  "FINGERPRINT": "Jide/remix_x86_64/remix_x86_64:5.1.1/LMY48W/B2016020201:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "LMY48W",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.1.1",
+  "RELEASE_OR_CODENAME": "5.1.1",
+  "ID": "LMY48W",
   "INCREMENTAL": "B2016020201",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Jide/remix_x86_64/remix_x86_64:5.1.1/LMY48W/B2016020201:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 22,
+  "*.build.id": "LMY48W",
+  "*.security_patch": "",
+  "*.build.version.sdk": "22"
 }

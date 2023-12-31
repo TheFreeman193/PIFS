@@ -4,12 +4,17 @@
   "BRAND": "iris",
   "PRODUCT": "X1ST8865",
   "DEVICE": "X1ST8865",
-  "FINGERPRINT": "iris/X1ST8865/X1ST8865:4.4.2/X1/20141001.013145:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "X1",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.4.2",
+  "RELEASE_OR_CODENAME": "4.4.2",
+  "ID": "X1",
   "INCREMENTAL": "20141001.013145",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "iris/X1ST8865/X1ST8865:4.4.2/X1/20141001.013145:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "X1",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

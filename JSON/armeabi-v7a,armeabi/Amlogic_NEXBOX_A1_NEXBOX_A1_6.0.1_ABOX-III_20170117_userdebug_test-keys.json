@@ -4,12 +4,17 @@
   "BRAND": "Amlogic",
   "PRODUCT": "NEXBOX_A1",
   "DEVICE": "NEXBOX_A1",
-  "FINGERPRINT": "Amlogic/NEXBOX_A1/NEXBOX_A1:6.0.1/ABOX-III/20170117:userdebug/test-keys",
-  "SECURITY_PATCH": "2016-08-01",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "ABOX-III",
-  "VNDK_VERSION": "",
+  "RELEASE": "6.0.1",
+  "RELEASE_OR_CODENAME": "6.0.1",
+  "ID": "ABOX-III",
   "INCREMENTAL": "20170117",
   "TYPE": "userdebug",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "Amlogic/NEXBOX_A1/NEXBOX_A1:6.0.1/ABOX-III/20170117:userdebug/test-keys",
+  "SECURITY_PATCH": "2016-08-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 23,
+  "*.build.id": "ABOX-III",
+  "*.security_patch": "2016-08-01",
+  "*.build.version.sdk": "23"
 }

@@ -4,12 +4,17 @@
   "BRAND": "DIGMA",
   "PRODUCT": "Plane_8595_3G",
   "DEVICE": "PS8212PG",
-  "FINGERPRINT": "DIGMA/Plane_8595_3G/PS8212PG:9/PPR1.180610.011/22016:user/release-keys",
-  "SECURITY_PATCH": "2019-04-01",
-  "FIRST_API_LEVEL": "28",
-  "BUILD_ID": "PPR1.180610.011",
-  "VNDK_VERSION": "1",
+  "RELEASE": "9",
+  "RELEASE_OR_CODENAME": "9",
+  "ID": "PPR1.180610.011",
   "INCREMENTAL": "22016",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "DIGMA/Plane_8595_3G/PS8212PG:9/PPR1.180610.011/22016:user/release-keys",
+  "SECURITY_PATCH": "2019-04-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 28,
+  "*.build.id": "PPR1.180610.011",
+  "*.security_patch": "2019-04-01",
+  "*.build.version.sdk": "28"
 }

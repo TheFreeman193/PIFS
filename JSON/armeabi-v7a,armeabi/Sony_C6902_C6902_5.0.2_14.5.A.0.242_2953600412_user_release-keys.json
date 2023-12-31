@@ -4,12 +4,17 @@
   "BRAND": "Sony",
   "PRODUCT": "C6902",
   "DEVICE": "C6902",
-  "FINGERPRINT": "Sony/C6902/C6902:5.0.2/14.5.A.0.242/2953600412:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "14.5.A.0.242",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.0.2",
+  "RELEASE_OR_CODENAME": "5.0.2",
+  "ID": "14.5.A.0.242",
   "INCREMENTAL": "2953600412",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Sony/C6902/C6902:5.0.2/14.5.A.0.242/2953600412:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 21,
+  "*.build.id": "14.5.A.0.242",
+  "*.security_patch": "",
+  "*.build.version.sdk": "21"
 }

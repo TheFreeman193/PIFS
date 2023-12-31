@@ -4,12 +4,17 @@
   "BRAND": "Coolpad",
   "PRODUCT": "ventura",
   "DEVICE": "ventura",
-  "FINGERPRINT": "Coolpad/ventura/ventura:8.1.0/3310A.SPRINT.190213.0S/farmlnj05-1106:user/release-keys",
-  "SECURITY_PATCH": "2019-02-01",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "3310A.SPRINT.190213.0S",
-  "VNDK_VERSION": "",
+  "RELEASE": "8.1.0",
+  "RELEASE_OR_CODENAME": "8.1.0",
+  "ID": "3310A.SPRINT.190213.0S",
   "INCREMENTAL": "farmlnj05-1106",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Coolpad/ventura/ventura:8.1.0/3310A.SPRINT.190213.0S/farmlnj05-1106:user/release-keys",
+  "SECURITY_PATCH": "2019-02-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 27,
+  "*.build.id": "3310A.SPRINT.190213.0S",
+  "*.security_patch": "2019-02-01",
+  "*.build.version.sdk": "27"
 }

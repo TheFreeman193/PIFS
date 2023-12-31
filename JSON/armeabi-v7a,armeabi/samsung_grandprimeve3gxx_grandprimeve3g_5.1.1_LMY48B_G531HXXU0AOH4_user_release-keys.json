@@ -4,12 +4,17 @@
   "BRAND": "samsung",
   "PRODUCT": "grandprimeve3gxx",
   "DEVICE": "grandprimeve3g",
-  "FINGERPRINT": "samsung/grandprimeve3gxx/grandprimeve3g:5.1.1/LMY48B/G531HXXU0AOH4:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "LMY48B",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.1.1",
+  "RELEASE_OR_CODENAME": "5.1.1",
+  "ID": "LMY48B",
   "INCREMENTAL": "G531HXXU0AOH4",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "samsung/grandprimeve3gxx/grandprimeve3g:5.1.1/LMY48B/G531HXXU0AOH4:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 22,
+  "*.build.id": "LMY48B",
+  "*.security_patch": "",
+  "*.build.version.sdk": "22"
 }

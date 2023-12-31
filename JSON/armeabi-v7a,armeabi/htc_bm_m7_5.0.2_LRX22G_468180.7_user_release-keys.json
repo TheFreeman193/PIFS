@@ -4,12 +4,17 @@
   "BRAND": "htc",
   "PRODUCT": "bm",
   "DEVICE": "m7",
-  "FINGERPRINT": "htc/bm/m7:5.0.2/LRX22G/468180.7:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "LRX22G",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.0.2",
+  "RELEASE_OR_CODENAME": "5.0.2",
+  "ID": "LRX22G",
   "INCREMENTAL": "468180.7",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "htc/bm/m7:5.0.2/LRX22G/468180.7:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 21,
+  "*.build.id": "LRX22G",
+  "*.security_patch": "",
+  "*.build.version.sdk": "21"
 }

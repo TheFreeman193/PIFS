@@ -4,12 +4,17 @@
   "BRAND": "WORLD",
   "PRODUCT": "World_WP4u",
   "DEVICE": "World_WP4u",
-  "FINGERPRINT": "WORLD/e2719v92_hydy_hd_world/e2719v92_hydy_hd_world:4.4.2/KOT49H/1431573012:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "KOT49H",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.4.2",
+  "RELEASE_OR_CODENAME": "4.4.2",
+  "ID": "KOT49H",
   "INCREMENTAL": "eng.root.1431573012",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "WORLD/e2719v92_hydy_hd_world/e2719v92_hydy_hd_world:4.4.2/KOT49H/1431573012:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "KOT49H",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

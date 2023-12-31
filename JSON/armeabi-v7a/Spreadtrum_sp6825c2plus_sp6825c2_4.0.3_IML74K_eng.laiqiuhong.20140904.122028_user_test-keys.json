@@ -4,12 +4,17 @@
   "BRAND": "Spreadtrum",
   "PRODUCT": "sp6825c2plus",
   "DEVICE": "sp6825c2",
-  "FINGERPRINT": "Spreadtrum/sp6825c2plus/sp6825c2:4.0.3/IML74K/eng.laiqiuhong.20140904.122028:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "IML74K",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.0.3",
+  "RELEASE_OR_CODENAME": "4.0.3",
+  "ID": "IML74K",
   "INCREMENTAL": "eng.laiqiuhong.20140904.122028",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "Spreadtrum/sp6825c2plus/sp6825c2:4.0.3/IML74K/eng.laiqiuhong.20140904.122028:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 15,
+  "*.build.id": "IML74K",
+  "*.security_patch": "",
+  "*.build.version.sdk": "15"
 }

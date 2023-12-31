@@ -4,12 +4,17 @@
   "BRAND": "motorola",
   "PRODUCT": "XT926_verizon",
   "DEVICE": "vanquish",
-  "FINGERPRINT": "motorola/XT926_verizon/vanquish:4.1.2/9.8.1Q-62_VQW_MR-4/9:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "9.8.1Q-62_VQW_MR-4",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.1.2",
+  "RELEASE_OR_CODENAME": "4.1.2",
+  "ID": "9.8.1Q-62_VQW_MR-4",
   "INCREMENTAL": "9",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "motorola/XT926_verizon/vanquish:4.1.2/9.8.1Q-62_VQW_MR-4/9:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 16,
+  "*.build.id": "9.8.1Q-62_VQW_MR-4",
+  "*.security_patch": "",
+  "*.build.version.sdk": "16"
 }

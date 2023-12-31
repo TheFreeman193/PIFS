@@ -4,12 +4,17 @@
   "BRAND": "samsung",
   "PRODUCT": "GT-N7000",
   "DEVICE": "GT-N7000",
-  "FINGERPRINT": "samsung/GT-N7000/GT-N7000:4.1.2/JZO54K/N7000XXLT4:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JZO54K",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.1.2",
+  "RELEASE_OR_CODENAME": "4.1.2",
+  "ID": "JZO54K",
   "INCREMENTAL": "N7000XXLT4",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "samsung/GT-N7000/GT-N7000:4.1.2/JZO54K/N7000XXLT4:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 16,
+  "*.build.id": "JZO54K",
+  "*.security_patch": "",
+  "*.build.version.sdk": "16"
 }

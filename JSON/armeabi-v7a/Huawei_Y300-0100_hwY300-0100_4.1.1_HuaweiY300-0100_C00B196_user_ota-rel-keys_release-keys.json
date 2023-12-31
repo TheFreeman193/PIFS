@@ -4,12 +4,17 @@
   "BRAND": "Huawei",
   "PRODUCT": "Y300-0100",
   "DEVICE": "hwY300-0100",
-  "FINGERPRINT": "Huawei/Y300-0100/hwY300-0100:4.1.1/HuaweiY300-0100/C00B196:user/ota-rel-keys,release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "HuaweiY300-0100",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.1.1",
+  "RELEASE_OR_CODENAME": "4.1.1",
+  "ID": "HuaweiY300-0100",
   "INCREMENTAL": "C00B196",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Huawei/Y300-0100/hwY300-0100:4.1.1/HuaweiY300-0100/C00B196:user/ota-rel-keys,release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 16,
+  "*.build.id": "HuaweiY300-0100",
+  "*.security_patch": "",
+  "*.build.version.sdk": "16"
 }

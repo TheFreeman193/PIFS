@@ -4,12 +4,17 @@
   "BRAND": "RCA",
   "PRODUCT": "RCT6672W23",
   "DEVICE": "RCT6672W23",
-  "FINGERPRINT": "RCA/RCT6672W23/RCT6672W23:4.4.2/KOT49H/V1.00-eng.lhy.20140614.151335:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "KOT49H",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.4.2",
+  "RELEASE_OR_CODENAME": "4.4.2",
+  "ID": "KOT49H",
   "INCREMENTAL": "eng.lrh.20140718.225151",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "RCA/RCT6672W23/RCT6672W23:4.4.2/KOT49H/V1.00-eng.lhy.20140614.151335:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "KOT49H",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

@@ -4,12 +4,17 @@
   "BRAND": "Micromax",
   "PRODUCT": "A065",
   "DEVICE": "A065",
-  "FINGERPRINT": "Micromax/A065/A065:4.4.2/KOT49H/MMX_A065_SW_V1.0_HW_V1.0_270614:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "KOT49H",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.4.2",
+  "RELEASE_OR_CODENAME": "4.4.2",
+  "ID": "KOT49H",
   "INCREMENTAL": "eng..1404028162",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Micromax/A065/A065:4.4.2/KOT49H/MMX_A065_SW_V1.0_HW_V1.0_270614:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "KOT49H",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

@@ -4,12 +4,17 @@
   "BRAND": "APPLE",
   "PRODUCT": "8 plus",
   "DEVICE": "8 plus",
-  "FINGERPRINT": "alps/full_s206_7p/s206_7p:6.0/MRA58K/1507544476:user/test-keys",
-  "SECURITY_PATCH": "2016-03-01",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "iOS11.0",
-  "VNDK_VERSION": "",
+  "RELEASE": "6.0",
+  "RELEASE_OR_CODENAME": "6.0",
+  "ID": "iOS11.0",
   "INCREMENTAL": "iOS11.0",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "alps/full_s206_7p/s206_7p:6.0/MRA58K/1507544476:user/test-keys",
+  "SECURITY_PATCH": "2016-03-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 23,
+  "*.build.id": "iOS11.0",
+  "*.security_patch": "2016-03-01",
+  "*.build.version.sdk": "23"
 }

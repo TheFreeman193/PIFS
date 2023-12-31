@@ -4,12 +4,17 @@
   "BRAND": "Android",
   "PRODUCT": "full_gs702c",
   "DEVICE": "gs702c",
-  "FINGERPRINT": "Android/full_gs702c/gs702c:4.2.2/JDQ39/eng.yl.20131221.145559:userdebug/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JDQ39",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.2.2",
+  "RELEASE_OR_CODENAME": "4.2.2",
+  "ID": "JDQ39",
   "INCREMENTAL": "eng.yl.20131221.145559",
   "TYPE": "userdebug",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Android/full_gs702c/gs702c:4.2.2/JDQ39/eng.yl.20131221.145559:userdebug/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 17,
+  "*.build.id": "JDQ39",
+  "*.security_patch": "",
+  "*.build.version.sdk": "17"
 }

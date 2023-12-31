@@ -4,12 +4,17 @@
   "BRAND": "NKJ_AQT100",
   "PRODUCT": "NKJ_AQT100",
   "DEVICE": "NKJ_AQT100",
-  "FINGERPRINT": "NKJ_AQT100/NKJ_AQT100/NKJ_AQT100:5.1.1/NKJ.02.42.01.04/01:user/release-keys",
-  "SECURITY_PATCH": "2016-10-01",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "NKJ.02.42.01.04",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.1.1",
+  "RELEASE_OR_CODENAME": "5.1.1",
+  "ID": "NKJ.02.42.01.04",
   "INCREMENTAL": "01",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "NKJ_AQT100/NKJ_AQT100/NKJ_AQT100:5.1.1/NKJ.02.42.01.04/01:user/release-keys",
+  "SECURITY_PATCH": "2016-10-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 22,
+  "*.build.id": "NKJ.02.42.01.04",
+  "*.security_patch": "2016-10-01",
+  "*.build.version.sdk": "22"
 }

@@ -4,12 +4,17 @@
   "BRAND": "Things",
   "PRODUCT": "iot_msm8x53_som",
   "DEVICE": "msm8x53_som",
-  "FINGERPRINT": "Things/iot_msm8x53_som/msm8x53_som:8.1.0/OIM6.190107.031/5459842:user/release-keys",
-  "SECURITY_PATCH": "2019-02-05",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "OIM6.190107.031",
-  "VNDK_VERSION": "",
+  "RELEASE": "8.1.0",
+  "RELEASE_OR_CODENAME": "8.1.0",
+  "ID": "OIM6.190107.031",
   "INCREMENTAL": "5459842",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Things/iot_msm8x53_som/msm8x53_som:8.1.0/OIM6.190107.031/5459842:user/release-keys",
+  "SECURITY_PATCH": "2019-02-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 27,
+  "*.build.id": "OIM6.190107.031",
+  "*.security_patch": "2019-02-05",
+  "*.build.version.sdk": "27"
 }

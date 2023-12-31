@@ -4,12 +4,17 @@
   "BRAND": "lge",
   "PRODUCT": "sf340_spr_us",
   "DEVICE": "sf340",
-  "FINGERPRINT": "lge/sf340_spr_us/sf340:7.0/NRD90U/1814912282a4c:user/release-keys",
-  "SECURITY_PATCH": "2018-05-01",
-  "FIRST_API_LEVEL": "24",
-  "BUILD_ID": "NRD90U",
-  "VNDK_VERSION": "",
+  "RELEASE": "7.0",
+  "RELEASE_OR_CODENAME": "7.0",
+  "ID": "NRD90U",
   "INCREMENTAL": "1814912282a4c",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "lge/sf340_spr_us/sf340:7.0/NRD90U/1814912282a4c:user/release-keys",
+  "SECURITY_PATCH": "2018-05-01",
+  "DEVICE_INITIAL_SDK_INT": 24,
+  "SDK_INT": 24,
+  "*.build.id": "NRD90U",
+  "*.security_patch": "2018-05-01",
+  "*.build.version.sdk": "24"
 }

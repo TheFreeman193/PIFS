@@ -4,12 +4,17 @@
   "BRAND": "Micromax",
   "PRODUCT": "cm_Q415",
   "DEVICE": "Q415",
-  "FINGERPRINT": "Micromax/Q415/Q415:6.0.1/LMY49G/C577B040:user/release-keys",
-  "SECURITY_PATCH": "2016-08-05",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "MOB30Z",
-  "VNDK_VERSION": "",
+  "RELEASE": "6.0.1",
+  "RELEASE_OR_CODENAME": "6.0.1",
+  "ID": "MOB30Z",
   "INCREMENTAL": "d8485a4747",
   "TYPE": "userdebug",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "Micromax/Q415/Q415:6.0.1/LMY49G/C577B040:user/release-keys",
+  "SECURITY_PATCH": "2016-08-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 23,
+  "*.build.id": "MOB30Z",
+  "*.security_patch": "2016-08-05",
+  "*.build.version.sdk": "23"
 }

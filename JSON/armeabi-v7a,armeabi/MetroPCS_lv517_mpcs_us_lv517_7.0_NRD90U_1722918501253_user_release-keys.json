@@ -4,12 +4,17 @@
   "BRAND": "MetroPCS",
   "PRODUCT": "lv517_mpcs_us",
   "DEVICE": "lv517",
-  "FINGERPRINT": "MetroPCS/lv517_mpcs_us/lv517:7.0/NRD90U/1722918501253:user/release-keys",
-  "SECURITY_PATCH": "2017-08-01",
-  "FIRST_API_LEVEL": "24",
-  "BUILD_ID": "NRD90U",
-  "VNDK_VERSION": "",
+  "RELEASE": "7.0",
+  "RELEASE_OR_CODENAME": "7.0",
+  "ID": "NRD90U",
   "INCREMENTAL": "1722918501253",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "MetroPCS/lv517_mpcs_us/lv517:7.0/NRD90U/1722918501253:user/release-keys",
+  "SECURITY_PATCH": "2017-08-01",
+  "DEVICE_INITIAL_SDK_INT": 24,
+  "SDK_INT": 24,
+  "*.build.id": "NRD90U",
+  "*.security_patch": "2017-08-01",
+  "*.build.version.sdk": "24"
 }

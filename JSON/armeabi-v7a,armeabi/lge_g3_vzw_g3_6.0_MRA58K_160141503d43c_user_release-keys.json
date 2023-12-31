@@ -4,12 +4,17 @@
   "BRAND": "lge",
   "PRODUCT": "g3_vzw_us",
   "DEVICE": "vs985",
-  "FINGERPRINT": "lge/g3_vzw/g3:6.0/MRA58K/160141503d43c:user/release-keys",
-  "SECURITY_PATCH": "2016-05-01",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "MOB30J",
-  "VNDK_VERSION": "",
+  "RELEASE": "6.0.1",
+  "RELEASE_OR_CODENAME": "6.0.1",
+  "ID": "MOB30J",
   "INCREMENTAL": "354dbf4414",
   "TYPE": "userdebug",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "lge/g3_vzw/g3:6.0/MRA58K/160141503d43c:user/release-keys",
+  "SECURITY_PATCH": "2016-05-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 23,
+  "*.build.id": "MOB30J",
+  "*.security_patch": "2016-05-01",
+  "*.build.version.sdk": "23"
 }

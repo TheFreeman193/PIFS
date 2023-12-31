@@ -4,12 +4,17 @@
   "BRAND": "FIH",
   "PRODUCT": "E2M_00WW_FIH",
   "DEVICE": "EVW",
-  "FINGERPRINT": "Nokia/Dynamo2_VZW/EVW:9/PKQ1.181105.001/00WW_1_13A:user/release-keys",
-  "SECURITY_PATCH": "2019-06-01",
-  "FIRST_API_LEVEL": "27",
-  "BUILD_ID": "PKQ1.181105.001",
-  "VNDK_VERSION": "",
+  "RELEASE": "9",
+  "RELEASE_OR_CODENAME": "9",
+  "ID": "PKQ1.181105.001",
   "INCREMENTAL": "00WW_1_13A",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Nokia/Dynamo2_VZW/EVW:9/PKQ1.181105.001/00WW_1_13A:user/release-keys",
+  "SECURITY_PATCH": "2019-06-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 28,
+  "*.build.id": "PKQ1.181105.001",
+  "*.security_patch": "2019-06-01",
+  "*.build.version.sdk": "28"
 }

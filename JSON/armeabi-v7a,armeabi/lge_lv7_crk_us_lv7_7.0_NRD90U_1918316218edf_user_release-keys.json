@@ -4,12 +4,17 @@
   "BRAND": "lge",
   "PRODUCT": "lv7_crk_us",
   "DEVICE": "lv7",
-  "FINGERPRINT": "lge/lv7_crk_us/lv7:7.0/NRD90U/1918316218edf:user/release-keys",
-  "SECURITY_PATCH": "2019-07-01",
-  "FIRST_API_LEVEL": "24",
-  "BUILD_ID": "NRD90U",
-  "VNDK_VERSION": "",
+  "RELEASE": "7.0",
+  "RELEASE_OR_CODENAME": "7.0",
+  "ID": "NRD90U",
   "INCREMENTAL": "1918316218edf",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "lge/lv7_crk_us/lv7:7.0/NRD90U/1918316218edf:user/release-keys",
+  "SECURITY_PATCH": "2019-07-01",
+  "DEVICE_INITIAL_SDK_INT": 24,
+  "SDK_INT": 24,
+  "*.build.id": "NRD90U",
+  "*.security_patch": "2019-07-01",
+  "*.build.version.sdk": "24"
 }

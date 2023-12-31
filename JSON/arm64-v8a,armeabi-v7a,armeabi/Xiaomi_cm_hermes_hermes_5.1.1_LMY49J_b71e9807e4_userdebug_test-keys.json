@@ -4,12 +4,17 @@
   "BRAND": "Xiaomi",
   "PRODUCT": "cm_hermes",
   "DEVICE": "hermes",
-  "FINGERPRINT": "Xiaomi/cm_hermes/hermes:5.1.1/LMY49J/b71e9807e4:userdebug/test-keys",
-  "SECURITY_PATCH": "2016-05-01",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "LMY49J",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.1.1",
+  "RELEASE_OR_CODENAME": "5.1.1",
+  "ID": "LMY49J",
   "INCREMENTAL": "b71e9807e4",
   "TYPE": "userdebug",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "Xiaomi/cm_hermes/hermes:5.1.1/LMY49J/b71e9807e4:userdebug/test-keys",
+  "SECURITY_PATCH": "2016-05-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 22,
+  "*.build.id": "LMY49J",
+  "*.security_patch": "2016-05-01",
+  "*.build.version.sdk": "22"
 }

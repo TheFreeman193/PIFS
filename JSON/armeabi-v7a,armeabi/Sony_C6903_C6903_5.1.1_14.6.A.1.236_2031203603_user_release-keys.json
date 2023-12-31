@@ -4,12 +4,17 @@
   "BRAND": "Sony",
   "PRODUCT": "C6903",
   "DEVICE": "C6903",
-  "FINGERPRINT": "Sony/C6903/C6903:5.1.1/14.6.A.1.236/2031203603:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "14.6.A.1.236",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.1.1",
+  "RELEASE_OR_CODENAME": "5.1.1",
+  "ID": "14.6.A.1.236",
   "INCREMENTAL": "2031203603",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Sony/C6903/C6903:5.1.1/14.6.A.1.236/2031203603:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 22,
+  "*.build.id": "14.6.A.1.236",
+  "*.security_patch": "",
+  "*.build.version.sdk": "22"
 }

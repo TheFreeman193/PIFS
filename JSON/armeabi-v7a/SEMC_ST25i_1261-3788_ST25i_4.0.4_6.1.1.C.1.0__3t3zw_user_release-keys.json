@@ -4,12 +4,17 @@
   "BRAND": "SEMC",
   "PRODUCT": "ST25i_1261-3788",
   "DEVICE": "ST25i",
-  "FINGERPRINT": "SEMC/ST25i_1261-3788/ST25i:4.0.4/6.1.1.C.1.0/_3t3zw:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "6.1.1.C.1.0",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.0.4",
+  "RELEASE_OR_CODENAME": "4.0.4",
+  "ID": "6.1.1.C.1.0",
   "INCREMENTAL": "_3t3zw",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "SEMC/ST25i_1261-3788/ST25i:4.0.4/6.1.1.C.1.0/_3t3zw:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 15,
+  "*.build.id": "6.1.1.C.1.0",
+  "*.security_patch": "",
+  "*.build.version.sdk": "15"
 }

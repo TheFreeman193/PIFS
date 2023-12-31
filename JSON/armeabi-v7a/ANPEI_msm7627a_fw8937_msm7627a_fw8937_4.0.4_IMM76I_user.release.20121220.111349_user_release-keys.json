@@ -4,12 +4,17 @@
   "BRAND": "ANPEI",
   "PRODUCT": "msm7627a_fw8937",
   "DEVICE": "msm7627a_fw8937",
-  "FINGERPRINT": "ANPEI/msm7627a_fw8937/msm7627a_fw8937:4.0.4/IMM76I/user.release.20121220.111349:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "IMM76I",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.0.4",
+  "RELEASE_OR_CODENAME": "4.0.4",
+  "ID": "IMM76I",
   "INCREMENTAL": "user.release.20121220.111349",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "ANPEI/msm7627a_fw8937/msm7627a_fw8937:4.0.4/IMM76I/user.release.20121220.111349:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 15,
+  "*.build.id": "IMM76I",
+  "*.security_patch": "",
+  "*.build.version.sdk": "15"
 }

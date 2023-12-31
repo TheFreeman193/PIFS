@@ -4,12 +4,17 @@
   "BRAND": "htccn_chs",
   "PRODUCT": "dlxu",
   "DEVICE": "dlxu",
-  "FINGERPRINT": "alps/mobitek77_m01_ics2/mobitek77_m01_ics2:4.1.1/IMM76D/1371717202:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "IMM76D",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.1.1",
+  "RELEASE_OR_CODENAME": "4.1.1",
+  "ID": "IMM76D",
   "INCREMENTAL": "eng.root.1371717202",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "alps/mobitek77_m01_ics2/mobitek77_m01_ics2:4.1.1/IMM76D/1371717202:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 15,
+  "*.build.id": "IMM76D",
+  "*.security_patch": "",
+  "*.build.version.sdk": "15"
 }

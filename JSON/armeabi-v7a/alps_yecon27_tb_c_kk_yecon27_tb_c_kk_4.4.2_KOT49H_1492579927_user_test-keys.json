@@ -4,12 +4,17 @@
   "BRAND": "unknown",
   "PRODUCT": "unknown",
   "DEVICE": "yecon27_tb_c_kk",
-  "FINGERPRINT": "alps/yecon27_tb_c_kk/yecon27_tb_c_kk:4.4.2/KOT49H/1492579927:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "MID",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.1.1",
+  "RELEASE_OR_CODENAME": "5.1.1",
+  "ID": "MID",
   "INCREMENTAL": "eng.android2014.1492579927",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "alps/yecon27_tb_c_kk/yecon27_tb_c_kk:4.4.2/KOT49H/1492579927:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "MID",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

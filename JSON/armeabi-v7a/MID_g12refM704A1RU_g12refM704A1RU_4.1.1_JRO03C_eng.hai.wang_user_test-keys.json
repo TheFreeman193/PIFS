@@ -4,12 +4,17 @@
   "BRAND": "MID",
   "PRODUCT": "g12refM704A1RU",
   "DEVICE": "g12refM704A1RU",
-  "FINGERPRINT": "MID/g12refM704A1RU/g12refM704A1RU:4.1.1/JRO03C/eng.hai.wang:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JRO03C",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.1.1",
+  "RELEASE_OR_CODENAME": "4.1.1",
+  "ID": "JRO03C",
   "INCREMENTAL": "eng.hai.wang",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "MID/g12refM704A1RU/g12refM704A1RU:4.1.1/JRO03C/eng.hai.wang:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 16,
+  "*.build.id": "JRO03C",
+  "*.security_patch": "",
+  "*.build.version.sdk": "16"
 }

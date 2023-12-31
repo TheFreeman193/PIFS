@@ -4,12 +4,17 @@
   "BRAND": "alps",
   "PRODUCT": "k006_shx_s20",
   "DEVICE": "k006_shx_s20",
-  "FINGERPRINT": "alps/k006_shx_s20/k006_shx_s20:5.1.0/KOT49H/1446537919:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "KOT49H",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.1.0",
+  "RELEASE_OR_CODENAME": "5.1.0",
+  "ID": "KOT49H",
   "INCREMENTAL": "eng.flycom-224.1446537919",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "alps/k006_shx_s20/k006_shx_s20:5.1.0/KOT49H/1446537919:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "KOT49H",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

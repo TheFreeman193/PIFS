@@ -4,12 +4,17 @@
   "BRAND": "asus",
   "PRODUCT": "IN_X00G",
   "DEVICE": "ASUS_X00G_1",
-  "FINGERPRINT": "asus/IN_X00G/ASUS_X00G_1:7.0/NRD90M/IN_X00G-14.02.1704.20-20170505:user/release-keys",
-  "SECURITY_PATCH": "2017-04-05",
-  "FIRST_API_LEVEL": "24",
-  "BUILD_ID": "NRD90M",
-  "VNDK_VERSION": "",
+  "RELEASE": "7.0",
+  "RELEASE_OR_CODENAME": "7.0",
+  "ID": "NRD90M",
   "INCREMENTAL": "IN_X00G-14.02.1704.20-20170505",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "asus/IN_X00G/ASUS_X00G_1:7.0/NRD90M/IN_X00G-14.02.1704.20-20170505:user/release-keys",
+  "SECURITY_PATCH": "2017-04-05",
+  "DEVICE_INITIAL_SDK_INT": 24,
+  "SDK_INT": 24,
+  "*.build.id": "NRD90M",
+  "*.security_patch": "2017-04-05",
+  "*.build.version.sdk": "24"
 }

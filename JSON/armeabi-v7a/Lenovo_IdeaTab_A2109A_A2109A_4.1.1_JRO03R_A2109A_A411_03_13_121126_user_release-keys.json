@@ -4,12 +4,17 @@
   "BRAND": "generic",
   "PRODUCT": "kai",
   "DEVICE": "kai",
-  "FINGERPRINT": "Lenovo/IdeaTab_A2109A/A2109A:4.1.1/JRO03R/A2109A_A411_03_13_121126:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JRO03R",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.1.1",
+  "RELEASE_OR_CODENAME": "4.1.1",
+  "ID": "JRO03R",
   "INCREMENTAL": "A2109A_A411_03_13_121126",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Lenovo/IdeaTab_A2109A/A2109A:4.1.1/JRO03R/A2109A_A411_03_13_121126:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 16,
+  "*.build.id": "JRO03R",
+  "*.security_patch": "",
+  "*.build.version.sdk": "16"
 }

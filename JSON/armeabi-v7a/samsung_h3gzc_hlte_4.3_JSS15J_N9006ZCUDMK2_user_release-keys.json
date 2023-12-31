@@ -4,12 +4,17 @@
   "BRAND": "samsung",
   "PRODUCT": "h3gzc",
   "DEVICE": "hlte",
-  "FINGERPRINT": "samsung/h3gzc/hlte:4.3/JSS15J/N9006ZCUDMK2:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JSS15J",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.3",
+  "RELEASE_OR_CODENAME": "4.3",
+  "ID": "JSS15J",
   "INCREMENTAL": "N9006ZCUDMK2",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "samsung/h3gzc/hlte:4.3/JSS15J/N9006ZCUDMK2:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 18,
+  "*.build.id": "JSS15J",
+  "*.security_patch": "",
+  "*.build.version.sdk": "18"
 }

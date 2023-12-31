@@ -4,12 +4,17 @@
   "BRAND": "R11max",
   "PRODUCT": "R11max",
   "DEVICE": "R11max",
-  "FINGERPRINT": "alps/L-EMENT550/L-EMENT550:4.4.2/KOT49H/1529392995:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "KOT49H",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.4.2",
+  "RELEASE_OR_CODENAME": "4.4.2",
+  "ID": "KOT49H",
   "INCREMENTAL": "eng.hs-1.1529392995",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "alps/L-EMENT550/L-EMENT550:4.4.2/KOT49H/1529392995:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "KOT49H",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

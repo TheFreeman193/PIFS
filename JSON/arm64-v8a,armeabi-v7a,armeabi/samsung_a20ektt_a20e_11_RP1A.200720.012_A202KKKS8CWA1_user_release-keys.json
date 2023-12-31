@@ -4,12 +4,17 @@
   "BRAND": "samsung",
   "PRODUCT": "a20ektt",
   "DEVICE": "a20e",
-  "FINGERPRINT": "samsung/a20ektt/a20e:11/RP1A.200720.012/A202KKKS8CWA1:user/release-keys",
-  "SECURITY_PATCH": "2023-01-01",
-  "FIRST_API_LEVEL": "28",
-  "BUILD_ID": "RP1A.200720.012",
-  "VNDK_VERSION": "",
+  "RELEASE": "11",
+  "RELEASE_OR_CODENAME": "11",
+  "ID": "RP1A.200720.012",
   "INCREMENTAL": "A202KKKS8CWA1",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "samsung/a20ektt/a20e:11/RP1A.200720.012/A202KKKS8CWA1:user/release-keys",
+  "SECURITY_PATCH": "2023-01-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 30,
+  "*.build.id": "RP1A.200720.012",
+  "*.security_patch": "2023-01-01",
+  "*.build.version.sdk": "30"
 }

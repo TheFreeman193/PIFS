@@ -4,12 +4,17 @@
   "BRAND": "htc",
   "PRODUCT": "htc_la_spa",
   "DEVICE": "m7",
-  "FINGERPRINT": "htc/htc_la_spa/m7:4.4.3/KTU84L/376078.1:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "KTU84L",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.4.3",
+  "RELEASE_OR_CODENAME": "4.4.3",
+  "ID": "KTU84L",
   "INCREMENTAL": "376078.1",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "htc/htc_la_spa/m7:4.4.3/KTU84L/376078.1:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "KTU84L",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

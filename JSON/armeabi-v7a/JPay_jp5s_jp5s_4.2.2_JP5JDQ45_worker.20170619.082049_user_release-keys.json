@@ -4,12 +4,17 @@
   "BRAND": "JPay",
   "PRODUCT": "jp5s",
   "DEVICE": "jp5s",
-  "FINGERPRINT": "JPay/jp5s/jp5s:4.2.2/JP5JDQ45/worker.20170619.082049:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JP5JDQ45",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.2.2",
+  "RELEASE_OR_CODENAME": "4.2.2",
+  "ID": "JP5JDQ45",
   "INCREMENTAL": "worker.20170619.082049",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "JPay/jp5s/jp5s:4.2.2/JP5JDQ45/worker.20170619.082049:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 17,
+  "*.build.id": "JP5JDQ45",
+  "*.security_patch": "",
+  "*.build.version.sdk": "17"
 }

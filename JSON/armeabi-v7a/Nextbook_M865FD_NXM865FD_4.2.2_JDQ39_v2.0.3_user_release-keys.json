@@ -4,12 +4,17 @@
   "BRAND": "Nextbook",
   "PRODUCT": "M865FD",
   "DEVICE": "NXM865FD",
-  "FINGERPRINT": "Nextbook/M865FD/NXM865FD:4.2.2/JDQ39/v2.0.3:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JDQ39",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.2.2",
+  "RELEASE_OR_CODENAME": "4.2.2",
+  "ID": "JDQ39",
   "INCREMENTAL": "eng.root.20140321.173111",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Nextbook/M865FD/NXM865FD:4.2.2/JDQ39/v2.0.3:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 17,
+  "*.build.id": "JDQ39",
+  "*.security_patch": "",
+  "*.build.version.sdk": "17"
 }

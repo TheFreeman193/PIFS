@@ -4,12 +4,17 @@
   "BRAND": "MStar",
   "PRODUCT": "CVTM358",
   "DEVICE": "CVTM358",
-  "FINGERPRINT": "Mstar/CVTE_MSD338_512M/CVTE_MSD338_512M:4.4.4/20190817_222952/1.0.0:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "20190817_222952",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.4.4",
+  "RELEASE_OR_CODENAME": "4.4.4",
+  "ID": "20190817_222952",
   "INCREMENTAL": "1.0.0",
   "TYPE": "userdebug",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "Mstar/CVTE_MSD338_512M/CVTE_MSD338_512M:4.4.4/20190817_222952/1.0.0:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "20190817_222952",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

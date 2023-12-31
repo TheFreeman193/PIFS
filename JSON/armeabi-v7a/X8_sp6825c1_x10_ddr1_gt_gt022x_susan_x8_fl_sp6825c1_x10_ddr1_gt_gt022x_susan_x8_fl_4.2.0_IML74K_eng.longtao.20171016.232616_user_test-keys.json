@@ -4,12 +4,17 @@
   "BRAND": "X8",
   "PRODUCT": "sp6825c1_x10_ddr1_gt_gt022x_susan_x8_fl",
   "DEVICE": "sp6825c1_x10_ddr1_gt_gt022x_susan_x8_fl",
-  "FINGERPRINT": "X8/sp6825c1_x10_ddr1_gt_gt022x_susan_x8_fl/sp6825c1_x10_ddr1_gt_gt022x_susan_x8_fl:4.2.0/IML74K/eng.longtao.20171016.232616:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "IML74K",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.2.0",
+  "RELEASE_OR_CODENAME": "4.2.0",
+  "ID": "IML74K",
   "INCREMENTAL": "eng.longtao.20171016.232616",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "X8/sp6825c1_x10_ddr1_gt_gt022x_susan_x8_fl/sp6825c1_x10_ddr1_gt_gt022x_susan_x8_fl:4.2.0/IML74K/eng.longtao.20171016.232616:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 15,
+  "*.build.id": "IML74K",
+  "*.security_patch": "",
+  "*.build.version.sdk": "15"
 }

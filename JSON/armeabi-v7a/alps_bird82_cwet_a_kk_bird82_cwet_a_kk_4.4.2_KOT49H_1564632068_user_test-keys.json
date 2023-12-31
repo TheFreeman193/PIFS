@@ -4,12 +4,17 @@
   "BRAND": "alps",
   "PRODUCT": "N960",
   "DEVICE": "N960",
-  "FINGERPRINT": "alps/bird82_cwet_a_kk/bird82_cwet_a_kk:4.4.2/KOT49H/1564632068:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "KOT49H",
-  "VNDK_VERSION": "",
+  "RELEASE": "8.1",
+  "RELEASE_OR_CODENAME": "8.1",
+  "ID": "KOT49H",
   "INCREMENTAL": "eng.daquan.1564632068",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "alps/bird82_cwet_a_kk/bird82_cwet_a_kk:4.4.2/KOT49H/1564632068:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "KOT49H",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

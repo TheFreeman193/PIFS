@@ -4,12 +4,17 @@
   "BRAND": "Android",
   "PRODUCT": "treble_arm64_bvN",
   "DEVICE": "phhgsi_arm64_ab",
-  "FINGERPRINT": "Android/treble_arm64_bvN/phhgsi_arm64_ab:9/PQ3A.190801.002/crossgate10171222:userdebug/test-keys",
-  "SECURITY_PATCH": "2019-10-05",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "PQ3A.190801.002",
-  "VNDK_VERSION": "",
+  "RELEASE": "9",
+  "RELEASE_OR_CODENAME": "9",
+  "ID": "PQ3A.190801.002",
   "INCREMENTAL": "eng.crossg.20191017.122410",
   "TYPE": "userdebug",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "Android/treble_arm64_bvN/phhgsi_arm64_ab:9/PQ3A.190801.002/crossgate10171222:userdebug/test-keys",
+  "SECURITY_PATCH": "2019-10-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 28,
+  "*.build.id": "PQ3A.190801.002",
+  "*.security_patch": "2019-10-05",
+  "*.build.version.sdk": "28"
 }

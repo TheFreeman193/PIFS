@@ -4,12 +4,17 @@
   "BRAND": "google",
   "PRODUCT": "takju",
   "DEVICE": "maguro",
-  "FINGERPRINT": "google/takju/maguro:4.3/JWR66V/737497:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JWR66V",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.3",
+  "RELEASE_OR_CODENAME": "4.3",
+  "ID": "JWR66V",
   "INCREMENTAL": "737497",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "google/takju/maguro:4.3/JWR66V/737497:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 18,
+  "*.build.id": "JWR66V",
+  "*.security_patch": "",
+  "*.build.version.sdk": "18"
 }

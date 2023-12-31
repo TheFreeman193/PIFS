@@ -4,12 +4,17 @@
   "BRAND": "google",
   "PRODUCT": "r11btwifi",
   "DEVICE": "r11btwifi",
-  "FINGERPRINT": "google/r11btwifi/r11btwifi:11/RWDA.230114.013/9804098:user/release-keys",
-  "SECURITY_PATCH": "2023-05-05",
-  "FIRST_API_LEVEL": "30",
-  "BUILD_ID": "RWDA.230114.013",
-  "VNDK_VERSION": "",
+  "RELEASE": "11",
+  "RELEASE_OR_CODENAME": "11",
+  "ID": "RWDA.230114.013",
   "INCREMENTAL": "9804098",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "google/r11btwifi/r11btwifi:11/RWDA.230114.013/9804098:user/release-keys",
+  "SECURITY_PATCH": "2023-05-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 30,
+  "*.build.id": "RWDA.230114.013",
+  "*.security_patch": "2023-05-05",
+  "*.build.version.sdk": "30"
 }

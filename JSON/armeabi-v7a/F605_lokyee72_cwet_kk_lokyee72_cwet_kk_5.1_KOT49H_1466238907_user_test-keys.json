@@ -4,12 +4,17 @@
   "BRAND": "F605",
   "PRODUCT": "F605",
   "DEVICE": "F605",
-  "FINGERPRINT": "F605/lokyee72_cwet_kk/lokyee72_cwet_kk:5.1/KOT49H/1466238907:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "KOT49H",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.1",
+  "RELEASE_OR_CODENAME": "5.1",
+  "ID": "KOT49H",
   "INCREMENTAL": "eng.chenb.1466238907",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "F605/lokyee72_cwet_kk/lokyee72_cwet_kk:5.1/KOT49H/1466238907:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "KOT49H",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

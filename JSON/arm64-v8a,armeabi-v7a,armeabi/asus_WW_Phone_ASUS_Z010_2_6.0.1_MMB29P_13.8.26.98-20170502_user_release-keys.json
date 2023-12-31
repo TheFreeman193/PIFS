@@ -4,12 +4,17 @@
   "BRAND": "asus",
   "PRODUCT": "WW_Phone",
   "DEVICE": "ASUS_Z010_2",
-  "FINGERPRINT": "asus/WW_Phone/ASUS_Z010_2:6.0.1/MMB29P/13.8.26.98-20170502:user/release-keys",
-  "SECURITY_PATCH": "2017-03-05",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "MMB29P",
-  "VNDK_VERSION": "",
+  "RELEASE": "6.0.1",
+  "RELEASE_OR_CODENAME": "6.0.1",
+  "ID": "MMB29P",
   "INCREMENTAL": "WW_Phone-13.8.26.98-20170502",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "asus/WW_Phone/ASUS_Z010_2:6.0.1/MMB29P/13.8.26.98-20170502:user/release-keys",
+  "SECURITY_PATCH": "2017-03-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 23,
+  "*.build.id": "MMB29P",
+  "*.security_patch": "2017-03-05",
+  "*.build.version.sdk": "23"
 }

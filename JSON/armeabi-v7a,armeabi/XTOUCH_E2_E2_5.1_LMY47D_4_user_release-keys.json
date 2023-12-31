@@ -4,12 +4,17 @@
   "BRAND": "XTOUCH",
   "PRODUCT": "E2",
   "DEVICE": "E2",
-  "FINGERPRINT": "XTOUCH/E2/E2:5.1/LMY47D/4:user/release-keys",
-  "SECURITY_PATCH": "2016-02-01",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "LMY47D",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.1",
+  "RELEASE_OR_CODENAME": "5.1",
+  "ID": "LMY47D",
   "INCREMENTAL": "4",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "XTOUCH/E2/E2:5.1/LMY47D/4:user/release-keys",
+  "SECURITY_PATCH": "2016-02-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 22,
+  "*.build.id": "LMY47D",
+  "*.security_patch": "2016-02-01",
+  "*.build.version.sdk": "22"
 }

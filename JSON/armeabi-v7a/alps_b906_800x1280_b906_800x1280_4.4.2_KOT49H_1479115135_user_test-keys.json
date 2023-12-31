@@ -4,12 +4,17 @@
   "BRAND": "CARBAYSTAR",
   "PRODUCT": "T805C",
   "DEVICE": "MT6592",
-  "FINGERPRINT": "alps/b906_800x1280/b906_800x1280:4.4.2/KOT49H/1479115135:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "CARBAYSTAR T805C",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.0",
+  "RELEASE_OR_CODENAME": "5.0",
+  "ID": "CARBAYSTAR T805C",
   "INCREMENTAL": "eng.luoyihui.1479115135",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "alps/b906_800x1280/b906_800x1280:4.4.2/KOT49H/1479115135:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "CARBAYSTAR T805C",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

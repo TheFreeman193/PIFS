@@ -4,12 +4,17 @@
   "BRAND": "google",
   "PRODUCT": "gsi_gms_arm64",
   "DEVICE": "gsi_arm64",
-  "FINGERPRINT": "google/gsi_gms_arm64/gsi_arm64:14/UPB4.230623.005/10442412:user/release-keys",
-  "SECURITY_PATCH": "2023-07-05",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "UPB4.230623.005",
-  "VNDK_VERSION": "",
+  "RELEASE": "14",
+  "RELEASE_OR_CODENAME": "14",
+  "ID": "UPB4.230623.005",
   "INCREMENTAL": "10442412",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "google/gsi_gms_arm64/gsi_arm64:14/UPB4.230623.005/10442412:user/release-keys",
+  "SECURITY_PATCH": "2023-07-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 34,
+  "*.build.id": "UPB4.230623.005",
+  "*.security_patch": "2023-07-05",
+  "*.build.version.sdk": "34"
 }

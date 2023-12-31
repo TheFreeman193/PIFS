@@ -4,12 +4,17 @@
   "BRAND": "Ulefone",
   "PRODUCT": "Power_6",
   "DEVICE": "Power_6",
-  "FINGERPRINT": "Ulefone/Power_6/Power_6:9/PPR1.180610.011/1558318996:user/release-keys",
-  "SECURITY_PATCH": "2019-05-05",
-  "FIRST_API_LEVEL": "28",
-  "BUILD_ID": "PPR1.180610.011",
-  "VNDK_VERSION": "",
+  "RELEASE": "9",
+  "RELEASE_OR_CODENAME": "9",
+  "ID": "PPR1.180610.011",
   "INCREMENTAL": "1558318996",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Ulefone/Power_6/Power_6:9/PPR1.180610.011/1558318996:user/release-keys",
+  "SECURITY_PATCH": "2019-05-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 28,
+  "*.build.id": "PPR1.180610.011",
+  "*.security_patch": "2019-05-05",
+  "*.build.version.sdk": "28"
 }

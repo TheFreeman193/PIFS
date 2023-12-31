@@ -4,12 +4,17 @@
   "BRAND": "SSTX",
   "PRODUCT": "a825_324_ax_sstx_s22_p9",
   "DEVICE": "a825_324_ax_sstx_s22_p9",
-  "FINGERPRINT": "SSTX/a825_324_ax_sstx_s22_p9/a825_324_ax_sstx_s22_p9:5.1.0/KOT49H/1477294785:user/test-keys",
-  "SECURITY_PATCH": "2015-11-01",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "KOT49H",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.1.0",
+  "RELEASE_OR_CODENAME": "5.1.0",
+  "ID": "KOT49H",
   "INCREMENTAL": "eng.user.1477294785",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "SSTX/a825_324_ax_sstx_s22_p9/a825_324_ax_sstx_s22_p9:5.1.0/KOT49H/1477294785:user/test-keys",
+  "SECURITY_PATCH": "2015-11-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "KOT49H",
+  "*.security_patch": "2015-11-01",
+  "*.build.version.sdk": "19"
 }

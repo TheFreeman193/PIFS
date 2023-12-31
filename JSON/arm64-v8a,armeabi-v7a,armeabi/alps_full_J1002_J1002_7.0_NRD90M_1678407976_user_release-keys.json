@@ -4,12 +4,17 @@
   "BRAND": "iFit Embedded",
   "PRODUCT": "argon",
   "DEVICE": "argon",
-  "FINGERPRINT": "alps/full_J1002/J1002:7.0/NRD90M/1678407976:user/release-keys",
-  "SECURITY_PATCH": "2019-08-05",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "NRD90M",
-  "VNDK_VERSION": "",
+  "RELEASE": "7.0",
+  "RELEASE_OR_CODENAME": "7.0",
+  "ID": "NRD90M",
   "INCREMENTAL": "MKA1_20230310",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "alps/full_J1002/J1002:7.0/NRD90M/1678407976:user/release-keys",
+  "SECURITY_PATCH": "2019-08-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 24,
+  "*.build.id": "NRD90M",
+  "*.security_patch": "2019-08-05",
+  "*.build.version.sdk": "24"
 }

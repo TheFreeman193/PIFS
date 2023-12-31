@@ -4,12 +4,17 @@
   "BRAND": "HUAWEI",
   "PRODUCT": "GRA-UL00",
   "DEVICE": "HWGRA",
-  "FINGERPRINT": "HUAWEI/GRA-UL00/HWGRA:5.0.1/HUAWEIGRA-UL00/C433B180:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "HUAWEIGRA-UL00",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.0.1",
+  "RELEASE_OR_CODENAME": "5.0.1",
+  "ID": "HUAWEIGRA-UL00",
   "INCREMENTAL": "C433B180",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "HUAWEI/GRA-UL00/HWGRA:5.0.1/HUAWEIGRA-UL00/C433B180:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 21,
+  "*.build.id": "HUAWEIGRA-UL00",
+  "*.security_patch": "",
+  "*.build.version.sdk": "21"
 }

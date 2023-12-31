@@ -4,12 +4,17 @@
   "BRAND": "qti",
   "PRODUCT": "msmnile",
   "DEVICE": "msmnile",
-  "FINGERPRINT": "qti/msmnile/msmnile:9/PKQ1.180916.001/lnxbuild10050143:userdebug/test-keys",
-  "SECURITY_PATCH": "2018-08-05",
-  "FIRST_API_LEVEL": "28",
-  "BUILD_ID": "PKQ1.180916.001",
-  "VNDK_VERSION": "",
+  "RELEASE": "9",
+  "RELEASE_OR_CODENAME": "9",
+  "ID": "PKQ1.180916.001",
   "INCREMENTAL": "eng.lnxbui.20181005.014402",
   "TYPE": "userdebug",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "qti/msmnile/msmnile:9/PKQ1.180916.001/lnxbuild10050143:userdebug/test-keys",
+  "SECURITY_PATCH": "2018-08-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 28,
+  "*.build.id": "PKQ1.180916.001",
+  "*.security_patch": "2018-08-05",
+  "*.build.version.sdk": "28"
 }

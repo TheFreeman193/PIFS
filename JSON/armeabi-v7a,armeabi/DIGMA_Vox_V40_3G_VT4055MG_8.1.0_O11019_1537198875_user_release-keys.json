@@ -4,12 +4,17 @@
   "BRAND": "DIGMA",
   "PRODUCT": "Vox_V40_3G",
   "DEVICE": "VT4055MG",
-  "FINGERPRINT": "DIGMA/Vox_V40_3G/VT4055MG:8.1.0/O11019/1537198875:user/release-keys",
-  "SECURITY_PATCH": "2018-09-05",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "O11019",
-  "VNDK_VERSION": "",
+  "RELEASE": "8.1.0",
+  "RELEASE_OR_CODENAME": "8.1.0",
+  "ID": "O11019",
   "INCREMENTAL": "1537198875",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "DIGMA/Vox_V40_3G/VT4055MG:8.1.0/O11019/1537198875:user/release-keys",
+  "SECURITY_PATCH": "2018-09-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 27,
+  "*.build.id": "O11019",
+  "*.security_patch": "2018-09-05",
+  "*.build.version.sdk": "27"
 }

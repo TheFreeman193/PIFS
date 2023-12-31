@@ -4,12 +4,17 @@
   "BRAND": "GiONEE",
   "PRODUCT": "GN5001",
   "DEVICE": "GiONEE_BBL7332",
-  "FINGERPRINT": "GiONEE/GN5001/GiONEE_BBL7332:5.1/LMY47D/1475033222:user/release-keys",
-  "SECURITY_PATCH": "2016-09-05",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "LMY47D",
-  "VNDK_VERSION": "",
+  "RELEASE": "8.1",
+  "RELEASE_OR_CODENAME": "8.1",
+  "ID": "LMY47D",
   "INCREMENTAL": "1475994276",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "GiONEE/GN5001/GiONEE_BBL7332:5.1/LMY47D/1475033222:user/release-keys",
+  "SECURITY_PATCH": "2016-09-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 22,
+  "*.build.id": "LMY47D",
+  "*.security_patch": "2016-09-05",
+  "*.build.version.sdk": "22"
 }

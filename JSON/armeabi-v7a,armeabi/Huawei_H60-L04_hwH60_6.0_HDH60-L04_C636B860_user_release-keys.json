@@ -4,12 +4,17 @@
   "BRAND": "Huawei",
   "PRODUCT": "H60-L04",
   "DEVICE": "hwH60",
-  "FINGERPRINT": "Huawei/H60-L04/hwH60:6.0/HDH60-L04/C636B860:user/release-keys",
-  "SECURITY_PATCH": "2016-06-01",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "HDH60-L04",
-  "VNDK_VERSION": "",
+  "RELEASE": "6.0",
+  "RELEASE_OR_CODENAME": "6.0",
+  "ID": "HDH60-L04",
   "INCREMENTAL": "C636B860",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Huawei/H60-L04/hwH60:6.0/HDH60-L04/C636B860:user/release-keys",
+  "SECURITY_PATCH": "2016-06-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 23,
+  "*.build.id": "HDH60-L04",
+  "*.security_patch": "2016-06-01",
+  "*.build.version.sdk": "23"
 }

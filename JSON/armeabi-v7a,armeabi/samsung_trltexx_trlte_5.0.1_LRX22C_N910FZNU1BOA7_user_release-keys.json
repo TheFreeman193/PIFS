@@ -4,12 +4,17 @@
   "BRAND": "samsung",
   "PRODUCT": "trlte",
   "DEVICE": "trltexx",
-  "FINGERPRINT": "samsung/trltexx/trlte:5.0.1/LRX22C/N910FZNU1BOA7:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "LRX22C",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.0.1",
+  "RELEASE_OR_CODENAME": "5.0.1",
+  "ID": "LRX22C",
   "INCREMENTAL": "Version 1",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "samsung/trltexx/trlte:5.0.1/LRX22C/N910FZNU1BOA7:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 21,
+  "*.build.id": "LRX22C",
+  "*.security_patch": "",
+  "*.build.version.sdk": "21"
 }

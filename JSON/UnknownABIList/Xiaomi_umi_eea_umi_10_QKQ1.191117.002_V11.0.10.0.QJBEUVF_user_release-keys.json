@@ -4,12 +4,17 @@
   "BRAND": "Xiaomi",
   "PRODUCT": "umi_eea",
   "DEVICE": "umi",
-  "FINGERPRINT": "Xiaomi/umi_eea/umi:10/QKQ1.191117.002/V11.0.10.0.QJBEUVF:user/release-keys",
-  "SECURITY_PATCH": "2020-07-01",
-  "FIRST_API_LEVEL": "29",
-  "BUILD_ID": "QKQ1.191117.002",
-  "VNDK_VERSION": "",
+  "RELEASE": "10",
+  "RELEASE_OR_CODENAME": "10",
+  "ID": "QKQ1.191117.002",
   "INCREMENTAL": "V11.0.10.0.QJBEUVF",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Xiaomi/umi_eea/umi:10/QKQ1.191117.002/V11.0.10.0.QJBEUVF:user/release-keys",
+  "SECURITY_PATCH": "2020-07-01",
+  "DEVICE_INITIAL_SDK_INT": 29,
+  "SDK_INT": 29,
+  "*.build.id": "QKQ1.191117.002",
+  "*.security_patch": "2020-07-01",
+  "*.build.version.sdk": "29"
 }

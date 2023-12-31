@@ -4,12 +4,17 @@
   "BRAND": "alps",
   "PRODUCT": "full_y960_mt6753_66_n",
   "DEVICE": "y960_mt6753_66_n",
-  "FINGERPRINT": "alps/full_y960_mt6753_66_n/y960_mt6753_66_n:7.0/NRD90M/vNF00000H:user/release-keys",
-  "SECURITY_PATCH": "2017-11-05",
-  "FIRST_API_LEVEL": "24",
-  "BUILD_ID": "NRD90M",
-  "VNDK_VERSION": "",
+  "RELEASE": "7.0",
+  "RELEASE_OR_CODENAME": "7.0",
+  "ID": "NRD90M",
   "INCREMENTAL": "vNF00000H",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "alps/full_y960_mt6753_66_n/y960_mt6753_66_n:7.0/NRD90M/vNF00000H:user/release-keys",
+  "SECURITY_PATCH": "2017-11-05",
+  "DEVICE_INITIAL_SDK_INT": 24,
+  "SDK_INT": 24,
+  "*.build.id": "NRD90M",
+  "*.security_patch": "2017-11-05",
+  "*.build.version.sdk": "24"
 }

@@ -4,12 +4,17 @@
   "BRAND": "OnePlus",
   "PRODUCT": "OnePlus7Pro_EEA",
   "DEVICE": "OnePlus7Pro",
-  "FINGERPRINT": "OnePlus/OnePlus7Pro_EEA/OnePlus7Pro:10/QKQ1.190716.003/2101272339:user/release-keys",
-  "SECURITY_PATCH": "2021-01-01",
-  "FIRST_API_LEVEL": "28",
-  "BUILD_ID": "QKQ1.190716.003",
-  "VNDK_VERSION": "",
+  "RELEASE": "10",
+  "RELEASE_OR_CODENAME": "10",
+  "ID": "QKQ1.190716.003",
   "INCREMENTAL": "2101272339",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "OnePlus/OnePlus7Pro_EEA/OnePlus7Pro:10/QKQ1.190716.003/2101272339:user/release-keys",
+  "SECURITY_PATCH": "2021-01-01",
+  "DEVICE_INITIAL_SDK_INT": 28,
+  "SDK_INT": 29,
+  "*.build.id": "QKQ1.190716.003",
+  "*.security_patch": "2021-01-01",
+  "*.build.version.sdk": "29"
 }

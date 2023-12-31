@@ -4,12 +4,17 @@
   "BRAND": "samsung",
   "PRODUCT": "s3ve3gdsxx",
   "DEVICE": "s3ve3gds",
-  "FINGERPRINT": "samsung/s3ve3gdsxx/s3ve3gds:4.3/JLS36C/I9300IXWUAND2:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JLS36C",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.3",
+  "RELEASE_OR_CODENAME": "4.3",
+  "ID": "JLS36C",
   "INCREMENTAL": "I9300IXWUAND2",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "samsung/s3ve3gdsxx/s3ve3gds:4.3/JLS36C/I9300IXWUAND2:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 18,
+  "*.build.id": "JLS36C",
+  "*.security_patch": "",
+  "*.build.version.sdk": "18"
 }

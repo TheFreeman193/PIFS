@@ -4,12 +4,17 @@
   "BRAND": "INFINIX",
   "PRODUCT": "X553",
   "DEVICE": "INFINIX-X553-A1",
-  "FINGERPRINT": "INFINIX/X553/INFINIX-X553-A1:5.1.1/LMY47V/X553-W82918A2-L-160913V4:user/release-keys",
-  "SECURITY_PATCH": "2016-08-01",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "LMY47V",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.1.1",
+  "RELEASE_OR_CODENAME": "5.1.1",
+  "ID": "LMY47V",
   "INCREMENTAL": "X553-W82918A2-L-160913V4",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "INFINIX/X553/INFINIX-X553-A1:5.1.1/LMY47V/X553-W82918A2-L-160913V4:user/release-keys",
+  "SECURITY_PATCH": "2016-08-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 22,
+  "*.build.id": "LMY47V",
+  "*.security_patch": "2016-08-01",
+  "*.build.version.sdk": "22"
 }

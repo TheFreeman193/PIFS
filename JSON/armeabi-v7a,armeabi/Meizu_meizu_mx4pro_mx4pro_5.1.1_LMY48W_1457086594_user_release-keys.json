@@ -4,12 +4,17 @@
   "BRAND": "Meizu",
   "PRODUCT": "meizu_mx4pro",
   "DEVICE": "mx4pro",
-  "FINGERPRINT": "Meizu/meizu_mx4pro/mx4pro:5.1.1/LMY48W/1457086594:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "LMY48W",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.1.1",
+  "RELEASE_OR_CODENAME": "5.1.1",
+  "ID": "LMY48W",
   "INCREMENTAL": "1457086594",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Meizu/meizu_mx4pro/mx4pro:5.1.1/LMY48W/1457086594:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 22,
+  "*.build.id": "LMY48W",
+  "*.security_patch": "",
+  "*.build.version.sdk": "22"
 }

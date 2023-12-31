@@ -4,12 +4,17 @@
   "BRAND": "qti",
   "PRODUCT": "LenovoTB-J706F_PRC",
   "DEVICE": "qssi",
-  "FINGERPRINT": "Lenovo/LenovoTB-J706F_PRC/J706F:12/SKQ1.220213.001/14.0.193_230403:user/release-keys",
-  "SECURITY_PATCH": "2023-02-01",
-  "FIRST_API_LEVEL": "29",
-  "BUILD_ID": "SKQ1.220213.001",
-  "VNDK_VERSION": "",
+  "RELEASE": "12",
+  "RELEASE_OR_CODENAME": "12",
+  "ID": "SKQ1.220213.001",
   "INCREMENTAL": "14.0.193_230403",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Lenovo/LenovoTB-J706F_PRC/J706F:12/SKQ1.220213.001/14.0.193_230403:user/release-keys",
+  "SECURITY_PATCH": "2023-02-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 31,
+  "*.build.id": "SKQ1.220213.001",
+  "*.security_patch": "2023-02-01",
+  "*.build.version.sdk": "31"
 }

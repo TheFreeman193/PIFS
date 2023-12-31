@@ -4,12 +4,17 @@
   "BRAND": "CherryMobile",
   "PRODUCT": "CherryMobile",
   "DEVICE": "FlareDash",
-  "FINGERPRINT": "qcom/msm8610/msm8610:4.3/JLS36C/TBW598212_9422_V011020:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "JLS36C",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.3",
+  "RELEASE_OR_CODENAME": "4.3",
+  "ID": "JLS36C",
   "INCREMENTAL": "TBW598212_9422_V011020",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "qcom/msm8610/msm8610:4.3/JLS36C/TBW598212_9422_V011020:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 18,
+  "*.build.id": "JLS36C",
+  "*.security_patch": "",
+  "*.build.version.sdk": "18"
 }

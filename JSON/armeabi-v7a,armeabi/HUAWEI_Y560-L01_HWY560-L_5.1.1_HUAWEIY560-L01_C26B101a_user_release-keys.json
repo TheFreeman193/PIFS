@@ -4,12 +4,17 @@
   "BRAND": "HUAWEI",
   "PRODUCT": "Y560-L01",
   "DEVICE": "HWY560-L",
-  "FINGERPRINT": "HUAWEI/Y560-L01/HWY560-L:5.1.1/HUAWEIY560-L01/C26B101a:user/release-keys",
-  "SECURITY_PATCH": "2015-11-01",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "HUAWEIY560-L01",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.1.1",
+  "RELEASE_OR_CODENAME": "5.1.1",
+  "ID": "HUAWEIY560-L01",
   "INCREMENTAL": "C26B101a",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "HUAWEI/Y560-L01/HWY560-L:5.1.1/HUAWEIY560-L01/C26B101a:user/release-keys",
+  "SECURITY_PATCH": "2015-11-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 22,
+  "*.build.id": "HUAWEIY560-L01",
+  "*.security_patch": "2015-11-01",
+  "*.build.version.sdk": "22"
 }

@@ -4,12 +4,17 @@
   "BRAND": "alps",
   "PRODUCT": "d3268_ctp_q_mobile",
   "DEVICE": "d3268_ctp_q_mobile",
-  "FINGERPRINT": "alps/d3268_ctp_q_mobile/d3268_ctp_q_mobile:2.3.6/GRK39F/:user/test-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "GRK39F",
-  "VNDK_VERSION": "",
+  "RELEASE": "2.3.6",
+  "RELEASE_OR_CODENAME": "2.3.6",
+  "ID": "GRK39F",
   "INCREMENTAL": "54",
   "TYPE": "user",
-  "TAGS": "test-keys"
+  "TAGS": "test-keys",
+  "FINGERPRINT": "alps/d3268_ctp_q_mobile/d3268_ctp_q_mobile:2.3.6/GRK39F/:user/test-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 10,
+  "*.build.id": "GRK39F",
+  "*.security_patch": "",
+  "*.build.version.sdk": "10"
 }

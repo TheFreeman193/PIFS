@@ -4,12 +4,17 @@
   "BRAND": "lge",
   "PRODUCT": "cv1_crk_us",
   "DEVICE": "cv1",
-  "FINGERPRINT": "lge/cv1_crk_us/cv1:7.1.2/N2G47H/1829518180596:user/release-keys",
-  "SECURITY_PATCH": "2018-10-01",
-  "FIRST_API_LEVEL": "25",
-  "BUILD_ID": "N2G47H",
-  "VNDK_VERSION": "",
+  "RELEASE": "7.1.2",
+  "RELEASE_OR_CODENAME": "7.1.2",
+  "ID": "N2G47H",
   "INCREMENTAL": "1829518180596",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "lge/cv1_crk_us/cv1:7.1.2/N2G47H/1829518180596:user/release-keys",
+  "SECURITY_PATCH": "2018-10-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 25,
+  "*.build.id": "N2G47H",
+  "*.security_patch": "2018-10-01",
+  "*.build.version.sdk": "25"
 }

@@ -4,12 +4,17 @@
   "BRAND": "asus",
   "PRODUCT": "WW_Z00T",
   "DEVICE": "ASUS_Z00T",
-  "FINGERPRINT": "asus/WW_Z00T/ASUS_Z00T:5.0.2/LRX22G/WW_user_1.17.40.1234_20160304:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "LRX22G",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.0.2",
+  "RELEASE_OR_CODENAME": "5.0.2",
+  "ID": "LRX22G",
   "INCREMENTAL": "WW_Z00T-WW_user_1.17.40.1234_20160304-user-20160304",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "asus/WW_Z00T/ASUS_Z00T:5.0.2/LRX22G/WW_user_1.17.40.1234_20160304:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 21,
+  "*.build.id": "LRX22G",
+  "*.security_patch": "",
+  "*.build.version.sdk": "21"
 }

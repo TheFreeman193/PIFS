@@ -4,12 +4,17 @@
   "BRAND": "motorola",
   "PRODUCT": "falcon_tefcl",
   "DEVICE": "falcon_umts",
-  "FINGERPRINT": "motorola/falcon_tefcl/falcon_umts:4.3/14.10.0Q3.X-76-LCG-8/53:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "14.10.0Q3.X-76-LCG-8",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.3",
+  "RELEASE_OR_CODENAME": "4.3",
+  "ID": "14.10.0Q3.X-76-LCG-8",
   "INCREMENTAL": "53",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "motorola/falcon_tefcl/falcon_umts:4.3/14.10.0Q3.X-76-LCG-8/53:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 18,
+  "*.build.id": "14.10.0Q3.X-76-LCG-8",
+  "*.security_patch": "",
+  "*.build.version.sdk": "18"
 }

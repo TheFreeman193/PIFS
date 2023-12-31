@@ -4,12 +4,17 @@
   "BRAND": "Sony",
   "PRODUCT": "LT25i_1271-1290",
   "DEVICE": "LT25i",
-  "FINGERPRINT": "Sony/LT25i_1271-1290/LT25i:4.1.2/9.1.A.1.140/c_t_tw:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "9.1.A.1.140",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.1.2",
+  "RELEASE_OR_CODENAME": "4.1.2",
+  "ID": "9.1.A.1.140",
   "INCREMENTAL": "c_t_tw",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Sony/LT25i_1271-1290/LT25i:4.1.2/9.1.A.1.140/c_t_tw:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 16,
+  "*.build.id": "9.1.A.1.140",
+  "*.security_patch": "",
+  "*.build.version.sdk": "16"
 }

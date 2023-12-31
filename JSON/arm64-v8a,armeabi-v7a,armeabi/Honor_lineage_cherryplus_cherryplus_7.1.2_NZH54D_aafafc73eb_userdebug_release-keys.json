@@ -4,12 +4,17 @@
   "BRAND": "Honor",
   "PRODUCT": "lineage_cherryplus",
   "DEVICE": "cherryplus",
-  "FINGERPRINT": "Honor/lineage_cherryplus/cherryplus:7.1.2/NZH54D/aafafc73eb:userdebug/release-keys",
-  "SECURITY_PATCH": "2017-10-05",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "NZH54D",
-  "VNDK_VERSION": "",
+  "RELEASE": "7.1.2",
+  "RELEASE_OR_CODENAME": "7.1.2",
+  "ID": "NZH54D",
   "INCREMENTAL": "aafafc73eb",
   "TYPE": "userdebug",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Honor/lineage_cherryplus/cherryplus:7.1.2/NZH54D/aafafc73eb:userdebug/release-keys",
+  "SECURITY_PATCH": "2017-10-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 25,
+  "*.build.id": "NZH54D",
+  "*.security_patch": "2017-10-05",
+  "*.build.version.sdk": "25"
 }

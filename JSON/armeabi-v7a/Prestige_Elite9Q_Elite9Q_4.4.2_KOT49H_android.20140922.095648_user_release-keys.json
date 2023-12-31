@@ -4,12 +4,17 @@
   "BRAND": "Prestige",
   "PRODUCT": "Elite9Q",
   "DEVICE": "Elite9Q",
-  "FINGERPRINT": "Prestige/Elite9Q/Elite9Q:4.4.2/KOT49H/android.20140922.095648:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "KOT49H",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.4.2",
+  "RELEASE_OR_CODENAME": "4.4.2",
+  "ID": "KOT49H",
   "INCREMENTAL": "android.20140922.095648",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Prestige/Elite9Q/Elite9Q:4.4.2/KOT49H/android.20140922.095648:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "KOT49H",
+  "*.security_patch": "",
+  "*.build.version.sdk": "19"
 }

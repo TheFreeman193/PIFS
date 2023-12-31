@@ -4,12 +4,17 @@
   "BRAND": "lge",
   "PRODUCT": "g3_global_com",
   "DEVICE": "g3",
-  "FINGERPRINT": "lge/g3_global_com/g3:5.0/LRX21R.A1422018487/1422018487:user/release-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "LRX21R.A1422018487",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.0",
+  "RELEASE_OR_CODENAME": "5.0",
+  "ID": "LRX21R.A1422018487",
   "INCREMENTAL": "1422018487",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "lge/g3_global_com/g3:5.0/LRX21R.A1422018487/1422018487:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 21,
+  "*.build.id": "LRX21R.A1422018487",
+  "*.security_patch": "",
+  "*.build.version.sdk": "21"
 }

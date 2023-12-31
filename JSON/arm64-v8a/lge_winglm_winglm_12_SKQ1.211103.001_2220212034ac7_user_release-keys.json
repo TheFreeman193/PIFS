@@ -4,12 +4,17 @@
   "BRAND": "lge",
   "PRODUCT": "winglm",
   "DEVICE": "winglm",
-  "FINGERPRINT": "lge/winglm/winglm:12/SKQ1.211103.001/2220212034ac7:user/release-keys",
-  "SECURITY_PATCH": "2022-07-01",
-  "FIRST_API_LEVEL": "29",
-  "BUILD_ID": "SKQ1.211103.001",
-  "VNDK_VERSION": "",
+  "RELEASE": "12",
+  "RELEASE_OR_CODENAME": "12",
+  "ID": "SKQ1.211103.001",
   "INCREMENTAL": "2220212034ac7",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "lge/winglm/winglm:12/SKQ1.211103.001/2220212034ac7:user/release-keys",
+  "SECURITY_PATCH": "2022-07-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 31,
+  "*.build.id": "SKQ1.211103.001",
+  "*.security_patch": "2022-07-01",
+  "*.build.version.sdk": "31"
 }

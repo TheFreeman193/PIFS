@@ -4,12 +4,17 @@
   "BRAND": "SENSEIT_E400",
   "PRODUCT": "SENSEIT_E400",
   "DEVICE": "SENSEIT_E400",
-  "FINGERPRINT": "SENSEIT_E400/SENSEIT_E400/SENSEIT_E400:5.0/LRX21M/1432640408:user/dev-keys",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "LRX21M",
-  "VNDK_VERSION": "",
+  "RELEASE": "5.0",
+  "RELEASE_OR_CODENAME": "5.0",
+  "ID": "LRX21M",
   "INCREMENTAL": "1445597735",
   "TYPE": "user",
-  "TAGS": "dev-keys"
+  "TAGS": "dev-keys",
+  "FINGERPRINT": "SENSEIT_E400/SENSEIT_E400/SENSEIT_E400:5.0/LRX21M/1432640408:user/dev-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 21,
+  "*.build.id": "LRX21M",
+  "*.security_patch": "",
+  "*.build.version.sdk": "21"
 }

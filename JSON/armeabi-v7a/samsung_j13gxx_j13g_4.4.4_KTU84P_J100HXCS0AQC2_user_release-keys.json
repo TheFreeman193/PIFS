@@ -4,12 +4,17 @@
   "BRAND": "samsung",
   "PRODUCT": "j13gxx",
   "DEVICE": "j13g",
-  "FINGERPRINT": "samsung/j13gxx/j13g:4.4.4/KTU84P/J100HXCS0AQC2:user/release-keys",
-  "SECURITY_PATCH": "2017-03-01",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "KTU84P",
-  "VNDK_VERSION": "",
+  "RELEASE": "4.4.4",
+  "RELEASE_OR_CODENAME": "4.4.4",
+  "ID": "KTU84P",
   "INCREMENTAL": "J100HXCS0AQC2",
   "TYPE": "user",
-  "TAGS": "release-keys"
+  "TAGS": "release-keys",
+  "FINGERPRINT": "samsung/j13gxx/j13g:4.4.4/KTU84P/J100HXCS0AQC2:user/release-keys",
+  "SECURITY_PATCH": "2017-03-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "KTU84P",
+  "*.security_patch": "2017-03-01",
+  "*.build.version.sdk": "19"
 }
