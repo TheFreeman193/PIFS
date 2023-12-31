@@ -9,6 +9,16 @@ if [ ! -d "/data/adb" ]; then
     exit 1
 fi
 
+if [ $(command -v /data/adb/magisk/busybox) ]; then
+    alias grep="/data/adb/magisk/busybox grep"
+    alias sed="/data/adb/magisk/busybox sed"
+    alias wget="/data/adb/magisk/busybox wget"
+elif [ $(command -v /data/adb/ksu/bin/busybox) ]; then
+    alias grep="/data/adb/ksu/bin/busybox grep"
+    alias sed="/data/adb/ksu/bin/busybox sed"
+    alias wget="/data/adb/ksu/bin/busybox wget"
+fi
+
 if [ ! -d "./JSON" ]; then
     if [ ! -f "./PIFS.zip" ]; then
         echo "Downloading profile/fingerprint repo from GitHub..."
@@ -48,7 +58,7 @@ if [ ! -d "./JSON" ]; then
     rm -r ./PIFS-main
 fi
 
-if [ -v FORCEABI ]; then
+if [ -n "$FORCEABI" ]; then
     echo "\$FORCEABI is set, will only pick profile from '${FORCEABI}'"
     FList=$(find "./JSON/${FORCEABI}" -type f)
     if [ -z "$FList" ]; then
@@ -79,7 +89,7 @@ else
 fi
 
 FCount=$(echo "$FList" | wc -l)
-if [ $FCount == 0 ]; then
+if [ $FCount -eq 0 ]; then
     echo "Couldn't parse JSON file list!"
     exit 4
 fi
