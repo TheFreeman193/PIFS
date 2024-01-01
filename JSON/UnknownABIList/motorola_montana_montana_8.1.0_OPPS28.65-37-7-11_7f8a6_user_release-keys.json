@@ -13,8 +13,9 @@
   "FINGERPRINT": "motorola/montana/montana:8.1.0/OPPS28.65-37-7-11/7f8a6:user/release-keys",
   "SECURITY_PATCH": "2019-08-01",
   "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 1,
+  "SDK_INT": 27,
   "*.build.id": "OPPS28.65-37-7-11",
   "*.security_patch": "2019-08-01",
-  "*.build.version.sdk": "1"
+  "*api_level": "25",
+  "*.build.version.sdk": "27"
 }

@@ -16,5 +16,6 @@
   "SDK_INT": 22,
   "*.build.id": "HUAWEICUN-L21",
   "*.security_patch": "2016-07-05",
+  "*api_level": "25",
   "*.build.version.sdk": "22"
 }

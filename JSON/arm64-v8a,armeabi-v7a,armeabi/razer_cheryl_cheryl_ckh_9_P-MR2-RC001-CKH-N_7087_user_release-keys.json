@@ -16,5 +16,6 @@
   "SDK_INT": 28,
   "*.build.id": "P-MR2-RC001-CKH-N",
   "*.security_patch": "2019-11-05",
+  "*api_level": "25",
   "*.build.version.sdk": "28"
 }

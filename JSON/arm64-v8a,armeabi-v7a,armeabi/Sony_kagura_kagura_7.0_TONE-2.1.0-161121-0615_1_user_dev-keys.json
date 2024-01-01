@@ -16,5 +16,6 @@
   "SDK_INT": 24,
   "*.build.id": "39.2.A.0.327",
   "*.security_patch": "2016-11-01",
+  "*api_level": "23",
   "*.build.version.sdk": "24"
 }

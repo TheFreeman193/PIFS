@@ -1,0 +1,21 @@
+{
+  "MANUFACTURER": "LENOVO",
+  "MODEL": "Lenovo YT3-X90L",
+  "BRAND": "Lenovo",
+  "PRODUCT": "YT3_10_row_lte",
+  "DEVICE": "YT3",
+  "RELEASE": "6.0.1",
+  "RELEASE_OR_CODENAME": "6.0.1",
+  "ID": "MMB29M",
+  "INCREMENTAL": "YT3-X90L_USR_S200307_1706140050_WW17_BP_ROW",
+  "TYPE": "user",
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Lenovo/YT3_10_row_lte/YT3:6.0.1/MMB29M/LenovoYT3-X90L_S200307_170614:user/release-keys",
+  "SECURITY_PATCH": "2017-04-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 23,
+  "*.build.id": "MMB29M",
+  "*.security_patch": "2017-04-01",
+  "*api_level": "25",
+  "*.build.version.sdk": "23"
+}

@@ -1,6 +1,6 @@
 {
   "MANUFACTURER": "vivo",
-  "MODEL": "PD1603",
+  "MODEL": "",
   "BRAND": "vivo",
   "PRODUCT": "PD1603",
   "DEVICE": "PD1603",
@@ -16,5 +16,6 @@
   "SDK_INT": 22,
   "*.build.id": "LMY47V",
   "*.security_patch": "2018-03-01",
+  "*api_level": "22",
   "*.build.version.sdk": "22"
 }

@@ -16,5 +16,6 @@
   "SDK_INT": 17,
   "*.build.id": "JSS15J.N900UBUBMJ2",
   "*.security_patch": "",
+  "*api_level": "25",
   "*.build.version.sdk": "17"
 }

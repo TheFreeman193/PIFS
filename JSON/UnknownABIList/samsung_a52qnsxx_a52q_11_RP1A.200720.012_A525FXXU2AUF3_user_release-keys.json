@@ -16,5 +16,6 @@
   "SDK_INT": 30,
   "*.build.id": "RP1A.200720.012",
   "*.security_patch": "2021-06-01",
+  "*api_level": "30",
   "*.build.version.sdk": "30"
 }

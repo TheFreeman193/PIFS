@@ -16,5 +16,6 @@
   "SDK_INT": 25,
   "*.build.id": "NHG47K",
   "*.security_patch": "2018-03-01",
+  "*api_level": "23",
   "*.build.version.sdk": "25"
 }

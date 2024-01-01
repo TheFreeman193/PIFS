@@ -16,5 +16,6 @@
   "SDK_INT": 27,
   "*.build.id": "3310A.SPRINT.190213.0S",
   "*.security_patch": "2019-02-01",
+  "*api_level": "25",
   "*.build.version.sdk": "27"
 }

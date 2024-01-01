@@ -16,5 +16,6 @@
   "SDK_INT": 28,
   "*.build.id": "3705AS.SPRINT.200921.0S",
   "*.security_patch": "2020-09-01",
+  "*api_level": "25",
   "*.build.version.sdk": "28"
 }

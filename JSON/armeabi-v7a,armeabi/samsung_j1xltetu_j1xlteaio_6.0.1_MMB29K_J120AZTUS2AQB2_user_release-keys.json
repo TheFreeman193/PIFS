@@ -1,6 +1,6 @@
 {
   "MANUFACTURER": "samsung",
-  "MODEL": "j1xlteaio",
+  "MODEL": "",
   "BRAND": "samsung",
   "PRODUCT": "j1xltetu",
   "DEVICE": "j1xlteaio",
@@ -16,5 +16,6 @@
   "SDK_INT": 23,
   "*.build.id": "MMB29K",
   "*.security_patch": "2017-01-01",
+  "*api_level": "25",
   "*.build.version.sdk": "23"
 }

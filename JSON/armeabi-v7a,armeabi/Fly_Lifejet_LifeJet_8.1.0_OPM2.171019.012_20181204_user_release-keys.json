@@ -16,5 +16,6 @@
   "SDK_INT": 27,
   "*.build.id": "OPM2.171019.012",
   "*.security_patch": "2018-12-05",
+  "*api_level": "25",
   "*.build.version.sdk": "27"
 }

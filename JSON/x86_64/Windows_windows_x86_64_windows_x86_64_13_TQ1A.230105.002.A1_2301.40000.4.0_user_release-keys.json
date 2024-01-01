@@ -1,6 +1,6 @@
 {
-  "MANUFACTURER": "Windows",
-  "MODEL": "windows_x86_64",
+  "MANUFACTURER": "Microsoft Corporation",
+  "MODEL": "Subsystem for Android(TM)",
   "BRAND": "Android",
   "PRODUCT": "windows_x86_64",
   "DEVICE": "windows_x86_64",
@@ -16,5 +16,6 @@
   "SDK_INT": 33,
   "*.build.id": "TQ1A.230105.002.A1",
   "*.security_patch": "2023-01-05",
+  "*api_level": "25",
   "*.build.version.sdk": "33"
 }

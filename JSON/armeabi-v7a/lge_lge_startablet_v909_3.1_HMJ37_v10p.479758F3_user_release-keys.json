@@ -16,5 +16,6 @@
   "SDK_INT": 12,
   "*.build.id": "HMJ37",
   "*.security_patch": "",
+  "*api_level": "25",
   "*.build.version.sdk": "12"
 }

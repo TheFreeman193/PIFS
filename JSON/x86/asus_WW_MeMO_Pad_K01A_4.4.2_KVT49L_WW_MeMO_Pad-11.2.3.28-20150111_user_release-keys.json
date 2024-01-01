@@ -1,0 +1,21 @@
+{
+  "MANUFACTURER": "asus",
+  "MODEL": "K01A",
+  "BRAND": "asus",
+  "PRODUCT": "WW_MeMO_Pad",
+  "DEVICE": "K01A",
+  "RELEASE": "4.4.2",
+  "RELEASE_OR_CODENAME": "4.4.2",
+  "ID": "KVT49L",
+  "INCREMENTAL": "WW_MeMO_Pad-11.2.3.28-20150111",
+  "TYPE": "user",
+  "TAGS": "release-keys",
+  "FINGERPRINT": "asus/WW_MeMO_Pad/K01A:4.4.2/KVT49L/WW_MeMO_Pad-11.2.3.28-20150111:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "KVT49L",
+  "*.security_patch": "",
+  "*api_level": "25",
+  "*.build.version.sdk": "19"
+}

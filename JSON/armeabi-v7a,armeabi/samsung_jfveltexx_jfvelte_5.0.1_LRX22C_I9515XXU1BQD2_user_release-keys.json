@@ -16,5 +16,6 @@
   "SDK_INT": 21,
   "*.build.id": "LRX22C",
   "*.security_patch": "2017-04-01",
+  "*api_level": "25",
   "*.build.version.sdk": "21"
 }

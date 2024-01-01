@@ -16,5 +16,6 @@
   "SDK_INT": 26,
   "*.build.id": "R16NW",
   "*.security_patch": "2020-09-01",
+  "*api_level": "23",
   "*.build.version.sdk": "26"
 }

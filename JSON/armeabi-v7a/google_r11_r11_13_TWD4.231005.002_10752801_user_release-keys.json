@@ -16,5 +16,6 @@
   "SDK_INT": 33,
   "*.build.id": "TWD4.231005.002",
   "*.security_patch": "2023-10-05",
+  "*api_level": "25",
   "*.build.version.sdk": "33"
 }

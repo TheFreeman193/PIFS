@@ -16,5 +16,6 @@
   "SDK_INT": 29,
   "*.build.id": "QOM30.255-12",
   "*.security_patch": "2020-12-05",
+  "*api_level": "25",
   "*.build.version.sdk": "29"
 }

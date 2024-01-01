@@ -16,5 +16,6 @@
   "SDK_INT": 30,
   "*.build.id": "RKQ1.210528.001",
   "*.security_patch": "2023-07-05",
+  "*api_level": "25",
   "*.build.version.sdk": "30"
 }

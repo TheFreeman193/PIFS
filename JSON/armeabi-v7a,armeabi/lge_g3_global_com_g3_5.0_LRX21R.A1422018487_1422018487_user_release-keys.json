@@ -16,5 +16,6 @@
   "SDK_INT": 21,
   "*.build.id": "LRX21R.A1422018487",
   "*.security_patch": "",
+  "*api_level": "25",
   "*.build.version.sdk": "21"
 }

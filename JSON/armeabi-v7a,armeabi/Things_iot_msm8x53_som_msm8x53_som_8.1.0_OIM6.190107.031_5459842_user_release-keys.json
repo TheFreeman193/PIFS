@@ -16,5 +16,6 @@
   "SDK_INT": 27,
   "*.build.id": "OIM6.190107.031",
   "*.security_patch": "2019-02-05",
+  "*api_level": "25",
   "*.build.version.sdk": "27"
 }

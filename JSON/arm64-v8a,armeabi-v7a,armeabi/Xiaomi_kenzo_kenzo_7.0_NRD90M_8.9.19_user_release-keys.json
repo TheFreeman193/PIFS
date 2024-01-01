@@ -16,5 +16,6 @@
   "SDK_INT": 24,
   "*.build.id": "NRD90M",
   "*.security_patch": "2018-07-01",
+  "*api_level": "23",
   "*.build.version.sdk": "24"
 }

@@ -1,6 +1,6 @@
 {
   "MANUFACTURER": "Google",
-  "MODEL": "gsi_arm64",
+  "MODEL": "",
   "BRAND": "google",
   "PRODUCT": "gsi_gms_arm64",
   "DEVICE": "gsi_arm64",
@@ -16,5 +16,6 @@
   "SDK_INT": 34,
   "*.build.id": "UPB4.230623.005",
   "*.security_patch": "2023-07-05",
+  "*api_level": "25",
   "*.build.version.sdk": "34"
 }

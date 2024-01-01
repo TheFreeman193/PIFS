@@ -1,6 +1,6 @@
 {
   "MANUFACTURER": "INFINIX",
-  "MODEL": "FULL-64",
+  "MODEL": "Infinix X6826",
   "BRAND": "Infinix",
   "PRODUCT": "TSSI",
   "DEVICE": "FULL-64",
@@ -16,5 +16,6 @@
   "SDK_INT": 31,
   "*.build.id": "SP1A.210812.016",
   "*.security_patch": "2023-03-05",
+  "*api_level": "25",
   "*.build.version.sdk": "31"
 }

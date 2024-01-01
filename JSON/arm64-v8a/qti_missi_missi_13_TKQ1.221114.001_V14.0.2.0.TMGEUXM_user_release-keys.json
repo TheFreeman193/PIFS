@@ -16,5 +16,6 @@
   "SDK_INT": 33,
   "*.build.id": "TKQ1.221114.001",
   "*.security_patch": "2023-02-01",
+  "*api_level": "25",
   "*.build.version.sdk": "33"
 }

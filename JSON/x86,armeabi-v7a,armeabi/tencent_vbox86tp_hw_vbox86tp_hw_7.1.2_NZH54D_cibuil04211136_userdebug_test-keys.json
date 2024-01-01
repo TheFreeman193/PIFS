@@ -1,0 +1,21 @@
+{
+  "MANUFACTURER": "Tencent",
+  "MODEL": "virtual machine 2",
+  "BRAND": "Tencent",
+  "PRODUCT": "virtual machine 2",
+  "DEVICE": "virtual machine 2",
+  "RELEASE": "7.1.2",
+  "RELEASE_OR_CODENAME": "7.1.2",
+  "ID": "NZH54D",
+  "INCREMENTAL": "eng.cibuil.20220421.113602",
+  "TYPE": "userdebug",
+  "TAGS": "release-keys",
+  "FINGERPRINT": "tencent/vbox86tp_hw/vbox86tp_hw:7.1.2/NZH54D/cibuil04211136:userdebug/test-keys",
+  "SECURITY_PATCH": "2017-08-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 25,
+  "*.build.id": "NZH54D",
+  "*.security_patch": "2017-08-05",
+  "*api_level": "25",
+  "*.build.version.sdk": "25"
+}

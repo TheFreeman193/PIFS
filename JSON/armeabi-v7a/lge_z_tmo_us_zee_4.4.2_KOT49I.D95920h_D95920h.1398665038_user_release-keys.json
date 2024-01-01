@@ -16,5 +16,6 @@
   "SDK_INT": 19,
   "*.build.id": "KOT49I.D95920h",
   "*.security_patch": "",
+  "*api_level": "25",
   "*.build.version.sdk": "19"
 }

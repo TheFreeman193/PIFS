@@ -16,5 +16,6 @@
   "SDK_INT": 29,
   "*.build.id": "QQ3A.200805.001",
   "*.security_patch": "2020-08-05",
+  "*api_level": "28",
   "*.build.version.sdk": "29"
 }

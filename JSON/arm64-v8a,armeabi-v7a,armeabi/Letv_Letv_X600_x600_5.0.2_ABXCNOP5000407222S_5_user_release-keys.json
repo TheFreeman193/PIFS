@@ -16,5 +16,6 @@
   "SDK_INT": 21,
   "*.build.id": "ABXCNOP5000407222S",
   "*.security_patch": "",
+  "*api_level": "25",
   "*.build.version.sdk": "21"
 }

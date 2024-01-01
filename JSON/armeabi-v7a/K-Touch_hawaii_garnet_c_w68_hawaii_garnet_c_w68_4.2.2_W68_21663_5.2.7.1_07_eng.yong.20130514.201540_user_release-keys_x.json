@@ -16,5 +16,6 @@
   "SDK_INT": 17,
   "*.build.id": "W68_21663_5.2.7.1_07",
   "*.security_patch": "",
+  "*api_level": "25",
   "*.build.version.sdk": "17"
 }

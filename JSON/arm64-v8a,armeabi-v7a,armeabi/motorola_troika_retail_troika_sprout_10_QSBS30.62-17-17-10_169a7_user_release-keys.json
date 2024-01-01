@@ -16,5 +16,6 @@
   "SDK_INT": 29,
   "*.build.id": "QSBS30.62-17-17-10",
   "*.security_patch": "2021-07-01",
+  "*api_level": "25",
   "*.build.version.sdk": "29"
 }

@@ -16,5 +16,6 @@
   "SDK_INT": 16,
   "*.build.id": "PAP4500DUO",
   "*.security_patch": "",
+  "*api_level": "25",
   "*.build.version.sdk": "16"
 }

@@ -16,5 +16,6 @@
   "SDK_INT": 33,
   "*.build.id": "TP1A.220905.001",
   "*.security_patch": "2023-09-05",
+  "*api_level": "25",
   "*.build.version.sdk": "33"
 }

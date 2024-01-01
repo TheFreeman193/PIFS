@@ -16,5 +16,6 @@
   "SDK_INT": 15,
   "*.build.id": "IMM76D",
   "*.security_patch": "",
+  "*api_level": "25",
   "*.build.version.sdk": "15"
 }

@@ -16,5 +16,6 @@
   "SDK_INT": 18,
   "*.build.id": "HuaweiY530-U051",
   "*.security_patch": "",
+  "*api_level": "25",
   "*.build.version.sdk": "18"
 }

@@ -16,5 +16,6 @@
   "SDK_INT": 23,
   "*.build.id": "MOB31K",
   "*.security_patch": "2016-11-05",
+  "*api_level": "25",
   "*.build.version.sdk": "23"
 }

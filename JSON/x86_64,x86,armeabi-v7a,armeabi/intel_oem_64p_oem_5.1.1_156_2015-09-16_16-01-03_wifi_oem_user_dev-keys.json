@@ -1,0 +1,21 @@
+{
+  "MANUFACTURER": "intel",
+  "MODEL": "oem",
+  "BRAND": "intel",
+  "PRODUCT": "oem_64p",
+  "DEVICE": "oem",
+  "RELEASE": "5.1.1",
+  "RELEASE_OR_CODENAME": "5.1.1",
+  "ID": "156_2015-09-16_16-01-03_wifi",
+  "INCREMENTAL": "oem",
+  "TYPE": "user",
+  "TAGS": "dev-keys",
+  "FINGERPRINT": "intel/oem_64p/oem:5.1.1/156_2015-09-16_16-01-03_wifi/oem:user/dev-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 22,
+  "*.build.id": "156_2015-09-16_16-01-03_wifi",
+  "*.security_patch": "",
+  "*api_level": "25",
+  "*.build.version.sdk": "22"
+}

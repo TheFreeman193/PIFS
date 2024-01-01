@@ -16,5 +16,6 @@
   "SDK_INT": 31,
   "*.build.id": "S3RQS32.20-42-10-2",
   "*.security_patch": "2022-10-01",
+  "*api_level": "25",
   "*.build.version.sdk": "31"
 }

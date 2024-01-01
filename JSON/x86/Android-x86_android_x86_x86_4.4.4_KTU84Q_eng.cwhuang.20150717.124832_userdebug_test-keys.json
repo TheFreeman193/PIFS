@@ -1,6 +1,6 @@
 {
   "MANUFACTURER": "unknown",
-  "MODEL": "x86",
+  "MODEL": "",
   "BRAND": "Android-x86",
   "PRODUCT": "android_x86",
   "DEVICE": "x86",
@@ -16,5 +16,6 @@
   "SDK_INT": 19,
   "*.build.id": "KTU84Q",
   "*.security_patch": "",
+  "*api_level": "25",
   "*.build.version.sdk": "19"
 }

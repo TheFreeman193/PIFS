@@ -16,5 +16,6 @@
   "SDK_INT": 17,
   "*.build.id": "D7_0.0.0.8_20141103.144241",
   "*.security_patch": "",
+  "*api_level": "25",
   "*.build.version.sdk": "17"
 }

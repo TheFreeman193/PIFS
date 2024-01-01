@@ -16,5 +16,6 @@
   "SDK_INT": 31,
   "*.build.id": "SP1A.210812.016",
   "*.security_patch": "2022-04-05",
+  "*api_level": "25",
   "*.build.version.sdk": "31"
 }

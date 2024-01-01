@@ -1,6 +1,6 @@
 {
   "MANUFACTURER": "unknown",
-  "MODEL": "generic_a15",
+  "MODEL": "",
   "BRAND": "Huawei",
   "PRODUCT": "generic_a15",
   "DEVICE": "generic_a15",
@@ -16,5 +16,6 @@
   "SDK_INT": 24,
   "*.build.id": "NRD90M",
   "*.security_patch": "2017-05-05",
+  "*api_level": "25",
   "*.build.version.sdk": "24"
 }

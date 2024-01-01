@@ -16,5 +16,6 @@
   "SDK_INT": 19,
   "*.build.id": "ES135_R01_31.07.2015_V1.0",
   "*.security_patch": "",
+  "*api_level": "25",
   "*.build.version.sdk": "19"
 }

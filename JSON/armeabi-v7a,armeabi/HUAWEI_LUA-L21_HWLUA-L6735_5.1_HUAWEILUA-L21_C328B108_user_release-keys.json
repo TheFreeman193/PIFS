@@ -16,5 +16,6 @@
   "SDK_INT": 22,
   "*.build.id": "HUAWEILUA-L21",
   "*.security_patch": "2018-03-05",
+  "*api_level": "22",
   "*.build.version.sdk": "22"
 }

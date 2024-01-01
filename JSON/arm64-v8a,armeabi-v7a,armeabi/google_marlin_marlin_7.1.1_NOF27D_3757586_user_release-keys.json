@@ -13,8 +13,9 @@
   "FINGERPRINT": "google/marlin/marlin:7.1.1/NOF27D/3757586:user/release-keys",
   "SECURITY_PATCH": "2016-12-01",
   "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 2,
+  "SDK_INT": 25,
   "*.build.id": "NOF27D",
   "*.security_patch": "2016-12-01",
-  "*.build.version.sdk": "2"
+  "*api_level": "25",
+  "*.build.version.sdk": "25"
 }

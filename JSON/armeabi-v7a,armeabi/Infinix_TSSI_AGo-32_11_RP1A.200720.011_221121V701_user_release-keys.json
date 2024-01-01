@@ -1,6 +1,6 @@
 {
   "MANUFACTURER": "INFINIX MOBILITY LIMITED",
-  "MODEL": "AGo-32",
+  "MODEL": "Infinix X657B",
   "BRAND": "Infinix",
   "PRODUCT": "TSSI",
   "DEVICE": "AGo-32",
@@ -16,5 +16,6 @@
   "SDK_INT": 30,
   "*.build.id": "RP1A.200720.011",
   "*.security_patch": "2022-11-05",
+  "*api_level": "25",
   "*.build.version.sdk": "30"
 }

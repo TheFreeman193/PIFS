@@ -13,8 +13,9 @@
   "FINGERPRINT": "Sony/SGP771/SGP771:7.1.1/32.4.A.1.54/219395100:user/release-keys",
   "SECURITY_PATCH": "2016-12-01",
   "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 2,
+  "SDK_INT": 25,
   "*.build.id": "32.4.A.1.54",
   "*.security_patch": "2016-12-01",
-  "*.build.version.sdk": "2"
+  "*api_level": "25",
+  "*.build.version.sdk": "25"
 }

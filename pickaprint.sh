@@ -13,7 +13,7 @@ if [ ! -d "/data/adb" ]; then
     exit 1
 fi
 
-VERSION=110
+VERSION=120
 RootDir="/data/adb/pifs"
 FailedList="$RootDir/failed.lst"
 ConfirmedDir="$RootDir/confirmed"

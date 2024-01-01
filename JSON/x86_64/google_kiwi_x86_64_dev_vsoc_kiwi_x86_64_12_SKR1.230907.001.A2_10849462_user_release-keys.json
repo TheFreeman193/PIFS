@@ -1,0 +1,21 @@
+{
+  "MANUFACTURER": "Google",
+  "MODEL": "HPE device",
+  "BRAND": "google",
+  "PRODUCT": "kiwi_x86_64_dev",
+  "DEVICE": "vsoc_kiwi_x86_64",
+  "RELEASE": "12",
+  "RELEASE_OR_CODENAME": "12",
+  "ID": "SKR1.230907.001.A2",
+  "INCREMENTAL": "10849462",
+  "TYPE": "user",
+  "TAGS": "release-keys",
+  "FINGERPRINT": "google/kiwi_x86_64_dev/vsoc_kiwi_x86_64:12/SKR1.230907.001.A2/10849462:user/release-keys",
+  "SECURITY_PATCH": "2023-01-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 32,
+  "*.build.id": "SKR1.230907.001.A2",
+  "*.security_patch": "2023-01-01",
+  "*api_level": "25",
+  "*.build.version.sdk": "32"
+}

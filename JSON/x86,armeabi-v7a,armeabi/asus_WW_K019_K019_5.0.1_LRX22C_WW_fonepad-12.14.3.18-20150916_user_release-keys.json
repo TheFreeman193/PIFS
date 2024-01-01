@@ -1,0 +1,21 @@
+{
+  "MANUFACTURER": "asus",
+  "MODEL": "K019",
+  "BRAND": "asus",
+  "PRODUCT": "WW_K019",
+  "DEVICE": "K019",
+  "RELEASE": "5.0.1",
+  "RELEASE_OR_CODENAME": "5.0.1",
+  "ID": "LRX22C",
+  "INCREMENTAL": "WW_fonepad-12.14.3.18-20150916",
+  "TYPE": "user",
+  "TAGS": "release-keys",
+  "FINGERPRINT": "asus/WW_K019/K019:5.0.1/LRX22C/WW_fonepad-12.14.3.18-20150916:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 21,
+  "*.build.id": "LRX22C",
+  "*.security_patch": "",
+  "*api_level": "25",
+  "*.build.version.sdk": "21"
+}

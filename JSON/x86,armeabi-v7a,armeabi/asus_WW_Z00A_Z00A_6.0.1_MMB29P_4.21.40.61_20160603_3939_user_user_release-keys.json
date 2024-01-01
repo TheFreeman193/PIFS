@@ -1,0 +1,21 @@
+{
+  "MANUFACTURER": "asus",
+  "MODEL": "ASUS_Z00A",
+  "BRAND": "asus",
+  "PRODUCT": "WW_Z00A",
+  "DEVICE": "Z00A",
+  "RELEASE": "6.0.1",
+  "RELEASE_OR_CODENAME": "6.0.1",
+  "ID": "MMB29P",
+  "INCREMENTAL": "WW_Z00A-WW_4.21.40.61_20160603_3939_user_rel-user-20160603",
+  "TYPE": "user",
+  "TAGS": "release-keys",
+  "FINGERPRINT": "asus/WW_Z00A/Z00A:6.0.1/MMB29P/4.21.40.61_20160603_3939_user:user/release-keys",
+  "SECURITY_PATCH": "2016-06-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 23,
+  "*.build.id": "MMB29P",
+  "*.security_patch": "2016-06-01",
+  "*api_level": "25",
+  "*.build.version.sdk": "23"
+}

@@ -1,6 +1,6 @@
 {
   "MANUFACTURER": "asus",
-  "MODEL": "zc551kl",
+  "MODEL": "",
   "BRAND": "asus",
   "PRODUCT": "WW_Phone",
   "DEVICE": "zc551kl",
@@ -16,5 +16,6 @@
   "SDK_INT": 22,
   "*.build.id": "LMY47V",
   "*.security_patch": "2016-06-01",
+  "*api_level": "25",
   "*.build.version.sdk": "22"
 }

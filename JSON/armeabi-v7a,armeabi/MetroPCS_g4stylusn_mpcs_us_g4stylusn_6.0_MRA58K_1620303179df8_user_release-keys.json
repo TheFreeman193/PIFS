@@ -16,5 +16,6 @@
   "SDK_INT": 23,
   "*.build.id": "MRA58K",
   "*.security_patch": "2016-07-01",
+  "*api_level": "25",
   "*.build.version.sdk": "23"
 }

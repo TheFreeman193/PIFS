@@ -16,5 +16,6 @@
   "SDK_INT": 31,
   "*.build.id": "SKQ1.211103.001",
   "*.security_patch": "2023-05-01",
+  "*api_level": "25",
   "*.build.version.sdk": "31"
 }

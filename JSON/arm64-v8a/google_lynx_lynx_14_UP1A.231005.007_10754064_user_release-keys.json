@@ -1,6 +1,6 @@
 {
   "MANUFACTURER": "Google",
-  "MODEL": "lynx",
+  "MODEL": "Pixel 7a",
   "BRAND": "google",
   "PRODUCT": "lynx",
   "DEVICE": "lynx",
@@ -16,5 +16,6 @@
   "SDK_INT": 34,
   "*.build.id": "UP1A.231005.007",
   "*.security_patch": "2023-10-05",
+  "*api_level": "25",
   "*.build.version.sdk": "34"
 }

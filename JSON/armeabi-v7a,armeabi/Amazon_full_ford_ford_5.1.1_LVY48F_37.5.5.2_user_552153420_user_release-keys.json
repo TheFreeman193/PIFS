@@ -1,6 +1,6 @@
 {
   "MANUFACTURER": "Amazon",
-  "MODEL": "ford",
+  "MODEL": "",
   "BRAND": "Amazon",
   "PRODUCT": "full_ford",
   "DEVICE": "ford",
@@ -16,5 +16,6 @@
   "SDK_INT": 22,
   "*.build.id": "LVY48F",
   "*.security_patch": "2016-05-01",
+  "*api_level": "25",
   "*.build.version.sdk": "22"
 }

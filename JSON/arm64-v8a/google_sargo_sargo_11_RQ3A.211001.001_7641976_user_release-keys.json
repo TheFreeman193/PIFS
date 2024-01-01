@@ -16,5 +16,6 @@
   "SDK_INT": 30,
   "*.build.id": "RQ3A.211001.001",
   "*.security_patch": "2021-10-01",
+  "*api_level": "28",
   "*.build.version.sdk": "30"
 }

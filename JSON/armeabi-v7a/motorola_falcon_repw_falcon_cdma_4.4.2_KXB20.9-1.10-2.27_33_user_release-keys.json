@@ -16,5 +16,6 @@
   "SDK_INT": 19,
   "*.build.id": "KXB20.9-1.10-2.27",
   "*.security_patch": "",
+  "*api_level": "25",
   "*.build.version.sdk": "19"
 }

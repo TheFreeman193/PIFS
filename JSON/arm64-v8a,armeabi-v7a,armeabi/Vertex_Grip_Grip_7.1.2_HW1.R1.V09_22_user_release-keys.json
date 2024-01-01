@@ -16,5 +16,6 @@
   "SDK_INT": 25,
   "*.build.id": "HW1.R1.V09",
   "*.security_patch": "2018-03-01",
+  "*api_level": "25",
   "*.build.version.sdk": "25"
 }

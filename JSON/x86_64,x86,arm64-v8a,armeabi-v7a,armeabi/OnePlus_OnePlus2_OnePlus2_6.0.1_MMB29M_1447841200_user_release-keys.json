@@ -1,0 +1,21 @@
+{
+  "MANUFACTURER": "Netease",
+  "MODEL": "MuMu",
+  "BRAND": "Android",
+  "PRODUCT": "cancro_x86_64",
+  "DEVICE": "x86_64",
+  "RELEASE": "6.0.1",
+  "RELEASE_OR_CODENAME": "6.0.1",
+  "ID": "V417IR",
+  "INCREMENTAL": "eng.duanlusheng.20210918.154646",
+  "TYPE": "user",
+  "TAGS": "release-keys",
+  "FINGERPRINT": "OnePlus/OnePlus2/OnePlus2:6.0.1/MMB29M/1447841200:user/release-keys",
+  "SECURITY_PATCH": "2017-02-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 23,
+  "*.build.id": "V417IR",
+  "*.security_patch": "2017-02-01",
+  "*api_level": "25",
+  "*.build.version.sdk": "23"
+}

@@ -16,5 +16,6 @@
   "SDK_INT": 29,
   "*.build.id": "QKQ1.190828.002",
   "*.security_patch": "2019-09-05",
+  "*api_level": "25",
   "*.build.version.sdk": "29"
 }

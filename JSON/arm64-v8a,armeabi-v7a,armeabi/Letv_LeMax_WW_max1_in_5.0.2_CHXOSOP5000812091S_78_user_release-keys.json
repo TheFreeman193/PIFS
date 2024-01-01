@@ -16,5 +16,6 @@
   "SDK_INT": 21,
   "*.build.id": "CHXOSOP5000812091S",
   "*.security_patch": "2015-12-01",
+  "*api_level": "25",
   "*.build.version.sdk": "21"
 }

@@ -16,5 +16,6 @@
   "SDK_INT": 28,
   "*.build.id": "HUAWEIEML-L09",
   "*.security_patch": "2020-01-01",
+  "*api_level": "28",
   "*.build.version.sdk": "28"
 }

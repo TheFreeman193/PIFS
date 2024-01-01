@@ -16,5 +16,6 @@
   "SDK_INT": 18,
   "*.build.id": "JLS36C",
   "*.security_patch": "",
+  "*api_level": "25",
   "*.build.version.sdk": "18"
 }

@@ -1,0 +1,21 @@
+{
+  "MANUFACTURER": "Foxconn International Holdings Limited",
+  "MODEL": "C14100",
+  "BRAND": "KD_Interactive",
+  "PRODUCT": "C14100",
+  "DEVICE": "g03k",
+  "RELEASE": "4.4.2",
+  "RELEASE_OR_CODENAME": "4.4.2",
+  "ID": "KOT49H",
+  "INCREMENTAL": "92",
+  "TYPE": "user",
+  "TAGS": "release-keys",
+  "FINGERPRINT": "KD_Interactive/C14100/g03k:4.4.2/KOT49H/92:user/release-keys",
+  "SECURITY_PATCH": "",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 19,
+  "*.build.id": "KOT49H",
+  "*.security_patch": "",
+  "*api_level": "25",
+  "*.build.version.sdk": "19"
+}

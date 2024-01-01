@@ -16,5 +16,6 @@
   "SDK_INT": 8,
   "*.build.id": "FRF91",
   "*.security_patch": "",
+  "*api_level": "25",
   "*.build.version.sdk": "8"
 }

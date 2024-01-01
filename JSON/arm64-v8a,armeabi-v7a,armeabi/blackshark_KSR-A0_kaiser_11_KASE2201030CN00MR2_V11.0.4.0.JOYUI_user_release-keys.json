@@ -16,5 +16,6 @@
   "SDK_INT": 30,
   "*.build.id": "KASE2201030CN00MR2",
   "*.security_patch": "2021-11-01",
+  "*api_level": "25",
   "*.build.version.sdk": "30"
 }

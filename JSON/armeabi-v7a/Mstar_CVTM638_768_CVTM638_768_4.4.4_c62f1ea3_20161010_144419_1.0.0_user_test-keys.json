@@ -1,6 +1,6 @@
 {
   "MANUFACTURER": "CVTE",
-  "MODEL": "CVTM638_768",
+  "MODEL": "",
   "BRAND": "Mstar",
   "PRODUCT": "CVTM638_768",
   "DEVICE": "CVTM638_768",
@@ -16,5 +16,6 @@
   "SDK_INT": 19,
   "*.build.id": "c62f1ea3_20161010_144419",
   "*.security_patch": "",
+  "*api_level": "25",
   "*.build.version.sdk": "19"
 }

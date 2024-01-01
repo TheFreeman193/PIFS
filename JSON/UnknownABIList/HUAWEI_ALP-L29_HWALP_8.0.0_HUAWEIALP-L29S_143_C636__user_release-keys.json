@@ -16,5 +16,6 @@
   "SDK_INT": 26,
   "*.build.id": "HUAWEIALP-L29S",
   "*.security_patch": "2018-10-01",
+  "*api_level": "26",
   "*.build.version.sdk": "26"
 }

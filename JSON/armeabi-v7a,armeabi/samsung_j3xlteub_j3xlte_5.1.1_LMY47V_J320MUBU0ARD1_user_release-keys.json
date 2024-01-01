@@ -16,5 +16,6 @@
   "SDK_INT": 22,
   "*.build.id": "LMY47V",
   "*.security_patch": "2018-03-01",
+  "*api_level": "25",
   "*.build.version.sdk": "22"
 }

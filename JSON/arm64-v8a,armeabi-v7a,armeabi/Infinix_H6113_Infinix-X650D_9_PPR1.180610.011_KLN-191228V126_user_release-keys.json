@@ -16,5 +16,6 @@
   "SDK_INT": 28,
   "*.build.id": "PPR1.180610.011",
   "*.security_patch": "2020-01-05",
+  "*api_level": "25",
   "*.build.version.sdk": "28"
 }

@@ -16,5 +16,6 @@
   "SDK_INT": 17,
   "*.build.id": "S5-F-V1.0-2013.10.30",
   "*.security_patch": "",
+  "*api_level": "25",
   "*.build.version.sdk": "17"
 }

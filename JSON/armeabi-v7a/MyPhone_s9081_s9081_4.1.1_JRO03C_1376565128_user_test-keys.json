@@ -16,5 +16,6 @@
   "SDK_INT": 16,
   "*.build.id": "ANDROID L919™ v2.0",
   "*.security_patch": "",
+  "*api_level": "25",
   "*.build.version.sdk": "16"
 }

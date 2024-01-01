@@ -16,5 +16,6 @@
   "SDK_INT": 19,
   "*.build.id": "IMM78I",
   "*.security_patch": "",
+  "*api_level": "25",
   "*.build.version.sdk": "19"
 }

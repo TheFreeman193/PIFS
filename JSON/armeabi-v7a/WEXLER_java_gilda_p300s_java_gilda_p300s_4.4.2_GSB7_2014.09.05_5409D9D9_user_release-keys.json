@@ -16,5 +16,6 @@
   "SDK_INT": 19,
   "*.build.id": "GSB7_2014.09.05",
   "*.security_patch": "",
+  "*api_level": "25",
   "*.build.version.sdk": "19"
 }

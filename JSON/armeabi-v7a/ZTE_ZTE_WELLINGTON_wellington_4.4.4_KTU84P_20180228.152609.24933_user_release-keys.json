@@ -16,5 +16,6 @@
   "SDK_INT": 19,
   "*.build.id": "KTU84P",
   "*.security_patch": "2017-10-01",
+  "*api_level": "25",
   "*.build.version.sdk": "19"
 }

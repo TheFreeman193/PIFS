@@ -16,5 +16,6 @@
   "SDK_INT": 24,
   "*.build.id": "NPPS25.137-15-11",
   "*.security_patch": "2016-08-05",
+  "*api_level": "24",
   "*.build.version.sdk": "24"
 }

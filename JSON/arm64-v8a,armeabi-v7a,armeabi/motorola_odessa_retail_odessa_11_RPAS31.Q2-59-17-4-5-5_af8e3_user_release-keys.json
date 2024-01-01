@@ -16,5 +16,6 @@
   "SDK_INT": 30,
   "*.build.id": "RPAS31.Q2-59-17-4-5-5",
   "*.security_patch": "2022-09-01",
+  "*api_level": "25",
   "*.build.version.sdk": "30"
 }

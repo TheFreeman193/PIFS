@@ -16,5 +16,6 @@
   "SDK_INT": 23,
   "*.build.id": "LenovoTB-X103F",
   "*.security_patch": "2018-01-01",
+  "*api_level": "25",
   "*.build.version.sdk": "23"
 }

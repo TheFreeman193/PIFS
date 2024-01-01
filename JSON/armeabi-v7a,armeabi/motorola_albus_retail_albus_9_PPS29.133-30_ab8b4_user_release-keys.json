@@ -16,5 +16,6 @@
   "SDK_INT": 28,
   "*.build.id": "PPS29.133-30",
   "*.security_patch": "2019-09-01",
+  "*api_level": "25",
   "*.build.version.sdk": "28"
 }

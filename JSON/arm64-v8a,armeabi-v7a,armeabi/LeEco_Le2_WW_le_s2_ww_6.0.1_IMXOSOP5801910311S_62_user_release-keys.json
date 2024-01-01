@@ -1,6 +1,6 @@
 {
   "MANUFACTURER": "LeMobile",
-  "MODEL": "le_s2_ww",
+  "MODEL": "",
   "BRAND": "LeEco",
   "PRODUCT": "Le2_WW",
   "DEVICE": "le_s2_ww",
@@ -16,5 +16,6 @@
   "SDK_INT": 23,
   "*.build.id": "IMXOSOP5801910311S",
   "*.security_patch": "2016-10-01",
+  "*api_level": "23",
   "*.build.version.sdk": "23"
 }

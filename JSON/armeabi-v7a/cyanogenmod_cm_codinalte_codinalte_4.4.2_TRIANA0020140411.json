@@ -16,5 +16,6 @@
   "SDK_INT": 19,
   "*.build.id": "TRIANA0020140411",
   "*.security_patch": "",
+  "*api_level": "25",
   "*.build.version.sdk": "19"
 }

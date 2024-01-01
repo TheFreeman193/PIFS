@@ -16,5 +16,6 @@
   "SDK_INT": 25,
   "*.build.id": "NEXBOX-A95X",
   "*.security_patch": "2017-08-01",
+  "*api_level": "25",
   "*.build.version.sdk": "25"
 }

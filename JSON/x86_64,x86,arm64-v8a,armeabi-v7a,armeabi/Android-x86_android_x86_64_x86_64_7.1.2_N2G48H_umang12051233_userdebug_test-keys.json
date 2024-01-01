@@ -1,0 +1,21 @@
+{
+  "MANUFACTURER": "unknown",
+  "MODEL": "",
+  "BRAND": "Android-x86",
+  "PRODUCT": "android_x86_64",
+  "DEVICE": "x86_64",
+  "RELEASE": "7.1.2",
+  "RELEASE_OR_CODENAME": "7.1.2",
+  "ID": "N2G48H",
+  "INCREMENTAL": "eng.umang.20181205.123349",
+  "TYPE": "userdebug",
+  "TAGS": "test-keys",
+  "FINGERPRINT": "Android-x86/android_x86_64/x86_64:7.1.2/N2G48H/umang12051233:userdebug/test-keys",
+  "SECURITY_PATCH": "2017-10-05",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 25,
+  "*.build.id": "N2G48H",
+  "*.security_patch": "2017-10-05",
+  "*api_level": "25",
+  "*.build.version.sdk": "25"
+}

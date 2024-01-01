@@ -16,5 +16,6 @@
   "SDK_INT": 15,
   "*.build.id": "BCM21654AndroidTK_SystemRel_1.3.2P.05",
   "*.security_patch": "",
+  "*api_level": "25",
   "*.build.version.sdk": "15"
 }

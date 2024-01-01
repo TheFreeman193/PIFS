@@ -1,6 +1,6 @@
 {
   "MANUFACTURER": "Xiaomi",
-  "MODEL": "missi",
+  "MODEL": "miproduct",
   "BRAND": "Android",
   "PRODUCT": "missi_pad_cn",
   "DEVICE": "missi",
@@ -16,5 +16,6 @@
   "SDK_INT": 34,
   "*.build.id": "UKQ1.230804.001",
   "*.security_patch": "2023-11-01",
+  "*api_level": "25",
   "*.build.version.sdk": "34"
 }

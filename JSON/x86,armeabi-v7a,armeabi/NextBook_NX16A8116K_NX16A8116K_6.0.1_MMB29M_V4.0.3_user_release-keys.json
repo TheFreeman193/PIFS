@@ -1,0 +1,21 @@
+{
+  "MANUFACTURER": "Yifang",
+  "MODEL": "NX16A8116K",
+  "BRAND": "NextBook",
+  "PRODUCT": "NX16A8116K",
+  "DEVICE": "NX16A8116K",
+  "RELEASE": "6.0.1",
+  "RELEASE_OR_CODENAME": "6.0.1",
+  "ID": "MMB29M",
+  "INCREMENTAL": "20161107.053713",
+  "TYPE": "user",
+  "TAGS": "release-keys",
+  "FINGERPRINT": "NextBook/NX16A8116K/NX16A8116K:6.0.1/MMB29M/V4.0.3:user/release-keys",
+  "SECURITY_PATCH": "2016-08-01",
+  "DEVICE_INITIAL_SDK_INT": 25,
+  "SDK_INT": 23,
+  "*.build.id": "MMB29M",
+  "*.security_patch": "2016-08-01",
+  "*api_level": "25",
+  "*.build.version.sdk": "23"
+}

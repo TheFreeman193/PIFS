@@ -1,6 +1,6 @@
 {
   "MANUFACTURER": "unknown",
-  "MODEL": "generic_a53_32",
+  "MODEL": "",
   "BRAND": "Huawei",
   "PRODUCT": "generic_a53_32",
   "DEVICE": "generic_a53_32",
@@ -16,5 +16,6 @@
   "SDK_INT": 24,
   "*.build.id": "NRD90M",
   "*.security_patch": "2018-01-01",
+  "*api_level": "25",
   "*.build.version.sdk": "24"
 }

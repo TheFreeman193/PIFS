@@ -13,8 +13,9 @@
   "FINGERPRINT": "Xiaomi/jason/jason:8.1.0/OPM1.171019.019/V10.2.2.0.OCHMIXM:user/release-keys",
   "SECURITY_PATCH": "2018-12-01",
   "DEVICE_INITIAL_SDK_INT": 27,
-  "SDK_INT": 1,
+  "SDK_INT": 27,
   "*.build.id": "OPM1.171019.019",
   "*.security_patch": "2018-12-01",
-  "*.build.version.sdk": "1"
+  "*api_level": "27",
+  "*.build.version.sdk": "27"
 }

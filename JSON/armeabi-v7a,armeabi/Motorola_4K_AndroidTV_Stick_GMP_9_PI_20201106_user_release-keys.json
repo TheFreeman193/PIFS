@@ -16,5 +16,6 @@
   "SDK_INT": 28,
   "*.build.id": "PI",
   "*.security_patch": "2020-10-05",
+  "*api_level": "25",
   "*.build.version.sdk": "28"
 }

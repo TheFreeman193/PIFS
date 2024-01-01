@@ -16,5 +16,6 @@
   "SDK_INT": 24,
   "*.build.id": "Masik",
   "*.security_patch": "2018.10.01",
+  "*api_level": "23",
   "*.build.version.sdk": "24"
 }

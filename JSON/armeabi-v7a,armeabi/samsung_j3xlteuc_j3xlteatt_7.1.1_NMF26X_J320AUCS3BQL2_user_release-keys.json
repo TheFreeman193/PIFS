@@ -16,5 +16,6 @@
   "SDK_INT": 25,
   "*.build.id": "NMF26X",
   "*.security_patch": "2017-12-01",
+  "*api_level": "23",
   "*.build.version.sdk": "25"
 }

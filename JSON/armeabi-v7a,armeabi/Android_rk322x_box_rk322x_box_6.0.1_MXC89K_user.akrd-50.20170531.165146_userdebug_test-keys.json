@@ -16,5 +16,6 @@
   "SDK_INT": 23,
   "*.build.id": "MXC89K",
   "*.security_patch": "2016-03-01",
+  "*api_level": "23",
   "*.build.version.sdk": "23"
 }

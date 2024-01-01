@@ -16,5 +16,6 @@
   "SDK_INT": 28,
   "*.build.id": "PKQ1.180729.001",
   "*.security_patch": "2019-05-01",
+  "*api_level": "26",
   "*.build.version.sdk": "28"
 }

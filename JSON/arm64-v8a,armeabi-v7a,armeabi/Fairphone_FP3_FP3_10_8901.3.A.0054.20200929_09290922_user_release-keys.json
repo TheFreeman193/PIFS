@@ -16,5 +16,6 @@
   "SDK_INT": 29,
   "*.build.id": "8901.3.A.0054.20200929",
   "*.security_patch": "2020-10-05",
+  "*api_level": "29",
   "*.build.version.sdk": "29"
 }
