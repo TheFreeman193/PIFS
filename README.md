@@ -16,7 +16,7 @@ Both the original PIF module and its major fork support this using a JSON file c
 
 ## How do I choose a JSON file?
 
-### Option 1: Using `pickaprint.sh` {#option1}
+### Option 1: Using `pickaprint.sh`
 
 > **NOTE**: It's now recommended to download and run the script as below as this permits the interactive mode where you can mark profiles as working or not working.
 > If you pipe the script directly from `curl` or `wget`, the interactive mode is disabled and you'll need to manually mark the current profile using the commands shown when the script exits.
@@ -76,7 +76,9 @@ To exclude the existing profile in the `pif.json` or `custom.pif.json`, run the 
 The exclusions list is stored at `/data/adb/failedpifs.lst`.
 This list ensures you can update the collection without having to try all your previously failed profiles.
 
-When you select _yes_ for a profile that passes integrity, the script copies it to `/data/adb/confirmedpifs/`.
+When you select _yes_ for a profile that passes integrity, the script copies it to `/data/adb/pifs/confirmed/`.
+
+If a profile exists in the relevant module directory when you first run the script, and you don't pass the `-x` argument, it'll be backed up to `/data/adb/pifs/backup/`
 
 To use **only** profiles from this directory, run the script with the `-c` argument:
 
@@ -84,7 +86,7 @@ To use **only** profiles from this directory, run the script with the `-c` argum
 ./pickaprint.sh -c
 ```
 
-You can copy your own working profiles to the `confirmedpifs` directory and the script will use them when run with `-c`.
+You can copy your own working profiles to the `confirmed` directory and the script will use them when run with `-c`.
 
 ### Option 2: Manually Selecting a File
 
@@ -180,7 +182,7 @@ Depending on your device, you can expect ~7-24% of the profiles to work at the t
 Keep trying **random** profiles from the relevant folder until one passes the integrity level you want.
 
 Some newer `arm64-v8a`-only devices like the Pixel 7 don't appear to work with `arm64-v8a` profiles when using beta builds of Android 14.
-In these cases, try using `arm64-v8a,armeabi-v7a,armeabi` profiles (see the [wrong ABI list](#wrong-abi) section.)
+In these cases, try using `arm64-v8a,armeabi-v7a,armeabi` profiles (see the [wrong ABI list](#the-script-detects-the-wrong-abi-list-on-my-device) section.)
 
 Ideally, you'll be able to use your tested profile going forward.
 If too many people choose the same one (we're talking thousands, which is less likely if everyone picks at random) it may get blocked for software attestations.
@@ -197,9 +199,9 @@ If you're using Termux as your terminal emulator, you can run the following comm
 /data/data/com.termux/files/usr/bin/curl -o pickaprint.sh "https://raw.githubusercontent.com/TheFreeman193/PIFS/main/pickaprint.sh"
 ```
 
-Then proceed as discussed [above](#option1).
+Then proceed as discussed [above](#option-1-using-pickaprintsh).
 
-## The script detects the wrong ABI list on my device {#wrong-abi}
+## The script detects the wrong ABI list on my device
 
 If this occurs, you can override the directory the script chooses for fingerprints by setting `$FORCEABI` in the environment.
 In your favourite terminal emulator:
