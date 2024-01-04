@@ -37,13 +37,13 @@ sed
 unzip
 wget"
 
-if [ $(command -v /data/adb/magisk/busybox) ]; then
+if [ "$(command -v /data/adb/magisk/busybox)" ]; then
     BBOX="/data/adb/magisk/busybox"
-elif [ $(command -v /data/adb/ksu/bin/busybox) ]; then
+elif [ "$(command -v /data/adb/ksu/bin/busybox)" ]; then
     BBOX="/data/adb/ksu/bin/busybox"
-elif [ $(command -v /sbin/.magisk/busybox/busybox) ]; then
+elif [ "$(command -v /sbin/.magisk/busybox/busybox)" ]; then
     BBOX="/sbin/.magisk/busybox/busybox"
-elif [ $(command -v /debug_ramdisk/.magisk/busybox/busybox) ]; then
+elif [ "$(command -v /debug_ramdisk/.magisk/busybox/busybox)" ]; then
     BBOX="/debug_ramdisk/.magisk/busybox/busybox"
 else
     LastHope="$(find /system \( -type f -o -type l \) -name busybox 2>/dev/null | head -n 1)"
@@ -77,7 +77,7 @@ else
             exit 2
         fi
     done
-    if ! [ $(command -v wget) -o $(command -v curl) ]; then
+    if ! [ "$(command -v wget)" -o "$(command -v curl)" ]; then
         echo "ERROR: Couldn't find bin path for 'curl' or 'wget'"
         exit 3
     fi
@@ -106,9 +106,9 @@ if [ ! -d "./JSON" ]; then
         dUrl="https://codeload.github.com/TheFreeman193/PIFS/zip/refs/heads/main"
         dTarget="PIFS.zip"
         # Handle many environments; usually curl or webget exist somewhere
-        if [ $(command -v wget) ]; then
+        if [ "$(command -v wget)" ]; then
             wget -O "$dTarget" "$dUrl"
-        elif [ $(command -v curl) ]; then
+        elif [ "$(command -v curl)" ]; then
             curl -o "$dTarget" "$dUrl"
         else
             echo "WARNING: Couldn't find wget or curl to download the repository."
@@ -164,10 +164,10 @@ Author=$(cat /data/adb/modules/playintegrityfix/module.prop | grep "author=" | s
 if [ -z "$Author" ]; then
     echo "    Can't detect an installed PIF module! Will use /data/adb/pif.json"
     Target="/data/adb/pif.json"
-elif [ $Author == "chiteroman" ]; then
+elif [ "$Author" == "chiteroman" ]; then
     echo "    Detected chiteroman module. Will use /data/adb/pif.json"
     Target="/data/adb/pif.json"
-elif [ $Author == "osm0sis" ]; then
+elif [ "$Author" == "osm0sis" ]; then
     echo "    Detected osm0sis module. Will use /data/adb/modules/playintegrityfix/custom.pif.json"
     Target="/data/adb/modules/playintegrityfix/custom.pif.json"
 else
@@ -272,7 +272,7 @@ while true; do
     # Get random device profile from file list excluding previously failed
     echo ""
     echo "Picking a random profile/fingerprint..."
-    MAX=100
+    MAX=10
     Counter=0
     while [ $Counter -lt $MAX ]; do
         Counter=$((Counter + 1))
@@ -280,10 +280,11 @@ while true; do
         RandFP=$(echo "$FList" | sed -r "${RandFPNum}q;d") # Get path of random index
         if [ ! -f "$RandFP" ]; then
             FList=$(find "$SearchPath" -type f -name "*.json")
-            continue 2
+            FCount=$(echo "$FList" | wc -l)
+            continue 1
         fi
         FName=$(basename "$RandFP") # Resolve filename
-        if [ $(echo "$FName" | grep -xFf "$FailedList") ]; then # Check exclusions list
+        if [ "$(echo "$FName" | grep -xFf "$FailedList")" ]; then # Check exclusions list
             echo "    Found excluded profile '$FName'. Moving to '$FailedDir'"
             mv "$RandFP" "$FailedDir/$FName"
         else
@@ -307,7 +308,7 @@ while true; do
         BackupFName="$(cat "$Target" | grep '"FINGERPRINT":' | sed -r 's/.*"FINGERPRINT" *: *"(.+)".*/\1.json/ig;s/[^a-z0-9_.\-]/_/gi')"
         [ -z "$BackupFName" ] && BackupFName="$(date +%Y%m%dT%H%M%S).json"
         echo ""
-        if [ $(echo "$BackupFName" | grep -xFf "$FailedList") ]; then
+        if [ "$(echo "$BackupFName" | grep -xFf "$FailedList")" ]; then
             echo "Profile '$BackupFName' is in failed list - won't back up"
             rm "$Target"
         else
