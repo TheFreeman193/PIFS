@@ -1,5 +1,7 @@
 # Play Integrity Fix Props Collection
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V4SGXD9)
+
 ## What is this?
 
 This repository contains JSON files compatible with the [Play Integrity Fix](https://github.com/chiteroman/PlayIntegrityFix) module by [chiteroman](https://github.com/chiteroman/) or [PlayIntegrityFork](https://github.com/osm0sis/PlayIntegrityFork) made by [osm0sis](https://github.com/osm0sis).
@@ -62,31 +64,9 @@ Therefore, to update the collection, run the `wget` command above to get the lat
 
 Alternatively, you could download/clone the repository and run the `pickaprint.sh` script directly from the download location.
 
-### Excluding Profiles and Using Tested Profiles
+### Script Arguments
 
-When you select _no_ for a profile that doesn't pass integrity, the script adds it automatically to a list of exclusions, and moves it to `/data/adb/pifs/failed/`.
-The script will not attempt to use this profile again.
-
-To exclude the existing profile in the `pif.json` or `custom.pif.json`, run the script with the `-x` argument:
-
-```sh
-./pickaprint.sh -x
-```
-
-The exclusions list is stored at `/data/adb/failedpifs.lst`.
-This list ensures you can update the collection without having to try all your previously failed profiles.
-
-When you select _yes_ for a profile that passes integrity, the script copies it to `/data/adb/pifs/confirmed/`.
-
-If a profile exists in the relevant module directory when you first run the script, and you don't pass the `-x` argument, it'll be backed up to `/data/adb/pifs/backup/`
-
-To use **only** profiles from this directory, run the script with the `-c` argument:
-
-```sh
-./pickaprint.sh -c
-```
-
-You can copy your own working profiles to the `confirmed` directory and the script will use them when run with `-c`.
+Please [see below](#full-script-usage) for all the arguments you can pass to `pickaprint.sh`.
 
 ### Option 2: Manually Selecting a File
 
@@ -267,6 +247,68 @@ For example:
 ```sh
 echo 'export PIFSNOUPDATE=1' > /data/data/com.termux/files/home/.bashrc
 ```
+
+## Full Script Usage
+
+```text
+Usage: ./pickaprint.sh [-x] [-i] [-c] [-s] [-h|?]
+
+
+  -x  Add existing pif.json/custom.pif.json profiles to exclusions and pick a print
+  -i  Add existing pif.json/custom.pif.json profiles to confirmed and exit
+  -c  Use only confirmed profiles from '/data/adb/pifs/confirmed'
+  -s  Add additional 'SDK_INT'/'*.build.version.sdk' props to profile
+  -h  Display this help message
+```
+
+### Excluding Profiles
+
+When you select _no_ for a profile that doesn't pass integrity, the script adds it automatically to a list of exclusions, and moves it to `/data/adb/pifs/failed/`.
+The script will not attempt to use this profile again.
+
+To exclude the existing profile in the `pif.json` or `custom.pif.json`, run the script with the `-x` argument:
+
+```sh
+./pickaprint.sh -x
+```
+
+The exclusions list is stored at `/data/adb/failedpifs.lst`.
+This list ensures you can update the collection without having to try all your previously failed profiles.
+
+If a profile exists in the relevant module directory when you first run the script, and you don't pass the `-x` argument, it'll be backed up to `/data/adb/pifs/backup/`
+
+### Using Only Tested Profiles
+
+When you select _yes_ for a profile that passes integrity, the script copies it to `/data/adb/pifs/confirmed/`.
+
+To use **only** profiles from this directory, run the script with the `-c` argument:
+
+```sh
+./pickaprint.sh -c
+```
+
+You can copy your own working profiles to the `confirmed` directory and the script will use them when run with `-c`.
+
+### Marking the Current Profile as Confirmed
+
+You can mark the current profile (`pif.json` or `custom.pif.json`) as confirmed working using the `-i` argument:
+
+```sh
+./pickaprint.sh -i
+```
+
+The script will exit immediately after adding this profile to `/data/adb/pifs/confirmed/`.
+
+### Including `SDK_INT` and `*.build.version.sdk` Properties
+
+Some devices need to spoof these additional values to pass `DEVICE` integrity.
+If your working profile started failing with the v3 script, you can try using the `-s` argument:
+
+```sh
+./pickaprint.sh -s
+```
+
+The script will dynamically add the additional properties when copying profiles.
 
 ## How was this created?
 
