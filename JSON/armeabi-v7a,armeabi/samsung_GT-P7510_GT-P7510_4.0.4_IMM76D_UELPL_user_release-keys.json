@@ -5,17 +5,14 @@
   "PRODUCT": "GT-P7510",
   "DEVICE": "p4wifi",
   "RELEASE": "5.1",
-  "RELEASE_OR_CODENAME": "5.1",
   "ID": "LMY47D",
   "INCREMENTAL": "eng.Daniel.20150322.164923",
   "TYPE": "userdebug",
   "TAGS": "test-keys",
   "FINGERPRINT": "samsung/GT-P7510/GT-P7510:4.0.4/IMM76D/UELPL:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 22,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "LMY47D",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "22"
+  "*api_level": "25"
 }

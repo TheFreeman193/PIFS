@@ -5,17 +5,14 @@
   "PRODUCT": "V768",
   "DEVICE": "V768",
   "RELEASE": "2.3.7",
-  "RELEASE_OR_CODENAME": "2.3.7",
   "ID": "GINGERBREAD",
   "INCREMENTAL": "20121028.184152",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "ZTE/V768/V768:2.3.7/GINGERBREAD/20121028.184152:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 10,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "GINGERBREAD",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "10"
+  "*api_level": "25"
 }

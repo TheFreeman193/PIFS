@@ -5,17 +5,14 @@
   "PRODUCT": "missi",
   "DEVICE": "missi",
   "RELEASE": "12",
-  "RELEASE_OR_CODENAME": "12",
   "ID": "SKQ1.211006.001",
   "INCREMENTAL": "V13.0.8.0.SKIMIXM",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "qti/missi/missi:12/SKQ1.211006.001/V13.0.8.0.SKIMIXM:user/release-keys",
   "SECURITY_PATCH": "2022-09-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 31,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "SKQ1.211006.001",
   "*.security_patch": "2022-09-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "31"
+  "*api_level": "25"
 }

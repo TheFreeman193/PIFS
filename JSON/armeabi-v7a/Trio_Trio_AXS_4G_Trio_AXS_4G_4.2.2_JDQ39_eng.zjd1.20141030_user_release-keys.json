@@ -5,17 +5,14 @@
   "PRODUCT": "Trio_AXS_4G",
   "DEVICE": "Trio_AXS_4G",
   "RELEASE": "4.2.2",
-  "RELEASE_OR_CODENAME": "4.2.2",
   "ID": "JDQ39",
   "INCREMENTAL": "eng.zjd1.20141030",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Trio/Trio_AXS_4G/Trio_AXS_4G:4.2.2/JDQ39/eng.zjd1.20141030:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 17,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "JDQ39",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "17"
+  "*api_level": "25"
 }

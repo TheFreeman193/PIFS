@@ -5,17 +5,14 @@
   "PRODUCT": "on5xfltezm",
   "DEVICE": "on5xfltechn",
   "RELEASE": "6.0.1",
-  "RELEASE_OR_CODENAME": "6.0.1",
   "ID": "MMB29M",
   "INCREMENTAL": "G5528ZME1AQE1",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "samsung/on5xfltezm/on5xfltechn:6.0.1/MMB29M/G5528ZME1AQE1:eng/test-keys",
   "SECURITY_PATCH": "2017-05-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "MMB29M",
   "*.security_patch": "2017-05-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "23"
+  "*api_level": "25"
 }

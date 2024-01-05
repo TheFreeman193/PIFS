@@ -5,17 +5,14 @@
   "PRODUCT": "jfltespr",
   "DEVICE": "jfltespr",
   "RELEASE": "4.3",
-  "RELEASE_OR_CODENAME": "4.3",
   "ID": "JSS15J",
   "INCREMENTAL": "L720VPUEMJA",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "samsung/jfltespr/jfltespr:4.3/JSS15J/L720VPUEMJA:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 18,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "JSS15J",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "18"
+  "*api_level": "25"
 }

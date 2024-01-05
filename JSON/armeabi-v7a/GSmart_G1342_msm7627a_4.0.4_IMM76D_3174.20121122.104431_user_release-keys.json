@@ -5,17 +5,14 @@
   "PRODUCT": "G1342",
   "DEVICE": "msm7627a",
   "RELEASE": "4.0.4",
-  "RELEASE_OR_CODENAME": "4.0.4",
   "ID": "IMM76D",
   "INCREMENTAL": "3174",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "GSmart/G1342/msm7627a:4.0.4/IMM76D/3174.20121122.104431:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 15,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "IMM76D",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "15"
+  "*api_level": "25"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "android_x86",
   "DEVICE": "x86",
   "RELEASE": "4.4.2",
-  "RELEASE_OR_CODENAME": "4.4.2",
   "ID": "KVT49L",
   "INCREMENTAL": "eng.cwhuang.20140520.175817",
   "TYPE": "userdebug",
   "TAGS": "test-keys",
   "FINGERPRINT": "Android-x86/android_x86/x86:4.4.2/KVT49L/eng.cwhuang.20140520.175817:userdebug/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "KVT49L",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "19"
+  "*api_level": "25"
 }

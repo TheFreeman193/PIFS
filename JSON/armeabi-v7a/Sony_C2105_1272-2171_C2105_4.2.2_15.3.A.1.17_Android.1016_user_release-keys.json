@@ -5,17 +5,14 @@
   "PRODUCT": "C2105_1272-2171",
   "DEVICE": "C2105",
   "RELEASE": "4.2.2",
-  "RELEASE_OR_CODENAME": "4.2.2",
   "ID": "15.3.A.1.17",
   "INCREMENTAL": "Android.1016",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Sony/C2105_1272-2171/C2105:4.2.2/15.3.A.1.17/Android.1016:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 17,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "15.3.A.1.17",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "17"
+  "*api_level": "25"
 }

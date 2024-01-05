@@ -5,17 +5,14 @@
   "PRODUCT": "U795",
   "DEVICE": "U795",
   "RELEASE": "4.1.1",
-  "RELEASE_OR_CODENAME": "4.1.1",
   "ID": "JB_U795V0.0.1B01",
   "INCREMENTAL": "eng.root.20121017.171405",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Android/U795/U795:4.1.1/JB_U795V0.0.1B01/eng.root.20121017.171405:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 16,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "JB_U795V0.0.1B01",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "16"
+  "*api_level": "25"
 }

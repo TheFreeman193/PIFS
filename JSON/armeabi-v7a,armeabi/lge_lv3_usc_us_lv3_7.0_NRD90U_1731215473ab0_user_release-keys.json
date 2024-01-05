@@ -5,17 +5,14 @@
   "PRODUCT": "lv3_usc_us",
   "DEVICE": "lv3",
   "RELEASE": "7.0",
-  "RELEASE_OR_CODENAME": "7.0",
   "ID": "NRD90U",
   "INCREMENTAL": "1731215473ab0",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "lge/lv3_usc_us/lv3:7.0/NRD90U/1731215473ab0:user/release-keys",
   "SECURITY_PATCH": "2017-11-06",
-  "DEVICE_INITIAL_SDK_INT": 24,
-  "SDK_INT": 24,
+  "DEVICE_INITIAL_SDK_INT": "24",
   "*.build.id": "NRD90U",
   "*.security_patch": "2017-11-06",
-  "*api_level": "24",
-  "*.build.version.sdk": "24"
+  "*api_level": "24"
 }

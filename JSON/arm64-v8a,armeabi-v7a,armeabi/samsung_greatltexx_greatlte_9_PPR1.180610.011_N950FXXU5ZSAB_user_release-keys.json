@@ -5,17 +5,14 @@
   "PRODUCT": "greatltexx",
   "DEVICE": "greatlte",
   "RELEASE": "9",
-  "RELEASE_OR_CODENAME": "9",
   "ID": "PPR1.180610.011",
   "INCREMENTAL": "N950FXXU5ZSAB",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "samsung/greatltexx/greatlte:9/PPR1.180610.011/N950FXXU5ZSAB:user/release-keys",
   "SECURITY_PATCH": "2019-01-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 28,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "PPR1.180610.011",
   "*.security_patch": "2019-01-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "28"
+  "*api_level": "25"
 }

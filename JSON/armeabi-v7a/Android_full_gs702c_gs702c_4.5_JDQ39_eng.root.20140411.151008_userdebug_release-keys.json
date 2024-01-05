@@ -5,17 +5,14 @@
   "PRODUCT": "full_gs702c",
   "DEVICE": "gs702c",
   "RELEASE": "4.5",
-  "RELEASE_OR_CODENAME": "4.5",
   "ID": "JDQ39",
   "INCREMENTAL": "eng.root.20140411.151008",
   "TYPE": "userdebug",
   "TAGS": "release-keys",
   "FINGERPRINT": "Android/full_gs702c/gs702c:4.5/JDQ39/eng.root.20140411.151008:userdebug/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 17,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "JDQ39",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "17"
+  "*api_level": "25"
 }

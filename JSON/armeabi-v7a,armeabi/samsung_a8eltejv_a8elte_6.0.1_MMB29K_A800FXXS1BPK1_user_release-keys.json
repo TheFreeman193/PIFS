@@ -5,17 +5,14 @@
   "PRODUCT": "a8eltejv",
   "DEVICE": "a8elte",
   "RELEASE": "6.0.1",
-  "RELEASE_OR_CODENAME": "6.0.1",
   "ID": "MMB29K",
   "INCREMENTAL": "A800FXXS1BPK1",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "samsung/a8eltejv/a8elte:6.0.1/MMB29K/A800FXXS1BPK1:user/release-keys",
   "SECURITY_PATCH": "2016-11-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "MMB29K",
   "*.security_patch": "2016-11-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "23"
+  "*api_level": "25"
 }

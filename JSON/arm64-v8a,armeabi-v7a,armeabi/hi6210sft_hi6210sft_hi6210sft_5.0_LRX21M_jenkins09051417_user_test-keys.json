@@ -5,17 +5,14 @@
   "PRODUCT": "hi6210sft",
   "DEVICE": "hi6210sft",
   "RELEASE": "5.0.1",
-  "RELEASE_OR_CODENAME": "5.0.1",
   "ID": "LRX21M",
   "INCREMENTAL": "eng.jenkins.20160905.141529",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "hi6210sft/hi6210sft/hi6210sft:5.0/LRX21M/jenkins09051417:user/test-keys",
   "SECURITY_PATCH": "2016-08-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 21,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "LRX21M",
   "*.security_patch": "2016-08-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "21"
+  "*api_level": "25"
 }

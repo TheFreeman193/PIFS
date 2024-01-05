@@ -5,17 +5,14 @@
   "PRODUCT": "aosp_classpro",
   "DEVICE": "classpro",
   "RELEASE": "6.0",
-  "RELEASE_OR_CODENAME": "6.0",
   "ID": "MRA58K",
   "INCREMENTAL": "TVOS-04.14.030.02.05",
   "TYPE": "userdebug",
   "TAGS": "dev-keys",
   "FINGERPRINT": "KONKA/aosp_classpro/classpro:6.0/MRA58K/TVOS-04.14.030.02.05:userdebug/dev-keys",
   "SECURITY_PATCH": "2016-09-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "MRA58K",
   "*.security_patch": "2016-09-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "23"
+  "*api_level": "25"
 }

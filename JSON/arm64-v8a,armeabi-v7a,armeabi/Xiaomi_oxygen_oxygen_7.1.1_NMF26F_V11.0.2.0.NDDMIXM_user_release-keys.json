@@ -5,17 +5,14 @@
   "PRODUCT": "oxygen",
   "DEVICE": "oxygen",
   "RELEASE": "7.1.1",
-  "RELEASE_OR_CODENAME": "7.1.1",
   "ID": "NMF26F",
   "INCREMENTAL": "V11.0.2.0.NDDMIXM",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Xiaomi/oxygen/oxygen:7.1.1/NMF26F/V11.0.2.0.NDDMIXM:user/release-keys",
   "SECURITY_PATCH": "2019-03-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 25,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "NMF26F",
   "*.security_patch": "2019-03-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "25"
+  "*api_level": "25"
 }

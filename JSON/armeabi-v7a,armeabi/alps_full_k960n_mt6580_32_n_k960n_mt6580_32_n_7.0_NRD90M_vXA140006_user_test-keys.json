@@ -5,17 +5,14 @@
   "PRODUCT": "full_k960n_mt6580_32_n",
   "DEVICE": "k960n_mt6580_32_n",
   "RELEASE": "7.0",
-  "RELEASE_OR_CODENAME": "7.0",
   "ID": "NRD90M",
   "INCREMENTAL": "vXA140006",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "alps/full_k960n_mt6580_32_n/k960n_mt6580_32_n:7.0/NRD90M/vXA140006:user/test-keys",
   "SECURITY_PATCH": "2018-05-05",
-  "DEVICE_INITIAL_SDK_INT": 24,
-  "SDK_INT": 24,
+  "DEVICE_INITIAL_SDK_INT": "24",
   "*.build.id": "NRD90M",
   "*.security_patch": "2018-05-05",
-  "*api_level": "24",
-  "*.build.version.sdk": "24"
+  "*api_level": "24"
 }

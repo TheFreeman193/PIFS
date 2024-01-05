@@ -5,17 +5,14 @@
   "PRODUCT": "PD1628F_EX",
   "DEVICE": "PD1628F_EX",
   "RELEASE": "6.0.1",
-  "RELEASE_OR_CODENAME": "6.0.1",
   "ID": "MMB29M",
   "INCREMENTAL": "eng.compiler.20200118.112618",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "vivo/PD1628F_EX/PD1628F_EX:6.0.1/MMB29M/compiler01181129:user/release-keys",
   "SECURITY_PATCH": "2018-08-01",
-  "DEVICE_INITIAL_SDK_INT": 23,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "23",
   "*.build.id": "MMB29M",
   "*.security_patch": "2018-08-01",
-  "*api_level": "23",
-  "*.build.version.sdk": "23"
+  "*api_level": "23"
 }

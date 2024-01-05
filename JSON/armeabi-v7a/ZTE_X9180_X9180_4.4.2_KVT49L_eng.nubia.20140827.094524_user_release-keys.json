@@ -5,17 +5,14 @@
   "PRODUCT": "X9180",
   "DEVICE": "X9180",
   "RELEASE": "4.4.2",
-  "RELEASE_OR_CODENAME": "4.4.2",
   "ID": "KVT49L",
   "INCREMENTAL": "eng.nubia.20140929.170431",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "ZTE/X9180/X9180:4.4.2/KVT49L/eng.nubia.20140827.094524:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "KVT49L",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "19"
+  "*api_level": "25"
 }

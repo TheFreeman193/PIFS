@@ -5,17 +5,14 @@
   "PRODUCT": "SGP321_1274-0825",
   "DEVICE": "SGP321",
   "RELEASE": "4.3",
-  "RELEASE_OR_CODENAME": "4.3",
   "ID": "10.4.B.0.569",
   "INCREMENTAL": "xr3_rQ",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Sony/SGP321_1274-0825/SGP321:4.3/10.4.B.0.569/xr3_rQ:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 18,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "10.4.B.0.569",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "18"
+  "*api_level": "25"
 }

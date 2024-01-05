@@ -5,17 +5,14 @@
   "PRODUCT": "WW_Z00L",
   "DEVICE": "ASUS_Z00L_63",
   "RELEASE": "6.0.1",
-  "RELEASE_OR_CODENAME": "6.0.1",
   "ID": "MMB29P",
   "INCREMENTAL": "WW_Z00L-WW_user_21.40.1220.1615_20160517-user-20160517",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "asus/WW_Z00L/ASUS_Z00L_63:6.0.1/MMB29P/WW_user_21.40.1220.1615_20160517:user/release-keys",
   "SECURITY_PATCH": "2016-05-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "MMB29P",
   "*.security_patch": "2016-05-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "23"
+  "*api_level": "25"
 }

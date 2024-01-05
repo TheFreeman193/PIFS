@@ -5,17 +5,14 @@
   "PRODUCT": "cm_codinalte",
   "DEVICE": "codinamtr",
   "RELEASE": "4.4.2",
-  "RELEASE_OR_CODENAME": "4.4.2",
   "ID": "TRIANA0020140411",
   "INCREMENTAL": "9e480578ab",
   "TYPE": "userdebug",
   "TAGS": "test-keys",
   "FINGERPRINT": "cyanogenmod/cm_codinalte/codinalte:4.4.2/TRIANA0020140411",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "TRIANA0020140411",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "19"
+  "*api_level": "25"
 }

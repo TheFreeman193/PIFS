@@ -5,17 +5,14 @@
   "PRODUCT": "KSR-A0",
   "DEVICE": "missi",
   "RELEASE": "11",
-  "RELEASE_OR_CODENAME": "11",
   "ID": "KASE2201030CN00MR2",
   "INCREMENTAL": "V12.0.1.0.RBHCNBS",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "blackshark/KSR-A0/kaiser:11/KASE2201030CN00MR2/V11.0.4.0.JOYUI:user/release-keys",
   "SECURITY_PATCH": "2021-11-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 30,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "KASE2201030CN00MR2",
   "*.security_patch": "2021-11-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "30"
+  "*api_level": "25"
 }

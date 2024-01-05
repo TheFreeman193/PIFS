@@ -5,17 +5,14 @@
   "PRODUCT": "K2001M_SL_S211151_105HW",
   "DEVICE": "t3-k2001-nwd",
   "RELEASE": "6.0.1",
-  "RELEASE_OR_CODENAME": "6.0.1",
   "ID": "MMB29M",
   "INCREMENTAL": "20180507",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "Allwinner/t3_k2001_nwd/t3-k2001-nwd:6.0.1/MMB29M/20180507:user/test-keys",
   "SECURITY_PATCH": "2015-12-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "MMB29M",
   "*.security_patch": "2015-12-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "23"
+  "*api_level": "25"
 }

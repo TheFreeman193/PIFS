@@ -5,17 +5,14 @@
   "PRODUCT": "C103_C1-INDIA",
   "DEVICE": "C103",
   "RELEASE": "6.0.1",
-  "RELEASE_OR_CODENAME": "6.0.1",
   "ID": "ZIXOSOP5801803011S",
   "INCREMENTAL": "0001832",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Coolpad/C103_C1-INDIA/C103:6.0.1/ZIXOSOP5801803011S/0001832:user/release-keys",
   "SECURITY_PATCH": "2017-03-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "ZIXOSOP5801803011S",
   "*.security_patch": "2017-03-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "23"
+  "*api_level": "25"
 }

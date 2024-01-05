@@ -5,17 +5,14 @@
   "PRODUCT": "Q409A",
   "DEVICE": "Q409A",
   "RELEASE": "8.1.0",
-  "RELEASE_OR_CODENAME": "8.1.0",
   "ID": "OPM2.171019.012",
   "INCREMENTAL": "23",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Micromax/Q409A/Q409A:8.1.0/OPM2.171019.012/23:user/release-keys",
   "SECURITY_PATCH": "2018-09-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 27,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "OPM2.171019.012",
   "*.security_patch": "2018-09-05",
-  "*api_level": "25",
-  "*.build.version.sdk": "27"
+  "*api_level": "25"
 }

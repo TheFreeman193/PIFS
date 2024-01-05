@@ -5,17 +5,14 @@
   "PRODUCT": "g2_vdf_com",
   "DEVICE": "g2",
   "RELEASE": "4.2.2",
-  "RELEASE_OR_CODENAME": "4.2.2",
   "ID": "JDQ39B",
   "INCREMENTAL": "D80210c.1385029733",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "lge/g2_vdf_com/g2:4.2.2/JDQ39B/D80210c.1385029733:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 17,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "JDQ39B",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "17"
+  "*api_level": "25"
 }

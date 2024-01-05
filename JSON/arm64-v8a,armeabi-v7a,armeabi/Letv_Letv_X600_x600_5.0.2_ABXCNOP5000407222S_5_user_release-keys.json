@@ -5,17 +5,14 @@
   "PRODUCT": "Letv X600",
   "DEVICE": "x600",
   "RELEASE": "5.0.2",
-  "RELEASE_OR_CODENAME": "5.0.2",
   "ID": "ABXCNOP5000407222S",
   "INCREMENTAL": "5",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Letv/Letv X600/x600:5.0.2/ABXCNOP5000407222S/5:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 21,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "ABXCNOP5000407222S",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "21"
+  "*api_level": "25"
 }

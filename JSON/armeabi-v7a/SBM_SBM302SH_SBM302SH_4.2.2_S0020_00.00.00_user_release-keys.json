@@ -5,17 +5,14 @@
   "PRODUCT": "SBM302SH",
   "DEVICE": "SBM302SH",
   "RELEASE": "4.2.2",
-  "RELEASE_OR_CODENAME": "4.2.2",
   "ID": "S0020",
   "INCREMENTAL": "00.00.00",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "SBM/SBM302SH/SBM302SH:4.2.2/S0020/00.00.00:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 17,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "S0020",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "17"
+  "*api_level": "25"
 }

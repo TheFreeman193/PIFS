@@ -5,17 +5,14 @@
   "PRODUCT": "nobleltezh",
   "DEVICE": "nobleltehk",
   "RELEASE": "6.0.1",
-  "RELEASE_OR_CODENAME": "6.0.1",
   "ID": "MMB29K",
   "INCREMENTAL": "G935FXXU1APAVA",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "alps/full_hct6580_weg_a_l/hct6580_weg_a_l:5.1/LMY47I/1466147096:user/test-keys",
   "SECURITY_PATCH": "2016-03-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 22,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "MMB29K",
   "*.security_patch": "2016-03-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "22"
+  "*api_level": "25"
 }

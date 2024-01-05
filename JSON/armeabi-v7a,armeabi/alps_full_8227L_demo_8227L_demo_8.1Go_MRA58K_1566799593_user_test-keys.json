@@ -5,17 +5,14 @@
   "PRODUCT": "full_8227L_demo",
   "DEVICE": "8227L_demo",
   "RELEASE": "8.1Go",
-  "RELEASE_OR_CODENAME": "8.1Go",
   "ID": "MRA58K",
   "INCREMENTAL": "1566799593",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "alps/full_8227L_demo/8227L_demo:8.1Go/MRA58K/1566799593:user/test-keys",
   "SECURITY_PATCH": "2017-11-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "MRA58K",
   "*.security_patch": "2017-11-05",
-  "*api_level": "25",
-  "*.build.version.sdk": "23"
+  "*api_level": "25"
 }

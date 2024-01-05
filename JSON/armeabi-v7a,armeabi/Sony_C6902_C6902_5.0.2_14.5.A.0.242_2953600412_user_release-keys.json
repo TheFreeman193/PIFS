@@ -5,17 +5,14 @@
   "PRODUCT": "C6902",
   "DEVICE": "C6902",
   "RELEASE": "5.0.2",
-  "RELEASE_OR_CODENAME": "5.0.2",
   "ID": "14.5.A.0.242",
   "INCREMENTAL": "2953600412",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Sony/C6902/C6902:5.0.2/14.5.A.0.242/2953600412:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 21,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "14.5.A.0.242",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "21"
+  "*api_level": "25"
 }

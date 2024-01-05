@@ -5,17 +5,14 @@
   "PRODUCT": "ossi",
   "DEVICE": "ossi",
   "RELEASE": "14",
-  "RELEASE_OR_CODENAME": "14",
   "ID": "UP1A.230407.001",
   "INCREMENTAL": "1686004135743",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "oplus/ossi/ossi:UpsideDownCake/UP1A.230407.001/1686004135743:user/release-keys",
   "SECURITY_PATCH": "2023-05-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 33,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "UP1A.230407.001",
   "*.security_patch": "2023-05-05",
-  "*api_level": "25",
-  "*.build.version.sdk": "33"
+  "*api_level": "25"
 }

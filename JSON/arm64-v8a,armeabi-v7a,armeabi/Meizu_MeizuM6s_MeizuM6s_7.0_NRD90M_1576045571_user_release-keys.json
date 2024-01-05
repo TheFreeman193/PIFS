@@ -5,17 +5,14 @@
   "PRODUCT": "MeizuM6s",
   "DEVICE": "MeizuM6s",
   "RELEASE": "7.0",
-  "RELEASE_OR_CODENAME": "7.0",
   "ID": "NRD90M",
   "INCREMENTAL": "1576045571",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Meizu/MeizuM6s/MeizuM6s:7.0/NRD90M/1576045571:user/release-keys",
   "SECURITY_PATCH": "2019-11-01",
-  "DEVICE_INITIAL_SDK_INT": 24,
-  "SDK_INT": 24,
+  "DEVICE_INITIAL_SDK_INT": "24",
   "*.build.id": "NRD90M",
   "*.security_patch": "2019-11-01",
-  "*api_level": "24",
-  "*.build.version.sdk": "24"
+  "*api_level": "24"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "bullhead",
   "DEVICE": "bullhead",
   "RELEASE": "8.0.0",
-  "RELEASE_OR_CODENAME": "8.0.0",
   "ID": "OPR4.170623.020",
   "INCREMENTAL": "4443074",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "google/bullhead/bullhead:8.0.0/OPR4.170623.020/4443074:user/release-keys",
   "SECURITY_PATCH": "2017-08-05",
-  "DEVICE_INITIAL_SDK_INT": 23,
-  "SDK_INT": 26,
+  "DEVICE_INITIAL_SDK_INT": "23",
   "*.build.id": "OPR4.170623.020",
   "*.security_patch": "2017-08-05",
-  "*api_level": "23",
-  "*.build.version.sdk": "26"
+  "*api_level": "23"
 }

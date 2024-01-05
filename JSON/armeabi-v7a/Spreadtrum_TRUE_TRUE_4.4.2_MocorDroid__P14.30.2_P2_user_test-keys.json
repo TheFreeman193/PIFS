@@ -5,17 +5,14 @@
   "PRODUCT": "TRUE",
   "DEVICE": "TRUE",
   "RELEASE": "4.4.2",
-  "RELEASE_OR_CODENAME": "4.4.2",
   "ID": "MocorDroid",
   "INCREMENTAL": "_P14.30.2_P2",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "Spreadtrum/TRUE/TRUE:4.4.2/MocorDroid/_P14.30.2_P2:user/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "MocorDroid",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "19"
+  "*api_level": "25"
 }

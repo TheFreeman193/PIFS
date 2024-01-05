@@ -5,17 +5,14 @@
   "PRODUCT": "CARLM8001KP",
   "DEVICE": "CARLM8001KP",
   "RELEASE": "4.1.1",
-  "RELEASE_OR_CODENAME": "4.1.1",
   "ID": "JRO03H",
   "INCREMENTAL": "20130718.162506",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "CARLM8001KP/CARLM8001KP/CARLM8001KP:4.1.1/JRO03H/20130718.162506:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 16,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "JRO03H",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "16"
+  "*api_level": "25"
 }

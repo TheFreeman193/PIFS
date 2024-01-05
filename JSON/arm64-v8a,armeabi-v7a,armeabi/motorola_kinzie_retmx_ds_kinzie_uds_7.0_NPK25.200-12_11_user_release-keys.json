@@ -5,17 +5,14 @@
   "PRODUCT": "kinzie_retmx_ds",
   "DEVICE": "kinzie_uds",
   "RELEASE": "7.0",
-  "RELEASE_OR_CODENAME": "7.0",
   "ID": "NPK25.200-12",
   "INCREMENTAL": "11",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "motorola/kinzie_retmx_ds/kinzie_uds:7.0/NPK25.200-12/11:user/release-keys",
   "SECURITY_PATCH": "2017-04-01",
-  "DEVICE_INITIAL_SDK_INT": 21,
-  "SDK_INT": 24,
+  "DEVICE_INITIAL_SDK_INT": "21",
   "*.build.id": "NPK25.200-12",
   "*.security_patch": "2017-04-01",
-  "*api_level": "21",
-  "*.build.version.sdk": "24"
+  "*api_level": "21"
 }

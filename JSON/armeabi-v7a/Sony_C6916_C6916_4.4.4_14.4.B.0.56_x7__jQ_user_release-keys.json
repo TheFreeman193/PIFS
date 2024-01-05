@@ -5,17 +5,14 @@
   "PRODUCT": "C6916",
   "DEVICE": "C6916",
   "RELEASE": "4.4.4",
-  "RELEASE_OR_CODENAME": "4.4.4",
   "ID": "14.4.B.0.56",
   "INCREMENTAL": "x7__jQ",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Sony/C6916/C6916:4.4.4/14.4.B.0.56/x7__jQ:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "14.4.B.0.56",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "19"
+  "*api_level": "25"
 }

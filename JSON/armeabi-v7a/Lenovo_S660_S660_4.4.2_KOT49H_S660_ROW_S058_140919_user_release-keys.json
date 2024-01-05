@@ -5,17 +5,14 @@
   "PRODUCT": "S660",
   "DEVICE": "S660",
   "RELEASE": "4.4.2",
-  "RELEASE_OR_CODENAME": "4.4.2",
   "ID": "KOT49H",
   "INCREMENTAL": "S660_ROW_S058_140919",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Lenovo/S660/S660:4.4.2/KOT49H/S660_ROW_S058_140919:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "KOT49H",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "19"
+  "*api_level": "25"
 }

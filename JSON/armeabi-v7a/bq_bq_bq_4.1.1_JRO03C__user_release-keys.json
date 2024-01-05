@@ -5,17 +5,14 @@
   "PRODUCT": "bq_Aquaris4",
   "DEVICE": "bq_Aquaris4",
   "RELEASE": "4.1.1",
-  "RELEASE_OR_CODENAME": "4.1.1",
   "ID": "JRO03C",
   "INCREMENTAL": "54",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "bq/bq/bq:4.1.1/JRO03C/:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 16,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "JRO03C",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "16"
+  "*api_level": "25"
 }

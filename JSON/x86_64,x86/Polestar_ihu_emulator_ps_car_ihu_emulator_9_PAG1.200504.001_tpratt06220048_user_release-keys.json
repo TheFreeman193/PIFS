@@ -5,17 +5,14 @@
   "PRODUCT": "ihu_emulator_ps_car",
   "DEVICE": "ihu_emulator",
   "RELEASE": "9",
-  "RELEASE_OR_CODENAME": "9",
   "ID": "PAG1.200504.001",
   "INCREMENTAL": "eng.tpratt.20200621.151218",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Polestar/ihu_emulator_ps_car/ihu_emulator:9/PAG1.200504.001/tpratt06220048:user/release-keys",
   "SECURITY_PATCH": "2020-06-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 28,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "PAG1.200504.001",
   "*.security_patch": "2020-06-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "28"
+  "*api_level": "25"
 }

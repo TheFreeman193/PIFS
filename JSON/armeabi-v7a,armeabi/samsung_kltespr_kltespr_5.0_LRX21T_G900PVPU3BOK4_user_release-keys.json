@@ -5,17 +5,14 @@
   "PRODUCT": "kltespr",
   "DEVICE": "kltespr",
   "RELEASE": "5.0",
-  "RELEASE_OR_CODENAME": "5.0",
   "ID": "LRX21T",
   "INCREMENTAL": "G900PVPU3BOK4",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "samsung/kltespr/kltespr:5.0/LRX21T/G900PVPU3BOK4:user/release-keys",
   "SECURITY_PATCH": "2015-11-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 21,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "LRX21T",
   "*.security_patch": "2015-11-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "21"
+  "*api_level": "25"
 }

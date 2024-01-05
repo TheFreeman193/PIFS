@@ -5,17 +5,14 @@
   "PRODUCT": "msm8x25q_i3",
   "DEVICE": "msm8x25q_i3",
   "RELEASE": "4.1.2",
-  "RELEASE_OR_CODENAME": "4.1.2",
   "ID": "JZO54K",
   "INCREMENTAL": "eng.android.20130802.021717",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "DNS/msm8x25q_i3/msm8x25q_i3:4.1.2/JZO54K/eng.android.20130802.021717:user/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 16,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "JZO54K",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "16"
+  "*api_level": "25"
 }

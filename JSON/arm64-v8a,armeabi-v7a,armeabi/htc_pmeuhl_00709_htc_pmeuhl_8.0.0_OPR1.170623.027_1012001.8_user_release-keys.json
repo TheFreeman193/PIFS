@@ -5,17 +5,14 @@
   "PRODUCT": "pmeuhl_00709",
   "DEVICE": "htc_pmeuhl",
   "RELEASE": "8.0.0",
-  "RELEASE_OR_CODENAME": "8.0.0",
   "ID": "OPR1.170623.027",
   "INCREMENTAL": "1012001.8",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "htc/pmeuhl_00709/htc_pmeuhl:8.0.0/OPR1.170623.027/1012001.8:user/release-keys",
   "SECURITY_PATCH": "2018-02-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 26,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "OPR1.170623.027",
   "*.security_patch": "2018-02-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "26"
+  "*api_level": "25"
 }

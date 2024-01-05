@@ -5,17 +5,14 @@
   "PRODUCT": "full_achilles6_row_wifi",
   "DEVICE": "achilles6_row_wifi",
   "RELEASE": "10",
-  "RELEASE_OR_CODENAME": "10",
   "ID": "QP1A.190711.020",
   "INCREMENTAL": "LAVIETabE10FHD2_USR_S200428_2201110006_V9.56_BMAIN_NEC",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "NEC/full_achilles6_row_wifi/achilles6_row_wifi:10/QP1A.190711.020/LAVIETabE10FHD2_USR_S200428_2201110006_V9.56_BMAIN_NEC:user/release-keys",
   "SECURITY_PATCH": "2022-01-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 29,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "QP1A.190711.020",
   "*.security_patch": "2022-01-05",
-  "*api_level": "25",
-  "*.build.version.sdk": "29"
+  "*api_level": "25"
 }

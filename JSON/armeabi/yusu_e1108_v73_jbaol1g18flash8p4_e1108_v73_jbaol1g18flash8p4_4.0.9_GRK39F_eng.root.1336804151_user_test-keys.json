@@ -5,17 +5,14 @@
   "PRODUCT": "e1108_v73_jbaol1g18flash8p4",
   "DEVICE": "e1108_v73_jbaol1g18flash8p4",
   "RELEASE": "4.0.9",
-  "RELEASE_OR_CODENAME": "4.0.9",
   "ID": "GRK39F",
   "INCREMENTAL": "eng.root.1336804151",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "yusu/e1108_v73_jbaol1g18flash8p4/e1108_v73_jbaol1g18flash8p4:4.0.9/GRK39F/eng.root.1336804151:user/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 10,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "GRK39F",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "10"
+  "*api_level": "25"
 }

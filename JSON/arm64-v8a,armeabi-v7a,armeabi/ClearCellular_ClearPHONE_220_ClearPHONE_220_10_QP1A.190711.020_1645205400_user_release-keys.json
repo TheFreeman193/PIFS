@@ -5,17 +5,14 @@
   "PRODUCT": "ClearPHONE_220",
   "DEVICE": "ClearPHONE_220",
   "RELEASE": "10",
-  "RELEASE_OR_CODENAME": "10",
   "ID": "QP1A.190711.020",
   "INCREMENTAL": "1645205400",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "ClearCellular/ClearPHONE_220/ClearPHONE_220:10/QP1A.190711.020/1645205400:user/release-keys",
   "SECURITY_PATCH": "2020-06-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 29,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "QP1A.190711.020",
   "*.security_patch": "2020-06-05",
-  "*api_level": "25",
-  "*.build.version.sdk": "29"
+  "*api_level": "25"
 }

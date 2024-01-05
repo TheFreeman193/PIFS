@@ -5,17 +5,14 @@
   "PRODUCT": "k52_a48",
   "DEVICE": "A7020a48",
   "RELEASE": "6.0",
-  "RELEASE_OR_CODENAME": "6.0",
   "ID": "MRA58K",
   "INCREMENTAL": "A7020a48_S401_190328_ROW",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Lenovo/k52_a48/A7020a48:6.0/MRA58K/A7020a48_S401_190328_ROW:user/release-keys",
   "SECURITY_PATCH": "2016-10-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "MRA58K",
   "*.security_patch": "2016-10-05",
-  "*api_level": "25",
-  "*.build.version.sdk": "23"
+  "*api_level": "25"
 }

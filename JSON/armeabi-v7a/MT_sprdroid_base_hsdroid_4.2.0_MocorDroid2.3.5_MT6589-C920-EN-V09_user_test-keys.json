@@ -5,17 +5,14 @@
   "PRODUCT": "sprdroid_base",
   "DEVICE": "hsdroid",
   "RELEASE": "4.2.0",
-  "RELEASE_OR_CODENAME": "4.2.0",
   "ID": "MocorDroid2.3.5",
   "INCREMENTAL": "MT6589-C920-EN-V09",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "MT/sprdroid_base/hsdroid:4.2.0/MocorDroid2.3.5/MT6589-C920-EN-V09:user/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 10,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "MocorDroid2.3.5",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "10"
+  "*api_level": "25"
 }

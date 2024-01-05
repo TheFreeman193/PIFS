@@ -5,17 +5,14 @@
   "PRODUCT": "shamu",
   "DEVICE": "shamu",
   "RELEASE": "6.0",
-  "RELEASE_OR_CODENAME": "6.0",
   "ID": "MRA58N",
   "INCREMENTAL": "2289998",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "google/shamu/shamu:6.0/MRA58N/2289998:user/release-keys",
   "SECURITY_PATCH": "2015-10-01",
-  "DEVICE_INITIAL_SDK_INT": 21,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "21",
   "*.build.id": "MRA58N",
   "*.security_patch": "2015-10-01",
-  "*api_level": "21",
-  "*.build.version.sdk": "23"
+  "*api_level": "21"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "cancro",
   "DEVICE": "cancro",
   "RELEASE": "6.0.1",
-  "RELEASE_OR_CODENAME": "6.0.1",
   "ID": "MMB29M",
   "INCREMENTAL": "V10.1.1.0.MXDCNFI",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Xiaomi/cancro/cancro:6.0.1/MMB29M/V10.1.1.0.MXDCNFI:user/release-keys",
   "SECURITY_PATCH": "2017-06-01",
-  "DEVICE_INITIAL_SDK_INT": 19,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "19",
   "*.build.id": "MMB29M",
   "*.security_patch": "2017-06-01",
-  "*api_level": "19",
-  "*.build.version.sdk": "23"
+  "*api_level": "19"
 }

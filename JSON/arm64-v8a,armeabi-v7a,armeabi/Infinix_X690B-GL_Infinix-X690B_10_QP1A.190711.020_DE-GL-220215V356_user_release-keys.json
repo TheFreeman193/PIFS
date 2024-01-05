@@ -5,17 +5,14 @@
   "PRODUCT": "X690B-GL",
   "DEVICE": "Infinix-X690B",
   "RELEASE": "10",
-  "RELEASE_OR_CODENAME": "10",
   "ID": "QP1A.190711.020",
   "INCREMENTAL": "DE-GL-220215V356",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Infinix/X690B-GL/Infinix-X690B:10/QP1A.190711.020/DE-GL-220215V356:user/release-keys",
   "SECURITY_PATCH": "2022-02-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 29,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "QP1A.190711.020",
   "*.security_patch": "2022-02-05",
-  "*api_level": "25",
-  "*.build.version.sdk": "29"
+  "*api_level": "25"
 }

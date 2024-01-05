@@ -5,17 +5,14 @@
   "PRODUCT": "a53gxx",
   "DEVICE": "a53g",
   "RELEASE": "5.0.2",
-  "RELEASE_OR_CODENAME": "5.0.2",
   "ID": "LRX22G",
   "INCREMENTAL": "A500HXXU1BPE1",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "samsung/a53gxx/a53g:5.0.2/LRX22G/A500HXXU1BPE1:user/release-keys",
   "SECURITY_PATCH": "2016-05-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 21,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "LRX22G",
   "*.security_patch": "2016-05-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "21"
+  "*api_level": "25"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "u2_open_vn",
   "DEVICE": "u2",
   "RELEASE": "4.1.2",
-  "RELEASE_OR_CODENAME": "4.1.2",
   "ID": "JZO54K",
   "INCREMENTAL": "P76820b.4DEAED75",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "lge/u2_open_vn/u2:4.1.2/JZO54K/P76820b.4DEAED75:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 16,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "JZO54K",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "16"
+  "*api_level": "25"
 }

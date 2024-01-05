@@ -5,17 +5,14 @@
   "PRODUCT": "j7eltexx",
   "DEVICE": "j7elte",
   "RELEASE": "6.0.1",
-  "RELEASE_OR_CODENAME": "6.0.1",
   "ID": "MMB29K",
   "INCREMENTAL": "J700FXXU4BRL2",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "samsung/j7eltexx/j7elte:6.0.1/MMB29K/J700FXXU4BRL2:user/release-keys",
   "SECURITY_PATCH": "2018-04-01",
-  "DEVICE_INITIAL_SDK_INT": 22,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "22",
   "*.build.id": "MMB29K",
   "*.security_patch": "2018-04-01",
-  "*api_level": "22",
-  "*.build.version.sdk": "23"
+  "*api_level": "22"
 }

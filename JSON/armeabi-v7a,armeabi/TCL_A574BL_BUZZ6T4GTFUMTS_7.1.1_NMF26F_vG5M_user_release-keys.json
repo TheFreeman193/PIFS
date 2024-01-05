@@ -5,17 +5,14 @@
   "PRODUCT": "A574BL",
   "DEVICE": "BUZZ6T4GTFUMTS",
   "RELEASE": "7.1.1",
-  "RELEASE_OR_CODENAME": "7.1.1",
   "ID": "NMF26F",
   "INCREMENTAL": "vG5M-UTM0",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "TCL/A574BL/BUZZ6T4GTFUMTS:7.1.1/NMF26F/vG5M:user/release-keys",
   "SECURITY_PATCH": "2018-09-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 25,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "NMF26F",
   "*.security_patch": "2018-09-05",
-  "*api_level": "25",
-  "*.build.version.sdk": "25"
+  "*api_level": "25"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "crane_anpei101sy",
   "DEVICE": "crane-anpei",
   "RELEASE": "4.0.3",
-  "RELEASE_OR_CODENAME": "4.0.3",
   "ID": "IML74K",
   "INCREMENTAL": "4.0.1111",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "softwinners/crane_anpei101sy/crane-anpei:4.0.3/IML74K/4.0.1111:user/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 15,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "IML74K",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "15"
+  "*api_level": "25"
 }

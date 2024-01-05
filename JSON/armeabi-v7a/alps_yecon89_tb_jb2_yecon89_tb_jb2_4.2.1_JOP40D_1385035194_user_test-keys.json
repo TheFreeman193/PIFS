@@ -5,17 +5,14 @@
   "PRODUCT": "yecon89_tb_jb2",
   "DEVICE": "yecon89_tb_jb2",
   "RELEASE": "4.2.1",
-  "RELEASE_OR_CODENAME": "4.2.1",
   "ID": "PX2",
   "INCREMENTAL": "eng.hede.1385035194",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "alps/yecon89_tb_jb2/yecon89_tb_jb2:4.2.1/JOP40D/1385035194:user/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 17,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "PX2",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "17"
+  "*api_level": "25"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "jason",
   "DEVICE": "jason",
   "RELEASE": "8.1.0",
-  "RELEASE_OR_CODENAME": "8.1.0",
   "ID": "OPM1.171019.019",
   "INCREMENTAL": "V10.2.2.0.OCHMIXM",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Xiaomi/jason/jason:8.1.0/OPM1.171019.019/V10.2.2.0.OCHMIXM:user/release-keys",
   "SECURITY_PATCH": "2018-12-01",
-  "DEVICE_INITIAL_SDK_INT": 27,
-  "SDK_INT": 27,
+  "DEVICE_INITIAL_SDK_INT": "27",
   "*.build.id": "OPM1.171019.019",
   "*.security_patch": "2018-12-01",
-  "*api_level": "27",
-  "*.build.version.sdk": "27"
+  "*api_level": "27"
 }

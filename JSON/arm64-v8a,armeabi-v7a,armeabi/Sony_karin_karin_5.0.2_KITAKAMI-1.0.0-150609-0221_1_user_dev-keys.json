@@ -5,17 +5,14 @@
   "PRODUCT": "karin",
   "DEVICE": "karin",
   "RELEASE": "5.0.2",
-  "RELEASE_OR_CODENAME": "5.0.2",
   "ID": "28.0.A.7.24",
   "INCREMENTAL": "1",
   "TYPE": "user",
   "TAGS": "dev-keys",
   "FINGERPRINT": "Sony/karin/karin:5.0.2/KITAKAMI-1.0.0-150609-0221/1:user/dev-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 21,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "28.0.A.7.24",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "21"
+  "*api_level": "25"
 }

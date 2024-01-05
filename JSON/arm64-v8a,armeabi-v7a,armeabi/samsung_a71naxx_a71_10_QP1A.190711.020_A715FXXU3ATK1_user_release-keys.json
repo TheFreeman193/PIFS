@@ -5,17 +5,14 @@
   "PRODUCT": "a71naxx",
   "DEVICE": "a71",
   "RELEASE": "10",
-  "RELEASE_OR_CODENAME": "10",
   "ID": "QP1A.190711.020",
   "INCREMENTAL": "A715FXXU3ATK1",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "samsung/a71naxx/a71:10/QP1A.190711.020/A715FXXU3ATK1:user/release-keys",
   "SECURITY_PATCH": "2020-11-01",
-  "DEVICE_INITIAL_SDK_INT": 29,
-  "SDK_INT": 29,
+  "DEVICE_INITIAL_SDK_INT": "29",
   "*.build.id": "QP1A.190711.020",
   "*.security_patch": "2020-11-01",
-  "*api_level": "29",
-  "*.build.version.sdk": "29"
+  "*api_level": "29"
 }

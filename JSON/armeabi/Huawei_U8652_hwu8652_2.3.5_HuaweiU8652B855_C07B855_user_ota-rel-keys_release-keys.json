@@ -5,17 +5,14 @@
   "PRODUCT": "U8652",
   "DEVICE": "hwu8652",
   "RELEASE": "2.3.5",
-  "RELEASE_OR_CODENAME": "2.3.5",
   "ID": "HuaweiU8652B855",
   "INCREMENTAL": "C07B855",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Huawei/U8652/hwu8652:2.3.5/HuaweiU8652B855/C07B855:user/ota-rel-keys,release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 10,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "HuaweiU8652B855",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "10"
+  "*api_level": "25"
 }

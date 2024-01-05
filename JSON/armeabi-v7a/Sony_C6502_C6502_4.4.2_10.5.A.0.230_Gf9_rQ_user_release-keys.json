@@ -5,17 +5,14 @@
   "PRODUCT": "C6502",
   "DEVICE": "C6502",
   "RELEASE": "4.4.2",
-  "RELEASE_OR_CODENAME": "4.4.2",
   "ID": "10.5.A.0.230",
   "INCREMENTAL": "Gf9_rQ",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Sony/C6502/C6502:4.4.2/10.5.A.0.230/Gf9_rQ:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "10.5.A.0.230",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "19"
+  "*api_level": "25"
 }

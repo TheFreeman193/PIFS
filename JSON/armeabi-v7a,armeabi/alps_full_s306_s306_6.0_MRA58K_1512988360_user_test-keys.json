@@ -5,17 +5,14 @@
   "PRODUCT": "X",
   "DEVICE": "X",
   "RELEASE": "6.0",
-  "RELEASE_OR_CODENAME": "6.0",
   "ID": "iOS11.2",
   "INCREMENTAL": "iOS11.2",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "alps/full_s306/s306:6.0/MRA58K/1512988360:user/test-keys",
   "SECURITY_PATCH": "2016-03-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "iOS11.2",
   "*.security_patch": "2016-03-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "23"
+  "*api_level": "25"
 }

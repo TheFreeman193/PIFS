@@ -5,17 +5,14 @@
   "PRODUCT": "M10",
   "DEVICE": "zl9e_ctx_rj165_p127_m10_emmc32_4_ddr1_b15_hd",
   "RELEASE": "4.4.2",
-  "RELEASE_OR_CODENAME": "4.4.2",
   "ID": "KOT49H",
   "INCREMENTAL": "eng.divo-004.1548173379",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "alps/zl9e_ctx_rj165_p127_m10_emmc32_4_ddr1_b15_hd/zl9e_ctx_rj165_p127_m10_emmc32_4_ddr1_b15_hd:4.4.2/KOT49H/1548173379:user/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "KOT49H",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "19"
+  "*api_level": "25"
 }

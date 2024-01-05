@@ -5,17 +5,14 @@
   "PRODUCT": "m32dd",
   "DEVICE": "m32",
   "RELEASE": "11",
-  "RELEASE_OR_CODENAME": "11",
   "ID": "RP1A.200720.012",
   "INCREMENTAL": "M325FXXU3AUK1",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "samsung/m32dd/m32:11/RP1A.200720.012/M325FXXU3AUK1:user/release-keys",
   "SECURITY_PATCH": "2021-11-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 30,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "RP1A.200720.012",
   "*.security_patch": "2021-11-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "30"
+  "*api_level": "25"
 }

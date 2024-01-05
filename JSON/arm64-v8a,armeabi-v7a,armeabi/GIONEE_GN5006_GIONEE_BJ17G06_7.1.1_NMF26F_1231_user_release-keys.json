@@ -5,17 +5,14 @@
   "PRODUCT": "GN5006",
   "DEVICE": "GIONEE_BJ17G06",
   "RELEASE": "7.1.1",
-  "RELEASE_OR_CODENAME": "7.1.1",
   "ID": "NMF26F",
   "INCREMENTAL": "2194",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "GIONEE/GN5006/GIONEE_BJ17G06:7.1.1/NMF26F/1231:user/release-keys",
   "SECURITY_PATCH": "2017-09-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 25,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "NMF26F",
   "*.security_patch": "2017-09-05",
-  "*api_level": "25",
-  "*.build.version.sdk": "25"
+  "*api_level": "25"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "jp5s",
   "DEVICE": "jp5s",
   "RELEASE": "4.2.2",
-  "RELEASE_OR_CODENAME": "4.2.2",
   "ID": "JP5JDQ55",
   "INCREMENTAL": "worker.20220330.130404",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "JPay/jp5s/jp5s:4.2.2/JP5JDQ55/worker.20220330.130404:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 17,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "JP5JDQ55",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "17"
+  "*api_level": "25"
 }

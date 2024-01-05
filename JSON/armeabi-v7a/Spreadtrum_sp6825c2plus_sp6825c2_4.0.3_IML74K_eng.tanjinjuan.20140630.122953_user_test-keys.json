@@ -5,17 +5,14 @@
   "PRODUCT": "sp6825c2plus",
   "DEVICE": "sp6825c2",
   "RELEASE": "4.0.3",
-  "RELEASE_OR_CODENAME": "4.0.3",
   "ID": "IML74K",
   "INCREMENTAL": "eng.tanjinjuan.20140630.122953",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "Spreadtrum/sp6825c2plus/sp6825c2:4.0.3/IML74K/eng.tanjinjuan.20140630.122953:user/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 15,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "IML74K",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "15"
+  "*api_level": "25"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "RMD-757",
   "DEVICE": "RMD-757",
   "RELEASE": "5.5.8.",
-  "RELEASE_OR_CODENAME": "5.5.8.",
   "ID": "IMM76D",
   "INCREMENTAL": "eng.huxiangyang.1361868708",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "alps/hedy77_cu_emmc_ics2/hedy77_cu_emmc_ics2\\:4.0.4/IMM76D/1361868708\\:user/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 15,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "IMM76D",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "15"
+  "*api_level": "25"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "a3xeltexx",
   "DEVICE": "a3xelte",
   "RELEASE": "7.0",
-  "RELEASE_OR_CODENAME": "7.0",
   "ID": "NRD90M",
   "INCREMENTAL": "A310FXXU4CRG2",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "samsung/a3xeltexx/a3xelte:7.0/NRD90M/A310FXXU4CRG2:user/release-keys",
   "SECURITY_PATCH": "2018-06-01",
-  "DEVICE_INITIAL_SDK_INT": 22,
-  "SDK_INT": 24,
+  "DEVICE_INITIAL_SDK_INT": "22",
   "*.build.id": "NRD90M",
   "*.security_patch": "2018-06-01",
-  "*api_level": "22",
-  "*.build.version.sdk": "24"
+  "*api_level": "22"
 }

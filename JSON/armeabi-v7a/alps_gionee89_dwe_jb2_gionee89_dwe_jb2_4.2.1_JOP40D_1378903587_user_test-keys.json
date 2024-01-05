@@ -5,17 +5,14 @@
   "PRODUCT": "GIONEE",
   "DEVICE": "GIONEE",
   "RELEASE": "4.2.1",
-  "RELEASE_OR_CODENAME": "4.2.1",
   "ID": "JOP40D",
   "INCREMENTAL": "eng.znsj_bianyi2.1378903587",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "alps/gionee89_dwe_jb2/gionee89_dwe_jb2:4.2.1/JOP40D/1378903587:user/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 17,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "JOP40D",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "17"
+  "*api_level": "25"
 }

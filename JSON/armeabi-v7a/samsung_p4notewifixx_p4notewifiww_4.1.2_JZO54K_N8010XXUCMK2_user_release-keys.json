@@ -5,17 +5,14 @@
   "PRODUCT": "p4notewifixx",
   "DEVICE": "p4notewifiww",
   "RELEASE": "4.1.2",
-  "RELEASE_OR_CODENAME": "4.1.2",
   "ID": "JZO54K",
   "INCREMENTAL": "N8010XXUCMK2",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "samsung/p4notewifixx/p4notewifiww:4.1.2/JZO54K/N8010XXUCMK2:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 16,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "JZO54K",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "16"
+  "*api_level": "25"
 }

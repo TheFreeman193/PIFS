@@ -5,17 +5,14 @@
   "PRODUCT": "VOXM7000NBD",
   "DEVICE": "VOXM7000NBD",
   "RELEASE": "4.1.1",
-  "RELEASE_OR_CODENAME": "4.1.1",
   "ID": "JRO03C",
   "INCREMENTAL": "eng.root.20130904.105934",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "MID/VOXM7000NBD/VOXM7000NBD:4.1.1/JRO03C/eng.root.20130904.105934:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 16,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "JRO03C",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "16"
+  "*api_level": "25"
 }

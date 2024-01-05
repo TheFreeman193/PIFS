@@ -5,17 +5,14 @@
   "PRODUCT": "Y530-U051",
   "DEVICE": "hwY530-U051",
   "RELEASE": "4.3",
-  "RELEASE_OR_CODENAME": "4.3",
   "ID": "HuaweiY530-U051",
   "INCREMENTAL": "C451B191",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Huawei/Y530-U051/hwY530-U051:4.3/HuaweiY530-U051/C451B191:user/ota-rel-keys,release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 18,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "HuaweiY530-U051",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "18"
+  "*api_level": "25"
 }

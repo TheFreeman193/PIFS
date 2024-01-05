@@ -1,21 +1,18 @@
 {
-  "MANUFACTURER": "Microsoft Corporation",
+  "MANUFACTURER": "Android",
   "MODEL": "Subsystem for Android(TM)",
   "BRAND": "Android",
   "PRODUCT": "windows_x86_64",
   "DEVICE": "windows_x86_64",
   "RELEASE": "13",
-  "RELEASE_OR_CODENAME": "13",
   "ID": "TQ1A.230105.002.A1",
   "INCREMENTAL": "2301.40000.4.0",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Windows/windows_x86_64/windows_x86_64:13/TQ1A.230105.002.A1/2301.40000.4.0:user/release-keys",
   "SECURITY_PATCH": "2023-01-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 33,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "TQ1A.230105.002.A1",
   "*.security_patch": "2023-01-05",
-  "*api_level": "25",
-  "*.build.version.sdk": "33"
+  "*api_level": "25"
 }

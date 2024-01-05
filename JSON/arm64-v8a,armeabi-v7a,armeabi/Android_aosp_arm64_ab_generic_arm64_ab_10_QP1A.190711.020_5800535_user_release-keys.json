@@ -5,17 +5,14 @@
   "PRODUCT": "aosp_arm64_ab",
   "DEVICE": "generic_arm64_ab",
   "RELEASE": "10",
-  "RELEASE_OR_CODENAME": "10",
   "ID": "QP1A.190711.020",
   "INCREMENTAL": "5800535",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Android/aosp_arm64_ab/generic_arm64_ab:10/QP1A.190711.020/5800535:user/release-keys",
   "SECURITY_PATCH": "2019-09-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 29,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "QP1A.190711.020",
   "*.security_patch": "2019-09-05",
-  "*api_level": "25",
-  "*.build.version.sdk": "29"
+  "*api_level": "25"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "H960",
   "DEVICE": "T106",
   "RELEASE": "10.0",
-  "RELEASE_OR_CODENAME": "10.0",
   "ID": "LMY47I",
   "INCREMENTAL": "1593599331",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "alps/full_nb6592_wet_0a_l/nb6592_wet_0a_l:5.1/LMY47I/1593599331:user/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 22,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "LMY47I",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "22"
+  "*api_level": "25"
 }

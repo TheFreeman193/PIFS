@@ -5,17 +5,14 @@
   "PRODUCT": "tm9767",
   "DEVICE": "tm9767",
   "RELEASE": "4.4.2",
-  "RELEASE_OR_CODENAME": "4.4.2",
   "ID": "KOT49H",
   "INCREMENTAL": "2f91c9e47a",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "teXet/tm9767/tm9767:4.4.2/KOT49H/2f91c9e47a:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "KOT49H",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "19"
+  "*api_level": "25"
 }

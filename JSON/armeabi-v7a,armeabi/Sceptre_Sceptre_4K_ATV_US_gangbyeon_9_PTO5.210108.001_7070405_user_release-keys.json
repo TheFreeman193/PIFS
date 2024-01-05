@@ -5,17 +5,14 @@
   "PRODUCT": "Sceptre_4K_ATV_US",
   "DEVICE": "gangbyeon",
   "RELEASE": "9",
-  "RELEASE_OR_CODENAME": "9",
   "ID": "PTO5.210108.001",
   "INCREMENTAL": "7070405",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Sceptre/Sceptre_4K_ATV_US/gangbyeon:9/PTO5.210108.001/7070405:user/release-keys",
   "SECURITY_PATCH": "2020-12-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 28,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "PTO5.210108.001",
   "*.security_patch": "2020-12-05",
-  "*api_level": "25",
-  "*.build.version.sdk": "28"
+  "*api_level": "25"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "Plane 7.3 3G",
   "DEVICE": "PS7003MG",
   "RELEASE": "4.2.2",
-  "RELEASE_OR_CODENAME": "4.2.2",
   "ID": "JDQ39",
   "INCREMENTAL": "eng.yl.1404540887",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "DIGMA/k8_fl_06/k8_fl_06:4.2.2/JDQ39/1404540887:user/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 17,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "JDQ39",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "17"
+  "*api_level": "25"
 }

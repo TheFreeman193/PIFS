@@ -5,17 +5,14 @@
   "PRODUCT": "Nomi_C070014L",
   "DEVICE": "Nomi_C070014L",
   "RELEASE": "8.1.0",
-  "RELEASE_OR_CODENAME": "8.1.0",
   "ID": "O11019",
   "INCREMENTAL": "1533822455",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Nomi/Nomi_C070014L/Nomi_C070014L:8.1.0/O11019/1533822455:user/release-keys",
   "SECURITY_PATCH": "2018-07-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 27,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "O11019",
   "*.security_patch": "2018-07-05",
-  "*api_level": "25",
-  "*.build.version.sdk": "27"
+  "*api_level": "25"
 }

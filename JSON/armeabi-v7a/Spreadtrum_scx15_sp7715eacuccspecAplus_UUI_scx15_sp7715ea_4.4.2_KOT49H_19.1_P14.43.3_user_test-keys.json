@@ -5,17 +5,14 @@
   "PRODUCT": "scx15_sp7715eacuccspecAplus_UUI",
   "DEVICE": "scx15_sp7715ea",
   "RELEASE": "4.4.2",
-  "RELEASE_OR_CODENAME": "4.4.2",
   "ID": "KOT49H",
   "INCREMENTAL": "19.1_P14.43.3",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "Spreadtrum/scx15_sp7715eacuccspecAplus_UUI/scx15_sp7715ea:4.4.2/KOT49H/19.1_P14.43.3:user/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "KOT49H",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "19"
+  "*api_level": "25"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "htc_europe",
   "DEVICE": "htc_a11ul",
   "RELEASE": "4.4.3",
-  "RELEASE_OR_CODENAME": "4.4.3",
   "ID": "KTU84L",
   "INCREMENTAL": "407309.7",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "htc/htc_europe/htc_a11ul:4.4.3/KTU84L/407309.7:user/release-keys",
   "SECURITY_PATCH": "2015-11-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "KTU84L",
   "*.security_patch": "2015-11-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "19"
+  "*api_level": "25"
 }

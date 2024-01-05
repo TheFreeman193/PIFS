@@ -5,17 +5,14 @@
   "PRODUCT": "w732_ics",
   "DEVICE": "Philips_W732_A",
   "RELEASE": "4.0.3",
-  "RELEASE_OR_CODENAME": "4.0.3",
   "ID": "IML74K",
   "INCREMENTAL": "eng.zgz.1362637678",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Philips/w732_ics/Philips_W732_A:4.0.3/IML74K/W732_M6575B_1309_00_V39A_RU:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 15,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "IML74K",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "15"
+  "*api_level": "25"
 }

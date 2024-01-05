@@ -5,17 +5,14 @@
   "PRODUCT": "lynx",
   "DEVICE": "lynx",
   "RELEASE": "14",
-  "RELEASE_OR_CODENAME": "14",
   "ID": "UP1A.231005.007",
   "INCREMENTAL": "10754064",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "google/lynx/lynx:14/UP1A.231005.007/10754064:user/release-keys",
   "SECURITY_PATCH": "2023-10-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 34,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "UP1A.231005.007",
   "*.security_patch": "2023-10-05",
-  "*api_level": "25",
-  "*.build.version.sdk": "34"
+  "*api_level": "25"
 }

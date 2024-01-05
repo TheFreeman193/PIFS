@@ -5,17 +5,14 @@
   "PRODUCT": "james_t",
   "DEVICE": "james",
   "RELEASE": "8.0.0",
-  "RELEASE_OR_CODENAME": "8.0.0",
   "ID": "OCP27.91-150-14",
   "INCREMENTAL": "1",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "motorola/james_t/james:8.0.0/OCP27.91-150-14/1:user/release-keys",
   "SECURITY_PATCH": "2019-09-01",
-  "DEVICE_INITIAL_SDK_INT": 26,
-  "SDK_INT": 26,
+  "DEVICE_INITIAL_SDK_INT": "26",
   "*.build.id": "OCP27.91-150-14",
   "*.security_patch": "2019-09-01",
-  "*api_level": "26",
-  "*.build.version.sdk": "26"
+  "*api_level": "26"
 }

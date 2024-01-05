@@ -5,17 +5,14 @@
   "PRODUCT": "ks01lteskt",
   "DEVICE": "ks01lteskt",
   "RELEASE": "4.4.2",
-  "RELEASE_OR_CODENAME": "4.4.2",
   "ID": "KOT49H",
   "INCREMENTAL": "I9500XXUFNB7",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "samsung/ks01lteskt/ks01lteskt:4.4.2/KOT49H/I9500XXUFNB7:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "KOT49H",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "19"
+  "*api_level": "25"
 }

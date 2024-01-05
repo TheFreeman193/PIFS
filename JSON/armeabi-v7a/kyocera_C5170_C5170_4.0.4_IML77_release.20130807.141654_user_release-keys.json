@@ -5,17 +5,14 @@
   "PRODUCT": "C5170",
   "DEVICE": "C5170",
   "RELEASE": "4.0.4",
-  "RELEASE_OR_CODENAME": "4.0.4",
   "ID": "IML77",
   "INCREMENTAL": "release.20130807.141654",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "kyocera/C5170/C5170:4.0.4/IML77/release.20130807.141654:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 15,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "IML77",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "15"
+  "*api_level": "25"
 }

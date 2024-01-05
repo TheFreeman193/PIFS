@@ -5,17 +5,14 @@
   "PRODUCT": "A25",
   "DEVICE": "A25",
   "RELEASE": "4.2.9",
-  "RELEASE_OR_CODENAME": "4.2.9",
   "ID": "JDQ39",
   "INCREMENTAL": "eng.scm.1398336829",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "DOOGEE/A25/A25:4.2.9/JDQ39/1398336829:user/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 17,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "JDQ39",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "17"
+  "*api_level": "25"
 }

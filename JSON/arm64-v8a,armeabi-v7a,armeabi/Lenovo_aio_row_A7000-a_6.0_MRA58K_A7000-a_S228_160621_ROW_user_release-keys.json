@@ -5,17 +5,14 @@
   "PRODUCT": "aio_row",
   "DEVICE": "A7000-a",
   "RELEASE": "6.0",
-  "RELEASE_OR_CODENAME": "6.0",
   "ID": "MRA58K",
   "INCREMENTAL": "A7000-a_S228_160621_ROW",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Lenovo/aio_row/A7000-a:6.0/MRA58K/A7000-a_S228_160621_ROW:user/release-keys",
   "SECURITY_PATCH": "2016-05-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "MRA58K",
   "*.security_patch": "2016-05-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "23"
+  "*api_level": "25"
 }

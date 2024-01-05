@@ -5,17 +5,14 @@
   "PRODUCT": "rk3588_firefly_itx_3588j",
   "DEVICE": "rk3588_firefly_itx_3588j",
   "RELEASE": "12",
-  "RELEASE_OR_CODENAME": "12",
   "ID": "SQ1D.211205.016.A5",
   "INCREMENTAL": "eng.chenjp.20220311.102747",
   "TYPE": "userdebug",
   "TAGS": "release-keys",
   "FINGERPRINT": "Firefly/rk3588/rk3588:12/SQ1D.211205.016.A5/chenjp03111026:userdebug/release-keys",
   "SECURITY_PATCH": "2021-12-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 31,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "SQ1D.211205.016.A5",
   "*.security_patch": "2021-12-05",
-  "*api_level": "25",
-  "*.build.version.sdk": "31"
+  "*api_level": "25"
 }

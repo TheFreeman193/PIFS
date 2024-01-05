@@ -5,17 +5,14 @@
   "PRODUCT": "S5",
   "DEVICE": "GT-I9300",
   "RELEASE": "4.0.4",
-  "RELEASE_OR_CODENAME": "4.0.4",
   "ID": "S5-V1.0-2013.04.12",
   "INCREMENTAL": "eng.gfs.20130412.161801",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "ADVAN/S5/S5:4.0.4/S5-V1.0-2013.04.12/eng.gfs.20130412.161801:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 15,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "S5-V1.0-2013.04.12",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "15"
+  "*api_level": "25"
 }

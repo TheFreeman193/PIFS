@@ -5,17 +5,14 @@
   "PRODUCT": "BLN-AL10",
   "DEVICE": "HWBLN-H",
   "RELEASE": "8.0.0",
-  "RELEASE_OR_CODENAME": "8.0.0",
   "ID": "HONORBLN-AL10",
   "INCREMENTAL": "528(C00)",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "HONOR/BLN-AL10/HWBLN-H:8.0.0/HONORBLN-AL10/528(C00):user/release-keys",
   "SECURITY_PATCH": "2017-08-05",
-  "DEVICE_INITIAL_SDK_INT": 26,
-  "SDK_INT": 26,
+  "DEVICE_INITIAL_SDK_INT": "26",
   "*.build.id": "HONORBLN-AL10",
   "*.security_patch": "2017-08-05",
-  "*api_level": "26",
-  "*.build.version.sdk": "26"
+  "*api_level": "26"
 }

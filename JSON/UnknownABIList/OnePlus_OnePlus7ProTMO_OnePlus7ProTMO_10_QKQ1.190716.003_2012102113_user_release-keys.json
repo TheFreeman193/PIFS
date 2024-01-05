@@ -5,17 +5,14 @@
   "PRODUCT": "OnePlus7ProTMO",
   "DEVICE": "OnePlus7ProTMO",
   "RELEASE": "10",
-  "RELEASE_OR_CODENAME": "10",
   "ID": "QKQ1.190716.003",
   "INCREMENTAL": "2012102113",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "OnePlus/OnePlus7ProTMO/OnePlus7ProTMO:10/QKQ1.190716.003/2012102113:user/release-keys",
   "SECURITY_PATCH": "2020-12-01",
-  "DEVICE_INITIAL_SDK_INT": 28,
-  "SDK_INT": 29,
+  "DEVICE_INITIAL_SDK_INT": "28",
   "*.build.id": "QKQ1.190716.003",
   "*.security_patch": "2020-12-01",
-  "*api_level": "28",
-  "*.build.version.sdk": "29"
+  "*api_level": "28"
 }

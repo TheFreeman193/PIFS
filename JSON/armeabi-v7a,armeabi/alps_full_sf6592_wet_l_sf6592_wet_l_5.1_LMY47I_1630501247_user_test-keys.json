@@ -5,17 +5,14 @@
   "PRODUCT": "K1001P95",
   "DEVICE": "K1001P95",
   "RELEASE": "10.0",
-  "RELEASE_OR_CODENAME": "10.0",
   "ID": "LMY47I",
   "INCREMENTAL": "1630501247",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "alps/full_sf6592_wet_l/sf6592_wet_l:5.1/LMY47I/1630501247:user/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 22,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "LMY47I",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "22"
+  "*api_level": "25"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "B2N_00WW_FIH",
   "DEVICE": "B2N",
   "RELEASE": "10",
-  "RELEASE_OR_CODENAME": "10",
   "ID": "QKQ1.190828.002",
   "INCREMENTAL": "00WW_4_08B",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Nokia/Crystal_00WW/CTL_sprout:10/QKQ1.190828.002/00WW_4_08B:user/release-keys",
   "SECURITY_PATCH": "2019-11-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 29,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "QKQ1.190828.002",
   "*.security_patch": "2019-11-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "29"
+  "*api_level": "25"
 }

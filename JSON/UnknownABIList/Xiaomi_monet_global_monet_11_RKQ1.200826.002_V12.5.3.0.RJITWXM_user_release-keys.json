@@ -5,17 +5,14 @@
   "PRODUCT": "monet_global",
   "DEVICE": "monet",
   "RELEASE": "11",
-  "RELEASE_OR_CODENAME": "11",
   "ID": "RKQ1.200826.002",
   "INCREMENTAL": "V12.5.3.0.RJITWXM",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Xiaomi/monet_global/monet:11/RKQ1.200826.002/V12.5.3.0.RJITWXM:user/release-keys",
   "SECURITY_PATCH": "2021-07-01",
-  "DEVICE_INITIAL_SDK_INT": 29,
-  "SDK_INT": 30,
+  "DEVICE_INITIAL_SDK_INT": "29",
   "*.build.id": "RKQ1.200826.002",
   "*.security_patch": "2021-07-01",
-  "*api_level": "29",
-  "*.build.version.sdk": "30"
+  "*api_level": "29"
 }

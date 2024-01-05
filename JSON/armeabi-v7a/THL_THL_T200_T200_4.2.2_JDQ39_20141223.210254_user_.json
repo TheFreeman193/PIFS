@@ -5,17 +5,14 @@
   "PRODUCT": "THL_T200",
   "DEVICE": "T200",
   "RELEASE": "4.2.2",
-  "RELEASE_OR_CODENAME": "4.2.2",
   "ID": "JDQ39",
   "INCREMENTAL": "4.2.2-1419339884",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "THL/THL_T200/T200:4.2.2/JDQ39/20141223.210254:user/",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 17,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "JDQ39",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "17"
+  "*api_level": "25"
 }

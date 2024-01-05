@@ -5,17 +5,14 @@
   "PRODUCT": "PAP4500DUO",
   "DEVICE": "PAP4500DUO",
   "RELEASE": "4.1.2",
-  "RELEASE_OR_CODENAME": "4.1.2",
   "ID": "PAP4500DUO",
   "INCREMENTAL": "eng.lewa.1411937164",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "alps/PAP4500DUO/PAP4500DUO:4.1.2/PrestigioPAP4500DUO/1411937164:user/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 16,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "PAP4500DUO",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "16"
+  "*api_level": "25"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "ms013gxx",
   "DEVICE": "ms013g",
   "RELEASE": "6.0.1",
-  "RELEASE_OR_CODENAME": "6.0.1",
   "ID": "MOB31K",
   "INCREMENTAL": "c7c635374b",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "samsung/ms013gxx/ms013g:6.0.1/MOB31K/c7c635374b:user/release-keys",
   "SECURITY_PATCH": "2017-01-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "MOB31K",
   "*.security_patch": "2017-01-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "23"
+  "*api_level": "25"
 }

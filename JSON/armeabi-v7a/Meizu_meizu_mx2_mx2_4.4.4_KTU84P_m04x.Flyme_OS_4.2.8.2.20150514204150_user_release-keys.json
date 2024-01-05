@@ -5,17 +5,14 @@
   "PRODUCT": "meizu_mx2",
   "DEVICE": "mx2",
   "RELEASE": "4.4.4",
-  "RELEASE_OR_CODENAME": "4.4.4",
   "ID": "KTU84P",
   "INCREMENTAL": "m04x.Flyme_OS_4.2.8.2.20150514204150",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Meizu/meizu_mx2/mx2:4.4.4/KTU84P/m04x.Flyme_OS_4.2.8.2.20150514204150:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "KTU84P",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "19"
+  "*api_level": "25"
 }

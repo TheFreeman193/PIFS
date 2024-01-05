@@ -5,17 +5,14 @@
   "PRODUCT": "razor",
   "DEVICE": "flo",
   "RELEASE": "6.0.1",
-  "RELEASE_OR_CODENAME": "6.0.1",
   "ID": "MOB30X",
   "INCREMENTAL": "3036618",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "google/razor/flo:6.0.1/MOB30X/3036618:user/release-keys",
   "SECURITY_PATCH": "2016-08-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "MOB30X",
   "*.security_patch": "2016-08-05",
-  "*api_level": "25",
-  "*.build.version.sdk": "23"
+  "*api_level": "25"
 }

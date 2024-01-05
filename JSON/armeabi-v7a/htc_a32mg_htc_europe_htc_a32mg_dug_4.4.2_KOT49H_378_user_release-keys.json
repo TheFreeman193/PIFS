@@ -5,17 +5,14 @@
   "PRODUCT": "a32mg_htc_europe",
   "DEVICE": "htc_a32mg_dug",
   "RELEASE": "4.4.2",
-  "RELEASE_OR_CODENAME": "4.4.2",
   "ID": "KOT49H",
   "INCREMENTAL": "378",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "htc/a32mg_htc_europe/htc_a32mg_dug:4.4.2/KOT49H/378:user/release-keys",
   "SECURITY_PATCH": "2016-01-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "KOT49H",
   "*.security_patch": "2016-01-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "19"
+  "*api_level": "25"
 }

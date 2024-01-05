@@ -5,17 +5,14 @@
   "PRODUCT": "V2502AN",
   "DEVICE": "V2502AN",
   "RELEASE": "6.0",
-  "RELEASE_OR_CODENAME": "6.0",
   "ID": "MRA58K",
   "INCREMENTAL": "1464258422",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "WIKO/V2502AN/V2502AN:6.0/MRA58K/1464258422:user/release-keys",
   "SECURITY_PATCH": "2016-05-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "MRA58K",
   "*.security_patch": "2016-05-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "23"
+  "*api_level": "25"
 }

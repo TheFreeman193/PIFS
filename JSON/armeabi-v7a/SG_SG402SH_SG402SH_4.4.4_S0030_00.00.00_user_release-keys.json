@@ -5,17 +5,14 @@
   "PRODUCT": "SG402SH",
   "DEVICE": "SG402SH",
   "RELEASE": "4.4.4",
-  "RELEASE_OR_CODENAME": "4.4.4",
   "ID": "S0030",
   "INCREMENTAL": "00.00.00",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "SG/SG402SH/SG402SH:4.4.4/S0030/00.00.00:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "S0030",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "19"
+  "*api_level": "25"
 }

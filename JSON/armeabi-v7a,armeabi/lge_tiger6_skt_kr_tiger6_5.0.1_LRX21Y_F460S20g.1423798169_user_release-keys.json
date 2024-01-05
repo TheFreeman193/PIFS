@@ -5,17 +5,14 @@
   "PRODUCT": "tiger6_skt_kr",
   "DEVICE": "tiger6",
   "RELEASE": "5.0.1",
-  "RELEASE_OR_CODENAME": "5.0.1",
   "ID": "LRX21Y",
   "INCREMENTAL": "F460S20g.1423798169",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "lge/tiger6_skt_kr/tiger6:5.0.1/LRX21Y/F460S20g.1423798169:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 21,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "LRX21Y",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "21"
+  "*api_level": "25"
 }

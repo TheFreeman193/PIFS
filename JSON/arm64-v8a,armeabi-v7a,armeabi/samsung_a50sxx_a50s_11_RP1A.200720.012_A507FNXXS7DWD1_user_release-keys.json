@@ -5,17 +5,14 @@
   "PRODUCT": "a50sxx",
   "DEVICE": "a50s",
   "RELEASE": "11",
-  "RELEASE_OR_CODENAME": "11",
   "ID": "RP1A.200720.012",
   "INCREMENTAL": "A507FNXXS7DWD1",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "samsung/a50sxx/a50s:11/RP1A.200720.012/A507FNXXS7DWD1:user/release-keys",
   "SECURITY_PATCH": "2023-05-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 30,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "RP1A.200720.012",
   "*.security_patch": "2023-05-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "30"
+  "*api_level": "25"
 }

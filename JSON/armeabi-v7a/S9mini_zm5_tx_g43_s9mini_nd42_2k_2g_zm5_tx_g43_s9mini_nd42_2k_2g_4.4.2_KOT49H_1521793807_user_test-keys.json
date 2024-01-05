@@ -5,17 +5,14 @@
   "PRODUCT": "S9mini",
   "DEVICE": "zm5_tx_g43_s9mini_nd42_2k_2g",
   "RELEASE": "4.4.2",
-  "RELEASE_OR_CODENAME": "4.4.2",
   "ID": "KOT49H",
   "INCREMENTAL": "eng.daiweiping.yes",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "S9mini/zm5_tx_g43_s9mini_nd42_2k_2g/zm5_tx_g43_s9mini_nd42_2k_2g:4.4.2/KOT49H/1521793807:user/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "KOT49H",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "19"
+  "*api_level": "25"
 }

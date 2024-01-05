@@ -5,17 +5,14 @@
   "PRODUCT": "g3_vzw",
   "DEVICE": "g3",
   "RELEASE": "5.1.1",
-  "RELEASE_OR_CODENAME": "5.1.1",
   "ID": "LMY47V",
   "INCREMENTAL": "1525410464a1b",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "lge/g3_vzw/g3:5.1.1/LMY47V/1525410464a1b:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 22,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "LMY47V",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "22"
+  "*api_level": "25"
 }

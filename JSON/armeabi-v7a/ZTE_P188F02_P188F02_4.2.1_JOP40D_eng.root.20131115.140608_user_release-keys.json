@@ -5,17 +5,14 @@
   "PRODUCT": "P188F02",
   "DEVICE": "P188F02",
   "RELEASE": "4.2.1",
-  "RELEASE_OR_CODENAME": "4.2.1",
   "ID": "JOP40D",
   "INCREMENTAL": "4.1.3",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "ZTE/P188F02/P188F02:4.2.1/JOP40D/eng.root.20131115.140608:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 17,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "JOP40D",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "17"
+  "*api_level": "25"
 }

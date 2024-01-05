@@ -5,17 +5,14 @@
   "PRODUCT": "yotaphone",
   "DEVICE": "yotaphone",
   "RELEASE": "4.2.2",
-  "RELEASE_OR_CODENAME": "4.2.2",
   "ID": "JDQ39",
   "INCREMENTAL": "4.2.2.A.0.2.39",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "YotaPhone/yotaphone/yotaphone:4.2.2/JDQ39/4.2.2.A.0.2.39:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 17,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "JDQ39",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "17"
+  "*api_level": "25"
 }

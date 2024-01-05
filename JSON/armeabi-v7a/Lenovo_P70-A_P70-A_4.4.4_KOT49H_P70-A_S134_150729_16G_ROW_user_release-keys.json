@@ -5,17 +5,14 @@
   "PRODUCT": "P70-A",
   "DEVICE": "P70-A",
   "RELEASE": "4.4.4",
-  "RELEASE_OR_CODENAME": "4.4.4",
   "ID": "KOT49H",
   "INCREMENTAL": "P70-A_S134_150729_16G_ROW",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Lenovo/P70-A/P70-A:4.4.4/KOT49H/P70-A_S134_150729_16G_ROW:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "KOT49H",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "19"
+  "*api_level": "25"
 }

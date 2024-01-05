@@ -5,17 +5,14 @@
   "PRODUCT": "a4_generic1",
   "DEVICE": "a4",
   "RELEASE": "2.3.6",
-  "RELEASE_OR_CODENAME": "2.3.6",
   "ID": "GRK39F",
   "INCREMENTAL": "1319250039",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "acer/a4_generic1/a4:2.3.6/GRK39F/1319250039:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 10,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "GRK39F",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "10"
+  "*api_level": "25"
 }

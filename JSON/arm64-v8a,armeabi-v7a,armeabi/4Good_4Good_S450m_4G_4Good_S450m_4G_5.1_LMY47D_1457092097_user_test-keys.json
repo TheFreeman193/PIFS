@@ -5,17 +5,14 @@
   "PRODUCT": "4Good S450m 4G",
   "DEVICE": "4Good S450m 4G",
   "RELEASE": "5.1",
-  "RELEASE_OR_CODENAME": "5.1",
   "ID": "LMY47D",
   "INCREMENTAL": "1457092097",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "4Good/4Good S450m 4G/4Good S450m 4G:5.1/LMY47D/1457092097:user/test-keys",
   "SECURITY_PATCH": "2015-12-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 22,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "LMY47D",
   "*.security_patch": "2015-12-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "22"
+  "*api_level": "25"
 }

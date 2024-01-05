@@ -5,17 +5,14 @@
   "PRODUCT": "song",
   "DEVICE": "song",
   "RELEASE": "7.1.2",
-  "RELEASE_OR_CODENAME": "7.1.2",
   "ID": "N2G47J",
   "INCREMENTAL": "9.7.4",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Xiaomi/meri/meri:7.1.2/N2G47J/9.7.4:user/release-keys",
   "SECURITY_PATCH": "2019-04-01",
-  "DEVICE_INITIAL_SDK_INT": 23,
-  "SDK_INT": 25,
+  "DEVICE_INITIAL_SDK_INT": "23",
   "*.build.id": "N2G47J",
   "*.security_patch": "2019-04-01",
-  "*api_level": "23",
-  "*.build.version.sdk": "25"
+  "*api_level": "23"
 }

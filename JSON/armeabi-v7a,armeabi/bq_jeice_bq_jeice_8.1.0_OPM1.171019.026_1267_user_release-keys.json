@@ -5,17 +5,14 @@
   "PRODUCT": "jeice_bq",
   "DEVICE": "jeice",
   "RELEASE": "8.1.0",
-  "RELEASE_OR_CODENAME": "8.1.0",
   "ID": "OPM1.171019.026",
   "INCREMENTAL": "1267",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "bq/jeice_bq/jeice:8.1.0/OPM1.171019.026/1267:user/release-keys",
   "SECURITY_PATCH": "2018-10-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 27,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "OPM1.171019.026",
   "*.security_patch": "2018-10-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "27"
+  "*api_level": "25"
 }

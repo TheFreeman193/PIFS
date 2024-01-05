@@ -5,17 +5,14 @@
   "PRODUCT": "cube",
   "DEVICE": "Freer X9",
   "RELEASE": "6.0",
-  "RELEASE_OR_CODENAME": "6.0",
   "ID": "MRA58L",
   "INCREMENTAL": "eng.qyj.20171026.002746",
   "TYPE": "user",
   "TAGS": "dev-keys",
   "FINGERPRINT": "CUBE/full_elink8173_tb_m/elink8173_tb_m:6.0/MRA58L/qyj10260030:user/dev-keys",
   "SECURITY_PATCH": "2017-03-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "MRA58L",
   "*.security_patch": "2017-03-05",
-  "*api_level": "25",
-  "*.build.version.sdk": "23"
+  "*api_level": "25"
 }

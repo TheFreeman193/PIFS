@@ -5,17 +5,14 @@
   "PRODUCT": "signal77_cu_jb",
   "DEVICE": "signal77_cu_jb",
   "RELEASE": "4.1.1",
-  "RELEASE_OR_CODENAME": "4.1.1",
   "ID": "JRO03C",
   "INCREMENTAL": "eng.weijianshe.1370346008",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "alps/signal77_cu_jb/signal77_cu_jb:4.1.1/JRO03C/1370346008:user/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 16,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "JRO03C",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "16"
+  "*api_level": "25"
 }

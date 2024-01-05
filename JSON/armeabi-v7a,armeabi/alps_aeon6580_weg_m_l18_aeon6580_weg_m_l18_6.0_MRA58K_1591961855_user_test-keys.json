@@ -5,17 +5,14 @@
   "PRODUCT": "S20 Pro",
   "DEVICE": "S20 Pro",
   "RELEASE": "10.0",
-  "RELEASE_OR_CODENAME": "10.0",
   "ID": "MRA58K",
   "INCREMENTAL": "1591961855",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "alps/aeon6580_weg_m_l18/aeon6580_weg_m_l18:6.0/MRA58K/1591961855:user/test-keys",
   "SECURITY_PATCH": "2020-05-22",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "MRA58K",
   "*.security_patch": "2020-05-22",
-  "*api_level": "25",
-  "*.build.version.sdk": "23"
+  "*api_level": "25"
 }

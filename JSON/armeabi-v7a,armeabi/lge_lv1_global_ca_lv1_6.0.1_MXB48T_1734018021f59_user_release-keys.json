@@ -5,17 +5,14 @@
   "PRODUCT": "lv1_global_ca",
   "DEVICE": "lv1",
   "RELEASE": "6.0.1",
-  "RELEASE_OR_CODENAME": "6.0.1",
   "ID": "MXB48T",
   "INCREMENTAL": "1734018021f59",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "lge/lv1_global_ca/lv1:6.0.1/MXB48T/1734018021f59:user/release-keys",
   "SECURITY_PATCH": "2017-12-01",
-  "DEVICE_INITIAL_SDK_INT": 23,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "23",
   "*.build.id": "MXB48T",
   "*.security_patch": "2017-12-01",
-  "*api_level": "23",
-  "*.build.version.sdk": "23"
+  "*api_level": "23"
 }

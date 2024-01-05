@@ -5,17 +5,14 @@
   "PRODUCT": "ossi",
   "DEVICE": "ossi",
   "RELEASE": "13",
-  "RELEASE_OR_CODENAME": "13",
   "ID": "TP1A.220905.001",
   "INCREMENTAL": "1698921269974",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "oplus/ossi/ossi:13/TP1A.220905.001/1698921269974:user/release-keys",
   "SECURITY_PATCH": "2023-11-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 33,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "TP1A.220905.001",
   "*.security_patch": "2023-11-05",
-  "*api_level": "25",
-  "*.build.version.sdk": "33"
+  "*api_level": "25"
 }

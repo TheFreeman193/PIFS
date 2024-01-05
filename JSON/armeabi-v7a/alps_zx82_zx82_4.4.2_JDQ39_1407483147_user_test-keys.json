@@ -5,17 +5,14 @@
   "PRODUCT": "Bepa G900W",
   "DEVICE": "Bepa G900W",
   "RELEASE": "4.4.2",
-  "RELEASE_OR_CODENAME": "4.4.2",
   "ID": "KOT49H.G9008SKSU1ANCE",
   "INCREMENTAL": "G900SKSU1AND3",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "alps/zx82/zx82:4.4.2/JDQ39/1407483147:user/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 17,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "KOT49H.G9008SKSU1ANCE",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "17"
+  "*api_level": "25"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "Storm",
   "DEVICE": "kipper",
   "RELEASE": "7.1",
-  "RELEASE_OR_CODENAME": "7.1",
   "ID": "NDE63X",
   "INCREMENTAL": "b66f7c4414",
   "TYPE": "userdebug",
   "TAGS": "test-keys",
   "FINGERPRINT": "Wileyfox/Storm/kipper:7.1/NDE63X/b66f7c4414:userdebug/test-keys",
   "SECURITY_PATCH": "2016-11-05",
-  "DEVICE_INITIAL_SDK_INT": 23,
-  "SDK_INT": 25,
+  "DEVICE_INITIAL_SDK_INT": "23",
   "*.build.id": "NDE63X",
   "*.security_patch": "2016-11-05",
-  "*api_level": "23",
-  "*.build.version.sdk": "25"
+  "*api_level": "23"
 }

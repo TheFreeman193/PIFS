@@ -5,17 +5,14 @@
   "PRODUCT": "Wolverine_00WW",
   "DEVICE": "WVR_sprout",
   "RELEASE": "12",
-  "RELEASE_OR_CODENAME": "12",
   "ID": "SP1A.210812.016",
   "INCREMENTAL": "00WW_3_210",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Nokia/Wolverine_00WW/WVR_sprout:12/SP1A.210812.016/00WW_3_210:user/release-keys",
   "SECURITY_PATCH": "2022-04-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 31,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "SP1A.210812.016",
   "*.security_patch": "2022-04-05",
-  "*api_level": "25",
-  "*.build.version.sdk": "31"
+  "*api_level": "25"
 }

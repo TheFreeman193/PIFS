@@ -5,17 +5,14 @@
   "PRODUCT": "pine",
   "DEVICE": "pine",
   "RELEASE": "9",
-  "RELEASE_OR_CODENAME": "9",
   "ID": "PKQ1.190319.001",
   "INCREMENTAL": "V11.0.7.0.PCMMIXM",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Xiaomi/pine/pine:9/PKQ1.190319.001/V11.0.7.0.PCMMIXM:user/release-keys",
   "SECURITY_PATCH": "2020-03-01",
-  "DEVICE_INITIAL_SDK_INT": 28,
-  "SDK_INT": 28,
+  "DEVICE_INITIAL_SDK_INT": "28",
   "*.build.id": "PKQ1.190319.001",
   "*.security_patch": "2020-03-01",
-  "*api_level": "28",
-  "*.build.version.sdk": "28"
+  "*api_level": "28"
 }

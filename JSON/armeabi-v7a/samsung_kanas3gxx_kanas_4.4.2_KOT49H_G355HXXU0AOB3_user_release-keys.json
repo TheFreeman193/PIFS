@@ -5,17 +5,14 @@
   "PRODUCT": "kanas3gxx",
   "DEVICE": "kanas",
   "RELEASE": "4.4.2",
-  "RELEASE_OR_CODENAME": "4.4.2",
   "ID": "KOT49H",
   "INCREMENTAL": "G355HXXU0AOB3",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "samsung/kanas3gxx/kanas:4.4.2/KOT49H/G355HXXU0AOB3:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "KOT49H",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "19"
+  "*api_level": "25"
 }

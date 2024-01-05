@@ -5,17 +5,14 @@
   "PRODUCT": "D2533",
   "DEVICE": "D2533",
   "RELEASE": "4.4.2",
-  "RELEASE_OR_CODENAME": "4.4.2",
   "ID": "19.2.1.A.0.72",
   "INCREMENTAL": "t__3Zg",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Sony/D2533/D2533:4.4.2/19.2.1.A.0.72/t__3Zg:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "19.2.1.A.0.72",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "19"
+  "*api_level": "25"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "aicp_s3_h560",
   "DEVICE": "s3_h560",
   "RELEASE": "6.0.1",
-  "RELEASE_OR_CODENAME": "6.0.1",
   "ID": "MOB30Z",
   "INCREMENTAL": "feae2b04f7",
   "TYPE": "userdebug",
   "TAGS": "release-keys",
   "FINGERPRINT": "jiayu/aicp_s3_h560/s3_h560:6.0.1/MOB30Z/feae2b04f7:userdebug/test-keys",
   "SECURITY_PATCH": "2016-08-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "MOB30Z",
   "*.security_patch": "2016-08-05",
-  "*api_level": "25",
-  "*.build.version.sdk": "23"
+  "*api_level": "25"
 }

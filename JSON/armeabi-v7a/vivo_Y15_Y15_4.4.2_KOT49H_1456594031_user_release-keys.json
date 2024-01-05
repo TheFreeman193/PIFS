@@ -5,17 +5,14 @@
   "PRODUCT": "Y15",
   "DEVICE": "Y15",
   "RELEASE": "4.4.2",
-  "RELEASE_OR_CODENAME": "4.4.2",
   "ID": "KOT49H",
   "INCREMENTAL": "eng.compiler.1456594031",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "vivo/Y15/Y15:4.4.2/KOT49H/1456594031:user/release-keys",
   "SECURITY_PATCH": "2016-01-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "KOT49H",
   "*.security_patch": "2016-01-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "19"
+  "*api_level": "25"
 }

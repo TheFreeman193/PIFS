@@ -5,17 +5,14 @@
   "PRODUCT": "htc_bravo",
   "DEVICE": "bravo",
   "RELEASE": "2.2.2",
-  "RELEASE_OR_CODENAME": "2.2.2",
   "ID": "FRG83G",
   "INCREMENTAL": "345208.14",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "htc_wwe/htc_bravo/bravo/bravo:2.2.2/FRG83G/345208.14:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 8,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "FRG83G",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "8"
+  "*api_level": "25"
 }

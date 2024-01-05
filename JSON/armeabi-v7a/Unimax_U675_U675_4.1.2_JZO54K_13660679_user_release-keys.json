@@ -5,17 +5,14 @@
   "PRODUCT": "MaxGuava",
   "DEVICE": "msm8625",
   "RELEASE": "4.1.2",
-  "RELEASE_OR_CODENAME": "4.1.2",
   "ID": "JZO54K",
   "INCREMENTAL": "14280318",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Unimax/U675/U675:4.1.2/JZO54K/13660679:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 16,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "JZO54K",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "16"
+  "*api_level": "25"
 }

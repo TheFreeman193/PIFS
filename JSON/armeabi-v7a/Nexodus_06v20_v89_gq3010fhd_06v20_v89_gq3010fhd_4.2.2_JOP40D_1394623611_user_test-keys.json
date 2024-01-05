@@ -5,16 +5,14 @@
   "PRODUCT": "06v20_v89_gq3010fhd",
   "DEVICE": "Homar Serra",
   "RELEASE": "4.2.2",
-  "RELEASE_OR_CODENAME": "4.2.2",
   "ID": "JOP40D",
   "INCREMENTAL": "eng.root.1394623611",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "Nexodus/06v20_v89_gq3010fhd/06v20_v89_gq3010fhd:4.2.2/JOP40D/1394623611:user/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 17,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "JOP40D",
   "*.security_patch": "",
-  "*.build.version.sdk": "17"
+  "*api_level": "25"
 }

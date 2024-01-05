@@ -5,17 +5,14 @@
   "PRODUCT": "GT-S5300",
   "DEVICE": "GT-S5300",
   "RELEASE": "2.3.6",
-  "RELEASE_OR_CODENAME": "2.3.6",
   "ID": "GINGERBREAD",
   "INCREMENTAL": "JPMA1",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "samsung/GT-S5300/GT-S5300:2.3.6/GINGERBREAD/JPMA1:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 10,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "GINGERBREAD",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "10"
+  "*api_level": "25"
 }

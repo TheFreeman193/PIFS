@@ -5,17 +5,14 @@
   "PRODUCT": "full_s101_mt6735m_35u_m",
   "DEVICE": "s101_mt6735m_35u_m",
   "RELEASE": "6.0",
-  "RELEASE_OR_CODENAME": "6.0",
   "ID": "MRA58K",
   "INCREMENTAL": "vFR100408",
   "TYPE": "user",
   "TAGS": "dev-keys",
   "FINGERPRINT": "alps/full_s101_mt6735m_35u_m/s101_mt6735m_35u_m:6.0/MRA58K/vFR100408:user/dev-keys",
   "SECURITY_PATCH": "2016-05-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "MRA58K",
   "*.security_patch": "2016-05-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "23"
+  "*api_level": "25"
 }

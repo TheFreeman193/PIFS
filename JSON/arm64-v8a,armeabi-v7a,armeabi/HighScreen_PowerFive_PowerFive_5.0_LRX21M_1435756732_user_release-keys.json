@@ -5,17 +5,14 @@
   "PRODUCT": "PowerFive",
   "DEVICE": "PowerFive",
   "RELEASE": "5.0",
-  "RELEASE_OR_CODENAME": "5.0",
   "ID": "LRX21M",
   "INCREMENTAL": "1471841972",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "HighScreen/PowerFive/PowerFive:5.0/LRX21M/1435756732:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 21,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "LRX21M",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "21"
+  "*api_level": "25"
 }

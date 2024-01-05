@@ -5,17 +5,14 @@
   "PRODUCT": "full_amar_prc_wifi_com",
   "DEVICE": "amar_prc_wifi_com",
   "RELEASE": "10",
-  "RELEASE_OR_CODENAME": "10",
   "ID": "QP1A.190711.020",
   "INCREMENTAL": "TB-X306F_S2028_200926",
   "TYPE": "userdebug",
   "TAGS": "test-keys",
   "FINGERPRINT": "Lenovo/full_amar_prc_wifi_com/amar_prc_wifi_com:10/QP1A.190711.020/TB-X306F_S2028_200926:userdebug/test-keys",
   "SECURITY_PATCH": "2020-04-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 29,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "QP1A.190711.020",
   "*.security_patch": "2020-04-05",
-  "*api_level": "25",
-  "*.build.version.sdk": "29"
+  "*api_level": "25"
 }

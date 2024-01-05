@@ -5,17 +5,14 @@
   "PRODUCT": "WW_I001D",
   "DEVICE": "ASUS_I001_1",
   "RELEASE": "11",
-  "RELEASE_OR_CODENAME": "11",
   "ID": "RKQ1.200710.002",
   "INCREMENTAL": "18.0210.2201.215-0",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "asus/WW_I001D/ASUS_I001_1:11/RKQ1.200710.002/18.0210.2201.215-0:user/release-keys",
   "SECURITY_PATCH": "2022-01-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 30,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "RKQ1.200710.002",
   "*.security_patch": "2022-01-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "30"
+  "*api_level": "25"
 }

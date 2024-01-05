@@ -5,17 +5,14 @@
   "PRODUCT": "wx_un_do",
   "DEVICE": "shieldtablet",
   "RELEASE": "7.0",
-  "RELEASE_OR_CODENAME": "7.0",
   "ID": "NRD90M",
   "INCREMENTAL": "1928188_1065.2559",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "nvidia/wx_un_do/shieldtablet:7.0/NRD90M/1928188_1065.2559:user/release-keys",
   "SECURITY_PATCH": "2016-08-05",
-  "DEVICE_INITIAL_SDK_INT": 24,
-  "SDK_INT": 24,
+  "DEVICE_INITIAL_SDK_INT": "24",
   "*.build.id": "NRD90M",
   "*.security_patch": "2016-08-05",
-  "*api_level": "24",
-  "*.build.version.sdk": "24"
+  "*api_level": "24"
 }

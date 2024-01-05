@@ -5,17 +5,14 @@
   "PRODUCT": "full_inoco8163_tb_jz_m",
   "DEVICE": "inoco8163_tb_jz_m",
   "RELEASE": "6.0",
-  "RELEASE_OR_CODENAME": "6.0",
   "ID": "MRA58K",
   "INCREMENTAL": "KA11-RTI-6.0-X.1.1.8",
   "TYPE": "userdebug",
   "TAGS": "test-keys",
   "FINGERPRINT": "128",
   "SECURITY_PATCH": "2016-05-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "MRA58K",
   "*.security_patch": "2016-05-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "23"
+  "*api_level": "25"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "Acer_One8-T4-82L",
   "DEVICE": "AcerOne8T482L",
   "RELEASE": "10",
-  "RELEASE_OR_CODENAME": "10",
   "ID": "QP1A.190711.020",
   "INCREMENTAL": "1637807355",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Acer/Acer_One8-T4-82L/AcerOne8T482L:10/QP1A.190711.020/1637807355:user/release-keys",
   "SECURITY_PATCH": "2021-11-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 29,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "QP1A.190711.020",
   "*.security_patch": "2021-11-05",
-  "*api_level": "25",
-  "*.build.version.sdk": "29"
+  "*api_level": "25"
 }

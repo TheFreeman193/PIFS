@@ -5,17 +5,14 @@
   "PRODUCT": "sofia3gr_car_64",
   "DEVICE": "sofia3gr_car",
   "RELEASE": "6.0.1",
-  "RELEASE_OR_CODENAME": "6.0.1",
   "ID": "MMB29M",
   "INCREMENTAL": "eng.build.20170725.090145",
   "TYPE": "userdebug",
   "TAGS": "release-keys",
   "FINGERPRINT": "Android/sofia3gr_car_64/sofia3gr_car:6.0.1/MMB29M/build07250904:userdebug/release-keys",
   "SECURITY_PATCH": "2016-06-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "MMB29M",
   "*.security_patch": "2016-06-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "23"
+  "*api_level": "25"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "sumire",
   "DEVICE": "sumire",
   "RELEASE": "5.1.1",
-  "RELEASE_OR_CODENAME": "5.1.1",
   "ID": "32.0.A.6.152",
   "INCREMENTAL": "1",
   "TYPE": "user",
   "TAGS": "dev-keys",
   "FINGERPRINT": "Sony/sumire/sumire:5.1.1/KITAKAMI2-2.0.2-151020-1824/1:user/dev-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 22,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "32.0.A.6.152",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "22"
+  "*api_level": "25"
 }

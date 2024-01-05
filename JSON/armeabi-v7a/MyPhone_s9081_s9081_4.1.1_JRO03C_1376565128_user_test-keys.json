@@ -5,17 +5,14 @@
   "PRODUCT": "MyPhone A919 Duo",
   "DEVICE": "MyPhone_A919_Duo",
   "RELEASE": "4.1.1",
-  "RELEASE_OR_CODENAME": "4.1.1",
   "ID": "ANDROID L919™ v2.0",
   "INCREMENTAL": "eng.develop.1376565128",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "MyPhone/s9081/s9081:4.1.1/JRO03C/1376565128:user/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 16,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "ANDROID L919™ v2.0",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "16"
+  "*api_level": "25"
 }

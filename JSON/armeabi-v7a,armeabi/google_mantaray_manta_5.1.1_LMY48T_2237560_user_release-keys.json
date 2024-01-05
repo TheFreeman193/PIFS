@@ -5,17 +5,14 @@
   "PRODUCT": "mantaray",
   "DEVICE": "manta",
   "RELEASE": "5.1.1",
-  "RELEASE_OR_CODENAME": "5.1.1",
   "ID": "LMY48T",
   "INCREMENTAL": "2237560",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "google/mantaray/manta:5.1.1/LMY48T/2237560:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 22,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "LMY48T",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "22"
+  "*api_level": "25"
 }

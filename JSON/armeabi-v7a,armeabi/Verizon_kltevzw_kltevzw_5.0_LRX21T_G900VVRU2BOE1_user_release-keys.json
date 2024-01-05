@@ -5,17 +5,14 @@
   "PRODUCT": "kltevzw",
   "DEVICE": "kltevzw",
   "RELEASE": "5.0",
-  "RELEASE_OR_CODENAME": "5.0",
   "ID": "LRX21T",
   "INCREMENTAL": "G900VVRU2BOE1",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Verizon/kltevzw/kltevzw:5.0/LRX21T/G900VVRU2BOE1:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 21,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "LRX21T",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "21"
+  "*api_level": "25"
 }

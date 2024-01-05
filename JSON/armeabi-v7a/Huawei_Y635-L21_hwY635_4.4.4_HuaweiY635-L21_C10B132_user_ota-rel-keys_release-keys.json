@@ -5,17 +5,14 @@
   "PRODUCT": "Y635-L21",
   "DEVICE": "hwY635",
   "RELEASE": "4.4.4",
-  "RELEASE_OR_CODENAME": "4.4.4",
   "ID": "HuaweiY635-L21",
   "INCREMENTAL": "C10B132",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Huawei/Y635-L21/hwY635:4.4.4/HuaweiY635-L21/C10B132:user/ota-rel-keys,release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "HuaweiY635-L21",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "19"
+  "*api_level": "25"
 }

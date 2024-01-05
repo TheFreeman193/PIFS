@@ -5,17 +5,14 @@
   "PRODUCT": "qssi",
   "DEVICE": "qssi",
   "RELEASE": "11",
-  "RELEASE_OR_CODENAME": "11",
   "ID": "RKQ1.210408.001",
   "INCREMENTAL": "1620037230588",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "qti/qssi/qssi:11/RKQ1.210408.001/1620037230588:user/release-keys",
   "SECURITY_PATCH": "2021-12-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 30,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "RKQ1.210408.001",
   "*.security_patch": "2021-12-05",
-  "*api_level": "25",
-  "*.build.version.sdk": "30"
+  "*api_level": "25"
 }

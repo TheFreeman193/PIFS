@@ -5,17 +5,14 @@
   "PRODUCT": "m1v_pp_vzw",
   "DEVICE": "m1v",
   "RELEASE": "6.0.1",
-  "RELEASE_OR_CODENAME": "6.0.1",
   "ID": "MMB29M",
   "INCREMENTAL": "1811519213e5e",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "lge/m1v_pp_vzw/m1v:6.0.1/MMB29M/1811519213e5e:user/release-keys",
   "SECURITY_PATCH": "2018-04-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "MMB29M",
   "*.security_patch": "2018-04-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "23"
+  "*api_level": "25"
 }

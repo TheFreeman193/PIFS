@@ -5,17 +5,14 @@
   "PRODUCT": "WW_Phone",
   "DEVICE": "ASUS_Z00RD_1",
   "RELEASE": "6.0.1",
-  "RELEASE_OR_CODENAME": "6.0.1",
   "ID": "MMB29P",
   "INCREMENTAL": "WW_Phone-13.10.10.25-20160523",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "asus/WW_Phone/ASUS_Z00RD_1:6.0.1/MMB29P/13.10.10.25-20160523:user/release-keys",
   "SECURITY_PATCH": "2016-05-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "MMB29P",
   "*.security_patch": "2016-05-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "23"
+  "*api_level": "25"
 }

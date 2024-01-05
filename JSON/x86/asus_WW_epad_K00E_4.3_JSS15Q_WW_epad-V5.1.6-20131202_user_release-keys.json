@@ -5,17 +5,14 @@
   "PRODUCT": "WW_epad",
   "DEVICE": "K00E",
   "RELEASE": "4.3",
-  "RELEASE_OR_CODENAME": "4.3",
   "ID": "JSS15Q",
   "INCREMENTAL": "WW_epad-V5.1.6-20131202",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "asus/WW_epad/K00E:4.3/JSS15Q/WW_epad-V5.1.6-20131202:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 18,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "JSS15Q",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "18"
+  "*api_level": "25"
 }

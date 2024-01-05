@@ -5,17 +5,14 @@
   "PRODUCT": "falcon_bwaca",
   "DEVICE": "falcon_umts",
   "RELEASE": "5.0.2",
-  "RELEASE_OR_CODENAME": "5.0.2",
   "ID": "LXB22.46-32",
   "INCREMENTAL": "30",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "motorola/falcon_bwaca/falcon_umts:5.0.2/LXB22.46-32/30:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 21,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "LXB22.46-32",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "21"
+  "*api_level": "25"
 }

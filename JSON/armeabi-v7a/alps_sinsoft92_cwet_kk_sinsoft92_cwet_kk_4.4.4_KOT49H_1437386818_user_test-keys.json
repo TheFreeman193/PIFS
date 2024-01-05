@@ -5,17 +5,14 @@
   "PRODUCT": "X340",
   "DEVICE": "FlareXL",
   "RELEASE": "4.4.4",
-  "RELEASE_OR_CODENAME": "4.4.4",
   "ID": "KOT49H",
   "INCREMENTAL": "eng.caojinliang.1437386818",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "alps/sinsoft92_cwet_kk/sinsoft92_cwet_kk:4.4.4/KOT49H/1437386818:user/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "KOT49H",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "19"
+  "*api_level": "25"
 }

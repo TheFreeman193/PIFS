@@ -5,17 +5,14 @@
   "PRODUCT": "P175A20",
   "DEVICE": "P175A20",
   "RELEASE": "4.0.4",
-  "RELEASE_OR_CODENAME": "4.0.4",
   "ID": "IMM76D",
   "INCREMENTAL": "eng.zte.20121207.121918",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "ZTE/P175A20/P175A20:4.0.4/IMM76D/20121207.121918:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 15,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "IMM76D",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "15"
+  "*api_level": "25"
 }

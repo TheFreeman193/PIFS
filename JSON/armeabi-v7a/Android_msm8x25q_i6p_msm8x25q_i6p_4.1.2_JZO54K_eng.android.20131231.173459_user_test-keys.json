@@ -5,16 +5,14 @@
   "PRODUCT": "msm8x25q_i6p",
   "DEVICE": "msm8x25q_i6p",
   "RELEASE": "4.1.2",
-  "RELEASE_OR_CODENAME": "4.1.2",
   "ID": "JZO54K",
   "INCREMENTAL": "eng.android.20131231.173459",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "Android/msm8x25q_i6p/msm8x25q_i6p:4.1.2/JZO54K/eng.android.20131231.173459:user/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 16,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "JZO54K",
   "*.security_patch": "",
-  "*.build.version.sdk": "16"
+  "*api_level": "25"
 }

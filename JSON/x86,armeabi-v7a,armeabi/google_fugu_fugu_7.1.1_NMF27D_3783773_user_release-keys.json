@@ -5,17 +5,14 @@
   "PRODUCT": "fugu",
   "DEVICE": "fugu",
   "RELEASE": "7.1.1",
-  "RELEASE_OR_CODENAME": "7.1.1",
   "ID": "NMF27D",
   "INCREMENTAL": "3783773",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "google/fugu/fugu:7.1.1/NMF27D/3783773:user/release-keys",
   "SECURITY_PATCH": "2016-12-01",
-  "DEVICE_INITIAL_SDK_INT": 21,
-  "SDK_INT": 25,
+  "DEVICE_INITIAL_SDK_INT": "21",
   "*.build.id": "NMF27D",
   "*.security_patch": "2016-12-01",
-  "*api_level": "21",
-  "*.build.version.sdk": "25"
+  "*api_level": "21"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "joya82_wet_kk",
   "DEVICE": "joya82_wet_kk",
   "RELEASE": "6.0",
-  "RELEASE_OR_CODENAME": "6.0",
   "ID": "KOT49H",
   "INCREMENTAL": "eng.twd.1514873142",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "alps/joya82_wet_kk/joya82_wet_kk:4.4.2/KOT49H/1514873142:user/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "KOT49H",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "19"
+  "*api_level": "25"
 }

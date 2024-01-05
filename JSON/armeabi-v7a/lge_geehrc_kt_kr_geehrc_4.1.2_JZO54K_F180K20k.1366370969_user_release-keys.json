@@ -5,17 +5,14 @@
   "PRODUCT": "geehrc_kt_kr",
   "DEVICE": "geehrc",
   "RELEASE": "4.1.2",
-  "RELEASE_OR_CODENAME": "4.1.2",
   "ID": "JZO54K",
   "INCREMENTAL": "F180K20k.1366370969",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "lge/geehrc_kt_kr/geehrc:4.1.2/JZO54K/F180K20k.1366370969:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 16,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "JZO54K",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "16"
+  "*api_level": "25"
 }

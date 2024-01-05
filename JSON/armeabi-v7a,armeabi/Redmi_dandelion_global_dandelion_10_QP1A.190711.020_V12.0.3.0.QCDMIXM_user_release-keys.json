@@ -5,17 +5,14 @@
   "PRODUCT": "dandelion_global",
   "DEVICE": "dandelion",
   "RELEASE": "10",
-  "RELEASE_OR_CODENAME": "10",
   "ID": "QP1A.190711.020",
   "INCREMENTAL": "V12.0.3.0.QCDMIXM",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Redmi/dandelion_global/dandelion:10/QP1A.190711.020/V12.0.3.0.QCDMIXM:user/release-keys",
   "SECURITY_PATCH": "2020-07-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 29,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "QP1A.190711.020",
   "*.security_patch": "2020-07-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "29"
+  "*api_level": "25"
 }

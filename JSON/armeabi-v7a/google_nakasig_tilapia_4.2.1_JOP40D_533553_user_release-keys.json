@@ -5,17 +5,14 @@
   "PRODUCT": "nakasig",
   "DEVICE": "tilapia",
   "RELEASE": "4.2.1",
-  "RELEASE_OR_CODENAME": "4.2.1",
   "ID": "JOP40D",
   "INCREMENTAL": "533553",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "google/nakasig/tilapia:4.2.1/JOP40D/533553:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 17,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "JOP40D",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "17"
+  "*api_level": "25"
 }

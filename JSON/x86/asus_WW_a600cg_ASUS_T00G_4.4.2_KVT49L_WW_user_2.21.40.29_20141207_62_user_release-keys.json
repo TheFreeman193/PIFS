@@ -5,17 +5,14 @@
   "PRODUCT": "WW_a600cg",
   "DEVICE": "ASUS_T00G",
   "RELEASE": "4.4.2",
-  "RELEASE_OR_CODENAME": "4.4.2",
   "ID": "KVT49L",
   "INCREMENTAL": "WW_a600cg-WW_user_2.21.40.29_20141207_62-user-20141207",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "asus/WW_a600cg/ASUS_T00G:4.4.2/KVT49L/WW_user_2.21.40.29_20141207_62:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "KVT49L",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "19"
+  "*api_level": "25"
 }

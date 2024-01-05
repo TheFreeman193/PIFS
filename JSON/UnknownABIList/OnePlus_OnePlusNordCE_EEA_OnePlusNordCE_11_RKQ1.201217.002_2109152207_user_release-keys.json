@@ -5,17 +5,14 @@
   "PRODUCT": "OnePlusNordCE_EEA",
   "DEVICE": "OnePlusNordCE",
   "RELEASE": "11",
-  "RELEASE_OR_CODENAME": "11",
   "ID": "RKQ1.201217.002",
   "INCREMENTAL": "2109152207",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "OnePlus/OnePlusNordCE_EEA/OnePlusNordCE:11/RKQ1.201217.002/2109152207:user/release-keys",
   "SECURITY_PATCH": "2021-09-01",
-  "DEVICE_INITIAL_SDK_INT": 30,
-  "SDK_INT": 30,
+  "DEVICE_INITIAL_SDK_INT": "30",
   "*.build.id": "RKQ1.201217.002",
   "*.security_patch": "2021-09-01",
-  "*api_level": "30",
-  "*.build.version.sdk": "30"
+  "*api_level": "30"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "a3y17ltexx",
   "DEVICE": "a3y17lte",
   "RELEASE": "8.0.0",
-  "RELEASE_OR_CODENAME": "8.0.0",
   "ID": "R16NW",
   "INCREMENTAL": "A320FXXS7CTI1",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "samsung/a3y17ltexx/a3y17lte:8.0.0/R16NW/A320FXXS7CTI1:user/release-keys",
   "SECURITY_PATCH": "2020-09-01",
-  "DEVICE_INITIAL_SDK_INT": 23,
-  "SDK_INT": 26,
+  "DEVICE_INITIAL_SDK_INT": "23",
   "*.build.id": "R16NW",
   "*.security_patch": "2020-09-01",
-  "*api_level": "23",
-  "*.build.version.sdk": "26"
+  "*api_level": "23"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "ST23i_1266-5470",
   "DEVICE": "ST23i",
   "RELEASE": "4.0.4",
-  "RELEASE_OR_CODENAME": "4.0.4",
   "ID": "11.0.A.5.8",
   "INCREMENTAL": "46N97g",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Sony/ST23i_1266-5470/ST23i:4.0.4/11.0.A.5.8/46N97g:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 15,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "11.0.A.5.8",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "15"
+  "*api_level": "25"
 }

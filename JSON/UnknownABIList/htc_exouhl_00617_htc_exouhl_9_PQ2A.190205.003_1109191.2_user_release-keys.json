@@ -5,17 +5,14 @@
   "PRODUCT": "exouhl_00617",
   "DEVICE": "htc_exouhl",
   "RELEASE": "9",
-  "RELEASE_OR_CODENAME": "9",
   "ID": "PQ2A.190205.003",
   "INCREMENTAL": "1109191.2",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "htc/exouhl_00617/htc_exouhl:9/PQ2A.190205.003/1109191.2:user/release-keys",
   "SECURITY_PATCH": "2020-03-01",
-  "DEVICE_INITIAL_SDK_INT": 28,
-  "SDK_INT": 28,
+  "DEVICE_INITIAL_SDK_INT": "28",
   "*.build.id": "PQ2A.190205.003",
   "*.security_patch": "2020-03-01",
-  "*api_level": "28",
-  "*.build.version.sdk": "28"
+  "*api_level": "28"
 }

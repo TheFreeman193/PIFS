@@ -5,17 +5,14 @@
   "PRODUCT": "GT-N7000",
   "DEVICE": "GT-N7000",
   "RELEASE": "4.0.3",
-  "RELEASE_OR_CODENAME": "4.0.3",
   "ID": "IML74K",
   "INCREMENTAL": "JPLPD",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "samsung/GT-N7000/GT-N7000:4.0.3/IML74K/JPLPD:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 15,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "IML74K",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "15"
+  "*api_level": "25"
 }

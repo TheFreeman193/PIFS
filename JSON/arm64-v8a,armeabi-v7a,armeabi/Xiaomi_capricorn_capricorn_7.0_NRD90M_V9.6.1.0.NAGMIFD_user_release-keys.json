@@ -5,17 +5,14 @@
   "PRODUCT": "capricorn",
   "DEVICE": "capricorn",
   "RELEASE": "7.0",
-  "RELEASE_OR_CODENAME": "7.0",
   "ID": "NRD90M",
   "INCREMENTAL": "V9.6.1.0.NAGMIFD",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Xiaomi/capricorn/capricorn:7.0/NRD90M/V9.6.1.0.NAGMIFD:user/release-keys",
   "SECURITY_PATCH": "2018-05-01",
-  "DEVICE_INITIAL_SDK_INT": 23,
-  "SDK_INT": 24,
+  "DEVICE_INITIAL_SDK_INT": "23",
   "*.build.id": "NRD90M",
   "*.security_patch": "2018-05-01",
-  "*api_level": "23",
-  "*.build.version.sdk": "24"
+  "*api_level": "23"
 }

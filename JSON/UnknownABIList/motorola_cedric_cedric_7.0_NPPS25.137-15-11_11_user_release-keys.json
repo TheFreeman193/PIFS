@@ -5,17 +5,14 @@
   "PRODUCT": "cedric",
   "DEVICE": "cedric",
   "RELEASE": "7.0",
-  "RELEASE_OR_CODENAME": "7.0",
   "ID": "NPPS25.137-15-11",
   "INCREMENTAL": "11",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "motorola/cedric/cedric:7.0/NPPS25.137-15-11/11:user/release-keys",
   "SECURITY_PATCH": "2016-08-05",
-  "DEVICE_INITIAL_SDK_INT": 24,
-  "SDK_INT": 24,
+  "DEVICE_INITIAL_SDK_INT": "24",
   "*.build.id": "NPPS25.137-15-11",
   "*.security_patch": "2016-08-05",
-  "*api_level": "24",
-  "*.build.version.sdk": "24"
+  "*api_level": "24"
 }

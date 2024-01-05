@@ -5,17 +5,14 @@
   "PRODUCT": "U8510",
   "DEVICE": "u8510",
   "RELEASE": "2.3.7",
-  "RELEASE_OR_CODENAME": "2.3.7",
   "ID": "LightWeight CM X3-teammat3",
   "INCREMENTAL": "eng.stone.20120322.005738",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "Huawei/U8510/hwu8510:2.3.3/HuaweiU8510/C169B831:user/ota-rel-keys,release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 10,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "LightWeight CM X3-teammat3",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "10"
+  "*api_level": "25"
 }

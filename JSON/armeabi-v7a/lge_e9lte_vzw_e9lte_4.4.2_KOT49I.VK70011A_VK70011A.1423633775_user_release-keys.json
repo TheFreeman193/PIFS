@@ -5,17 +5,14 @@
   "PRODUCT": "e9lte_vzw",
   "DEVICE": "e9lte",
   "RELEASE": "4.4.2",
-  "RELEASE_OR_CODENAME": "4.4.2",
   "ID": "KOT49I.VK70011A",
   "INCREMENTAL": "VK70011A.1423633775",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "lge/e9lte_vzw/e9lte:4.4.2/KOT49I.VK70011A/VK70011A.1423633775:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "KOT49I.VK70011A",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "19"
+  "*api_level": "25"
 }

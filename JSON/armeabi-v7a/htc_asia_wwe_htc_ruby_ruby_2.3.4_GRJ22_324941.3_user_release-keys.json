@@ -5,17 +5,14 @@
   "PRODUCT": "htc_ruby",
   "DEVICE": "ruby",
   "RELEASE": "2.3.4",
-  "RELEASE_OR_CODENAME": "2.3.4",
   "ID": "GRJ22",
   "INCREMENTAL": "324941.3",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "htc_asia_wwe/htc_ruby/ruby:2.3.4/GRJ22/324941.3:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 10,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "GRJ22",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "10"
+  "*api_level": "25"
 }

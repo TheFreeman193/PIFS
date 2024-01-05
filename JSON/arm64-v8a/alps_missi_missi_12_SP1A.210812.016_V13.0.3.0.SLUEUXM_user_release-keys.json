@@ -5,17 +5,14 @@
   "PRODUCT": "missi",
   "DEVICE": "missi",
   "RELEASE": "12",
-  "RELEASE_OR_CODENAME": "12",
   "ID": "SP1A.210812.016",
   "INCREMENTAL": "V13.0.3.0.SLUEUXM",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "alps/missi/missi:12/SP1A.210812.016/V13.0.3.0.SLUEUXM:user/release-keys",
   "SECURITY_PATCH": "2022-08-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 31,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "SP1A.210812.016",
   "*.security_patch": "2022-08-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "31"
+  "*api_level": "25"
 }

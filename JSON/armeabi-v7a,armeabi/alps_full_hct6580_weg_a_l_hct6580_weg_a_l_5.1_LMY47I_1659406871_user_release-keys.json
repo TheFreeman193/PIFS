@@ -5,17 +5,14 @@
   "PRODUCT": "M12_Pro",
   "DEVICE": "M12_Pro",
   "RELEASE": "5.0",
-  "RELEASE_OR_CODENAME": "5.0",
   "ID": "LRX21M",
   "INCREMENTAL": "1659406871",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "alps/full_hct6580_weg_a_l/hct6580_weg_a_l:5.1/LMY47I/1659406871:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 21,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "LRX21M",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "21"
+  "*api_level": "25"
 }

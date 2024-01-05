@@ -5,17 +5,14 @@
   "PRODUCT": "Deadmau5_04US",
   "DEVICE": "DM5",
   "RELEASE": "11",
-  "RELEASE_OR_CODENAME": "11",
   "ID": "RKQ1.210528.001",
   "INCREMENTAL": "04US_1_650",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Nokia/Deadmau5_04US/DM5:11/RKQ1.210528.001/04US_1_650:user/release-keys",
   "SECURITY_PATCH": "2023-07-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 30,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "RKQ1.210528.001",
   "*.security_patch": "2023-07-05",
-  "*api_level": "25",
-  "*.build.version.sdk": "30"
+  "*api_level": "25"
 }

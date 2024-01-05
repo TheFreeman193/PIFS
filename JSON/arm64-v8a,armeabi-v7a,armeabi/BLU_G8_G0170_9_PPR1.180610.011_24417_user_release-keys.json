@@ -5,17 +5,14 @@
   "PRODUCT": "G8",
   "DEVICE": "G0170",
   "RELEASE": "9",
-  "RELEASE_OR_CODENAME": "9",
   "ID": "PPR1.180610.011",
   "INCREMENTAL": "24417",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "BLU/G8/G0170:9/PPR1.180610.011/24417:user/release-keys",
   "SECURITY_PATCH": "2019-05-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 28,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "PPR1.180610.011",
   "*.security_patch": "2019-05-05",
-  "*api_level": "25",
-  "*.build.version.sdk": "28"
+  "*api_level": "25"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "greatltexx",
   "DEVICE": "greatlte",
   "RELEASE": "7.1.1",
-  "RELEASE_OR_CODENAME": "7.1.1",
   "ID": "NMF26X",
   "INCREMENTAL": "N950FXXU3BRA8",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "samsung/greatltexx/greatlte:7.1.1/NMF26X/N950FXXU3BRA8:user/release-keys",
   "SECURITY_PATCH": "2018-01-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 25,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "NMF26X",
   "*.security_patch": "2018-01-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "25"
+  "*api_level": "25"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "INTEX_AQUA_SELFIE",
   "DEVICE": "INTEX_AQUA_SELFIE",
   "RELEASE": "7.0",
-  "RELEASE_OR_CODENAME": "7.0",
   "ID": "NRD90M",
   "INCREMENTAL": "92",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "INTEX/INTEX_AQUA_SELFIE/INTEX_AQUA_SELFIE:7.0/NRD90M/92:user/release-keys",
   "SECURITY_PATCH": "2017-04-05",
-  "DEVICE_INITIAL_SDK_INT": 24,
-  "SDK_INT": 24,
+  "DEVICE_INITIAL_SDK_INT": "24",
   "*.build.id": "NRD90M",
   "*.security_patch": "2017-04-05",
-  "*api_level": "24",
-  "*.build.version.sdk": "24"
+  "*api_level": "24"
 }

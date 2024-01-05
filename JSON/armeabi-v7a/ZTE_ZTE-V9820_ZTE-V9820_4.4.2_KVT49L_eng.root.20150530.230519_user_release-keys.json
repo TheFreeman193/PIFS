@@ -5,17 +5,14 @@
   "PRODUCT": "ZTE-V9820",
   "DEVICE": "ZTE-V9820",
   "RELEASE": "4.4.2",
-  "RELEASE_OR_CODENAME": "4.4.2",
   "ID": "KVT49L",
   "INCREMENTAL": "eng.root.20150530.230519",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "ZTE/ZTE-V9820/ZTE-V9820:4.4.2/KVT49L/eng.root.20150530.230519:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "KVT49L",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "19"
+  "*api_level": "25"
 }

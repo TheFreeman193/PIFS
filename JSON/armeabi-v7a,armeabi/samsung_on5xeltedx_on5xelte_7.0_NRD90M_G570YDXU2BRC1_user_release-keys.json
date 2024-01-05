@@ -5,17 +5,14 @@
   "PRODUCT": "on5xeltedx",
   "DEVICE": "on5xelte",
   "RELEASE": "7.0",
-  "RELEASE_OR_CODENAME": "7.0",
   "ID": "NRD90M",
   "INCREMENTAL": "G570YDXU2BRC1",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "samsung/on5xeltedx/on5xelte:7.0/NRD90M/G570YDXU2BRC1:user/release-keys",
   "SECURITY_PATCH": "2018-03-01",
-  "DEVICE_INITIAL_SDK_INT": 23,
-  "SDK_INT": 24,
+  "DEVICE_INITIAL_SDK_INT": "23",
   "*.build.id": "NRD90M",
   "*.security_patch": "2018-03-01",
-  "*api_level": "23",
-  "*.build.version.sdk": "24"
+  "*api_level": "23"
 }

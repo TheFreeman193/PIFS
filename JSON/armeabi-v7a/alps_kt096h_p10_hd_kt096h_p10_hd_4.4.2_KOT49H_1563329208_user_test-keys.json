@@ -5,17 +5,14 @@
   "PRODUCT": "kt096h_p10_hd",
   "DEVICE": "kt096h_p10_hd",
   "RELEASE": "8.1",
-  "RELEASE_OR_CODENAME": "8.1",
   "ID": "KOT49H",
   "INCREMENTAL": "eng.decent.1563329208",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "alps/kt096h_p10_hd/kt096h_p10_hd:4.4.2/KOT49H/1563329208:user/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "KOT49H",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "19"
+  "*api_level": "25"
 }

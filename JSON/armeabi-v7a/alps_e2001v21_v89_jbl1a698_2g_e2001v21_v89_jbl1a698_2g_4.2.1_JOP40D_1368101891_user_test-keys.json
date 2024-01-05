@@ -5,17 +5,14 @@
   "PRODUCT": "e2001v21_v89_jbl1a698_2g",
   "DEVICE": "e2001v21_v89_jbl1a698_2g",
   "RELEASE": "4.2.1",
-  "RELEASE_OR_CODENAME": "4.2.1",
   "ID": "JOP40D",
   "INCREMENTAL": "eng.root.1368101891",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "alps/e2001v21_v89_jbl1a698_2g/e2001v21_v89_jbl1a698_2g:4.2.1/JOP40D/1368101891:user/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 17,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "JOP40D",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "17"
+  "*api_level": "25"
 }

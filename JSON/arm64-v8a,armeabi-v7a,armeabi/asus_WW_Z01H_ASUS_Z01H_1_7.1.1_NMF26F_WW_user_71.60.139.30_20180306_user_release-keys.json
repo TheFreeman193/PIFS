@@ -5,17 +5,14 @@
   "PRODUCT": "WW_Z01H",
   "DEVICE": "ASUS_Z01H_1",
   "RELEASE": "7.1.1",
-  "RELEASE_OR_CODENAME": "7.1.1",
   "ID": "NMF26F",
   "INCREMENTAL": "WW_Z01H-WW_user_71.60.139.30_20180306-user-20180306",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "asus/WW_Z01H/ASUS_Z01H_1:7.1.1/NMF26F/WW_user_71.60.139.30_20180306:user/release-keys",
   "SECURITY_PATCH": "2018-02-05",
-  "DEVICE_INITIAL_SDK_INT": 23,
-  "SDK_INT": 25,
+  "DEVICE_INITIAL_SDK_INT": "23",
   "*.build.id": "NMF26F",
   "*.security_patch": "2018-02-05",
-  "*api_level": "23",
-  "*.build.version.sdk": "25"
+  "*api_level": "23"
 }

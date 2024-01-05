@@ -5,17 +5,14 @@
   "PRODUCT": "C5502",
   "DEVICE": "C5502",
   "RELEASE": "5.0.2",
-  "RELEASE_OR_CODENAME": "5.0.2",
   "ID": "10.6.A.0.454",
   "INCREMENTAL": "266452109",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Sony/C5502/C5502:5.0.2/10.6.A.0.454/266452109:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 21,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "10.6.A.0.454",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "21"
+  "*api_level": "25"
 }

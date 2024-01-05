@@ -5,17 +5,14 @@
   "PRODUCT": "Plane S7.0 3G",
   "DEVICE": "PS7005MG",
   "RELEASE": "5.1",
-  "RELEASE_OR_CODENAME": "5.1",
   "ID": "LMY47I",
   "INCREMENTAL": "1447063912",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "alps/full_elink8321_emmc/elink8321_emmc:5.1/LMY47I/1447063912:user/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 22,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "LMY47I",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "22"
+  "*api_level": "25"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "s9_1602",
   "DEVICE": "s9_1602",
   "RELEASE": "4.0.3",
-  "RELEASE_OR_CODENAME": "4.0.3",
   "ID": "IML74K",
   "INCREMENTAL": "27",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "S9_6825C_SC2330B_KEYING_16+2_RC_131223",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 15,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "IML74K",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "15"
+  "*api_level": "25"
 }

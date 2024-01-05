@@ -5,17 +5,14 @@
   "PRODUCT": "S2 LITE",
   "DEVICE": "S2 LITE",
   "RELEASE": "7.0",
-  "RELEASE_OR_CODENAME": "7.0",
   "ID": "NRD90M",
   "INCREMENTAL": "1522652643",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "UMIDIGI/S2_PRO/S2_PRO:7.0/NRD90M/1514359813:user/release-keys",
   "SECURITY_PATCH": "2017-10-05",
-  "DEVICE_INITIAL_SDK_INT": 24,
-  "SDK_INT": 24,
+  "DEVICE_INITIAL_SDK_INT": "24",
   "*.build.id": "NRD90M",
   "*.security_patch": "2017-10-05",
-  "*api_level": "24",
-  "*.build.version.sdk": "24"
+  "*api_level": "24"
 }

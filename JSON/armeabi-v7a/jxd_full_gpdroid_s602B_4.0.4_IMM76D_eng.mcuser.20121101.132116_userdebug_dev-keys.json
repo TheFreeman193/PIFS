@@ -5,17 +5,14 @@
   "PRODUCT": "full_gpdroid",
   "DEVICE": "s602B",
   "RELEASE": "4.0.4",
-  "RELEASE_OR_CODENAME": "4.0.4",
   "ID": "IMM76D",
   "INCREMENTAL": "eng.mcuser.20121101.132116",
   "TYPE": "userdebug",
   "TAGS": "dev-keys",
   "FINGERPRINT": "jxd/full_gpdroid/s602B:4.0.4/IMM76D/eng.mcuser.20121101.132116:userdebug/dev-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 15,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "IMM76D",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "15"
+  "*api_level": "25"
 }

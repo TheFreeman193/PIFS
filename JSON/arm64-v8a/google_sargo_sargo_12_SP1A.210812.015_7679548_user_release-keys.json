@@ -5,17 +5,14 @@
   "PRODUCT": "sargo",
   "DEVICE": "sargo",
   "RELEASE": "12",
-  "RELEASE_OR_CODENAME": "12",
   "ID": "SP1A.210812.015",
   "INCREMENTAL": "7679548",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "google/sargo/sargo:12/SP1A.210812.015/7679548:user/release-keys",
   "SECURITY_PATCH": "2021-10-05",
-  "DEVICE_INITIAL_SDK_INT": 28,
-  "SDK_INT": 31,
+  "DEVICE_INITIAL_SDK_INT": "28",
   "*.build.id": "SP1A.210812.015",
   "*.security_patch": "2021-10-05",
-  "*api_level": "28",
-  "*.build.version.sdk": "31"
+  "*api_level": "28"
 }

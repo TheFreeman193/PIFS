@@ -5,17 +5,14 @@
   "PRODUCT": "D6603",
   "DEVICE": "D6603",
   "RELEASE": "6.0.1",
-  "RELEASE_OR_CODENAME": "6.0.1",
   "ID": "23.5.A.1.291",
   "INCREMENTAL": "2769308465",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Sony/D6603/D6603:6.0.1/23.5.A.1.291/2769308465:user/release-keys",
   "SECURITY_PATCH": "2016-05-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "23.5.A.1.291",
   "*.security_patch": "2016-05-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "23"
+  "*api_level": "25"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "generic_a53",
   "DEVICE": "generic_a53",
   "RELEASE": "7.0",
-  "RELEASE_OR_CODENAME": "7.0",
   "ID": "NRD90M",
   "INCREMENTAL": "eng.jslave.20181012.120539",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "Huawei/generic_a53/generic_a53:7.0/NRD90M/jslave10121205:user/test-keys",
   "SECURITY_PATCH": "2018-10-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 24,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "NRD90M",
   "*.security_patch": "2018-10-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "24"
+  "*api_level": "25"
 }

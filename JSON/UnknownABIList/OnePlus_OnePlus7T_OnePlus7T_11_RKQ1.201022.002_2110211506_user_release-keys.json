@@ -5,17 +5,14 @@
   "PRODUCT": "OnePlus7T",
   "DEVICE": "OnePlus7T",
   "RELEASE": "11",
-  "RELEASE_OR_CODENAME": "11",
   "ID": "RKQ1.201022.002",
   "INCREMENTAL": "2110211506",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "OnePlus/OnePlus7T/OnePlus7T:11/RKQ1.201022.002/2110211506:user/release-keys",
   "SECURITY_PATCH": "2021-10-01",
-  "DEVICE_INITIAL_SDK_INT": 29,
-  "SDK_INT": 30,
+  "DEVICE_INITIAL_SDK_INT": "29",
   "*.build.id": "RKQ1.201022.002",
   "*.security_patch": "2021-10-01",
-  "*api_level": "29",
-  "*.build.version.sdk": "30"
+  "*api_level": "29"
 }

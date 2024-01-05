@@ -5,17 +5,14 @@
   "PRODUCT": "MS40G",
   "DEVICE": "ML-TI-MS40G",
   "RELEASE": "8.1.0",
-  "RELEASE_OR_CODENAME": "8.1.0",
   "ID": "V15_20191014",
   "INCREMENTAL": "main_8",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Multilaser/MS40G/ML-TI-MS40G:8.1.0/V15_20191014/main_8:user/release-keys",
   "SECURITY_PATCH": "2019-10-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 27,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "V15_20191014",
   "*.security_patch": "2019-10-05",
-  "*api_level": "25",
-  "*.build.version.sdk": "27"
+  "*api_level": "25"
 }

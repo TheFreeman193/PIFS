@@ -5,17 +5,14 @@
   "PRODUCT": "X40i",
   "DEVICE": "X40i",
   "RELEASE": "4.0.4",
-  "RELEASE_OR_CODENAME": "4.0.4",
   "ID": "BCM21654AndroidTK_SystemRel_1.3.2P.05",
   "INCREMENTAL": "eng.root.20121226.202606",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "BRCM/X40i/X40i:4.0.4/BCM21654AndroidTK_SystemRel_1.3.2P.05/eng.root.20121226.202606:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 15,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "BCM21654AndroidTK_SystemRel_1.3.2P.05",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "15"
+  "*api_level": "25"
 }

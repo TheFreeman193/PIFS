@@ -5,17 +5,14 @@
   "PRODUCT": "sp6825c2_x12e_32v4_jxt_t8_v10_c_fl",
   "DEVICE": "sp6825c2_x12e_32v4_jxt_t8_v10_c_fl",
   "RELEASE": "4.0.3",
-  "RELEASE_OR_CODENAME": "4.0.3",
   "ID": "IML74K",
   "INCREMENTAL": "eng.daiweiping.20171208.163910",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "4G/sp6825c2_x12e_32v4_jxt_t8_v10_c_fl/sp6825c2_x12e_32v4_jxt_t8_v10_c_fl:4.0.3/IML74K/eng.daiweiping.20171208.163910:user/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 15,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "IML74K",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "15"
+  "*api_level": "25"
 }

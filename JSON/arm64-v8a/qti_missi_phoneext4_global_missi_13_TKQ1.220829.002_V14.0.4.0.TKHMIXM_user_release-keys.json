@@ -5,17 +5,14 @@
   "PRODUCT": "missi",
   "DEVICE": "missi",
   "RELEASE": "13",
-  "RELEASE_OR_CODENAME": "13",
   "ID": "TKQ1.220829.002",
   "INCREMENTAL": "V14.0.4.0.TKHMIXM",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "qti/missi_phoneext4_global/missi:13/TKQ1.220829.002/V14.0.4.0.TKHMIXM:user/release-keys",
   "SECURITY_PATCH": "2023-02-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 33,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "TKQ1.220829.002",
   "*.security_patch": "2023-02-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "33"
+  "*api_level": "25"
 }

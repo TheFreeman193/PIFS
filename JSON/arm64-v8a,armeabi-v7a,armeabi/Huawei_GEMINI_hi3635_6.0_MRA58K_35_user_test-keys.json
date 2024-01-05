@@ -5,17 +5,14 @@
   "PRODUCT": "GEM-703L",
   "DEVICE": "HWGemini",
   "RELEASE": "6.0",
-  "RELEASE_OR_CODENAME": "6.0",
   "ID": "HUAWEIGEM-703L",
   "INCREMENTAL": "C233B212",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Huawei/GEMINI/hi3635:6.0/MRA58K/35:user/test-keys",
   "SECURITY_PATCH": "2016-08-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "HUAWEIGEM-703L",
   "*.security_patch": "2016-08-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "23"
+  "*api_level": "25"
 }

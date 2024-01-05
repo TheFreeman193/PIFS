@@ -5,17 +5,14 @@
   "PRODUCT": "JLab_PRO_7",
   "DEVICE": "JLab_PRO_7",
   "RELEASE": "4.4.2",
-  "RELEASE_OR_CODENAME": "4.4.2",
   "ID": "KOT49H",
   "INCREMENTAL": "20141211",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "JLab//polaris-p1gms:4.4.2/2.0/20140823:user/release-key",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "KOT49H",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "19"
+  "*api_level": "25"
 }

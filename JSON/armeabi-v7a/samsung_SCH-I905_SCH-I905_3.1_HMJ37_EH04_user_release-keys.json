@@ -5,17 +5,14 @@
   "PRODUCT": "SCH-I905",
   "DEVICE": "p4vzw",
   "RELEASE": "4.0.3",
-  "RELEASE_OR_CODENAME": "4.0.3",
   "ID": "IML74K",
   "INCREMENTAL": "eng.roman.20120307.212644",
   "TYPE": "userdebug",
   "TAGS": "release-keys",
   "FINGERPRINT": "samsung/SCH-I905/SCH-I905:3.1/HMJ37/EH04:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 15,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "IML74K",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "15"
+  "*api_level": "25"
 }

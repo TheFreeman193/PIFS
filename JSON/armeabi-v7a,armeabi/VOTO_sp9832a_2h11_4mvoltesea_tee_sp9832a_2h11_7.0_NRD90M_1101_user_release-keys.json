@@ -5,17 +5,14 @@
   "PRODUCT": "VOTO V2",
   "DEVICE": "VOTO_V2",
   "RELEASE": "7.0",
-  "RELEASE_OR_CODENAME": "7.0",
   "ID": "NRD90M",
   "INCREMENTAL": "eng.ldk.20171101.140050",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "VOTO/sp9832a_2h11_4mvoltesea_tee/sp9832a_2h11:7.0/NRD90M/1101:user/release-keys",
   "SECURITY_PATCH": "2017-09-05",
-  "DEVICE_INITIAL_SDK_INT": 24,
-  "SDK_INT": 24,
+  "DEVICE_INITIAL_SDK_INT": "24",
   "*.build.id": "NRD90M",
   "*.security_patch": "2017-09-05",
-  "*api_level": "24",
-  "*.build.version.sdk": "24"
+  "*api_level": "24"
 }

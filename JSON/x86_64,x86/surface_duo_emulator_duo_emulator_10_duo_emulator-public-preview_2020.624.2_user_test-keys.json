@@ -5,17 +5,14 @@
   "PRODUCT": "duo_emulator",
   "DEVICE": "duo_emulator",
   "RELEASE": "10",
-  "RELEASE_OR_CODENAME": "10",
   "ID": "duo_emulator-public-preview",
   "INCREMENTAL": "2020.624.2",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "surface/duo_emulator/duo_emulator:10/duo_emulator-public-preview/2020.624.2:user/test-keys",
   "SECURITY_PATCH": "2020-01-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 29,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "duo_emulator-public-preview",
   "*.security_patch": "2020-01-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "29"
+  "*api_level": "25"
 }

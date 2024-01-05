@@ -5,17 +5,14 @@
   "PRODUCT": "Q4251",
   "DEVICE": "Q4251",
   "RELEASE": "6.0.1",
-  "RELEASE_OR_CODENAME": "6.0.1",
   "ID": "MMB29M",
   "INCREMENTAL": "eng.spwork.20170119.215011",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Micromax/Q4251/Q4251:6.0.1/MMB29M/spwork11232047:user/release-keys",
   "SECURITY_PATCH": "2016-11-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "MMB29M",
   "*.security_patch": "2016-11-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "23"
+  "*api_level": "25"
 }

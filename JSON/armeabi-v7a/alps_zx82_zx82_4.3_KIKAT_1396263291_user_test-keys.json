@@ -5,17 +5,14 @@
   "PRODUCT": "SM-N900",
   "DEVICE": "SM-N900",
   "RELEASE": "4.3",
-  "RELEASE_OR_CODENAME": "4.3",
   "ID": "JSS15J.N900UBUBMJ2",
   "INCREMENTAL": "eng.zhanghongqiang.1396263291",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "alps/zx82/zx82:4.3/KIKAT/1396263291:user/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 17,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "JSS15J.N900UBUBMJ2",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "17"
+  "*api_level": "25"
 }

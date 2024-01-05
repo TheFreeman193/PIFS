@@ -1,20 +1,18 @@
 {
-  "MANUFACTURER": "alps",
+  "MANUFACTURER": "Android",
   "MODEL": "lenovoA820s",
   "BRAND": "lenovo",
   "PRODUCT": "wm002_emmc",
   "DEVICE": "Android",
   "RELEASE": "4.2.3",
-  "RELEASE_OR_CODENAME": "4.2.3",
   "ID": "JDQ39",
   "INCREMENTAL": "eng.root.1393321021",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "alps/wm002_emmc/wm002_emmc:4.2.3/JDQ39/1393321021:user/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 17,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "JDQ39",
   "*.security_patch": "",
-  "*.build.version.sdk": "17"
+  "*api_level": "25"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "onc",
   "DEVICE": "onc",
   "RELEASE": "10",
-  "RELEASE_OR_CODENAME": "10",
   "ID": "QKQ1.191008.001",
   "INCREMENTAL": "V12.5.3.0.QFLCNXM",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "xiaomi/onc/onc:10/QKQ1.191008.001/V12.5.3.0.QFLCNXM:user/release-keys",
   "SECURITY_PATCH": "2021-10-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 29,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "QKQ1.191008.001",
   "*.security_patch": "2021-10-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "29"
+  "*api_level": "25"
 }

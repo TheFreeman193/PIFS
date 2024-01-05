@@ -5,17 +5,14 @@
   "PRODUCT": "C6603_1270-6480",
   "DEVICE": "C6603",
   "RELEASE": "4.1.2",
-  "RELEASE_OR_CODENAME": "4.1.2",
   "ID": "10.1.A.1.350",
   "INCREMENTAL": "ofp_rw",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Sony/C6603_1270-6480/C6603:4.1.2/10.1.A.1.350/ofp_rw:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 16,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "10.1.A.1.350",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "16"
+  "*api_level": "25"
 }

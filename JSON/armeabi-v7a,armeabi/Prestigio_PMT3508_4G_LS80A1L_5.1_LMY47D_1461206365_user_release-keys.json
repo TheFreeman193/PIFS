@@ -5,17 +5,14 @@
   "PRODUCT": "PMT3508_4G",
   "DEVICE": "LS80A1L",
   "RELEASE": "5.1",
-  "RELEASE_OR_CODENAME": "5.1",
   "ID": "LMY47D",
   "INCREMENTAL": "1461206365",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Prestigio/PMT3508_4G/LS80A1L:5.1/LMY47D/1461206365:user/release-keys",
   "SECURITY_PATCH": "2016-05-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 22,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "LMY47D",
   "*.security_patch": "2016-05-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "22"
+  "*api_level": "25"
 }

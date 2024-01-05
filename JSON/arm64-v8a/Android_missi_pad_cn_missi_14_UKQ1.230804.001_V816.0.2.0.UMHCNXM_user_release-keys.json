@@ -5,17 +5,14 @@
   "PRODUCT": "missi_pad_cn",
   "DEVICE": "missi",
   "RELEASE": "14",
-  "RELEASE_OR_CODENAME": "14",
   "ID": "UKQ1.230804.001",
   "INCREMENTAL": "V816.0.2.0.UMHCNXM",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Android/missi_pad_cn/missi:14/UKQ1.230804.001/V816.0.2.0.UMHCNXM:user/release-keys",
   "SECURITY_PATCH": "2023-11-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 34,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "UKQ1.230804.001",
   "*.security_patch": "2023-11-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "34"
+  "*api_level": "25"
 }

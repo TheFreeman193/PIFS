@@ -5,17 +5,14 @@
   "PRODUCT": "K2001N_NWD_S212701",
   "DEVICE": "t3-k2001-nwd",
   "RELEASE": "7.1.1",
-  "RELEASE_OR_CODENAME": "7.1.1",
   "ID": "NMF27D",
   "INCREMENTAL": "20181025",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "Allwinner/t3_k2001_nwd/t3-k2001-nwd:7.1.1/NMF27D/20181025:user/test-keys",
   "SECURITY_PATCH": "2017-03-05",
-  "DEVICE_INITIAL_SDK_INT": 24,
-  "SDK_INT": 25,
+  "DEVICE_INITIAL_SDK_INT": "24",
   "*.build.id": "NMF27D",
   "*.security_patch": "2017-03-05",
-  "*api_level": "24",
-  "*.build.version.sdk": "25"
+  "*api_level": "24"
 }

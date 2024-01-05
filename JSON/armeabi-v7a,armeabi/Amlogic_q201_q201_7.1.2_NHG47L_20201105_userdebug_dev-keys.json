@@ -5,17 +5,14 @@
   "PRODUCT": "q201",
   "DEVICE": "q201",
   "RELEASE": "7.1.2",
-  "RELEASE_OR_CODENAME": "7.1.2",
   "ID": "NHG47L",
   "INCREMENTAL": "20201105",
   "TYPE": "userdebug",
   "TAGS": "dev-keys",
   "FINGERPRINT": "Amlogic/q201/q201:7.1.2/NHG47L/20201105:userdebug/dev-keys",
   "SECURITY_PATCH": "2017-12-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 25,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "NHG47L",
   "*.security_patch": "2017-12-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "25"
+  "*api_level": "25"
 }

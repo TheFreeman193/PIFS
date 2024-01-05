@@ -5,17 +5,14 @@
   "PRODUCT": "gilda_a21",
   "DEVICE": "gilda_a21",
   "RELEASE": "4.2.2",
-  "RELEASE_OR_CODENAME": "4.2.2",
   "ID": "S5-F-V1.0-2013.10.30",
   "INCREMENTAL": "eng.gfs.20131030.090959",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "ADVAN/gilda_a21/gilda_a21:4.2.2/S5-F-V1.0-2013.10.30/52705C70:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 17,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "S5-F-V1.0-2013.10.30",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "17"
+  "*api_level": "25"
 }

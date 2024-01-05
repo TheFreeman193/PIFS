@@ -5,17 +5,14 @@
   "PRODUCT": "RCT6973W43R",
   "DEVICE": "RCT6973W43R",
   "RELEASE": "7.1.2",
-  "RELEASE_OR_CODENAME": "7.1.2",
   "ID": "NHG47K",
   "INCREMENTAL": "20180428",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "RCA/RCT6973W43R/RCT6973W43R:7.1.2/NHG47K/user.hxd.20180308.200054:user/release-keys",
   "SECURITY_PATCH": "2018-03-01",
-  "DEVICE_INITIAL_SDK_INT": 23,
-  "SDK_INT": 25,
+  "DEVICE_INITIAL_SDK_INT": "23",
   "*.build.id": "NHG47K",
   "*.security_patch": "2018-03-01",
-  "*api_level": "23",
-  "*.build.version.sdk": "25"
+  "*api_level": "23"
 }

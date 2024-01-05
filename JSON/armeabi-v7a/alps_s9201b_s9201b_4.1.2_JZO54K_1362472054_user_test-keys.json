@@ -5,17 +5,14 @@
   "PRODUCT": "Micromax A116",
   "DEVICE": "A116",
   "RELEASE": "4.1.2",
-  "RELEASE_OR_CODENAME": "4.1.2",
   "ID": "JZO54K",
   "INCREMENTAL": "eng.shaobai.1362472054",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "alps/s9201b/s9201b:4.1.2/JZO54K/1362472054:user/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 16,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "JZO54K",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "16"
+  "*api_level": "25"
 }

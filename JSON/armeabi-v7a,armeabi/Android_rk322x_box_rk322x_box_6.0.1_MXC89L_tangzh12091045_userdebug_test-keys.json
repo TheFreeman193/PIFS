@@ -5,17 +5,14 @@
   "PRODUCT": "rk322x_box",
   "DEVICE": "rk322x_box",
   "RELEASE": "6.0.1",
-  "RELEASE_OR_CODENAME": "6.0.1",
   "ID": "MXC89L",
   "INCREMENTAL": "MV6.20171209",
   "TYPE": "userdebug",
   "TAGS": "test-keys",
   "FINGERPRINT": "Android/rk322x_box/rk322x_box:6.0.1/MXC89L/tangzh12091045:userdebug/test-keys",
   "SECURITY_PATCH": "2016-10-01",
-  "DEVICE_INITIAL_SDK_INT": 23,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "23",
   "*.build.id": "MXC89L",
   "*.security_patch": "2016-10-01",
-  "*api_level": "23",
-  "*.build.version.sdk": "23"
+  "*api_level": "23"
 }

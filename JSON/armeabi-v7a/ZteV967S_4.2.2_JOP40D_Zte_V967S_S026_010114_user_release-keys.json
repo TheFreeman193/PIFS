@@ -5,17 +5,14 @@
   "PRODUCT": "yakju",
   "DEVICE": "maguro",
   "RELEASE": "4.2.2",
-  "RELEASE_OR_CODENAME": "4.2.2",
   "ID": "JOP40D",
   "INCREMENTAL": "V967_S026_010114",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "ZteV967S:4.2.2/JOP40D/Zte_V967S_S026_010114:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 17,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "JOP40D",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "17"
+  "*api_level": "25"
 }

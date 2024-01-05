@@ -5,17 +5,14 @@
   "PRODUCT": "Kindle Fire",
   "DEVICE": "Kindle",
   "RELEASE": "4.0.3",
-  "RELEASE_OR_CODENAME": "4.0.3",
   "ID": "IML74K",
   "INCREMENTAL": "7.5.1_user_5182520",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Android/tate/tate:4.0.3/IML74K/7.5.1_user_5182520:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 15,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "IML74K",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "15"
+  "*api_level": "25"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "E2003",
   "DEVICE": "E2003",
   "RELEASE": "4.4.4",
-  "RELEASE_OR_CODENAME": "4.4.4",
   "ID": "25.0.A.2.31",
   "INCREMENTAL": "4Pf_Nw",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Sony/E2003/E2003:4.4.4/25.0.A.2.31/4Pf_Nw:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "25.0.A.2.31",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "19"
+  "*api_level": "25"
 }

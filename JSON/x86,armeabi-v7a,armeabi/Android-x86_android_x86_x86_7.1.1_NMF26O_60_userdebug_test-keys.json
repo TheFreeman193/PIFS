@@ -5,17 +5,14 @@
   "PRODUCT": "android_x86",
   "DEVICE": "x86",
   "RELEASE": "7.1.1",
-  "RELEASE_OR_CODENAME": "7.1.1",
   "ID": "NMF26O",
   "INCREMENTAL": "60",
   "TYPE": "userdebug",
   "TAGS": "test-keys",
   "FINGERPRINT": "Android-x86/android_x86/x86:7.1.1/NMF26O/60:userdebug/test-keys",
   "SECURITY_PATCH": "2016-12-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 25,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "NMF26O",
   "*.security_patch": "2016-12-05",
-  "*api_level": "25",
-  "*.build.version.sdk": "25"
+  "*api_level": "25"
 }

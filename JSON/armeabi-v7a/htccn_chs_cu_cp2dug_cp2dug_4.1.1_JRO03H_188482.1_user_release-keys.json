@@ -5,17 +5,14 @@
   "PRODUCT": "cp2dug",
   "DEVICE": "cp2dug",
   "RELEASE": "4.1.1",
-  "RELEASE_OR_CODENAME": "4.1.1",
   "ID": "JRO03H",
   "INCREMENTAL": "188482.1",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "htccn_chs_cu/cp2dug/cp2dug:4.1.1/JRO03H/188482.1:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 16,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "JRO03H",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "16"
+  "*api_level": "25"
 }

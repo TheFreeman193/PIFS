@@ -5,17 +5,14 @@
   "PRODUCT": "alioth_global",
   "DEVICE": "alioth",
   "RELEASE": "11",
-  "RELEASE_OR_CODENAME": "11",
   "ID": "RKQ1.200826.002",
   "INCREMENTAL": "V12.5.2.0.RKHMIXM",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "POCO/alioth_global/alioth:11/RKQ1.200826.002/V12.5.2.0.RKHMIXM:user/release-keys",
   "SECURITY_PATCH": "2021-05-01",
-  "DEVICE_INITIAL_SDK_INT": 30,
-  "SDK_INT": 30,
+  "DEVICE_INITIAL_SDK_INT": "30",
   "*.build.id": "RKQ1.200826.002",
   "*.security_patch": "2021-05-01",
-  "*api_level": "30",
-  "*.build.version.sdk": "30"
+  "*api_level": "30"
 }

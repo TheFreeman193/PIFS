@@ -5,17 +5,14 @@
   "PRODUCT": "P736V_FFR",
   "DEVICE": "blade2",
   "RELEASE": "2.3.5",
-  "RELEASE_OR_CODENAME": "2.3.5",
   "ID": "GRJ22",
   "INCREMENTAL": "eng.zhangchun.20111208.093059",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "ZTE/P736V_FFR/blade2:2.3.5/GRJ22/eng.zhangchun.20111208.093059:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 10,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "GRJ22",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "10"
+  "*api_level": "25"
 }

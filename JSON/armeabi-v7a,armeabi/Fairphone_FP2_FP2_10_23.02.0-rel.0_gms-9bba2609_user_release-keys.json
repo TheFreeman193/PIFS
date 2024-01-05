@@ -5,17 +5,14 @@
   "PRODUCT": "FP2",
   "DEVICE": "FP2",
   "RELEASE": "10",
-  "RELEASE_OR_CODENAME": "10",
   "ID": "23.02.0-rel.0",
   "INCREMENTAL": "gms-9bba2609",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Fairphone/FP2/FP2:10/23.02.0-rel.0/gms-9bba2609:user/release-keys",
   "SECURITY_PATCH": "2023-02-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 29,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "23.02.0-rel.0",
   "*.security_patch": "2023-02-05",
-  "*api_level": "25",
-  "*.build.version.sdk": "29"
+  "*api_level": "25"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "WW_Phone",
   "DEVICE": "ASUS_X00AD_2",
   "RELEASE": "6.0.1",
-  "RELEASE_OR_CODENAME": "6.0.1",
   "ID": "MMB29M",
   "INCREMENTAL": "WW_Phone-13.0.0.321-20180626",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "asus/WW_Phone/ASUS_X00AD_2:6.0.1/MMB29M/13.0.0.321-20180626:user/release-keys",
   "SECURITY_PATCH": "2017-09-01",
-  "DEVICE_INITIAL_SDK_INT": 23,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "23",
   "*.build.id": "MMB29M",
   "*.security_patch": "2017-09-01",
-  "*api_level": "23",
-  "*.build.version.sdk": "23"
+  "*api_level": "23"
 }

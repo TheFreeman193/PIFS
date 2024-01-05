@@ -5,17 +5,14 @@
   "PRODUCT": "PeopleNet_ConnectedTablet",
   "DEVICE": "MS5",
   "RELEASE": "4.4.3",
-  "RELEASE_OR_CODENAME": "4.4.3",
   "ID": "2.0.0-rc2",
   "INCREMENTAL": "2016_02",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Trimble_Navigation/PeopleNet_ConnectedTablet/MS5:4.4.3/2.0.0-rc2/2016_02:user/release-keys",
   "SECURITY_PATCH": "2016-08-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "2.0.0-rc2",
   "*.security_patch": "2016-08-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "19"
+  "*api_level": "25"
 }

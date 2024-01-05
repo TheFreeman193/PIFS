@@ -5,17 +5,14 @@
   "PRODUCT": "ST27i_1265-8433",
   "DEVICE": "ST27i",
   "RELEASE": "4.1.2",
-  "RELEASE_OR_CODENAME": "4.1.2",
   "ID": "6.2.A.1.100",
   "INCREMENTAL": "m_v_zg",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "SEMC/ST27i_1265-8433/ST27i:4.1.2/6.2.A.1.100/m_v_zg:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 16,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "6.2.A.1.100",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "16"
+  "*api_level": "25"
 }

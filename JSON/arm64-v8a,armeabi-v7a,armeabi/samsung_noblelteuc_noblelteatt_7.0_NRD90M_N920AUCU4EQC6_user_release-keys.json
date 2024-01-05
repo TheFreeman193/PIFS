@@ -5,17 +5,14 @@
   "PRODUCT": "noblelteuc",
   "DEVICE": "noblelteatt",
   "RELEASE": "7.0",
-  "RELEASE_OR_CODENAME": "7.0",
   "ID": "NRD90M",
   "INCREMENTAL": "N920AUCU4EQC6",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "samsung/noblelteuc/noblelteatt:7.0/NRD90M/N920AUCU4EQC6:user/release-keys",
   "SECURITY_PATCH": "2017-03-01",
-  "DEVICE_INITIAL_SDK_INT": 22,
-  "SDK_INT": 24,
+  "DEVICE_INITIAL_SDK_INT": "22",
   "*.build.id": "NRD90M",
   "*.security_patch": "2017-03-01",
-  "*api_level": "22",
-  "*.build.version.sdk": "24"
+  "*api_level": "22"
 }

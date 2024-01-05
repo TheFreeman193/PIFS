@@ -5,17 +5,14 @@
   "PRODUCT": "cooper",
   "DEVICE": "cooper",
   "RELEASE": "2.3.7",
-  "RELEASE_OR_CODENAME": "2.3.7",
   "ID": "GRWK74",
   "INCREMENTAL": "eng.ilia.20120210.130157",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "samsung/GT-S5830/GT-S5830:2.3.4/GINGERBREAD/XXKPH:user/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 10,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "GRWK74",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "10"
+  "*api_level": "25"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "Flylife",
   "DEVICE": "Flylife_Connect_101_3G_2",
   "RELEASE": "4.2.2",
-  "RELEASE_OR_CODENAME": "4.2.2",
   "ID": "JDQ39",
   "INCREMENTAL": "eng.minjiawei.1404968405",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Fly/Flylife/Flylife_Connect_101_3G_2:4.2.2/JDQ39/1392982282:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 17,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "JDQ39",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "17"
+  "*api_level": "25"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "TB-X103F",
   "DEVICE": "TB-X103F",
   "RELEASE": "6.0.1",
-  "RELEASE_OR_CODENAME": "6.0.1",
   "ID": "LenovoTB-X103F",
   "INCREMENTAL": "TB-X103F_S000038_180317_ROW",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Lenovo/TB-X103F/TB-X103F:6.0.1/LenovoTB-X103F/TB-X103F_S000038_180317_ROW:user/release-keys",
   "SECURITY_PATCH": "2018-01-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "LenovoTB-X103F",
   "*.security_patch": "2018-01-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "23"
+  "*api_level": "25"
 }

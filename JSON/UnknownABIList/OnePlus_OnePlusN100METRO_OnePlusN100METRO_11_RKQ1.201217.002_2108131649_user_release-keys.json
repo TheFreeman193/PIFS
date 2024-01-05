@@ -5,17 +5,14 @@
   "PRODUCT": "OnePlusN100METRO",
   "DEVICE": "OnePlusN100METRO",
   "RELEASE": "11",
-  "RELEASE_OR_CODENAME": "11",
   "ID": "RKQ1.201217.002",
   "INCREMENTAL": "2108131649",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "OnePlus/OnePlusN100METRO/OnePlusN100METRO:11/RKQ1.201217.002/2108131649:user/release-keys",
   "SECURITY_PATCH": "2021-08-01",
-  "DEVICE_INITIAL_SDK_INT": 29,
-  "SDK_INT": 30,
+  "DEVICE_INITIAL_SDK_INT": "29",
   "*.build.id": "RKQ1.201217.002",
   "*.security_patch": "2021-08-01",
-  "*api_level": "29",
-  "*.build.version.sdk": "30"
+  "*api_level": "29"
 }

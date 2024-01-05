@@ -5,17 +5,14 @@
   "PRODUCT": "TB-8504X",
   "DEVICE": "TB-8504X",
   "RELEASE": "7.1.1",
-  "RELEASE_OR_CODENAME": "7.1.1",
   "ID": "NMF26F",
   "INCREMENTAL": "TB-8504X_S000046_171125_ROW",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Lenovo/TB-8504X/TB-8504X:7.1.1/NMF26F/TB-8504X_USR_S046_171125_Q12000_ROW:user/release-keys",
   "SECURITY_PATCH": "2017-10-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 25,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "NMF26F",
   "*.security_patch": "2017-10-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "25"
+  "*api_level": "25"
 }

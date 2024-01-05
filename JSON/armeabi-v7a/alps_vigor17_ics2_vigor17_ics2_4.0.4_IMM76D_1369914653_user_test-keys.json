@@ -5,17 +5,14 @@
   "PRODUCT": "MI2",
   "DEVICE": "MI2",
   "RELEASE": "4.1.2",
-  "RELEASE_OR_CODENAME": "4.1.2",
   "ID": "IMM76D",
   "INCREMENTAL": "eng.tiankun.1369914653",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "alps/vigor17_ics2/vigor17_ics2:4.0.4/IMM76D/1369914653:user/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 15,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "IMM76D",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "15"
+  "*api_level": "25"
 }

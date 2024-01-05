@@ -5,17 +5,14 @@
   "PRODUCT": "sofiap_ao",
   "DEVICE": "sofiap_sprout",
   "RELEASE": "11",
-  "RELEASE_OR_CODENAME": "11",
   "ID": "RPRS31.Q4U-20-36",
   "INCREMENTAL": "f72e82",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "motorola/sofiap_ao/sofiap_sprout:11/RPRS31.Q4U-20-36/f72e82:user/release-keys",
   "SECURITY_PATCH": "2021-07-01",
-  "DEVICE_INITIAL_SDK_INT": 30,
-  "SDK_INT": 30,
+  "DEVICE_INITIAL_SDK_INT": "30",
   "*.build.id": "RPRS31.Q4U-20-36",
   "*.security_patch": "2021-07-01",
-  "*api_level": "30",
-  "*.build.version.sdk": "30"
+  "*api_level": "30"
 }

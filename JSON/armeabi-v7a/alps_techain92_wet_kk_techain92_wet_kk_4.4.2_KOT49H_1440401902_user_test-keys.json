@@ -5,17 +5,14 @@
   "PRODUCT": "Aqua_Power_HD",
   "DEVICE": "Aqua_Power_HD",
   "RELEASE": "4.4.2",
-  "RELEASE_OR_CODENAME": "4.4.2",
   "ID": "KOT49H",
   "INCREMENTAL": "eng.xzj.1440401902",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "alps/techain92_wet_kk/techain92_wet_kk:4.4.2/KOT49H/1440401902:user/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "KOT49H",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "19"
+  "*api_level": "25"
 }

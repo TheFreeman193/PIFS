@@ -5,17 +5,14 @@
   "PRODUCT": "raphael",
   "DEVICE": "raphael",
   "RELEASE": "10",
-  "RELEASE_OR_CODENAME": "10",
   "ID": "QKQ1.190825.002",
   "INCREMENTAL": "V11.0.1.0.QFKMIXM",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Xiaomi/raphael/raphael:10/QKQ1.190825.002/V11.0.1.0.QFKMIXM:user/release-keys",
   "SECURITY_PATCH": "2019-10-01",
-  "DEVICE_INITIAL_SDK_INT": 28,
-  "SDK_INT": 29,
+  "DEVICE_INITIAL_SDK_INT": "28",
   "*.build.id": "QKQ1.190825.002",
   "*.security_patch": "2019-10-01",
-  "*api_level": "28",
-  "*.build.version.sdk": "29"
+  "*api_level": "28"
 }

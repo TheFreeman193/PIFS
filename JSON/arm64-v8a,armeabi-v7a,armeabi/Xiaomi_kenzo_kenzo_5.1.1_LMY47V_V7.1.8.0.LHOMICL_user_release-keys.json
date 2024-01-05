@@ -5,17 +5,14 @@
   "PRODUCT": "kenzo",
   "DEVICE": "kenzo",
   "RELEASE": "5.1.1",
-  "RELEASE_OR_CODENAME": "5.1.1",
   "ID": "LMY47V",
   "INCREMENTAL": "V7.1.8.0.LHOMICL",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Xiaomi/kenzo/kenzo:5.1.1/LMY47V/V7.1.8.0.LHOMICL:user/release-keys",
   "SECURITY_PATCH": "2016-02-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 22,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "LMY47V",
   "*.security_patch": "2016-02-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "22"
+  "*api_level": "25"
 }

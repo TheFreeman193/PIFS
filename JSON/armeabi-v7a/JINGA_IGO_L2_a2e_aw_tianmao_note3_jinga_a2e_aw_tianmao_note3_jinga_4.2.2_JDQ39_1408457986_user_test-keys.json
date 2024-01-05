@@ -5,17 +5,14 @@
   "PRODUCT": "a2e_aw_tianmao_note3_jinga",
   "DEVICE": "a2e_aw_tianmao_note3_jinga",
   "RELEASE": "4.2.2",
-  "RELEASE_OR_CODENAME": "4.2.2",
   "ID": "JDQ39",
   "INCREMENTAL": "eng.user.1408457986",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "JINGA_IGO_L2/a2e_aw_tianmao_note3_jinga/a2e_aw_tianmao_note3_jinga:4.2.2/JDQ39/1408457986:user/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 17,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "JDQ39",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "17"
+  "*api_level": "25"
 }

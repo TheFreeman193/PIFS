@@ -5,17 +5,14 @@
   "PRODUCT": "D2302",
   "DEVICE": "D2302",
   "RELEASE": "5.1.1",
-  "RELEASE_OR_CODENAME": "5.1.1",
   "ID": "18.6.A.0.182",
   "INCREMENTAL": "1643041205",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Sony/D2302/D2302:5.1.1/18.6.A.0.182/1643041205:user/release-keys",
   "SECURITY_PATCH": "2016-10-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 22,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "18.6.A.0.182",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "22"
+  "*api_level": "25"
 }

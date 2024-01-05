@@ -5,17 +5,14 @@
   "PRODUCT": "taimen",
   "DEVICE": "taimen",
   "RELEASE": "11",
-  "RELEASE_OR_CODENAME": "11",
   "ID": "RP1A.201005.004.A1",
   "INCREMENTAL": "6934943",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "google/taimen/taimen:11/RP1A.201005.004.A1/6934943:user/release-keys",
   "SECURITY_PATCH": "2020-10-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 30,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "RP1A.201005.004.A1",
   "*.security_patch": "2020-10-05",
-  "*api_level": "25",
-  "*.build.version.sdk": "30"
+  "*api_level": "25"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "N10",
   "DEVICE": "Y7",
   "RELEASE": "8.1.0",
-  "RELEASE_OR_CODENAME": "8.1.0",
   "ID": "OPM2.171019.012",
   "INCREMENTAL": "20190321",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "DOOGEE/N10/Y7:8.1.0/OPM2.171019.012/20190321:user/release-keys",
   "SECURITY_PATCH": "2019-03-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 27,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "OPM2.171019.012",
   "*.security_patch": "2019-03-05",
-  "*api_level": "25",
-  "*.build.version.sdk": "27"
+  "*api_level": "25"
 }

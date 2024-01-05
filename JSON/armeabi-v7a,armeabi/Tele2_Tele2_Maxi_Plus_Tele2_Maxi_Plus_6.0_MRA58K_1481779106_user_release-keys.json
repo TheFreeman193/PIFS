@@ -5,17 +5,14 @@
   "PRODUCT": "Tele2_Maxi_Plus",
   "DEVICE": "Tele2_Maxi_Plus",
   "RELEASE": "6.0",
-  "RELEASE_OR_CODENAME": "6.0",
   "ID": "MRA58K",
   "INCREMENTAL": "1481779106",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Tele2/Tele2_Maxi_Plus/Tele2_Maxi_Plus:6.0/MRA58K/1481779106:user/release-keys",
   "SECURITY_PATCH": "2017-04-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "MRA58K",
   "*.security_patch": "2017-04-05",
-  "*api_level": "25",
-  "*.build.version.sdk": "23"
+  "*api_level": "25"
 }

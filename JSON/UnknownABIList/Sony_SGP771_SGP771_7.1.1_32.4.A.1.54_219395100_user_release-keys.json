@@ -5,17 +5,14 @@
   "PRODUCT": "SGP771",
   "DEVICE": "SGP771",
   "RELEASE": "7.1.1",
-  "RELEASE_OR_CODENAME": "7.1.1",
   "ID": "32.4.A.1.54",
   "INCREMENTAL": "219395100",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Sony/SGP771/SGP771:7.1.1/32.4.A.1.54/219395100:user/release-keys",
   "SECURITY_PATCH": "2016-12-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 25,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "32.4.A.1.54",
   "*.security_patch": "2016-12-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "25"
+  "*api_level": "25"
 }

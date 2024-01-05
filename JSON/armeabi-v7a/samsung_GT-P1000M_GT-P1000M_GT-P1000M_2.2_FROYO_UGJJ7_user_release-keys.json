@@ -5,17 +5,14 @@
   "PRODUCT": "GT-P1000M",
   "DEVICE": "GT-P1000M",
   "RELEASE": "2.2",
-  "RELEASE_OR_CODENAME": "2.2",
   "ID": "FROYO",
   "INCREMENTAL": "UGJJ7",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "samsung/GT-P1000M/GT-P1000M/GT-P1000M:2.2/FROYO/UGJJ7:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 8,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "FROYO",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "8"
+  "*api_level": "25"
 }

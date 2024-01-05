@@ -5,17 +5,14 @@
   "PRODUCT": "s08_ly_a_2sim",
   "DEVICE": "s08-ly-a",
   "RELEASE": "4.1",
-  "RELEASE_OR_CODENAME": "4.1",
   "ID": "IML74K",
   "INCREMENTAL": "eng.xiongyu.20130704.181719",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "Spreadtrum/s08_ly_a_2sim/s08-ly-a:4.0.3/IML74K/eng.xiongyu.20130704.181719:user/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 15,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "IML74K",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "15"
+  "*api_level": "25"
 }

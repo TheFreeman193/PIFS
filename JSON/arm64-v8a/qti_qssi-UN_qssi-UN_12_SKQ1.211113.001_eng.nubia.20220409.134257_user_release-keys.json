@@ -5,17 +5,14 @@
   "PRODUCT": "NX679J-UN",
   "DEVICE": "NX679J-UN",
   "RELEASE": "12",
-  "RELEASE_OR_CODENAME": "12",
   "ID": "SKQ1.211113.001",
   "INCREMENTAL": "eng.nubia.20220409.134257",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "qti/qssi-UN/qssi-UN:12/SKQ1.211113.001/eng.nubia.20220409.134257:user/release-keys",
   "SECURITY_PATCH": "2022-03-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 31,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "SKQ1.211113.001",
   "*.security_patch": "2022-03-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "31"
+  "*api_level": "25"
 }

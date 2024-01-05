@@ -5,17 +5,14 @@
   "PRODUCT": "M7100KLD",
   "DEVICE": "TREKM7100KLD",
   "RELEASE": "4.2.2",
-  "RELEASE_OR_CODENAME": "4.2.2",
   "ID": "JDQ39",
   "INCREMENTAL": "eng.root.20140222.152922",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Trekstor/M7100KLD/TREKM7100KLD:4.2.2/JDQ39/V2.0.7:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 17,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "JDQ39",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "17"
+  "*api_level": "25"
 }

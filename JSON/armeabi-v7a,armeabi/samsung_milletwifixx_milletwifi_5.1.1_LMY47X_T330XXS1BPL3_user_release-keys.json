@@ -5,17 +5,14 @@
   "PRODUCT": "milletwifixx",
   "DEVICE": "milletwifi",
   "RELEASE": "5.1.1",
-  "RELEASE_OR_CODENAME": "5.1.1",
   "ID": "LMY47X",
   "INCREMENTAL": "T330XXS1BPL3",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "samsung/milletwifixx/milletwifi:5.1.1/LMY47X/T330XXS1BPL3:user/release-keys",
   "SECURITY_PATCH": "2016-05-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 22,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "LMY47X",
   "*.security_patch": "2016-05-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "22"
+  "*api_level": "25"
 }

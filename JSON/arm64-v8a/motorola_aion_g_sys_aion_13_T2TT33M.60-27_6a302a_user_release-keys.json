@@ -5,17 +5,14 @@
   "PRODUCT": "aion_g_sys",
   "DEVICE": "aion",
   "RELEASE": "13",
-  "RELEASE_OR_CODENAME": "13",
   "ID": "T2TT33M.60-27",
   "INCREMENTAL": "6a302a",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "motorola/aion_g_sys/aion:13/T2TT33M.60-27/6a302a:user/release-keys",
   "SECURITY_PATCH": "2023-07-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 33,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "T2TT33M.60-27",
   "*.security_patch": "2023-07-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "33"
+  "*api_level": "25"
 }

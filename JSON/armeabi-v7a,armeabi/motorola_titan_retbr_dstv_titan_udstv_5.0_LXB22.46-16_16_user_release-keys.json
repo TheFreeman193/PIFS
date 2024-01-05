@@ -5,17 +5,14 @@
   "PRODUCT": "titan_retbr_dstv",
   "DEVICE": "titan_udstv",
   "RELEASE": "5.0.2",
-  "RELEASE_OR_CODENAME": "5.0.2",
   "ID": "LXB22G.2015-01-10",
   "INCREMENTAL": "16",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "motorola/titan_retbr_dstv/titan_udstv:5.0/LXB22.46-16/16:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 21,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "LXB22G.2015-01-10",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "21"
+  "*api_level": "25"
 }

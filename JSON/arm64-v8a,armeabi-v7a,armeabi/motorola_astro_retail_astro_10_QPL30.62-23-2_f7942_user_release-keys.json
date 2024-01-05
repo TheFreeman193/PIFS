@@ -5,17 +5,14 @@
   "PRODUCT": "astro_retail",
   "DEVICE": "astro",
   "RELEASE": "10",
-  "RELEASE_OR_CODENAME": "10",
   "ID": "QPL30.62-23-2",
   "INCREMENTAL": "f7942",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "motorola/astro_retail/astro:10/QPL30.62-23-2/f7942:user/release-keys",
   "SECURITY_PATCH": "2020-04-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 29,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "QPL30.62-23-2",
   "*.security_patch": "2020-04-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "29"
+  "*api_level": "25"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "S3",
   "DEVICE": "S3",
   "RELEASE": "5.1",
-  "RELEASE_OR_CODENAME": "5.1",
   "ID": "LMY47D",
   "INCREMENTAL": "1477080736",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "alps/full_h560/h560:5.1/LMY47D/1477080736:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 22,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "LMY47D",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "22"
+  "*api_level": "25"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "a54xskt",
   "DEVICE": "essi",
   "RELEASE": "13",
-  "RELEASE_OR_CODENAME": "13",
   "ID": "TP1A.220624.014",
   "INCREMENTAL": "A546SKSU1AWE2",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "samsung/a54xskt/essi:13/TP1A.220624.014/A546SKSU1AWE2:user/release-keys",
   "SECURITY_PATCH": "2023-06-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 33,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "TP1A.220624.014",
   "*.security_patch": "2023-06-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "33"
+  "*api_level": "25"
 }

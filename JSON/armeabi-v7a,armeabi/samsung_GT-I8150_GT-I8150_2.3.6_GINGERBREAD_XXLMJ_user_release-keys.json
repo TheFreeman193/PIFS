@@ -5,17 +5,14 @@
   "PRODUCT": "crdroid_ancora",
   "DEVICE": "ancora",
   "RELEASE": "5.0.2",
-  "RELEASE_OR_CODENAME": "5.0.2",
   "ID": "LRX22G",
   "INCREMENTAL": "8aacff1f5c",
   "TYPE": "userdebug",
   "TAGS": "test-keys",
   "FINGERPRINT": "samsung/GT-I8150/GT-I8150:2.3.6/GINGERBREAD/XXLMJ:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 21,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "LRX22G",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "21"
+  "*api_level": "25"
 }

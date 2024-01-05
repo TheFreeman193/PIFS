@@ -5,16 +5,14 @@
   "PRODUCT": "MXQ_PRO_box",
   "DEVICE": "MXQ_PRO",
   "RELEASE": "6.0.1",
-  "RELEASE_OR_CODENAME": "6.0.1",
   "ID": "MXC89L",
   "INCREMENTAL": "user.ren.20170726.181334",
   "TYPE": "userdebug",
   "TAGS": "test-keys",
   "FINGERPRINT": "Android/MXQ_PRO_box/MXQ_PRO:6.0.1/MXC89L/ren07110924:userdebug/test-keys",
   "SECURITY_PATCH": "2016-10-01",
-  "DEVICE_INITIAL_SDK_INT": 23,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "23",
   "*.build.id": "MXC89L",
   "*.security_patch": "2016-10-01",
-  "*.build.version.sdk": "23"
+  "*api_level": "23"
 }

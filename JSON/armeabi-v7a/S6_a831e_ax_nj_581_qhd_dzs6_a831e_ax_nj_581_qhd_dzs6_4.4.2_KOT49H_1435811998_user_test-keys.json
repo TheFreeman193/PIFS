@@ -5,17 +5,14 @@
   "PRODUCT": "a831e_ax_nj_581_qhd_dzs6",
   "DEVICE": "a831e_ax_nj_581_qhd_dzs6",
   "RELEASE": "4.4.2",
-  "RELEASE_OR_CODENAME": "4.4.2",
   "ID": "KOT49H",
   "INCREMENTAL": "eng.user.1435811998",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "S6/a831e_ax_nj_581_qhd_dzs6/a831e_ax_nj_581_qhd_dzs6:4.4.2/KOT49H/1435811998:user/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "KOT49H",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "19"
+  "*api_level": "25"
 }

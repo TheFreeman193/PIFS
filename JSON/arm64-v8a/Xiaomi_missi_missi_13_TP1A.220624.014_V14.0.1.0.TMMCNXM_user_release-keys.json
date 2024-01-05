@@ -5,17 +5,14 @@
   "PRODUCT": "missi",
   "DEVICE": "missi",
   "RELEASE": "13",
-  "RELEASE_OR_CODENAME": "13",
   "ID": "TP1A.220624.014",
   "INCREMENTAL": "V14.0.1.0.TMMCNXM",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Xiaomi/missi/missi:13/TP1A.220624.014/V14.0.1.0.TMMCNXM:user/release-keys",
   "SECURITY_PATCH": "2023-04-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 33,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "TP1A.220624.014",
   "*.security_patch": "2023-04-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "33"
+  "*api_level": "25"
 }

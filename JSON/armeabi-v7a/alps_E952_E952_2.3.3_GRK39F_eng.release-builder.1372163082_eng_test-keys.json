@@ -5,17 +5,14 @@
   "PRODUCT": "E952",
   "DEVICE": "E952",
   "RELEASE": "2.3.3",
-  "RELEASE_OR_CODENAME": "2.3.3",
   "ID": "GRK39F",
   "INCREMENTAL": "eng.sw03.1372162878",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "alps/E952/E952:2.3.3/GRK39F/eng.release-builder.1372163082:eng/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 10,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "GRK39F",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "10"
+  "*api_level": "25"
 }

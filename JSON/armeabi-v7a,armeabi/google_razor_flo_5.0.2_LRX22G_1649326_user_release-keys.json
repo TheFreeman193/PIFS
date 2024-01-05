@@ -5,17 +5,14 @@
   "PRODUCT": "razor",
   "DEVICE": "flo",
   "RELEASE": "5.0.2",
-  "RELEASE_OR_CODENAME": "5.0.2",
   "ID": "LRX22G",
   "INCREMENTAL": "1649326",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "google/razor/flo:5.0.2/LRX22G/1649326:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 21,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "LRX22G",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "21"
+  "*api_level": "25"
 }

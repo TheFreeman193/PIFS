@@ -5,17 +5,14 @@
   "PRODUCT": "slim_espresso3g",
   "DEVICE": "espresso3g",
   "RELEASE": "6.0.1",
-  "RELEASE_OR_CODENAME": "6.0.1",
   "ID": "MOB31K",
   "INCREMENTAL": "d968d4d38b",
   "TYPE": "userdebug",
   "TAGS": "test-keys",
   "FINGERPRINT": "Android/slim_espresso3g/espresso3g:6.0.1/MOB31K/d968d4d38b:userdebug/test-keys",
   "SECURITY_PATCH": "2016-11-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "MOB31K",
   "*.security_patch": "2016-11-05",
-  "*api_level": "25",
-  "*.build.version.sdk": "23"
+  "*api_level": "25"
 }

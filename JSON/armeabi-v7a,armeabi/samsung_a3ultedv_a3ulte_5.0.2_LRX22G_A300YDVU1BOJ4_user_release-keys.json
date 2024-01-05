@@ -5,17 +5,14 @@
   "PRODUCT": "a3ultedv",
   "DEVICE": "a3ulte",
   "RELEASE": "5.0.2",
-  "RELEASE_OR_CODENAME": "5.0.2",
   "ID": "LRX22G",
   "INCREMENTAL": "A300YDVU1BOJ4",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "samsung/a3ultedv/a3ulte:5.0.2/LRX22G/A300YDVU1BOJ4:user/release-keys",
   "SECURITY_PATCH": "2015-11-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 21,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "LRX22G",
   "*.security_patch": "2015-11-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "21"
+  "*api_level": "25"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "trltetmofrp",
   "DEVICE": "trltetmo",
   "RELEASE": "6.0.1",
-  "RELEASE_OR_CODENAME": "6.0.1",
   "ID": "MMB29M",
   "INCREMENTAL": "N910T3UVS3EQG1",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "samsung/trltetmofrp/trltetmo:6.0.1/MMB29M/N910T3UVS3EQG1:user/release-keys",
   "SECURITY_PATCH": "2017-07-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "MMB29M",
   "*.security_patch": "2017-07-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "23"
+  "*api_level": "25"
 }

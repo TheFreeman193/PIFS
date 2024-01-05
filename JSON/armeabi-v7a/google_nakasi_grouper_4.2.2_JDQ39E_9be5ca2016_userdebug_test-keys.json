@@ -5,17 +5,14 @@
   "PRODUCT": "nakasi",
   "DEVICE": "grouper",
   "RELEASE": "4.2.2",
-  "RELEASE_OR_CODENAME": "4.2.2",
   "ID": "JDQ39E",
   "INCREMENTAL": "9be5ca2016",
   "TYPE": "userdebug",
   "TAGS": "test-keys",
   "FINGERPRINT": "google/nakasi/grouper:4.2.2/JDQ39E/9be5ca2016:userdebug/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 17,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "JDQ39E",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "17"
+  "*api_level": "25"
 }

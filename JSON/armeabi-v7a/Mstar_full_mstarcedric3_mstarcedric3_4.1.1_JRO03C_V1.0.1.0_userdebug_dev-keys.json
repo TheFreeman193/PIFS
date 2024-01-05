@@ -5,17 +5,14 @@
   "PRODUCT": "full_mstarcedric3",
   "DEVICE": "mstarcedric3",
   "RELEASE": "4.1.1",
-  "RELEASE_OR_CODENAME": "4.1.1",
   "ID": "JRO03C",
   "INCREMENTAL": "V1.0.1.0",
   "TYPE": "userdebug",
   "TAGS": "dev-keys",
   "FINGERPRINT": "Mstar/full_mstarcedric3/mstarcedric3:4.1.1/JRO03C/V1.0.1.0:userdebug/dev-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 16,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "JRO03C",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "16"
+  "*api_level": "25"
 }

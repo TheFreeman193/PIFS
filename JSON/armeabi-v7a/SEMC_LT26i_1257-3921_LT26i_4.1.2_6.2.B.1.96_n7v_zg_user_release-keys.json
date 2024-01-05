@@ -5,17 +5,14 @@
   "PRODUCT": "LT26i_1257-3921",
   "DEVICE": "LT26i",
   "RELEASE": "4.1.2",
-  "RELEASE_OR_CODENAME": "4.1.2",
   "ID": "6.2.B.1.96",
   "INCREMENTAL": "n7v_zg",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "SEMC/LT26i_1257-3921/LT26i:4.1.2/6.2.B.1.96/n7v_zg:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 16,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "6.2.B.1.96",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "16"
+  "*api_level": "25"
 }

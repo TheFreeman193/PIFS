@@ -5,17 +5,14 @@
   "PRODUCT": "S20U",
   "DEVICE": "Smartphone",
   "RELEASE": "5.1",
-  "RELEASE_OR_CODENAME": "5.1",
   "ID": "LMY47I",
   "INCREMENTAL": "1585907426",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "alps/full_yuanda6580_we_l/yuanda6580_we_l:5.1/LMY47I/1585907426:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 22,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "LMY47I",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "22"
+  "*api_level": "25"
 }

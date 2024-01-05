@@ -5,17 +5,14 @@
   "PRODUCT": "m3note",
   "DEVICE": "m3note",
   "RELEASE": "5.1",
-  "RELEASE_OR_CODENAME": "5.1",
   "ID": "LMY47I",
   "INCREMENTAL": "1491737988",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Meizu/meizu_m3note/m3note:5.1/LMY47I/1491737988:user/release-keys",
   "SECURITY_PATCH": "2016-03-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 22,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "LMY47I",
   "*.security_patch": "2016-03-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "22"
+  "*api_level": "25"
 }

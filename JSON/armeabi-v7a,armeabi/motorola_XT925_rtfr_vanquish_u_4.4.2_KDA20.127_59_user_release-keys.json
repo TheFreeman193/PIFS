@@ -5,17 +5,14 @@
   "PRODUCT": "XT925",
   "DEVICE": "vanquish_u",
   "RELEASE": "5.1.1",
-  "RELEASE_OR_CODENAME": "5.1.1",
   "ID": "LMY47V",
   "INCREMENTAL": "52cc8f0396",
   "TYPE": "userdebug",
   "TAGS": "test-keys",
   "FINGERPRINT": "motorola/XT925_rtfr/vanquish_u:4.4.2/KDA20.127/59:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 22,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "LMY47V",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "22"
+  "*api_level": "25"
 }

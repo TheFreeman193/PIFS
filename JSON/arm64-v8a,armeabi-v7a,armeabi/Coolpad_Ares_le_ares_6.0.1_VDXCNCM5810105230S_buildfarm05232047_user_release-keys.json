@@ -5,17 +5,14 @@
   "PRODUCT": "Ares",
   "DEVICE": "le_ares",
   "RELEASE": "6.0.1",
-  "RELEASE_OR_CODENAME": "6.0.1",
   "ID": "VDXCNCM5810105230S",
   "INCREMENTAL": "eng.buildfarm.20170523.204421",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Coolpad/Ares/le_ares:6.0.1/VDXCNCM5810105230S/buildfarm05232047:user/release-keys",
   "SECURITY_PATCH": "2017-04-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "VDXCNCM5810105230S",
   "*.security_patch": "2017-04-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "23"
+  "*api_level": "25"
 }

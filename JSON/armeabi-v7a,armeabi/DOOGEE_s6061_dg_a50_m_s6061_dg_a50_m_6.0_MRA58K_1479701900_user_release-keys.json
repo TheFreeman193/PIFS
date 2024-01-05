@@ -5,17 +5,14 @@
   "PRODUCT": "s6061_dg_a50_m",
   "DEVICE": "s6061_dg_a50_m",
   "RELEASE": "6.0",
-  "RELEASE_OR_CODENAME": "6.0",
   "ID": "MRA58K",
   "INCREMENTAL": "1479701900",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "DOOGEE/s6061_dg_a50_m/s6061_dg_a50_m:6.0/MRA58K/1479701900:user/release-keys",
   "SECURITY_PATCH": "2016-10-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "MRA58K",
   "*.security_patch": "2016-10-05",
-  "*api_level": "25",
-  "*.build.version.sdk": "23"
+  "*api_level": "25"
 }

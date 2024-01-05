@@ -5,17 +5,14 @@
   "PRODUCT": "j3poplteacg",
   "DEVICE": "j3poplteacg",
   "RELEASE": "7.0",
-  "RELEASE_OR_CODENAME": "7.0",
   "ID": "NRD90M",
   "INCREMENTAL": "J327R7WWS4ARF2",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "samsung/j3poplteacg/j3poplteacg:7.0/NRD90M/J327R7WWS4ARF2:user/release-keys",
   "SECURITY_PATCH": "2018-06-01",
-  "DEVICE_INITIAL_SDK_INT": 24,
-  "SDK_INT": 24,
+  "DEVICE_INITIAL_SDK_INT": "24",
   "*.build.id": "NRD90M",
   "*.security_patch": "2018-06-01",
-  "*api_level": "24",
-  "*.build.version.sdk": "24"
+  "*api_level": "24"
 }

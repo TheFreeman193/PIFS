@@ -5,17 +5,14 @@
   "PRODUCT": "M9600",
   "DEVICE": "M9600",
   "RELEASE": "4.2",
-  "RELEASE_OR_CODENAME": "4.2",
   "ID": "IMM76D",
   "INCREMENTAL": "eng.root.1384237951",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "alps/yuanda15_cu_ics2/yuanda15_cu_ics2:4.0.4/IMM76D/1384237951:user/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 15,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "IMM76D",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "15"
+  "*api_level": "25"
 }

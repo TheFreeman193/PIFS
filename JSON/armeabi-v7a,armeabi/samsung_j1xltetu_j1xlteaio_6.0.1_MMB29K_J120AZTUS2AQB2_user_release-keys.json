@@ -5,17 +5,14 @@
   "PRODUCT": "j1xltetu",
   "DEVICE": "j1xlteaio",
   "RELEASE": "6.0.1",
-  "RELEASE_OR_CODENAME": "6.0.1",
   "ID": "MMB29K",
   "INCREMENTAL": "J120AZTUS2AQB2",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "samsung/j1xltetu/j1xlteaio:6.0.1/MMB29K/J120AZTUS2AQB2:user/release-keys",
   "SECURITY_PATCH": "2017-01-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "MMB29K",
   "*.security_patch": "2017-01-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "23"
+  "*api_level": "25"
 }

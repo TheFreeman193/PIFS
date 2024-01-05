@@ -5,17 +5,14 @@
   "PRODUCT": "S6",
   "DEVICE": "LOGO",
   "RELEASE": "4.4.3",
-  "RELEASE_OR_CODENAME": "4.4.3",
   "ID": "KOT49H",
   "INCREMENTAL": "eng.root.1434426661",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "alps/yuanda72_cwet_kk/yuanda72_cwet_kk:4.4.2/KOT49H/1434426661:user/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "KOT49H",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "19"
+  "*api_level": "25"
 }

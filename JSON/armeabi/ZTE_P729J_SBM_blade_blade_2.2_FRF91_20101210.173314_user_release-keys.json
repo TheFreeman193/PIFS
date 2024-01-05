@@ -5,17 +5,14 @@
   "PRODUCT": "P729J_SBM",
   "DEVICE": "blade",
   "RELEASE": "2.2",
-  "RELEASE_OR_CODENAME": "2.2",
   "ID": "FRF91",
   "INCREMENTAL": "20101210.173314",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "ZTE/P729J_SBM/blade/blade:2.2/FRF91/20101210.173314:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 8,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "FRF91",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "8"
+  "*api_level": "25"
 }

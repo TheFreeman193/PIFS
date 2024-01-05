@@ -5,17 +5,14 @@
   "PRODUCT": "ALP-L29",
   "DEVICE": "HWALP",
   "RELEASE": "8.0.0",
-  "RELEASE_OR_CODENAME": "8.0.0",
   "ID": "HUAWEIALP-L29S",
   "INCREMENTAL": "143(C636)",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "HUAWEI/ALP-L29/HWALP:8.0.0/HUAWEIALP-L29S/143(C636):user/release-keys",
   "SECURITY_PATCH": "2018-10-01",
-  "DEVICE_INITIAL_SDK_INT": 26,
-  "SDK_INT": 26,
+  "DEVICE_INITIAL_SDK_INT": "26",
   "*.build.id": "HUAWEIALP-L29S",
   "*.security_patch": "2018-10-01",
-  "*api_level": "26",
-  "*.build.version.sdk": "26"
+  "*api_level": "26"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "k10e_at_ali_shangfeng_x5_wg",
   "DEVICE": "k10e_at_ali_shangfeng_x5_wg",
   "RELEASE": "4.4.5",
-  "RELEASE_OR_CODENAME": "4.4.5",
   "ID": "KOT49H",
   "INCREMENTAL": "eng.user.1423290299",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "X5/k10e_at_ali_shangfeng_x5_wg/k10e_at_ali_shangfeng_x5_wg:4.4.5/KOT49H/1423290299:user/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "KOT49H",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "19"
+  "*api_level": "25"
 }

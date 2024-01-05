@@ -5,17 +5,14 @@
   "PRODUCT": "p1_global_com",
   "DEVICE": "p1",
   "RELEASE": "6.0",
-  "RELEASE_OR_CODENAME": "6.0",
   "ID": "MRA58K",
   "INCREMENTAL": "1603420026ed5",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "lge/p1_global_com/p1:6.0/MRA58K/1603420026ed5:user/release-keys",
   "SECURITY_PATCH": "2015-11-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "MRA58K",
   "*.security_patch": "2015-11-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "23"
+  "*api_level": "25"
 }

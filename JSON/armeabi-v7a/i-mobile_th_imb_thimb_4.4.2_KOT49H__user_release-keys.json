@@ -5,17 +5,14 @@
   "PRODUCT": "imobile_i_STYLE_8_6_DTV",
   "DEVICE": "imobile_i_STYLE_8_6_DTV",
   "RELEASE": "4.4.2",
-  "RELEASE_OR_CODENAME": "4.4.2",
   "ID": "KOT49H",
   "INCREMENTAL": "3",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "i-mobile/th_imb/thimb:4.4.2/KOT49H/:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "KOT49H",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "19"
+  "*api_level": "25"
 }

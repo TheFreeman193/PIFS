@@ -5,17 +5,14 @@
   "PRODUCT": "rk3368_box",
   "DEVICE": "rk3368_box",
   "RELEASE": "5.1.1",
-  "RELEASE_OR_CODENAME": "5.1.1",
   "ID": "LMY48G",
   "INCREMENTAL": "eng.yangfeihu.20151222.110700",
   "TYPE": "userdebug",
   "TAGS": "test-keys",
   "FINGERPRINT": "Android/rk3368_box/rk3368_box:5.1.1/LMY48G/yangfeihu12221112:userdebug/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 22,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "LMY48G",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "22"
+  "*api_level": "25"
 }

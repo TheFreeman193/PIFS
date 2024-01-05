@@ -5,17 +5,14 @@
   "PRODUCT": "GT-P6800",
   "DEVICE": "GT-P6800",
   "RELEASE": "4.0.4",
-  "RELEASE_OR_CODENAME": "4.0.4",
   "ID": "IMM76D",
   "INCREMENTAL": "UBLP9",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "samsung/GT-P6800/GT-P6800:4.0.4/IMM76D/UBLP9:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 15,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "IMM76D",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "15"
+  "*api_level": "25"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "NX611J",
   "DEVICE": "NX611J",
   "RELEASE": "8.1.0",
-  "RELEASE_OR_CODENAME": "8.1.0",
   "ID": "OPM1.171019.011",
   "INCREMENTAL": "eng.nubia.20180624.201531",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "nubia/NX611J/NX611J:8.1.0/OPM1.171019.011/nubia.20180624.201531:user/release-keys",
   "SECURITY_PATCH": "2018-02-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 27,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "OPM1.171019.011",
   "*.security_patch": "2018-02-05",
-  "*api_level": "25",
-  "*.build.version.sdk": "27"
+  "*api_level": "25"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "cm_kylessopen",
   "DEVICE": "kylessopen",
   "RELEASE": "4.4.4",
-  "RELEASE_OR_CODENAME": "4.4.4",
   "ID": "IMM78I",
   "INCREMENTAL": "S7562XXBMF2",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "samsung/cm_kylessopen/kylessopen:4.4.4/KTU84Q/b523c97f2d:userdebug/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "IMM78I",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "19"
+  "*api_level": "25"
 }

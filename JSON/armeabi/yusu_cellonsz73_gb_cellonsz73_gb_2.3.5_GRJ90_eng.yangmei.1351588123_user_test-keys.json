@@ -5,17 +5,14 @@
   "PRODUCT": "cellonsz73_gb",
   "DEVICE": "cellonsz73_gb",
   "RELEASE": "4.0.9",
-  "RELEASE_OR_CODENAME": "4.0.9",
   "ID": "GRJ90",
   "INCREMENTAL": "eng.yangmei.1351588123",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "yusu/cellonsz73_gb/cellonsz73_gb:2.3.5/GRJ90/eng.yangmei.1351588123:user/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 10,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "GRJ90",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "10"
+  "*api_level": "25"
 }

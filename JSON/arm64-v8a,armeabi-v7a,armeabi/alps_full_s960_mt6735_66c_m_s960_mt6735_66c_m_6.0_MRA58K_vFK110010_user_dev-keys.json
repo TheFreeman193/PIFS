@@ -5,17 +5,14 @@
   "PRODUCT": "full_s960_mt6735_66c_m",
   "DEVICE": "s960_mt6735_66c_m",
   "RELEASE": "6.0",
-  "RELEASE_OR_CODENAME": "6.0",
   "ID": "MRA58K",
   "INCREMENTAL": "vFK110010",
   "TYPE": "user",
   "TAGS": "dev-keys",
   "FINGERPRINT": "alps/full_s960_mt6735_66c_m/s960_mt6735_66c_m:6.0/MRA58K/vFK110010:user/dev-keys",
   "SECURITY_PATCH": "2016-05-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "MRA58K",
   "*.security_patch": "2016-05-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "23"
+  "*api_level": "25"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "gta4xlwifixx",
   "DEVICE": "gta4xlwifi",
   "RELEASE": "12",
-  "RELEASE_OR_CODENAME": "12",
   "ID": "SP1A.210812.016",
   "INCREMENTAL": "P610XXU2EVG7",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "samsung/gta4xlwifixx/gta4xlwifi:12/SP1A.210812.016/P610XXU2EVG7:user/release-keys",
   "SECURITY_PATCH": "2022-07-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 31,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "SP1A.210812.016",
   "*.security_patch": "2022-07-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "31"
+  "*api_level": "25"
 }

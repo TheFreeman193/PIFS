@@ -5,17 +5,14 @@
   "PRODUCT": "gtesltetmo",
   "DEVICE": "gtesltetmo",
   "RELEASE": "7.1.1",
-  "RELEASE_OR_CODENAME": "7.1.1",
   "ID": "NMF26X",
   "INCREMENTAL": "T377TUVU1BQI5",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "samsung/gtesltetmo/gtesltetmo:7.1.1/NMF26X/T377TUVU1BQI5:user/release-keys",
   "SECURITY_PATCH": "2017-08-01",
-  "DEVICE_INITIAL_SDK_INT": 23,
-  "SDK_INT": 25,
+  "DEVICE_INITIAL_SDK_INT": "23",
   "*.build.id": "NMF26X",
   "*.security_patch": "2017-08-01",
-  "*api_level": "23",
-  "*.build.version.sdk": "25"
+  "*api_level": "23"
 }

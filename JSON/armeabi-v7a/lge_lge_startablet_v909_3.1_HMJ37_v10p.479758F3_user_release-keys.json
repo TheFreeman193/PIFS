@@ -5,17 +5,14 @@
   "PRODUCT": "lge_startablet",
   "DEVICE": "v909",
   "RELEASE": "3.1",
-  "RELEASE_OR_CODENAME": "3.1",
   "ID": "HMJ37",
   "INCREMENTAL": "v10p.479758F3",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "lge/lge_startablet/v909:3.1/HMJ37/v10p.479758F3:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 12,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "HMJ37",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "12"
+  "*api_level": "25"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "NX16A8116KP",
   "DEVICE": "NX16A8116KP",
   "RELEASE": "7.1.1",
-  "RELEASE_OR_CODENAME": "7.1.1",
   "ID": "N9F27C",
   "INCREMENTAL": "20171122",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "NextBook/NX16A8116KP/NX16A8116KP:7.1.1/N9F27C/V2.0.6:user/release-keys",
   "SECURITY_PATCH": "2017-08-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 25,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "N9F27C",
   "*.security_patch": "2017-08-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "25"
+  "*api_level": "25"
 }

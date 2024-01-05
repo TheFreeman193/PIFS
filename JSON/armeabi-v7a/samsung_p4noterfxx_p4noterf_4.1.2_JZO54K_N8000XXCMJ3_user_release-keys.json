@@ -5,17 +5,14 @@
   "PRODUCT": "p4noterfxx",
   "DEVICE": "p4noterf",
   "RELEASE": "4.1.2",
-  "RELEASE_OR_CODENAME": "4.1.2",
   "ID": "JZO54K",
   "INCREMENTAL": "N8000XXCMJ3",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "samsung/p4noterfxx/p4noterf:4.1.2/JZO54K/N8000XXCMJ3:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 16,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "JZO54K",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "16"
+  "*api_level": "25"
 }

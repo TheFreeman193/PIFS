@@ -5,17 +5,14 @@
   "PRODUCT": "WW_Z01KD",
   "DEVICE": "ASUS_Z01KD_1",
   "RELEASE": "9",
-  "RELEASE_OR_CODENAME": "9",
   "ID": "PPR1.180610.009",
   "INCREMENTAL": "16.0620.1912.23-0",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "asus/WW_Z01KD/ASUS_Z01KD_1:9/PPR1.180610.009/16.0620.1912.23-0:user/release-keys",
   "SECURITY_PATCH": "2019-12-01",
-  "DEVICE_INITIAL_SDK_INT": 26,
-  "SDK_INT": 28,
+  "DEVICE_INITIAL_SDK_INT": "26",
   "*.build.id": "PPR1.180610.009",
   "*.security_patch": "2019-12-01",
-  "*api_level": "26",
-  "*.build.version.sdk": "28"
+  "*api_level": "26"
 }

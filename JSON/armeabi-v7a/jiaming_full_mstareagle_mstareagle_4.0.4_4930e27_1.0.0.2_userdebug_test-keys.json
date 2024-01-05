@@ -5,17 +5,14 @@
   "PRODUCT": "full_mstareagle",
   "DEVICE": "mstareagle",
   "RELEASE": "4.0.4",
-  "RELEASE_OR_CODENAME": "4.0.4",
   "ID": "4930e27_20141211.214746",
   "INCREMENTAL": "1.0.0.2",
   "TYPE": "userdebug",
   "TAGS": "test-keys",
   "FINGERPRINT": "jiaming/full_mstareagle/mstareagle:4.0.4/4930e27/1.0.0.2:userdebug/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 15,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "4930e27_20141211.214746",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "15"
+  "*api_level": "25"
 }

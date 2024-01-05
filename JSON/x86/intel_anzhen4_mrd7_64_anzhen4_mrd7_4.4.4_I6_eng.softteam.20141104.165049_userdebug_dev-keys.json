@@ -5,17 +5,14 @@
   "PRODUCT": "I6",
   "DEVICE": "I6",
   "RELEASE": "4.4.4",
-  "RELEASE_OR_CODENAME": "4.4.4",
   "ID": "I6",
   "INCREMENTAL": "eng.softteam.20141104.165049",
   "TYPE": "userdebug",
   "TAGS": "dev-keys",
   "FINGERPRINT": "intel/anzhen4_mrd7_64/anzhen4_mrd7:4.4.4/I6/eng.softteam.20141104.165049:userdebug/dev-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "I6",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "19"
+  "*api_level": "25"
 }

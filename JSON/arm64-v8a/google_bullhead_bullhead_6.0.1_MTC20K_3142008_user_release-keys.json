@@ -5,17 +5,14 @@
   "PRODUCT": "bullhead",
   "DEVICE": "bullhead",
   "RELEASE": "6.0.1",
-  "RELEASE_OR_CODENAME": "6.0.1",
   "ID": "MTC20K",
   "INCREMENTAL": "3142008",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "google/bullhead/bullhead:6.0.1/MTC20K/3142008:user/release-keys",
   "SECURITY_PATCH": "2015-12-01",
-  "DEVICE_INITIAL_SDK_INT": 23,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "23",
   "*.build.id": "MTC20K",
   "*.security_patch": "2015-12-01",
-  "*api_level": "23",
-  "*.build.version.sdk": "23"
+  "*api_level": "23"
 }

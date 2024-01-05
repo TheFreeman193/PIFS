@@ -5,17 +5,14 @@
   "PRODUCT": "yakjuxw",
   "DEVICE": "maguro",
   "RELEASE": "4.2.1",
-  "RELEASE_OR_CODENAME": "4.2.1",
   "ID": "JOP40D",
   "INCREMENTAL": "I9250XWMA2",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "samsung/yakjuxw/maguro:4.2.1/JOP40D/I9250XWMA2:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 17,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "JOP40D",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "17"
+  "*api_level": "25"
 }

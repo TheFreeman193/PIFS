@@ -5,17 +5,14 @@
   "PRODUCT": "PicassoTab_9",
   "DEVICE": "PicassoTab_9",
   "RELEASE": "9",
-  "RELEASE_OR_CODENAME": "9",
   "ID": "PPR1.180610.011",
   "INCREMENTAL": "1572501771",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Simbans/PicassoTab_9/PicassoTab_9:9/PPR1.180610.011/1572501771:user/release-keys",
   "SECURITY_PATCH": "2019-10-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 28,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "PPR1.180610.011",
   "*.security_patch": "2019-10-05",
-  "*api_level": "25",
-  "*.build.version.sdk": "28"
+  "*api_level": "25"
 }

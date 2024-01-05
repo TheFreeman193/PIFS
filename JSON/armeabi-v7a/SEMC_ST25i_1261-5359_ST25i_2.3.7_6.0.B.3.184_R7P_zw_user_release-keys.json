@@ -5,17 +5,14 @@
   "PRODUCT": "ST25i_1261-5359",
   "DEVICE": "ST25i",
   "RELEASE": "2.3.7",
-  "RELEASE_OR_CODENAME": "2.3.7",
   "ID": "6.0.B.3.184",
   "INCREMENTAL": "R7P_zw",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "SEMC/ST25i_1261-5359/ST25i:2.3.7/6.0.B.3.184/R7P_zw:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 10,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "6.0.B.3.184",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "10"
+  "*api_level": "25"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "vivalto3gxx",
   "DEVICE": "vivalto3g",
   "RELEASE": "4.4.2",
-  "RELEASE_OR_CODENAME": "4.4.2",
   "ID": "KOT49H",
   "INCREMENTAL": "G313HXXU0AOH2",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "samsung/vivalto3gxx/vivalto3g:4.4.2/KOT49H/G313HXXU0AOH2:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "KOT49H",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "19"
+  "*api_level": "25"
 }

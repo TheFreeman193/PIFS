@@ -5,17 +5,14 @@
   "PRODUCT": "INGO_TAB_MH",
   "DEVICE": "INGO_TAB_IN",
   "RELEASE": "4.1.1",
-  "RELEASE_OR_CODENAME": "4.1.1",
   "ID": "JRO03H",
   "INCREMENTAL": "20131225.123557",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "INGO-TAB/INGO-TAB/INGO-TAB:4.1.1/JRO03H/v1.0.8:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 16,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "JRO03H",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "16"
+  "*api_level": "25"
 }

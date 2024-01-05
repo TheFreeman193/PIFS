@@ -5,17 +5,14 @@
   "PRODUCT": "hkw_s905x_01_2",
   "DEVICE": "hkw_s905x_01_2",
   "RELEASE": "6.0.1",
-  "RELEASE_OR_CODENAME": "6.0.1",
   "ID": "MHC19J",
   "INCREMENTAL": "20161007",
   "TYPE": "userdebug",
   "TAGS": "test-keys",
   "FINGERPRINT": "Amlogic/hkw_s905x_01_2/hkw_s905x_01_2:6.0.1/MHC19J/20161007:userdebug/test-keys",
   "SECURITY_PATCH": "2016-08-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 23,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "MHC19J",
   "*.security_patch": "2016-08-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "23"
+  "*api_level": "25"
 }

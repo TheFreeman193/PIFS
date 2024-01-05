@@ -5,17 +5,14 @@
   "PRODUCT": "NX616J",
   "DEVICE": "NX616J",
   "RELEASE": "9",
-  "RELEASE_OR_CODENAME": "9",
   "ID": "PKQ1.180929.001",
   "INCREMENTAL": "eng.nubia.20190328.222448",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "nubia/NX616J/NX616J:9/PKQ1.180929.001/eng.nubia.20190328.222448:user/release-keys",
   "SECURITY_PATCH": "2018-11-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 28,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "PKQ1.180929.001",
   "*.security_patch": "2018-11-05",
-  "*api_level": "25",
-  "*.build.version.sdk": "28"
+  "*api_level": "25"
 }

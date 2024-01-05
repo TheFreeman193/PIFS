@@ -5,17 +5,14 @@
   "PRODUCT": "lentislteskt",
   "DEVICE": "lentislteskt",
   "RELEASE": "4.4.2",
-  "RELEASE_OR_CODENAME": "4.4.2",
   "ID": "KVT49L",
   "INCREMENTAL": "G906SKSU1ANK1",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "samsung/lentislteskt/lentislteskt:4.4.2/KVT49L/G906SKSU1ANK1:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "KVT49L",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "19"
+  "*api_level": "25"
 }

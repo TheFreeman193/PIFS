@@ -5,17 +5,14 @@
   "PRODUCT": "OnePlus7",
   "DEVICE": "OnePlus7",
   "RELEASE": "9",
-  "RELEASE_OR_CODENAME": "9",
   "ID": "PKQ1.190110.001",
   "INCREMENTAL": "1907280700",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "OnePlus/OnePlus7/OnePlus7:9/PKQ1.190110.001/1907280700:user/release-keys",
   "SECURITY_PATCH": "2019-08-01",
-  "DEVICE_INITIAL_SDK_INT": 28,
-  "SDK_INT": 28,
+  "DEVICE_INITIAL_SDK_INT": "28",
   "*.build.id": "PKQ1.190110.001",
   "*.security_patch": "2019-08-01",
-  "*api_level": "28",
-  "*.build.version.sdk": "28"
+  "*api_level": "28"
 }

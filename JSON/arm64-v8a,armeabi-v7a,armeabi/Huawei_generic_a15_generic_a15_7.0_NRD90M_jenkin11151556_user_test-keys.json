@@ -5,17 +5,14 @@
   "PRODUCT": "generic_a15",
   "DEVICE": "generic_a15",
   "RELEASE": "7.0",
-  "RELEASE_OR_CODENAME": "7.0",
   "ID": "NRD90M",
   "INCREMENTAL": "eng.jenkin.20181115.155649",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "Huawei/generic_a15/generic_a15:7.0/NRD90M/jenkin11151556:user/test-keys",
   "SECURITY_PATCH": "2018-11-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 24,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "NRD90M",
   "*.security_patch": "2018-11-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "24"
+  "*api_level": "25"
 }

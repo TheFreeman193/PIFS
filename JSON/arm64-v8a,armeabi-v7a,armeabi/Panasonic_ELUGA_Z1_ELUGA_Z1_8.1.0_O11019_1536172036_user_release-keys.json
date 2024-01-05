@@ -5,17 +5,14 @@
   "PRODUCT": "ELUGA_Z1",
   "DEVICE": "ELUGA_Z1",
   "RELEASE": "8.1.0",
-  "RELEASE_OR_CODENAME": "8.1.0",
   "ID": "O11019",
   "INCREMENTAL": "1536172036",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Panasonic/ELUGA_Z1/ELUGA_Z1:8.1.0/O11019/1536172036:user/release-keys",
   "SECURITY_PATCH": "2018-08-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 27,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "O11019",
   "*.security_patch": "2018-08-05",
-  "*api_level": "25",
-  "*.build.version.sdk": "27"
+  "*api_level": "25"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "troika_retail",
   "DEVICE": "troika_sprout",
   "RELEASE": "10",
-  "RELEASE_OR_CODENAME": "10",
   "ID": "QSBS30.62-17-17-10",
   "INCREMENTAL": "169a7",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "motorola/troika_retail/troika_sprout:10/QSBS30.62-17-17-10/169a7:user/release-keys",
   "SECURITY_PATCH": "2021-07-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 29,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "QSBS30.62-17-17-10",
   "*.security_patch": "2021-07-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "29"
+  "*api_level": "25"
 }

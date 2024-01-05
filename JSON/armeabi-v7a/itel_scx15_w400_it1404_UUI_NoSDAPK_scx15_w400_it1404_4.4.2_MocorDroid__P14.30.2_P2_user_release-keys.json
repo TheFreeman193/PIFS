@@ -5,17 +5,14 @@
   "PRODUCT": "scx15_w400_it1404_UUI_NoSDAPK",
   "DEVICE": "scx15_w400_it1404",
   "RELEASE": "4.4.2",
-  "RELEASE_OR_CODENAME": "4.4.2",
   "ID": "MocorDroid",
   "INCREMENTAL": "_P14.30.2_P2",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "itel/scx15_w400_it1404_UUI_NoSDAPK/scx15_w400_it1404:4.4.2/MocorDroid/_P14.30.2_P2:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "MocorDroid",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "19"
+  "*api_level": "25"
 }

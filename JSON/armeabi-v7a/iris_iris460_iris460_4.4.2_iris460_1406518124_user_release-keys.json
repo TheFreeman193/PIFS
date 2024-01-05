@@ -5,17 +5,14 @@
   "PRODUCT": "460",
   "DEVICE": "iris460",
   "RELEASE": "4.4.2",
-  "RELEASE_OR_CODENAME": "4.4.2",
   "ID": "iris460",
   "INCREMENTAL": "eng.JB5.1406518124",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "iris/iris460/iris460:4.4.2/iris460/1406518124:user/release-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "iris460",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "19"
+  "*api_level": "25"
 }

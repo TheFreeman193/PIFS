@@ -5,17 +5,14 @@
   "PRODUCT": "Z35C",
   "DEVICE": "Z35C",
   "RELEASE": "4.4.2",
-  "RELEASE_OR_CODENAME": "4.4.2",
   "ID": "KOT49H",
   "INCREMENTAL": "eng.scm.1431086291",
   "TYPE": "user",
   "TAGS": "test-keys",
   "FINGERPRINT": "alps/Z35C/Z35C:4.4.2/KOT49H/1431086291:user/test-keys",
   "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "KOT49H",
   "*.security_patch": "",
-  "*api_level": "25",
-  "*.build.version.sdk": "19"
+  "*api_level": "25"
 }

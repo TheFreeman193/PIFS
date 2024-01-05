@@ -5,17 +5,14 @@
   "PRODUCT": "A1000",
   "DEVICE": "A1000",
   "RELEASE": "5.0",
-  "RELEASE_OR_CODENAME": "5.0",
   "ID": "S100",
   "INCREMENTAL": "A1000_USR_S30666_1611211455_SPRD7731_ROW",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Lenovo/A1000/A1000:5.0/S100/A1000_S30666_161121_ROW:user/release-keys",
   "SECURITY_PATCH": "2016-07-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 21,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "S100",
   "*.security_patch": "2016-07-01",
-  "*api_level": "25",
-  "*.build.version.sdk": "21"
+  "*api_level": "25"
 }

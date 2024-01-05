@@ -5,17 +5,14 @@
   "PRODUCT": "lv3_mpcs_us",
   "DEVICE": "lv3",
   "RELEASE": "7.0",
-  "RELEASE_OR_CODENAME": "7.0",
   "ID": "NRD90U",
   "INCREMENTAL": "170970909e61f",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "MetroPCS/lv3_mpcs_us/lv3:7.0/NRD90U/170970909e61f:user/release-keys",
   "SECURITY_PATCH": "2017-04-01",
-  "DEVICE_INITIAL_SDK_INT": 24,
-  "SDK_INT": 24,
+  "DEVICE_INITIAL_SDK_INT": "24",
   "*.build.id": "NRD90U",
   "*.security_patch": "2017-04-01",
-  "*api_level": "24",
-  "*.build.version.sdk": "24"
+  "*api_level": "24"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "WW_P00C",
   "DEVICE": "P00C_2",
   "RELEASE": "7.0",
-  "RELEASE_OR_CODENAME": "7.0",
   "ID": "NRD90M",
   "INCREMENTAL": "WW_P00C-V5.3.19-20171219",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "asus/WW_P00C/P00C_2:7.0/NRD90M/WW_P00C-V5.3.19-20171219:user/release-keys",
   "SECURITY_PATCH": "2017-12-01",
-  "DEVICE_INITIAL_SDK_INT": 23,
-  "SDK_INT": 24,
+  "DEVICE_INITIAL_SDK_INT": "23",
   "*.build.id": "NRD90M",
   "*.security_patch": "2017-12-01",
-  "*api_level": "23",
-  "*.build.version.sdk": "24"
+  "*api_level": "23"
 }

@@ -5,17 +5,14 @@
   "PRODUCT": "lineage_osprey",
   "DEVICE": "osprey",
   "RELEASE": "7.1.2",
-  "RELEASE_OR_CODENAME": "7.1.2",
   "ID": "NJH47D",
   "INCREMENTAL": "b224afa51c",
   "TYPE": "userdebug",
   "TAGS": "release-keys",
   "FINGERPRINT": "Motorola/lineage_osprey/osprey:7.1.2/NJH47D/b224afa51c:userdebug/release-keys",
   "SECURITY_PATCH": "2017-07-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 25,
+  "DEVICE_INITIAL_SDK_INT": "25",
   "*.build.id": "NJH47D",
   "*.security_patch": "2017-07-05",
-  "*api_level": "25",
-  "*.build.version.sdk": "25"
+  "*api_level": "25"
 }

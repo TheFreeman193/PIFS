@@ -5,17 +5,14 @@
   "PRODUCT": "helium",
   "DEVICE": "helium",
   "RELEASE": "7.0",
-  "RELEASE_OR_CODENAME": "7.0",
   "ID": "NRD90M",
   "INCREMENTAL": "V8.5.1.0.NBDMIED",
   "TYPE": "user",
   "TAGS": "release-keys",
   "FINGERPRINT": "Xiaomi/helium/helium:7.0/NRD90M/V8.5.1.0.NBDMIED:user/release-keys",
   "SECURITY_PATCH": "2017-05-01",
-  "DEVICE_INITIAL_SDK_INT": 23,
-  "SDK_INT": 24,
+  "DEVICE_INITIAL_SDK_INT": "23",
   "*.build.id": "NRD90M",
   "*.security_patch": "2017-05-01",
-  "*api_level": "23",
-  "*.build.version.sdk": "24"
+  "*api_level": "23"
 }
