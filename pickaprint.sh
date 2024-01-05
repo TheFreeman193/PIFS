@@ -1,24 +1,31 @@
 # Copyright (C) MIT License 2023 Nicholas Bissell (TheFreeman193)
-main() {
-echo "
+NL="
 "
-echo "===== PIFS Random Profile/Fingerprint Picker ====="
+VERSION=130
+RootDir="/data/adb/pifs"
+FailedList="$RootDir/failed.lst"
+ConfirmedDir="$RootDir/confirmed"
+FailedDir="$RootDir/failed"
+BackupDir="$RootDir/backups"
+echo "$NL$NL===== PIFS Random Profile/Fingerprint Picker ====="
 echo " (Buy me a coffee: https://ko-fi.com/nickbissell)"
-echo "=================================================="
-echo ""
+echo "============== v3 - collection v1.3 ==============$NL"
+
+if [ "$(echo "$*" | grep -e "-[a-z]*[?h]")" ]; then
+    echo "Usage: ./pickaprint.sh [-x] [-i] [-c] [-s] [-h|?]$NL$NL"
+    echo "  -x  Add existing pif.json/custom.pif.json profiles to exclusions and pick a print"
+    echo "  -i  Add existing pif.json/custom.pif.json profiles to confirmed and exit"
+    echo "  -c  Use only confirmed profiles from '$ConfirmedDir'"
+    echo "  -s  Add additional 'SDK_INT'/'*.build.version.sdk' props to profile"
+    echo "  -h  Display this help message$NL"
+    exit 0
+fi
 
 # Test for root
 if [ ! -d "/data/adb" ]; then
     echo "Can't touch /data/adb - this script needs to run as root on an Android device!"
     exit 1
 fi
-
-VERSION=120
-RootDir="/data/adb/pifs"
-FailedList="$RootDir/failed.lst"
-ConfirmedDir="$RootDir/confirmed"
-FailedDir="$RootDir/failed"
-BackupDir="$RootDir/backups"
 
 # Needed commands/shell functions
 CMDS="cat
@@ -36,6 +43,41 @@ rm
 sed
 unzip
 wget"
+
+# API/SDK level reference
+ApiLevels="14=34
+13=33
+12=31
+11=30
+10=29
+9=28
+8.1=27
+8.0=26
+7.1 7.1.1 7.1.2=25
+7.0=24
+6.0 6.0.1=23
+5.1 5.1.1=22
+5.0 5.0.1 5.0.2=21
+4.4W 4.4W.1 4.4W.2=20
+4.4 4.4.1 4.4.2 4.4.3 4.4.4=19
+4.3 4.3.1=18
+4.2 4.2.1 4.2.2=17
+4.1 4.1.1 4.1.2=16
+4.0.3 4.0.4=15
+4.0 4.0.1 4.0.2=14
+3.2 3.2.1 3.2.2 3.2.4 3.2.6=13
+3.1=12
+3.0=11
+2.3.3 2.3.4 2.3.5 2.3.6 2.3.7=10
+2.3 2.3.1 2.3.2=9
+2.2 2.2.1 2.2.2 2.2.3=8
+2.1=7
+2.0.1=6
+2.0=5
+1.6=4
+1.5=3
+1.1=2
+1.0=1"
 
 if [ "$(command -v /data/adb/magisk/busybox)" ]; then
     BBOX="/data/adb/magisk/busybox"
@@ -89,8 +131,7 @@ echo "$0" | grep 'pickaprint\.sh$' >/dev/null && INTERACTIVE=1
 
 # Update check, disable with 'export PIFSNOUPDATE=1'
 if [ -z "$PIFSNOUPDATE" ] && [ -d "./JSON" ] && [ ! -f ./JSON/VERSION -o $(cat ./JSON/VERSION) -lt $VERSION ]; then
-    echo ""
-    echo "New collection update available. Moving existing to PIFS_OLD.zip..."
+    echo "${NL}New collection update available. Moving existing to PIFS_OLD.zip..."
     rm -r ./JSON # Remove old unpacked collection
     [ -f "./PIFS.zip" ] && mv ./PIFS.zip ./PIFS_OLD.zip # Move old repo archive
     # Triggers re-download below
@@ -101,8 +142,7 @@ if [ ! -d "./JSON" ]; then
     # Check if repo ZIP exists
     if [ ! -f "./PIFS.zip" ]; then
         # Download repo archive
-        echo ""
-        echo "Downloading profile/fingerprint repo from GitHub..."
+        echo "${NL}Downloading profile/fingerprint repo from GitHub..."
         dUrl="https://codeload.github.com/TheFreeman193/PIFS/zip/refs/heads/main"
         dTarget="PIFS.zip"
         # Handle many environments; usually curl or webget exist somewhere
@@ -129,8 +169,7 @@ if [ ! -d "./JSON" ]; then
             exit 5
         fi
         # Unzip repo archive
-        echo ""
-        echo "Extracting profiles/fingerprints from PIFS.zip..."
+        echo "${NL}Extracting profiles/fingerprints from PIFS.zip..."
         unzip -qo PIFS.zip -x .git* -x README.md -x LICENSE
         # Copy JSON files
         mv ./PIFS-main/JSON .
@@ -158,8 +197,7 @@ fi
 [ ! -f "$FailedList" ] && touch "$FailedList"
 
 # Check which module installed, fall back to data/adb/pif.json
-echo ""
-echo "Looking for installed PIF module..."
+echo "${NL}Looking for installed PIF module..."
 Author=$(cat /data/adb/modules/playintegrityfix/module.prop | grep "author=" | sed -r 's/author=([^ ]+) ?.*/\1/gi')
 if [ -z "$Author" ]; then
     echo "    Can't detect an installed PIF module! Will use /data/adb/pif.json"
@@ -175,16 +213,28 @@ else
     Target="/data/adb/pif.json"
 fi
 
+if [ "$(echo "$*" | grep -e "-[a-z]*[ix]")" ] && [ -f "$Target" ]; then
+    TargetName="$(cat "$Target" | grep '"FINGERPRINT":' | sed -r 's/.*"FINGERPRINT" *: *"(.+)".*/\1.json/ig;s/[^a-z0-9_.\-]/_/gi')"
+    [ -z "$TargetName" ] && TargetName="$(date +%Y%m%dT%H%M%S).json"
+fi
+
+# Add to confirmed and exit if requested with -i
+if [ "$(echo "$*" | grep -e "-[a-z]*i")" ]; then
+    if [ -f "$Target" ] && [ -n "$TargetName" ]; then
+        echo "${NL}Copying '$Target' to '$ConfirmedDir/$TargetName'..."
+        cp "$Target" "$ConfirmedDir/$TargetName"
+    else
+        echo "Profile '$Target' doesn't exist - can't add it to confirmed"
+    fi
+    exit 0
+fi
+
 # Add exclusion from current PIF fingerprint if requested with -x
 if [ "$(echo "$*" | grep -e "-[a-z]*x")" ]; then
-    if [ -f "$Target" ]; then
-        FPToExclude="$(cat "$Target" | grep '"FINGERPRINT":' | sed -r 's/.*"FINGERPRINT" *: *"(.+)".*/\1.json/ig;s/[^a-z0-9_.\-]/_/gi')"
-        if [ -n "$FPToExclude" ]; then
-            echo ""
-            echo "Adding profile '$FPToExclude' to failed list..."
-            echo "$FPToExclude" >> "$FailedList"
-            rm "$Target"
-        fi
+    if [ -f "$Target" ] && [ -n "$TargetName" ]; then
+        echo "${NL}Adding profile '$TargetName' to failed list..."
+        echo "$TargetName" >> "$FailedList"
+        rm "$Target"
     else
         echo "Profile '$Target' doesn't exist - nothing to exclude"
     fi
@@ -207,25 +257,23 @@ fi
 
 # Allow overrides, enable with 'export FORCEABI="<abi_list>"'
 if [ -z "$FList" ] && [ -n "$FORCEABI" ]; then
-    echo ""
     if [ -d "./JSON/$FORCEABI" ]; then
         echo "\$FORCEABI is set, will only pick profile from '${FORCEABI}'"
         # Get files in overridden dir
         FList=$(find "./JSON/$FORCEABI" -type f -name "*.json")
     else
-        echo "WARNING: \$FORCEABI set but dir '$FORCEABI' doesn't exist in ./JSON"
+        echo "${NL}WARNING: \$FORCEABI set but dir '$FORCEABI' doesn't exist in ./JSON"
     fi
     if [ -n "$FList" ]; then
         SearchPath="./JSON/$FORCEABI"
     else
-        echo "WARNING: No profiles/fingerprints found for ABI list '${FORCEABI}'"
+        echo "${NL}WARNING: No profiles/fingerprints found for ABI list '${FORCEABI}'"
     fi
 fi
 
 if [ -z "$FList" ]; then
     # Get compatible ABIs from build props
-    echo ""
-    echo "Detecting device ABI list..."
+    echo "${NL}Detecting device ABI list..."
     ABIList="$(getprop | grep -E '\[ro\.product\.cpu\.abilist\]: \[' | sed -r 's/\[[^]]+\]: \[(.+)\]/\1/g')"
     if [ -z "$ABIList" ]; then # Old devices had single string prop for this
         ABIList="$(getprop | grep -E '\[ro\.product\.cpu\.abi\]: \[' | sed -r 's/\[[^]]+\]: \[(.+)\]/\1/g')"
@@ -270,8 +318,7 @@ while true; do
     fi
 
     # Get random device profile from file list excluding previously failed
-    echo ""
-    echo "Picking a random profile/fingerprint..."
+    echo "${NL}Picking a random profile/fingerprint..."
     MAX=10
     Counter=0
     while [ $Counter -lt $MAX ]; do
@@ -297,8 +344,7 @@ while true; do
         exit 10
     fi
 
-    echo ""
-    echo "    Profile: '${RandFP/ /}'"
+    echo "${NL}    Profile: '${RandFP/ /}'"
 
     # Back up old profiles
     if [ -f "${Target}" ]; then
@@ -307,19 +353,17 @@ while true; do
         fi
         BackupFName="$(cat "$Target" | grep '"FINGERPRINT":' | sed -r 's/.*"FINGERPRINT" *: *"(.+)".*/\1.json/ig;s/[^a-z0-9_.\-]/_/gi')"
         [ -z "$BackupFName" ] && BackupFName="$(date +%Y%m%dT%H%M%S).json"
-        echo ""
         if [ "$(echo "$BackupFName" | grep -xFf "$FailedList")" ]; then
-            echo "Profile '$BackupFName' is in failed list - won't back up"
+            echo "${NL}Profile '$BackupFName' is in failed list - won't back up"
             rm "$Target"
         else
-            echo "Backing up current profile to '$BackupDir/$BackupFName'..."
+            echo "${NL}Backing up current profile to '$BackupDir/$BackupFName'..."
             mv "${Target}" "$BackupDir/$BackupFName"
         fi
     fi
 
     # Copy random FP
-    echo ""
-    echo "Copying profile to ${Target}..."
+    echo "${NL}Copying profile to ${Target}..."
     cp "${RandFP}" "${Target}"
 
     # Default first SDK version
@@ -338,26 +382,28 @@ while true; do
         sed -i -r 's/("(DEVICE_INITIAL_SDK_INT|\*api_level)": *)(""|0|null)/\125/ig' "$Target"
     fi
 
+    # Restore SDK level props if requested
+    if [ "$(echo "$*" | grep -e "-[a-z]*s")" ]; then
+        RELEASE="$(cat "$Target" | grep '"FINGERPRINT":' | sed -r 's/ *"FINGERPRINT": *"[^\/]*\/[^\/]*\/[^\/:]*:([^\/]+).*$/\1/g')"
+        SDKLevel="$(echo "$ApiLevels" | grep "$RELEASE" | sed -r 's/.+=//g')"
+        sed -i -r -e "/\{/a\ \ \"SDK_INT\": \"$SDKLevel\"," -e "/\{/a\ \ \"*.build.version.sdk\": \"$SDKLevel\"," "$Target"
+    fi
+
     # Kill GMS unstable to force new values
-    echo ""
-    echo "Killing GMS unstable process..."
+    echo "${NL}Killing GMS unstable process..."
     killall com.google.android.gms.unstable
 
-    echo ""
-    echo "===== Test your Play Integrity now ====="
-    echo ""
+    echo "${NL}===== Test your Play Integrity now =====$NL"
 
     if [ $INTERACTIVE -eq 1 ]; then
         INPUT=""
         while true; do
-            echo ""
-            echo -n "Did the profile pass both BASIC and DEVICE integrity? (y/n/c): "
+            echo -n "${NL}Did the profile pass both BASIC and DEVICE integrity? (y/n/c): "
             read -r INPUT
             case "$INPUT" in
                 y)
                     echo "Copying '$FName' to '$ConfirmedDir'"
-                    echo ""
-                    echo "Tip: You can use './pickaprint.sh -c' to try only confirmed profiles"
+                    echo "${NL}Tip: You can use './pickaprint.sh -c' to try only confirmed profiles"
                     cp "$RandFP" "$ConfirmedDir"
                     break 2
                 ;;
@@ -384,8 +430,7 @@ while true; do
         echo "    ./pickaprint.sh -x"
         echo "Or manually add the profile to the failed list:"
         echo "    echo '$FName' >> '$FailedList'"
-        echo ""
-        echo "If the profile works, you can copy it to the confirmed directory with:"
+        echo "${NL}If the profile works, you can copy it to the confirmed directory with:"
         echo "    cp '$RandFP' '$ConfirmedDir'"
         echo "To use only confirmed profiles, run the script with -c:"
         echo "    ./pickaprint.sh -c"
@@ -394,7 +439,4 @@ while true; do
 
 done
 
-echo ""
-echo "Finished!"
-}
-main $*
+echo "${NL}Finished!"
