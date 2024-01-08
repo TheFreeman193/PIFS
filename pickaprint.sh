@@ -1,22 +1,35 @@
 # Copyright (C) MIT License 2023 Nicholas Bissell (TheFreeman193)
 NL="
 "
-VERSION=130
+COLLECTION_VERSION=130
+SCRIPT_VERSION=400
 RootDir="/data/adb/pifs"
-FailedList="$RootDir/failed.lst"
+FailedFile="$RootDir/failed.lst"
 ConfirmedDir="$RootDir/confirmed"
-FailedDir="$RootDir/failed"
 BackupDir="$RootDir/backups"
-echo "$NL$NL===== PIFS Random Profile/Fingerprint Picker ====="
-echo " (Buy me a coffee: https://ko-fi.com/nickbissell)"
-echo "============== v3 - collection v1.3 ==============$NL"
+UserAgent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0"
+ScriptVerUrl="https://raw.githubusercontent.com/TheFreeman193/PIFS/main/SCRIPT_VERSION"
+ColVerUrl="https://raw.githubusercontent.com/TheFreeman193/PIFS/main/JSON/VERSION"
+ScriptUrl="https://raw.githubusercontent.com/TheFreeman193/PIFS/main/pickaprint.sh"
+CollectionUrl="https://codeload.github.com/TheFreeman193/PIFS/zip/refs/heads/main"
+CollectionFile="./PIFS.zip"
+BackupCollectionFile="./PIFS_OLD.zip"
+JsonDir="./JSON"
+ListFile="./pifs_file_list"
 
-if [ "$(echo "$*" | grep -e "-[a-z]*[?h]")" ]; then
-    echo "Usage: ./pickaprint.sh [-x] [-i] [-c] [-s] [-h|?]$NL$NL"
+echo "$NL$NL==== PIFS Random Profile/Fingerprint Picker ===="
+echo " Buy me a coffee: https://ko-fi.com/nickbissell"
+echo "============= v4 - collection v1.3 =============$NL"
+
+if [ "$(echo "$*" | grep -e "-[a-z]*[?h]" -e "--help")" ]; then
+    echo "Usage: ./pickaprint.sh [-x] [-i] [-c] [-a] [-s] [-r[r]] [-h|?]$NL$NL"
     echo "  -x  Add existing pif.json/custom.pif.json profiles to exclusions and pick a print"
     echo "  -i  Add existing pif.json/custom.pif.json profiles to confirmed and exit"
     echo "  -c  Use only confirmed profiles from '$ConfirmedDir'"
+    echo "  -a  Pick profile from entire JSON directory - overrides \$FORCEABI"
     echo "  -s  Add additional 'SDK_INT'/'*.build.version.sdk' props to profile"
+    echo "  -r  Reset - removes all settings/lists/collection (except confirmed directory)"
+    echo "  -rr Completely remove - as Reset but removes confirmed and script file"
     echo "  -h  Display this help message$NL"
     exit 0
 fi
@@ -79,14 +92,20 @@ ApiLevels="14=34
 1.1=2
 1.0=1"
 
+ROOTMODE=""
+
 if [ "$(command -v /data/adb/magisk/busybox)" ]; then
     BBOX="/data/adb/magisk/busybox"
+    ROOTMODE="Magisk"
 elif [ "$(command -v /data/adb/ksu/bin/busybox)" ]; then
     BBOX="/data/adb/ksu/bin/busybox"
+    ROOTMODE="KSU"
 elif [ "$(command -v /sbin/.magisk/busybox/busybox)" ]; then
     BBOX="/sbin/.magisk/busybox/busybox"
+    ROOTMODE="Magisk"
 elif [ "$(command -v /debug_ramdisk/.magisk/busybox/busybox)" ]; then
     BBOX="/debug_ramdisk/.magisk/busybox/busybox"
+    ROOTMODE="KSU"
 else
     LastHope="$(find /system \( -type f -o -type l \) -name busybox 2>/dev/null | head -n 1)"
     [ -z "$LastHope" ] && LastHope="$(find /data \( -type f -o -type l \) -name busybox 2>/dev/null | head -n 1)"
@@ -127,50 +146,110 @@ fi
 
 # Check if interactive
 INTERACTIVE=0
-echo "$0" | grep 'pickaprint\.sh$' >/dev/null && INTERACTIVE=1
+echo "$0" | grep 'pickaprint\.sh$' >/dev/null && INTERACTIVE=1 && cd "$(dirname "$0")"
+
+# Reset/remove if requested with -r
+RESET_CONFIRM="/data/adb/pifs/CONFIRM_RESETREMOVE"
+if [ "$(echo "$*" | grep -e "-[a-z]*r")" ]; then
+    if [ ! -f "$RESET_CONFIRM" ]; then
+        echo "${NL}Running with -r or -rr will permanently delete PIFS settings. Run again to confirm."
+        touch "$RESET_CONFIRM"
+        exit 0
+    fi
+    echo "${NL}Removing all PIFS settings, lists, and local collection..."
+    [ -d "$JsonDir" ] && rm -r "$JsonDir"
+    [ -f "$CollectionFile" ] && rm "$CollectionFile"
+    [ -f "$BackupCollectionFile" ] && rm "$BackupCollectionFile"
+    [ -d "$RootDir/failed" ] && rm -r "$RootDir/failed"
+    [ -d "$BackupDir" ] && rm -r "$BackupDir"
+    [ -f "$FailedFile" ] && rm "$FailedFile"
+    if [ "$(echo "$*" | grep -e "-[a-z]*rr")" ]; then
+        echo "Removing confirmed directory and pickaprint.sh script..."
+        [ -d "$ConfirmedDir" ] && rm -r "$ConfirmedDir"
+        [ -d "$RootDir" ] && [ "$(ls "$RootDir")" = "" ] && rm -r "$RootDir"
+        if [ "$INTERACTIVE" -eq 1 ]; then
+            [ -f "$0" ] && rm -f "$0"
+        else
+            [ -f "./pickaprint.sh" ] && rm -f "./pickaprint.sh"
+        fi
+    fi
+    rm -f "$RESET_CONFIRM"
+    exit 0
+fi
+[ -f "$RESET_CONFIRM" ] && rm -f "$RESET_CONFIRM"
 
 # Update check, disable with 'export PIFSNOUPDATE=1'
-if [ -z "$PIFSNOUPDATE" ] && [ -d "./JSON" ] && [ ! -f ./JSON/VERSION -o $(cat ./JSON/VERSION) -lt $VERSION ]; then
-    echo "${NL}New collection update available. Moving existing to PIFS_OLD.zip..."
-    rm -r ./JSON # Remove old unpacked collection
-    [ -f "./PIFS.zip" ] && mv ./PIFS.zip ./PIFS_OLD.zip # Move old repo archive
-    # Triggers re-download below
+if [ -z "$PIFSNOUPDATE" ]; then
+    echo "${NL}Checking for new version...${NL}    Tip: You can disable this check with 'export PIFSNOUPDATE=1'"
+
+    if [ "$(command -v wget)" ]; then
+        ONLINEVERSION="$(wget -O - -U "$UserAgent" --no-check-certificate "$ScriptVerUrl" 2>/dev/null)"
+        ONLINECOLLECTIONVERSION="$(wget -O - -U "$UserAgent" --no-check-certificate "$ColVerUrl" 2>/dev/null)"
+    elif [ "$(command -v curl)" ]; then
+        ONLINEVERSION="$(curl -k -A "$UserAgent" "$ScriptVerUrl" 2>/dev/null)"
+        ONLINECOLLECTIONVERSION="$(curl -k -A "$UserAgent" "$ColVerUrl" 2>/dev/null)"
+    else
+        echo "WARNING: Couldn't find wget or curl to check for latest version."
+    fi
+    if [ -n "$ONLINEVERSION" ] && [ "$ONLINEVERSION" -gt $SCRIPT_VERSION ]; then
+        echo "$NL================================================"
+        echo "A newer version of the script is available.${NL}Download with:$NL"
+        if [ "$ROOTMODE" == "Magisk" ]; then
+            echo "/data/adb/magisk/busybox wget -O pickaprint.sh \"$ScriptUrl\""
+        elif [ "$ROOTMODE" == "KSU" ]; then
+            echo "/data/adb/ksu/bin/busybox wget -O pickaprint.sh \"$ScriptUrl\""
+        else
+            echo "curl -o pickaprint.sh \"$ScriptUrl\""
+        fi
+        echo "================================================$NL"
+    fi
+    [ -n "$ONLINECOLLECTIONVERSION" ] && COLLECTION_VERSION=$ONLINECOLLECTIONVERSION
+    if [ -d "$JsonDir" ] && [ ! -f "$JsonDir/VERSION" -o $(cat "$JsonDir/VERSION") -lt $COLLECTION_VERSION ]; then
+        echo "${NL}There is an updated collection available. Moving existing to $BackupCollectionFile..."
+        rm -r "$JsonDir" # Remove old unpacked collection
+        [ -f "$CollectionFile" ] && mv "$CollectionFile" "$BackupCollectionFile" # Move old repo archive
+        # Triggers re-download below
+    fi
+else
+    echo "${NL}\$PIFSNOUPDATE is set - offline mode"
 fi
 
 # Test if JSON dir exists
-if [ ! -d "./JSON" ]; then
+if [ ! -d "$JsonDir" ]; then
     # Check if repo ZIP exists
-    if [ ! -f "./PIFS.zip" ]; then
+    if [ ! -f "$CollectionFile" ]; then
+        if [ -n "$PIFSNOUPDATE" ]; then
+            echo "Neither collection '$JsonDir' nor archive '$CollectionFile' found but \$PIFSNOUPDATE is set. Stopping."
+            exit 0
+        fi
         # Download repo archive
-        echo "${NL}Downloading profile/fingerprint repo from GitHub..."
-        dUrl="https://codeload.github.com/TheFreeman193/PIFS/zip/refs/heads/main"
-        dTarget="PIFS.zip"
+        echo "${NL}Downloading profile/fingerprint collection from GitHub..."
         # Handle many environments; usually curl or webget exist somewhere
         if [ "$(command -v wget)" ]; then
-            wget -O "$dTarget" "$dUrl"
-        elif [ "$(command -v curl)" ]; then
-            curl -o "$dTarget" "$dUrl"
+            wget -O "$CollectionFile" --no-check-certificate "$CollectionUrl" >/dev/null 2>&1
+        elif [ ! -f "$CollectionFile" ] && [ "$(command -v curl)" ]; then
+            curl -ko "$CollectionFile" "$CollectionUrl" >/dev/null 2>&1
         else
             echo "WARNING: Couldn't find wget or curl to download the repository."
         fi
-        if [ ! $? ] || [ ! -f "./PIFS.zip" ]; then
-            if [ -f "./PIFS_OLD.zip" ]; then
-                mv ./PIFS_OLD.zip ./PIFS.zip # Restore outdated copies
-                echo "Restored outdated version from PIFS_OLD.zip"
+        if [ ! -f "$CollectionFile" ]; then
+            if [ -f "$BackupCollectionFile" ]; then
+                mv "$BackupCollectionFile" "$CollectionFile" # Restore outdated copies
+                echo "Restored outdated version from $BackupCollectionFile"
             else
                 echo "ERROR: Couldn't get repo. You'll have to download manually from https://github.com/TheFreeman193/PIFS"
                 exit 4
             fi
         fi
     fi
-    if [ ! -d "./JSON" ]; then
-        if [ ! -f "./PIFS.zip" ]; then
-            echo "ERROR: Repository archive PIFS.zip couldn't be downloaded"
+    if [ ! -d "$JsonDir" ]; then
+        if [ ! -f "$CollectionFile" ]; then
+            echo "ERROR: Repository archive $CollectionFile couldn't be downloaded"
             exit 5
         fi
         # Unzip repo archive
-        echo "${NL}Extracting profiles/fingerprints from PIFS.zip..."
-        unzip -qo PIFS.zip -x .git* -x README.md -x LICENSE
+        echo "${NL}Extracting profiles/fingerprints from $CollectionFile..."
+        unzip -qo "$CollectionFile" -x .git* -x README.md -x LICENSE
         # Copy JSON files
         mv ./PIFS-main/JSON .
         if [ ! -f "./pickaprint.sh" ]; then
@@ -189,12 +268,11 @@ fi
 
 # Migrate old versions
 [ ! -d "$BackupDir" ] && [ -d "/data/adb/oldpifs" ] && mv "/data/adb/oldpifs" "$BackupDir"
-[ ! -f "$FailedList" ] && [ -f "/data/adb/failedpifs.lst" ] && mv "/data/adb/failedpifs.lst" "$FailedList"
+[ ! -f "$FailedFile" ] && [ -f "/data/adb/failedpifs.lst" ] && mv "/data/adb/failedpifs.lst" "$FailedFile"
 
 [ ! -d "$ConfirmedDir" ] && mkdir "$ConfirmedDir"
-[ ! -d "$FailedDir" ] && mkdir "$FailedDir"
 [ ! -d "$BackupDir" ] && mkdir "$BackupDir"
-[ ! -f "$FailedList" ] && touch "$FailedList"
+[ ! -f "$FailedFile" ] && touch "$FailedFile"
 
 # Check which module installed, fall back to data/adb/pif.json
 echo "${NL}Looking for installed PIF module..."
@@ -233,45 +311,66 @@ fi
 if [ "$(echo "$*" | grep -e "-[a-z]*x")" ]; then
     if [ -f "$Target" ] && [ -n "$TargetName" ]; then
         echo "${NL}Adding profile '$TargetName' to failed list..."
-        echo "$TargetName" >> "$FailedList"
+        echo "$TargetName" >> "$FailedFile"
         rm "$Target"
     else
         echo "Profile '$Target' doesn't exist - nothing to exclude"
     fi
 fi
 
+# Clean failed file
+sed -ir "/^ *$/d" "$FailedFile"
+
+# Pick from all profiles if requested with -a
 FList=""
-# Optionally pick only confirmed profiles
-if [ "$(echo "$*" | grep -e "-[a-z]*c")" ]; then
+SearchPath=""
+if [ "$(echo "$*" | grep -e "-[a-z]*a")" ]; then
+    echo "${NL}-a present. Using entire JSON directory."
+    FList="$(find "$JsonDir" -type f -name "*.json" | grep -vFf "$FailedFile")"
+    if [ -z "$FList" ]; then
+        echo "ERROR: No profiles/fingerprints found in '$JsonDir' that aren't excluded"
+        exit 6
+    fi
+    SearchPath="$JsonDir"
+fi
+
+# Pick only from confirmed profiles if requested with -c
+CONFIRMEDONLY=0
+if [ -z "$SearchPath" ] && [ "$(echo "$*" | grep -e "-[a-z]*c")" ]; then
+    CONFIRMEDONLY=1
     if [ -d "$ConfirmedDir" ]; then
-        FList=$(find "$ConfirmedDir" -type f -name "*.json")
+        FList=$(find "$ConfirmedDir" -type f -name "*.json" | grep -vFf "$FailedFile")
     else
-        echo "WARNING: -c argument present but '$ConfirmedDir' directory doesn't exist"
+        echo "ERROR: -c argument present but '$ConfirmedDir' directory doesn't exist"
+        exit 10
     fi
     if [ -n "$FList" ]; then
         SearchPath="$ConfirmedDir"
     else
-        echo "WARNING: No profiles/fingerprints found in '$ConfirmedDir'"
+        echo "ERROR: No profiles/fingerprints found in '$ConfirmedDir' that aren't excluded"
+        exit 10
     fi
 fi
 
 # Allow overrides, enable with 'export FORCEABI="<abi_list>"'
-if [ -z "$FList" ] && [ -n "$FORCEABI" ]; then
-    if [ -d "./JSON/$FORCEABI" ]; then
-        echo "\$FORCEABI is set, will only pick profile from '${FORCEABI}'"
+if [ -z "$SearchPath" ] && [ -n "$FORCEABI" ]; then
+    if [ -d "$JsonDir/$FORCEABI" ]; then
+        echo "${NL}\$FORCEABI is set, will only pick profile from '${FORCEABI}'"
         # Get files in overridden dir
-        FList=$(find "./JSON/$FORCEABI" -type f -name "*.json")
+        FList=$(find "$JsonDir/$FORCEABI" -type f -name "*.json" | grep -vFf "$FailedFile")
     else
-        echo "${NL}WARNING: \$FORCEABI set but dir '$FORCEABI' doesn't exist in ./JSON"
+        echo "${NL}ERROR: \$FORCEABI set but dir '$FORCEABI' doesn't exist in $JsonDir"
+        exit 7
     fi
     if [ -n "$FList" ]; then
-        SearchPath="./JSON/$FORCEABI"
+        SearchPath="$JsonDir/$FORCEABI"
     else
-        echo "${NL}WARNING: No profiles/fingerprints found for ABI list '${FORCEABI}'"
+        echo "${NL}ERROR: No profiles/fingerprints found in '$JsonDir/$FORCEABI' that aren't excluded"
+        exit 7
     fi
 fi
 
-if [ -z "$FList" ]; then
+if [ -z "$SearchPath" ]; then
     # Get compatible ABIs from build props
     echo "${NL}Detecting device ABI list..."
     ABIList="$(getprop | grep -E '\[ro\.product\.cpu\.abilist\]: \[' | sed -r 's/\[[^]]+\]: \[(.+)\]/\1/g')"
@@ -281,9 +380,9 @@ if [ -z "$FList" ]; then
     # Get files from detected dir, else try all dirs
     if [ -n "$ABIList" ]; then
         echo "    Will use profile/fingerprint with ABI list '${ABIList}'"
-        FList=$(find "./JSON/${ABIList}" -type f -name "*.json")
+        FList=$(find "$JsonDir/${ABIList}" -type f -name "*.json" | grep -vFf "$FailedFile")
         if [ -n "$FList" ]; then
-            SearchPath="./JSON/$ABIList"
+            SearchPath="$JsonDir/$ABIList"
         else
             echo "WARNING: No profiles/fingerprints found for ABI list '$ABIList'"
         fi
@@ -293,58 +392,39 @@ if [ -z "$FList" ]; then
 fi
 
 # Ensure we don't get empty lists, fall back to all dirs
-if [ -z "$FList" ]; then
-    echo "    Will use profile/fingerprint from entire ./JSON directory."
-    FList=$(find ./JSON -type f -name "*.json")
+if [ -z "$SearchPath" ]; then
+    echo "    Will use profile/fingerprint from entire $JsonDir directory."
+    FList=$(find "$JsonDir" -type f -name "*.json" | grep -vFf "$FailedFile")
     if [ -n "$FList" ]; then
-        SearchPath="./JSON"
+        SearchPath="$JsonDir"
     fi
 fi
 
-if [ -z "$FList" ]; then
+if [ -z "$SearchPath" ]; then
     echo "ERROR: Couldn't find any profiles/fingerprints. Is the $PWD/JSON directory empty?"
     exit 8
 fi
 
-
-
 while true; do
 
+    find "$SearchPath" -type f -name "*.json" | grep -vFf "$FailedFile" > "$ListFile"
+
     # Count JSON files in list
-    FCount=$(echo "$FList" | wc -l)
-    if [ $FCount == 0 ]; then
-        echo "ERROR: Couldn't parse JSON file list!"
+    FCount=0
+    [ -f "$ListFile" ] && FCount="$(sed -n '$=' "$ListFile")"
+    if [ -z "$FCount" ] || [ "$FCount" -eq 0 ]; then
+        echo "${NL}ERROR: No profiles/fingerprints found in '$SearchPath' that aren't excluded"
+        [ -f "$ListFile" ] && rm -f "$ListFile"
         exit 9
     fi
 
     # Get random device profile from file list excluding previously failed
-    echo "${NL}Picking a random profile/fingerprint..."
-    MAX=10
-    Counter=0
-    while [ $Counter -lt $MAX ]; do
-        Counter=$((Counter + 1))
-        RandFPNum=$((1 + ($RANDOM * 2) % $FCount)) # Get a random index from the list
-        RandFP=$(echo "$FList" | sed -r "${RandFPNum}q;d") # Get path of random index
-        if [ ! -f "$RandFP" ]; then
-            FList=$(find "$SearchPath" -type f -name "*.json")
-            FCount=$(echo "$FList" | wc -l)
-            continue 1
-        fi
-        FName=$(basename "$RandFP") # Resolve filename
-        if [ "$(echo "$FName" | grep -xFf "$FailedList")" ]; then # Check exclusions list
-            echo "    Found excluded profile '$FName'. Moving to '$FailedDir'"
-            mv "$RandFP" "$FailedDir/$FName"
-        else
-            break
-        fi
-    done
-
-    if [ $Counter -ge $MAX ]; then
-        echo "ERROR: Exhausted $MAX attempts to pick a profile not in the failed list. Are all profiles excluded?"
-        exit 10
-    fi
-
-    echo "${NL}    Profile: '${RandFP/ /}'"
+    [ "$CONFIRMEDONLY" -eq 1 ] && echo "${NL}Picking a random confirmed profile/fingerprint..." \
+    || echo "${NL}Picking a random profile/fingerprint..."
+    RandFPNum=$((1 + ($RANDOM * 2) % $FCount)) # Get a random index from the list
+    RandFP="$(sed -r "${RandFPNum}q;d" "$ListFile")" # Get path of random index
+    rm -f "$ListFile"
+    FName=$(basename "$RandFP") # Resolve filename
 
     # Back up old profiles
     if [ -f "${Target}" ]; then
@@ -353,20 +433,21 @@ while true; do
         fi
         BackupFName="$(cat "$Target" | grep '"FINGERPRINT":' | sed -r 's/.*"FINGERPRINT" *: *"(.+)".*/\1.json/ig;s/[^a-z0-9_.\-]/_/gi')"
         [ -z "$BackupFName" ] && BackupFName="$(date +%Y%m%dT%H%M%S).json"
-        if [ "$(echo "$BackupFName" | grep -xFf "$FailedList")" ]; then
+        if [ "$(echo "$BackupFName" | grep -xFf "$FailedFile")" ]; then
             echo "${NL}Profile '$BackupFName' is in failed list - won't back up"
             rm "$Target"
-        else
-            echo "${NL}Backing up current profile to '$BackupDir/$BackupFName'..."
+        elif [ ! -f "$BackupDir/$BackupFName" ]; then
+            echo "${NL}Backing up old profile to '$BackupDir'..."
             mv "${Target}" "$BackupDir/$BackupFName"
         fi
+        echo "${NL}    Old Profile: '${BackupFName/ /}'"
     fi
+
+    echo "${NL}    New Profile: '${FName/ /}'"
 
     # Copy random FP
     echo "${NL}Copying profile to ${Target}..."
     cp "${RandFP}" "${Target}"
-
-    # Default first SDK version
 
     # Alternate key names
     if [ "$Author" = "chiteroman" ]; then
@@ -391,26 +472,28 @@ while true; do
 
     # Kill GMS unstable to force new values
     echo "${NL}Killing GMS unstable process..."
-    killall com.google.android.gms.unstable
+    killall com.google.android.gms.unstable >/dev/null 2>&1
 
     echo "${NL}===== Test your Play Integrity now =====$NL"
 
-    if [ $INTERACTIVE -eq 1 ]; then
+    if [ "$INTERACTIVE" -eq 1 ]; then
         INPUT=""
         while true; do
             echo -n "${NL}Did the profile pass both BASIC and DEVICE integrity? (y/n/c): "
             read -r INPUT
             case "$INPUT" in
                 y)
-                    echo "Copying '$FName' to '$ConfirmedDir'"
-                    echo "${NL}Tip: You can use './pickaprint.sh -c' to try only confirmed profiles"
-                    cp "$RandFP" "$ConfirmedDir"
+                    if [ "$CONFIRMEDONLY" -ne 1 ]; then
+                        echo "Copying '$FName' to '$ConfirmedDir'"
+                        echo "${NL}Tip: You can use './pickaprint.sh -c' to try only confirmed profiles"
+                        cp "$RandFP" "$ConfirmedDir"
+                    fi
                     break 2
                 ;;
                 n)
                     echo "Excluding '$FName'"
-                    echo "$FName" >> "$FailedList"
-                    mv "$RandFP" "$FailedDir/$FName"
+                    echo "$FName" >> "$FailedFile"
+                    sed -ir "/^ *$/d" "$FailedFile"
                     rm "$Target"
                     [ -f "$ConfirmedDir/$FName" ] && rm "$ConfirmedDir/$FName"
                     break
@@ -429,7 +512,7 @@ while true; do
         echo "If this profile didn't work, run the script locally with -x using:"
         echo "    ./pickaprint.sh -x"
         echo "Or manually add the profile to the failed list:"
-        echo "    echo '$FName' >> '$FailedList'"
+        echo "    echo '$FName' >> '$FailedFile'"
         echo "${NL}If the profile works, you can copy it to the confirmed directory with:"
         echo "    cp '$RandFP' '$ConfirmedDir'"
         echo "To use only confirmed profiles, run the script with -c:"
