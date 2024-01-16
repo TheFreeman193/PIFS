@@ -2,7 +2,7 @@
 NL="
 "
 COLLECTION_VERSION=130
-SCRIPT_VERSION=400
+SCRIPT_VERSION=410
 RootDir="/data/adb/pifs"
 FailedFile="$RootDir/failed.lst"
 ConfirmedDir="$RootDir/confirmed"
@@ -19,11 +19,12 @@ ListFile="./pifs_file_list"
 
 echo "$NL$NL==== PIFS Random Profile/Fingerprint Picker ===="
 echo " Buy me a coffee: https://ko-fi.com/nickbissell"
-echo "============= v4 - collection v1.3 =============$NL"
+echo "============ v4.1 - collection v1.3 ============$NL"
 
 if [ "$(echo "$*" | grep -e "-[a-z]*[?h]" -e "--help")" ]; then
     echo "Usage: ./pickaprint.sh [-x] [-i] [-c] [-a] [-s] [-r[r]] [-h|?]$NL$NL"
     echo "  -x  Add existing pif.json/custom.pif.json profiles to exclusions and pick a print"
+    echo "  -xx Add existing pif.json/custom.pif.json profiles to exclusions and exit"
     echo "  -i  Add existing pif.json/custom.pif.json profiles to confirmed and exit"
     echo "  -c  Use only confirmed profiles from '$ConfirmedDir'"
     echo "  -a  Pick profile from entire JSON directory - overrides \$FORCEABI"
@@ -179,7 +180,7 @@ fi
 [ -f "$RESET_CONFIRM" ] && rm -f "$RESET_CONFIRM"
 
 # Update check, disable with 'export PIFSNOUPDATE=1'
-if [ -z "$PIFSNOUPDATE" ]; then
+if [ -z "$PIFSNOUPDATE" ] && [ "$(echo "$*" | grep -ve "-[a-z]*i" -e "-[a-z]*xx")" ]; then
     echo "${NL}Checking for new version...${NL}    Tip: You can disable this check with 'export PIFSNOUPDATE=1'"
 
     if [ "$(command -v wget)" ]; then
@@ -211,11 +212,11 @@ if [ -z "$PIFSNOUPDATE" ]; then
         # Triggers re-download below
     fi
 else
-    echo "${NL}\$PIFSNOUPDATE is set - offline mode"
+    [ -n "$PIFSNOUPDATE" ] && echo "${NL}\$PIFSNOUPDATE is set - offline mode"
 fi
 
 # Test if JSON dir exists
-if [ ! -d "$JsonDir" ]; then
+if [ ! -d "$JsonDir" ] && [ "$(echo "$*" | grep -ve "-[a-z]*i" -e "-[a-z]*xx")" ]; then
     # Check if repo ZIP exists
     if [ ! -f "$CollectionFile" ]; then
         if [ -n "$PIFSNOUPDATE" ]; then
@@ -307,7 +308,7 @@ if [ "$(echo "$*" | grep -e "-[a-z]*i")" ]; then
     exit 0
 fi
 
-# Add exclusion from current PIF fingerprint if requested with -x
+# Add exclusion from current PIF fingerprint if requested with -x (and exit with -xx)
 if [ "$(echo "$*" | grep -e "-[a-z]*x")" ]; then
     if [ -f "$Target" ] && [ -n "$TargetName" ]; then
         echo "${NL}Adding profile '$TargetName' to failed list..."
@@ -316,10 +317,12 @@ if [ "$(echo "$*" | grep -e "-[a-z]*x")" ]; then
     else
         echo "Profile '$Target' doesn't exist - nothing to exclude"
     fi
+    [ "$(echo "$*" | grep -e "-[a-z]*xx")" ] && exit 0
 fi
 
 # Clean failed file
 sed -ir "/^ *$/d" "$FailedFile"
+sort -uo "$FailedFile" "$FailedFile"
 
 # Pick from all profiles if requested with -a
 FList=""
@@ -452,15 +455,24 @@ while true; do
     # Alternate key names
     if [ "$Author" = "chiteroman" ]; then
         echo "    Converting pif.json to chiteroman format..."
-        sed -i -r 's/("DEVICE_INITIAL_SDK_INT": *)(""|0|null)/\1"25"/ig
-        s/("DEVICE_INITIAL_SDK_INT": )([0-9]+),/\1"\2"/ig
+        sed -i -r 's/("DEVICE_INITIAL_SDK_INT": *)(""|"?0"?|null)/\1"25"/ig
+        s/("DEVICE_INITIAL_SDK_INT": )([0-9]+)/\1"\2"/ig
         s/"DEVICE_INITIAL_SDK_INT":/"FIRST_API_LEVEL":/ig
         /^[[:space:]]*"\*.+$/d
         /^[[:space:]]*"[^"]*\..+$/d
         /^[[:space:]]*"(ID|RELEASE_OR_CODENAME|INCREMENTAL|TYPE|TAGS|SDK_INT|RELEASE)":.+$/d
         /^[[:space:]]*$/d' "$Target"
     else
-        sed -i -r 's/("(DEVICE_INITIAL_SDK_INT|\*api_level)": *)(""|0|null)/\125/ig' "$Target"
+        sed -i -r 's/("(DEVICE_INITIAL_SDK_INT|\*api_level)": *)(""|"?0"?|null)/\1"25"/ig' "$Target"
+    fi
+
+    # Remove any trailing terminal comma
+    LineCount="$(sed -n '$=' "$Target")"
+    if [ "$LineCount" -gt 2 ]; then
+        prefix="$(cat "$Target" | head -n $((LineCount - 2)))"
+        replaced="$(cat "$Target" | head -n $((LineCount - 1)) | tail -n 1 | sed -r 's/^([[:space:]]*"[^"]+":[[:space:]]*.+),[[:space:]]*$/\1/')"
+        suffix="$(cat "$Target" | tail -n 1)"
+        echo "${prefix}${NL}${replaced}${NL}${suffix}" > "$Target"
     fi
 
     # Restore SDK level props if requested
@@ -494,6 +506,7 @@ while true; do
                     echo "Excluding '$FName'"
                     echo "$FName" >> "$FailedFile"
                     sed -ir "/^ *$/d" "$FailedFile"
+                    sort -uo "$FailedFile" "$FailedFile"
                     rm "$Target"
                     [ -f "$ConfirmedDir/$FName" ] && rm "$ConfirmedDir/$FName"
                     break
