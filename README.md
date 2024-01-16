@@ -1,12 +1,16 @@
 # Play Integrity Fix Props Collection
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V4SGXD9)
+<!-- markdownlint-disable no-inline-html -->
+
+[<img src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_blue.png" alt="Support me on Ko-fi" width="200"/>](https://ko-fi.com/V7V4SGXD9 "Mmm... coffee!")
 
 ## What is this?
 
 This repository contains JSON files compatible with the [Play Integrity Fix](https://github.com/chiteroman/PlayIntegrityFix) module by [chiteroman](https://github.com/chiteroman/) or [PlayIntegrityFork](https://github.com/osm0sis/PlayIntegrityFork) made by [osm0sis](https://github.com/osm0sis).
 
 If you don't use a custom ROM and haven't rooted your Android device, you're in the wrong place!
+
+These files aren't tested - they're just a sample of device profiles available online.
 
 ## Why is this needed?
 
