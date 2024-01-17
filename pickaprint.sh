@@ -180,7 +180,7 @@ fi
 [ -f "$RESET_CONFIRM" ] && rm -f "$RESET_CONFIRM"
 
 # Update check, disable with 'export PIFSNOUPDATE=1'
-if [ -z "$PIFSNOUPDATE" ] && [ "$(echo "$*" | grep -ve "-[a-z]*i" -e "-[a-z]*xx")" ]; then
+if [ -z "$PIFSNOUPDATE" ] && [ ! "$(echo "$*" | grep -e "-[a-z]*i" -e "-[a-z]*xx")" ]; then
     echo "${NL}Checking for new version...${NL}    Tip: You can disable this check with 'export PIFSNOUPDATE=1'"
 
     if [ "$(command -v wget)" ]; then
@@ -216,7 +216,7 @@ else
 fi
 
 # Test if JSON dir exists
-if [ ! -d "$JsonDir" ] && [ "$(echo "$*" | grep -ve "-[a-z]*i" -e "-[a-z]*xx")" ]; then
+if [ ! -d "$JsonDir" ] && [ ! "$(echo "$*" | grep -e "-[a-z]*i" -e "-[a-z]*xx")" ]; then
     # Check if repo ZIP exists
     if [ ! -f "$CollectionFile" ]; then
         if [ -n "$PIFSNOUPDATE" ]; then
