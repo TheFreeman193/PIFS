@@ -2,7 +2,7 @@
 NL="
 "
 COLLECTION_VERSION=130
-SCRIPT_VERSION=410
+SCRIPT_VERSION=420
 RootDir="/data/adb/pifs"
 FailedFile="$RootDir/failed.lst"
 ConfirmedDir="$RootDir/confirmed"
@@ -19,18 +19,18 @@ ListFile="./pifs_file_list"
 
 echo "$NL$NL==== PIFS Random Profile/Fingerprint Picker ===="
 echo " Buy me a coffee: https://ko-fi.com/nickbissell"
-echo "============ v4.1 - collection v1.3 ============$NL"
+echo "============ v4.2 - collection v1.3 ============$NL"
 
 if [ "$(echo "$*" | grep -e "-[a-z]*[?h]" -e "--help")" ]; then
     echo "Usage: ./pickaprint.sh [-x] [-i] [-c] [-a] [-s] [-r[r]] [-h|?]$NL$NL"
-    echo "  -x  Add existing pif.json/custom.pif.json profiles to exclusions and pick a print"
-    echo "  -xx Add existing pif.json/custom.pif.json profiles to exclusions and exit"
-    echo "  -i  Add existing pif.json/custom.pif.json profiles to confirmed and exit"
+    echo "  -x  Add existing pif.json/custom.pif.json profile to exclusions and pick a print"
+    echo "  -xx Add existing pif.json/custom.pif.json profile to exclusions and exit"
+    echo "  -i  Add existing pif.json/custom.pif.json profile to confirmed and exit"
     echo "  -c  Use only confirmed profiles from '$ConfirmedDir'"
     echo "  -a  Pick profile from entire JSON directory - overrides \$FORCEABI"
     echo "  -s  Add additional 'SDK_INT'/'*.build.version.sdk' props to profile"
     echo "  -r  Reset - removes all settings/lists/collection (except confirmed directory)"
-    echo "  -rr Completely remove - as Reset but removes confirmed and script file"
+    echo "  -rr Completely remove - as Reset but also removes confirmed and script file"
     echo "  -h  Display this help message$NL"
     exit 0
 fi
@@ -458,9 +458,10 @@ while true; do
         sed -i -r 's/("DEVICE_INITIAL_SDK_INT": *)(""|"?0"?|null)/\1"25"/ig
         s/("DEVICE_INITIAL_SDK_INT": )([0-9]+)/\1"\2"/ig
         s/"DEVICE_INITIAL_SDK_INT":/"FIRST_API_LEVEL":/ig
+        s/"ID":/"BUILD_ID":/ig
         /^[[:space:]]*"\*.+$/d
         /^[[:space:]]*"[^"]*\..+$/d
-        /^[[:space:]]*"(ID|RELEASE_OR_CODENAME|INCREMENTAL|TYPE|TAGS|SDK_INT|RELEASE)":.+$/d
+        /^[[:space:]]*"(RELEASE_OR_CODENAME|INCREMENTAL|TYPE|TAGS|SDK_INT|RELEASE)":.+$/d
         /^[[:space:]]*$/d' "$Target"
     else
         sed -i -r 's/("(DEVICE_INITIAL_SDK_INT|\*api_level)": *)(""|"?0"?|null)/\1"25"/ig' "$Target"
