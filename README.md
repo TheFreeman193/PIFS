@@ -74,8 +74,12 @@ Please [see below](#full-script-usage) for all the arguments you can pass to `pi
 
 ### Option 2: Manually Selecting a File
 
+**NOTE:** The JSON files in this collection are structured to be compatible with [PlayIntegrityFork by osm0sis](https://github.com/osm0sis/PlayIntegrityFork).
+
+If you're using [chiteroman's module](https://github.com/chiteroman/PlayIntegrityFix), you'll need to remove some of the entries and rename others.
+Please see the [format conversion](#converting-profiles-to-the-chiteroman-format) section below for converting to the chiteroman format.
+
 > **Please choose a random file from the relevant directory.**
-> Everyone picking the first or last file will inevitably result in that profile being blocked for software attestation.
 
 The complete compatibility matrix for profiles and Android device isn't yet known - the Android ecosystem is huge and diverse, so this is to be expected.
 It appears the list of ABIs your device supports needs to match the device the profile is from.
@@ -108,7 +112,7 @@ You should get a result that looks something like this:
 
 In this instance, the value to note is `arm64-v8a,armeabi-v7a,armeabi`.
 
-The repository is divided by common ABI list values, so please pick a random JSON file from the relevant folder.
+The repository is divided by common ABI list values, so please pick a random JSON file from the relevant directory.
 In the example above the directory would be `JSON/arm64-v8a,armeabi-v7a,armeabi`.
 
 The profile filenames are labelled with the _build tags_ and _build type_.
@@ -138,7 +142,9 @@ For the Play Integrity Fix module by [chiteroman](https://github.com/chiteroman/
 /data/adb/pif.json
 ```
 
-And for the [osm0sis](https://github.com/osm0sis) fork (PlayIntegrityFork):
+And then follow the [format conversion](#converting-profiles-to-the-chiteroman-format) section below.
+
+For the [osm0sis](https://github.com/osm0sis) fork (PlayIntegrityFork):
 
 ```text
 /data/adb/modules/playintegrityfix/custom.pif.json
@@ -156,6 +162,67 @@ Or with ADB in root mode:
 adb push "C:\Users\<User>\Downloads\PIFS\JSON\arm64-v8a,armeabi-v7a,armeabi\Xiaomi_polaris_polaris_9_PKQ1.180729.001_V10.3.3.0.PDGMIXM_user_release-keys.json" /data/adb/pif.json
 ```
 
+## Converting Profiles to the chiteroman Format
+
+When using these profiles manually with the chiteroman module, you must remove additional values that are only compatible with the osm0sis module.
+You can do this in your preferred text editor.
+
+These are:
+
+- `RELEASE`
+- `INCREMENTAL`
+- `TYPE`
+- `TAGS`
+- `*.build.id`
+- `*.security_patch`
+- `*api_level`
+
+Additionally, you should change `DEVICE_INITIAL_SDK_INT` to `FIRST_API_LEVEL` and `ID` to `BUILD_ID`.
+
+As an example, the follow JSON file from the collection:
+
+```json
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "Mi MIX 2S",
+  "BRAND": "Xiaomi",
+  "PRODUCT": "polaris",
+  "DEVICE": "polaris",
+  "RELEASE": "9",
+  "ID": "PKQ1.180729.001",
+  "INCREMENTAL": "V10.3.3.0.PDGMIXM",
+  "TYPE": "user",
+  "TAGS": "release-keys",
+  "FINGERPRINT": "Xiaomi/polaris/polaris:9/PKQ1.180729.001/V10.3.3.0.PDGMIXM:user/release-keys",
+  "SECURITY_PATCH": "2019-05-01",
+  "DEVICE_INITIAL_SDK_INT": "26",
+  "*.build.id": "PKQ1.180729.001",
+  "*.security_patch": "2019-05-01",
+  "*api_level": "26"
+}
+```
+
+Would look like this:
+
+```json
+{
+  "MANUFACTURER": "Xiaomi",
+  "MODEL": "Mi MIX 2S",
+  "BRAND": "Xiaomi",
+  "PRODUCT": "polaris",
+  "DEVICE": "polaris",
+  "BUILD_ID": "PKQ1.180729.001",
+  "FINGERPRINT": "Xiaomi/polaris/polaris:9/PKQ1.180729.001/V10.3.3.0.PDGMIXM:user/release-keys",
+  "SECURITY_PATCH": "2019-05-01",
+  "FIRST_API_LEVEL": "26"
+}
+```
+
+After conversion.
+
+Note how the trailing comma `,` on the second-to-last (`FIRST_API_LEVEL`) line has been removed.
+You **must** remove this comma or the module will fail to read the file.
+
 ## The JSON file I tried doesn't work
 
 This is expected.
@@ -163,7 +230,7 @@ The profiles in this repository haven't been tested and, even if they had, it's 
 
 Depending on your device, you can expect ~7-24% of the profiles to work at the time of writing, based on my testing.
 
-Keep trying **random** profiles from the relevant folder until one passes the integrity level you want.
+Keep trying **random** profiles from the relevant directory until one passes the integrity level you want.
 
 Some newer `arm64-v8a`-only devices like the Pixel 7 don't appear to work with `arm64-v8a` profiles when using beta builds of Android 14.
 In these cases, try using `arm64-v8a,armeabi-v7a,armeabi` profiles (see the [wrong ABI list](#the-script-detects-the-wrong-abi-list-on-my-device) section.)
@@ -255,13 +322,17 @@ echo 'export PIFSNOUPDATE=1' > /data/data/com.termux/files/home/.bashrc
 ## Full Script Usage
 
 ```text
-Usage: ./pickaprint.sh [-x] [-i] [-c] [-s] [-h|?]
+Usage: ./pickaprint.sh [-x] [-i] [-c] [-a] [-s] [-r[r]] [-h|?]
 
 
-  -x  Add existing pif.json/custom.pif.json profiles to exclusions and pick a print
-  -i  Add existing pif.json/custom.pif.json profiles to confirmed and exit
+  -x  Add existing pif.json/custom.pif.json profile to exclusions and pick a print
+  -xx Add existing pif.json/custom.pif.json profile to exclusions and exit
+  -i  Add existing pif.json/custom.pif.json profile to confirmed and exit
   -c  Use only confirmed profiles from '/data/adb/pifs/confirmed'
+  -a  Pick profile from entire JSON directory - overrides $FORCEABI
   -s  Add additional 'SDK_INT'/'*.build.version.sdk' props to profile
+  -r  Reset - removes all settings/lists/collection (except confirmed directory)
+  -rr Completely remove - as Reset but also removes confirmed and script file
   -h  Display this help message
 ```
 
@@ -327,7 +398,7 @@ I may publish raw build property files at a later date for sources from which I 
 
 - Build profiles of the `user` type with `release-keys` tags are more likely to work than `userdebug` and `test-keys` or `dev-keys` builds.
 - If you lost the `MEETS_BASIC_INTEGRITY` verdict with all the profiles you try, you might be using profiles with the wrong ABI compatibility.
-    Check your device's ABI list again or try profiles from another folder.
+    Check your device's ABI list again or try profiles from another directory.
 - Fingerprints/properties with generic values such `generic`, `mainline`, and `Android` are likely to fail and you should use the equivalent _product_ or _vendor_ values instead.
 - If you're intermittently passing and failing verdicts with the same profile, it may be that the Play Integrity system is detecting your rooted environment.
     Try using root detectors such as [RootBeerFresh](https://github.com/KimChangYoun/rootbeerFresh/) to check your environment and look at the logs for any Magisk/KernelSU modules you have installed.
