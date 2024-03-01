@@ -4,6 +4,15 @@
 
 [<img src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_blue.png" alt="Support me on Ko-fi" width="200"/>](https://ko-fi.com/V7V4SGXD9 "Mmm... coffee!")
 
+## Important Note 2024-03-01
+
+There has been a large wave of profiles/fingerprints being blocked for software-based integrity.
+This likely includes a majority of the ones published in this collection.
+I am investigating the changes alongside a number of excellent minds.
+
+In the meantime, I suggest using the latest profiles from the Xiaomi.EU app project.
+[osm0sis](https://github.com/osm0sis) has a [useful script](https://xdaforums.com/t/module-play-integrity-fix-safetynet-fix.4607985/page-387#post-89233630) to automate this.
+
 ## What is this?
 
 This repository contains JSON files compatible with the [Play Integrity Fix](https://github.com/chiteroman/PlayIntegrityFix) module by [chiteroman](https://github.com/chiteroman/) or [PlayIntegrityFork](https://github.com/osm0sis/PlayIntegrityFork) made by [osm0sis](https://github.com/osm0sis).
