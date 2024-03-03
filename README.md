@@ -1,17 +1,27 @@
 # Play Integrity Fix Props Collection
 
-<!-- markdownlint-disable no-inline-html -->
+<!-- markdownlint-disable no-inline-html single-h1 -->
 
-[<img src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_blue.png" alt="Support me on Ko-fi" width="200"/>](https://ko-fi.com/V7V4SGXD9 "Mmm... coffee!")
+<!-- [<img src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_blue.png" alt="Support me on Ko-fi" width="200"/>](https://ko-fi.com/V7V4SGXD9 "Mmm... coffee!") -->
 
-## Important Note 2024-03-01
+---
 
-There has been a large wave of profiles/fingerprints being blocked for software-based integrity.
-This likely includes a majority of the ones published in this collection.
-I am investigating the changes alongside a number of excellent minds.
+# IMPORTANT NOTE 2024-03-01
 
-In the meantime, I suggest using the latest profiles from the Xiaomi.EU app project.
+There has been a large wave of profiles/fingerprints being blocked for software-backed integrity since 28th February.
+We've tested ~8900 fingerprints that now fail DEVICE integrity.
+
+This includes a majority of the ones in this collection and in dumps like tadiphone.
+There are no working prints left for the most common ABI lists (`arm64-v8a,armeabi-v7a,armeabi` and `arm64-v8a`) in this collection.
+
+I am therefore, regrettably, archiving the repository.
+There is no more I can do at the present time.
+I suggest taking the issue up directly with Google if you wish.
+
+In the meantime, you could try using the latest profiles from the [Xiaomi.EU app project](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/Xiaomi.eu-app/).
 [osm0sis](https://github.com/osm0sis) has a [useful script](https://xdaforums.com/t/module-play-integrity-fix-safetynet-fix.4607985/page-387#post-89233630) to automate this.
+
+---
 
 ## What is this?
 
